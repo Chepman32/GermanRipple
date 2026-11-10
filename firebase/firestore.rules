@@ -1,0 +1,53 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function owner(uid) { return request.auth != null && request.auth.uid == uid; }
+    function validProfile(data) {
+      return data.keys().hasAll(['createdAt','updatedAt','uiLanguage','schemaVersion'])
+        && data.keys().hasOnly(['createdAt','updatedAt','uiLanguage','schemaVersion'])
+        && data.createdAt is timestamp && data.updatedAt == request.time
+        && data.uiLanguage == 'en' && data.schemaVersion == 1;
+    }
+    // A complete document must fit Firestore's 1,000-expression limit.
+    // The server enforces ownership, schema and the authored rule allowlist.
+    // All per-rule values are strictly decoded and validated by SyncKit on
+    // upload and before import. Learning data never grants Pro entitlements.
+    function validRules(data) {
+      return data is map && data.size() <= 51 && data.keys().hasOnly(["verb.present.regular", "verb.present.stem-change", "verb.present.sein-haben", "verb.modal.present", "verb.separable.present", "verb.imperative", "verb.perfekt.haben", "verb.perfekt.sein", "verb.participle.regular", "verb.participle.irregular", "verb.praeteritum.sein-haben", "verb.praeteritum.modal", "verb.future.werden", "verb.reflexive", "verb.konjunktiv2.wuerde", "order.v2-inversion", "order.question.yes-no", "order.question.w", "order.bracket.modal", "order.bracket.perfekt", "order.separable-prefix-end", "order.verb-final.subordinate", "order.negation.nicht", "order.time-manner-place", "noun.gender", "noun.plural", "article.def.nom", "article.def.acc", "article.def.dat", "article.indef.acc", "article.kein", "noun.dative-plural-n", "adj.decl.weak", "adj.decl.mixed", "adj.decl.strong", "adj.comparative", "prep.dative", "prep.accusative", "prep.two-way", "prep.contraction", "possessive.acc", "possessive.dat", "pronoun.personal.acc", "pronoun.personal.dat", "conj.coordinating", "conj.weil", "conj.dass", "conj.wenn", "conj.obwohl", "relative.clause", "neg.kein-vs-nicht"]);
+    }
+    function validStreak(data) {
+      return data is map && data.keys().hasAll(['recent','archived'])
+        && data.keys().hasOnly(['recent','archived'])
+        && data.recent is map && data.recent.size() <= 400
+        && data.archived is map && data.archived.size() <= 256;
+    }
+    match /users/{uid} {
+      allow read, delete: if owner(uid);
+      allow create: if owner(uid) && validProfile(request.resource.data) && request.resource.data.createdAt == request.time;
+      allow update: if owner(uid) && validProfile(request.resource.data) && request.resource.data.createdAt == resource.data.createdAt;
+      match /progress/{packId} {
+        allow read, delete: if owner(uid);
+        allow create, update: if owner(uid) && packId == 'de-en'
+          && request.resource.data.keys().hasAll(['schemaVersion','updatedAt','rules','chains','streak'])
+          && request.resource.data.keys().hasOnly(['schemaVersion','updatedAt','rules','chains','streak'])
+          && request.resource.data.schemaVersion == 2 && request.resource.data.updatedAt == request.time
+          && validRules(request.resource.data.rules)
+          && request.resource.data.chains is map && request.resource.data.chains.size() <= 1024
+          && validStreak(request.resource.data.streak);
+      }
+    }
+    match /reports/{reportId} {
+      allow create: if request.auth != null
+        && request.resource.data.keys().hasAll(['uid','chainId','step','packVersion','reason','note','createdAt'])
+        && request.resource.data.keys().hasOnly(['uid','chainId','step','packVersion','reason','note','createdAt'])
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.createdAt == request.time
+        && request.resource.data.chainId is string && request.resource.data.chainId.size() <= 64
+        && request.resource.data.step is int && request.resource.data.step >= 0 && request.resource.data.step <= 11
+        && request.resource.data.packVersion is int && request.resource.data.packVersion > 0
+        && request.resource.data.reason in ['other_answer_ok','answer_wrong','bad_translation','audio','other']
+        && request.resource.data.note is string && request.resource.data.note.size() <= 500;
+      allow read, update, delete: if false;
+    }
+  }
+}

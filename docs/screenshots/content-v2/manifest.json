@@ -1,0 +1,46 @@
+[
+  {
+    "file": "phone-contrast-summary.png",
+    "sourceAttachment": "621B614B-18C0-4B2D-A263-F68CDCA6CD13.png",
+    "sourceResult": ".build/ContentV2ScrollPhone.xcresult",
+    "device": "Ripple StoreKit QA",
+    "sha256": "c9a477793a1163d29d90cd22a2594a6f7104f8888f473dffe2af019d1dd8fd91",
+    "dimensions": [
+      1170,
+      2532
+    ]
+  },
+  {
+    "file": "phone-cafe-summary.png",
+    "sourceAttachment": "98DDDA96-0B05-4351-A454-8419CF382FC8.png",
+    "sourceResult": ".build/ContentV2ScrollPhone.xcresult",
+    "device": "Ripple StoreKit QA",
+    "sha256": "14284e996e16832037e002282e1d676cbc39a674a78f539634afaa4568dd132e",
+    "dimensions": [
+      1170,
+      2532
+    ]
+  },
+  {
+    "file": "pad-contrast-summary.png",
+    "sourceAttachment": "0D50736D-F0CC-4080-AC8F-001BBBC3359C.png",
+    "sourceResult": ".build/ContentV2ScrollPad.xcresult",
+    "device": "RippleContentV2Pad",
+    "sha256": "4e8f58012fbe825b3d32ad53d495f77e77ec4119a9422a37503ff49822f898e1",
+    "dimensions": [
+      2064,
+      2752
+    ]
+  },
+  {
+    "file": "pad-cafe-summary.png",
+    "sourceAttachment": "858FB9EE-7975-43D1-9CF7-0520EB72B26D.png",
+    "sourceResult": ".build/ContentV2ScrollPad.xcresult",
+    "device": "RippleContentV2Pad",
+    "sha256": "dd3f678ab90e3cbff77b4472e474155e54402809482ec7cc28e46bdf038e884e",
+    "dimensions": [
+      2064,
+      2752
+    ]
+  }
+]

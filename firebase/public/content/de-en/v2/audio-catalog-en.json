@@ -1,0 +1,1447 @@
+{
+  "clips": {
+    "02ff9c2c3e23f169624d8255a27dbf63bfa8985f0effc3dd8267d957616a34e3": {
+      "bytes": 94501,
+      "path": "/content/de-en/v2/audio-en/b81b17ffd9a03894bf4040243249ea2ea0ad359fd00922f5bbff2f1966726af4.mp3",
+      "sha256": "b81b17ffd9a03894bf4040243249ea2ea0ad359fd00922f5bbff2f1966726af4",
+      "text": "Tomorrow I will expressly visit the editor with my translator although the path is slippery."
+    },
+    "049841077851ac4166cd0b1154b5a85d6dae2409ca423a80c0d4c91eb6c82c5e": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/3065db7445fb337ccf90e0fced4f204fd6cf59345aba9ae59a1309c55d46affc.mp3",
+      "sha256": "3065db7445fb337ccf90e0fced4f204fd6cf59345aba9ae59a1309c55d46affc",
+      "text": "After the cancellation we had to inquire about the opening time with my teacher."
+    },
+    "0676704444244181ddf01dc209c87ee937ed7fba634824879632f26e940375bf": {
+      "bytes": 27628,
+      "path": "/content/de-en/v2/audio-en/7ee417ead850155df90e1d173471fd445674bd86ec228368bbc77756b9da93dd.mp3",
+      "sha256": "7ee417ead850155df90e1d173471fd445674bd86ec228368bbc77756b9da93dd",
+      "text": "Do I learn German at home?"
+    },
+    "07cda0eecca3ed09a4d892a7e909f6ee4317d1c8a5d407c9fdbdff69a4e9af4d": {
+      "bytes": 64826,
+      "path": "/content/de-en/v2/audio-en/6550c398dea52c7fe3ce5f6203ccef8007b69a3c85a1783f9d3db6d734c9e7bf.mp3",
+      "sha256": "6550c398dea52c7fe3ce5f6203ccef8007b69a3c85a1783f9d3db6d734c9e7bf",
+      "text": "After the acceptance we had to register for the language course with my coach."
+    },
+    "0b36e191d049648ea305812cb9bfe1c1b3088cc33037656c90ee3533590e1191": {
+      "bytes": 44346,
+      "path": "/content/de-en/v2/audio-en/a1dc72f31c429accf9e8e5be4831672ddd86f9cb46499a53ce332fae30ec810b.mp3",
+      "sha256": "a1dc72f31c429accf9e8e5be4831672ddd86f9cb46499a53ce332fae30ec810b",
+      "text": "Everyone, please open the door in the hallway tomorrow!"
+    },
+    "0b6a268bb5dfdbe9ae5a6e33798ff9d2cfc00b28741392d078d7e85072c02c72": {
+      "bytes": 53959,
+      "path": "/content/de-en/v2/audio-en/93b9588856414d03d78c0fe153af33d13312b40ca9d5105469bab58137506c81.mp3",
+      "sha256": "93b9588856414d03d78c0fe153af33d13312b40ca9d5105469bab58137506c81",
+      "text": "I know that yesterday we did not stay in the town hall with them."
+    },
+    "0ba692ef7e7ca005dd3cfc3832b99068b5e91040872954e340ef1be607dbfce6": {
+      "bytes": 44764,
+      "path": "/content/de-en/v2/audio-en/ff8e666153b2a9d5714d20b58a181cf6d0e29974fb4799bda108be8441fbfaff.mp3",
+      "sha256": "ff8e666153b2a9d5714d20b58a181cf6d0e29974fb4799bda108be8441fbfaff",
+      "text": "Today you do not read a sentence on the train."
+    },
+    "0bec028f920dade669bcb8d06c9d2c54a50f65f241f7226455205aaa00d779c7": {
+      "bytes": 87396,
+      "path": "/content/de-en/v2/audio-en/40cdde00908a93cbeba2abcaeff5484dac5abdd7f56b5b10e0cce9eb7045aded.mp3",
+      "sha256": "40cdde00908a93cbeba2abcaeff5484dac5abdd7f56b5b10e0cce9eb7045aded",
+      "text": "Tomorrow I will greet the critical editor who works in the publishing house with homemade pastry."
+    },
+    "0cbc3457b01519362a580cc465319e0a5aab3d9757ca93f2078699834926a46e": {
+      "bytes": 59811,
+      "path": "/content/de-en/v2/audio-en/2ce91e003c9069663de5337720c0ac6b6cf6ad72ce36046cde944532b36a8701.mp3",
+      "sha256": "2ce91e003c9069663de5337720c0ac6b6cf6ad72ce36046cde944532b36a8701",
+      "text": "Yesterday we ate a creamy quark with my nephew because we were nervous."
+    },
+    "0e65fd03a83a361d71e675652cd8c5bd29133d4bf1e66961e1b73f7c23aa947d": {
+      "bytes": 38913,
+      "path": "/content/de-en/v2/audio-en/eac4567892e3a5ca6a8fd5e4d3345a7c9aeaf69066ddb1e7b9ab82aacdeda3ad.mp3",
+      "sha256": "eac4567892e3a5ca6a8fd5e4d3345a7c9aeaf69066ddb1e7b9ab82aacdeda3ad",
+      "text": "Why are the cups and the glasses not empty?"
+    },
+    "0f3c7a6cb4527f06bc50f1b2109041d6e8f5e1cbda1bba2d3925f0e23a4c1c2c": {
+      "bytes": 38913,
+      "path": "/content/de-en/v2/audio-en/32dc7d4945960759c157f978905a86a86879d8f0243a6bd467b2f7af00e01091.mp3",
+      "sha256": "32dc7d4945960759c157f978905a86a86879d8f0243a6bd467b2f7af00e01091",
+      "text": "Today you do not read a price in the shop."
+    },
+    "0f84a850afaaa4afe5cc2d7418d738b3803b360d30477ec6cab0af5bbb29659c": {
+      "bytes": 37659,
+      "path": "/content/de-en/v2/audio-en/1881aca9bf0b88865031d745d085913734b03dc52d078e1e58dbd66e91e3a5c5.mp3",
+      "sha256": "1881aca9bf0b88865031d745d085913734b03dc52d078e1e58dbd66e91e3a5c5",
+      "text": "Can you recognize him at the café tomorrow?"
+    },
+    "0fe25d0b953888e26c6e1470c1a84f33b920ec27a6e292b23c92ca37991c8e2e": {
+      "bytes": 76947,
+      "path": "/content/de-en/v2/audio-en/d0cf03661649b0414c57f1fb1570e5bcc9e05e527edf4ad725944a15f9c5b9b2.mp3",
+      "sha256": "d0cf03661649b0414c57f1fb1570e5bcc9e05e527edf4ad725944a15f9c5b9b2",
+      "text": "The more curious school classes do not wait with my school principal in front of a museum."
+    },
+    "1066752db1868b282fb19ed242964d7effa2170e5be95ae89b0b9e1d79306903": {
+      "bytes": 38077,
+      "path": "/content/de-en/v2/audio-en/2298e36824fdfbe43f2e628009c813cad7a934a6a1b2caff0a457e318d376111.mp3",
+      "sha256": "2298e36824fdfbe43f2e628009c813cad7a934a6a1b2caff0a457e318d376111",
+      "text": "Do I open the door quietly in the hallway?"
+    },
+    "10f3fd4e70655232bc62151d67656baea5486f22d45b4b5d6e82851c2980d999": {
+      "bytes": 77783,
+      "path": "/content/de-en/v2/audio-en/a2d2348b197c3cd7d6772398416276ca87df9e7878f66270c8d5dc952812eae6.mp3",
+      "sha256": "a2d2348b197c3cd7d6772398416276ca87df9e7878f66270c8d5dc952812eae6",
+      "text": "Yesterday we ate an oven-warm pastry with my sister because we were unhappy."
+    },
+    "114141344edf3274eb9e2c746baed49f6cd75953597f005bd2018e911d9c7ba9": {
+      "bytes": 66498,
+      "path": "/content/de-en/v2/audio-en/046b57db7a865be088964846dfe22b4a21701a6308c81927b1c483fc48bd2ec8.mp3",
+      "sha256": "046b57db7a865be088964846dfe22b4a21701a6308c81927b1c483fc48bd2ec8",
+      "text": "We do not buy a modern scanner for my mail carrier if I have enough money."
+    },
+    "11b12104eb73abe9bfb4bb77ce8b4cf04622693959fed7b2b6c631b4e0db8dc1": {
+      "bytes": 40585,
+      "path": "/content/de-en/v2/audio-en/b419b97451922cd108f2c20b69bd258deaa8d94587a8e0a058f904ed12e7d161.mp3",
+      "sha256": "b419b97451922cd108f2c20b69bd258deaa8d94587a8e0a058f904ed12e7d161",
+      "text": "Why are the bags and the backpacks not heavy?"
+    },
+    "13d3fc45bc7c4e467a1348236ff37ef7bb38b5e0aa186d41dca00a3d2cc93f26": {
+      "bytes": 49362,
+      "path": "/content/de-en/v2/audio-en/35947cb983e19e66d04609a1a65933e0eb0b41186a62dbf53182d53c554b35ae.mp3",
+      "sha256": "35947cb983e19e66d04609a1a65933e0eb0b41186a62dbf53182d53c554b35ae",
+      "text": "I know that yesterday we did not stay in the hostel with them."
+    },
+    "140ed4f0fad130d0feeb9e6dc13ef31774fb355a4f824e3b2c847a72d3ca5b33": {
+      "bytes": 66498,
+      "path": "/content/de-en/v2/audio-en/05f5464caf9ce39c8e5b5e10877d8623a6a45270924556bc48593e8229e9995d.mp3",
+      "sha256": "05f5464caf9ce39c8e5b5e10877d8623a6a45270924556bc48593e8229e9995d",
+      "text": "Yesterday we ate a vegetarian casserole with my roommate because we were hungry."
+    },
+    "1a8462d4b06725be06e8850180beebb221319b5abb921738d9a864873db377c4": {
+      "bytes": 71096,
+      "path": "/content/de-en/v2/audio-en/f11c29f45a008757b70759df8409c2a4a154ec8c6b4595af46a18756ae5da86f.mp3",
+      "sha256": "f11c29f45a008757b70759df8409c2a4a154ec8c6b4595af46a18756ae5da86f",
+      "text": "Yesterday we ate a fresh spinach with my brother because we were optimistic."
+    },
+    "1ab2e0357087b648eefea60720f8ebc100b78117ae0a178beb8b39efa588fd29": {
+      "bytes": 73185,
+      "path": "/content/de-en/v2/audio-en/28a9e67f78a5f09642addb098e3db7715d872c1cb3185201a98e3371836db6a3.mp3",
+      "sha256": "28a9e67f78a5f09642addb098e3db7715d872c1cb3185201a98e3371836db6a3",
+      "text": "After the presentation we had to apologize for the mistake with my work colleague."
+    },
+    "1acf43dacbdb68d52b50f13ab5a1c69aba5a5ceff747f731dadd6e49a4669ef2": {
+      "bytes": 104950,
+      "path": "/content/de-en/v2/audio-en/575e6b80a02c9804c4aaae4bf2dfd74ef6feec3c496a8404b22d14932c9ddd7f.mp3",
+      "sha256": "575e6b80a02c9804c4aaae4bf2dfd74ef6feec3c496a8404b22d14932c9ddd7f",
+      "text": "Tomorrow I would openly discuss the case and talk with my expert although the appointment is inconvenient."
+    },
+    "1c3ca0f136f49eaa838e3804e416d95d9a1aa05fd7eef15b187c18dab2d2a578": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/46f4d636599a41acd958fdda6191f0f7118921229cbde74fe278af2b3848821f.mp3",
+      "sha256": "46f4d636599a41acd958fdda6191f0f7118921229cbde74fe278af2b3848821f",
+      "text": "Tomorrow I will buy sparkling mineral water for my athlete at the organic shop."
+    },
+    "1e52716b831b413eee71fe0b8f6eebdd0709c6b0a72efae4ec068804f6b0988f": {
+      "bytes": 52287,
+      "path": "/content/de-en/v2/audio-en/dad798dc7c5bd81b8d86a794175c03689278e48ea8910f3511b5a874b841cf2f.mp3",
+      "sha256": "dad798dc7c5bd81b8d86a794175c03689278e48ea8910f3511b5a874b841cf2f",
+      "text": "I know that yesterday we did not stay in the common room with them."
+    },
+    "1f108df6e8032d4ab26d41eb6713c8d10129b00a17805c43b475a6c01db3310a": {
+      "bytes": 51034,
+      "path": "/content/de-en/v2/audio-en/b9d662007d8dff72e5f2a45c2c219d34ce2aec41568e4f3fefdefe9ce879a5db.mp3",
+      "sha256": "b9d662007d8dff72e5f2a45c2c219d34ce2aec41568e4f3fefdefe9ce879a5db",
+      "text": "I know that yesterday we did not stay in the forest with them."
+    },
+    "1f5f9e642eccfe45b78f2623ad4ca63d08746ad62a0c9b612863589b92cb8e4b": {
+      "bytes": 63572,
+      "path": "/content/de-en/v2/audio-en/a1279e08190a98aebf3b7176f22b98d5c4af920ee6a80c6f3ead297ac9126131.mp3",
+      "sha256": "a1279e08190a98aebf3b7176f22b98d5c4af920ee6a80c6f3ead297ac9126131",
+      "text": "The stronger athletes do not train with my coach in front of a gymnasium."
+    },
+    "21af8386d43eb8866495639eb0ba92abdbb108241b92d77bbe5eacbe8686825b": {
+      "bytes": 61901,
+      "path": "/content/de-en/v2/audio-en/2d3ffc921c57b9a26381a41109f8c3472fb492c20f2a79abc1f70053e4adeae8.mp3",
+      "sha256": "2d3ffc921c57b9a26381a41109f8c3472fb492c20f2a79abc1f70053e4adeae8",
+      "text": "Yesterday we ate a steamed rice with my cousin because we were tired."
+    },
+    "226594ad774743a9998d60e7b16efff664fec189e8817a0ac166ae047a52f80d": {
+      "bytes": 36823,
+      "path": "/content/de-en/v2/audio-en/3529da67c2be13a2406ed7d50ff68113afd8337f8e2bb2f976d326bd823825f6.mp3",
+      "sha256": "3529da67c2be13a2406ed7d50ff68113afd8337f8e2bb2f976d326bd823825f6",
+      "text": "Do I write the letter neatly on the terrace?"
+    },
+    "23a0ce16740cbad5523a23bfd49625ea6bedae7a92ea7a4fed0b2617b966c871": {
+      "bytes": 66498,
+      "path": "/content/de-en/v2/audio-en/5755f3c73679fad254c842914fa5a14386dd076a914cdb57bf8efe144dc8288f.mp3",
+      "sha256": "5755f3c73679fad254c842914fa5a14386dd076a914cdb57bf8efe144dc8288f",
+      "text": "After the operation we had to get used to the rhythm with my supervisor."
+    },
+    "24751181b56e35b67e32fdc4402e4118181f6f4ad6057233288060072c465bef": {
+      "bytes": 53123,
+      "path": "/content/de-en/v2/audio-en/9117ab838a4f3e47909aed76ebee8e098c3a7d2d07aa84f6fa68a7dd48a583bf.mp3",
+      "sha256": "9117ab838a4f3e47909aed76ebee8e098c3a7d2d07aa84f6fa68a7dd48a583bf",
+      "text": "I know that yesterday we did not stay in the youth center with them."
+    },
+    "24a2c6f3b9b0d413147702d49a0dec93a63c00689533c47f4d1f3a2294f9f169": {
+      "bytes": 71096,
+      "path": "/content/de-en/v2/audio-en/bf2e99cbc75bf94a8c41abc2469e2c08051e2f956e594a9d04c6640ce31302d6.mp3",
+      "sha256": "bf2e99cbc75bf94a8c41abc2469e2c08051e2f956e594a9d04c6640ce31302d6",
+      "text": "The more hard-working students do not learn with my lecturer in front of a library."
+    },
+    "25c8dd5380bc05997f2d30307d38e26c605f9067b1973b1bb23edfee38db6196": {
+      "bytes": 42674,
+      "path": "/content/de-en/v2/audio-en/a983220dca798301a1acfb2c59d6e0a0d41363ac62937ac55bcab327a62f4d61.mp3",
+      "sha256": "a983220dca798301a1acfb2c59d6e0a0d41363ac62937ac55bcab327a62f4d61",
+      "text": "Can you visit him at the medical practice tomorrow?"
+    },
+    "26a183e2f655ba97bf51293784f029aa2dded274a0f23eded58d6314ef5e5eb1": {
+      "bytes": 46436,
+      "path": "/content/de-en/v2/audio-en/692c370bb699cb25b33f6ade0b6c05758323cf992235d1ca7d7f88fbbff69ef3.mp3",
+      "sha256": "692c370bb699cb25b33f6ade0b6c05758323cf992235d1ca7d7f88fbbff69ef3",
+      "text": "Everyone, please wrap the bottle in the kitchen tomorrow!"
+    },
+    "276cdea48a859d8eb1ba5670863d1ca178e5785fe8b70c9e6decdd1e2d4eb22c": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/704111e3da69d70c0c5f5587d713cf30736027f6077e1e4dc886f74cbdd010b0.mp3",
+      "sha256": "704111e3da69d70c0c5f5587d713cf30736027f6077e1e4dc886f74cbdd010b0",
+      "text": "We do not buy an ergonomic pencil for my baker if I have enough time."
+    },
+    "28a50a61b38face915a653fc7848e9280613e8f80ac90f846e83c307c4e74507": {
+      "bytes": 73185,
+      "path": "/content/de-en/v2/audio-en/8e0a79d968a968684f4852a23bcd5aa12b0d3270e299f7f0a9efd4672a03e0eb.mp3",
+      "sha256": "8e0a79d968a968684f4852a23bcd5aa12b0d3270e299f7f0a9efd4672a03e0eb",
+      "text": "The more flexible dancers do not dance with my dance partner in front of a sports hall."
+    },
+    "2bb72d300a417e7f5b4664c3a6ad54fed14dd6e5c6483ce7724b22722d674141": {
+      "bytes": 52287,
+      "path": "/content/de-en/v2/audio-en/13912ce685bc7623a05edd1ffb1dec885db19995b2e9fc670e8bad9581d69cb8.mp3",
+      "sha256": "13912ce685bc7623a05edd1ffb1dec885db19995b2e9fc670e8bad9581d69cb8",
+      "text": "Everyone, please turn off the lamp in the bedroom tomorrow!"
+    },
+    "2bd89364f2de5b44e2dcc3a4fd728be7d941d42eeb9db16547b4ca0c2680e5a6": {
+      "bytes": 69424,
+      "path": "/content/de-en/v2/audio-en/6ed0439bd926ba663d349b7cabd930d91f729ca4f8943a15a1f0857516eb574a.mp3",
+      "sha256": "6ed0439bd926ba663d349b7cabd930d91f729ca4f8943a15a1f0857516eb574a",
+      "text": "The more talented beginners do not draw with my artist in front of an art school."
+    },
+    "2ee48e6842d802fa4f3232a28228f8fc7a337a07110b710dfb1d6fb2dac9971d": {
+      "bytes": 104950,
+      "path": "/content/de-en/v2/audio-en/2d796c687e1e63bb4813cc8dc7e8e972ba4134ccc4c5276fcb4b53dfb33da26d.mp3",
+      "sha256": "2d796c687e1e63bb4813cc8dc7e8e972ba4134ccc4c5276fcb4b53dfb33da26d",
+      "text": "Tomorrow I would precisely formulate the application and read with my lawyer although the sound is unclear."
+    },
+    "2f67ca22b07a4c95578c38fab2d691a863014e1ca175ddb301e6286048bdf7e4": {
+      "bytes": 84470,
+      "path": "/content/de-en/v2/audio-en/39abedb63c0680cae630e3a9b09ee4637c59794ccc8de03c7abd891eb5ef46d7.mp3",
+      "sha256": "39abedb63c0680cae630e3a9b09ee4637c59794ccc8de03c7abd891eb5ef46d7",
+      "text": "Tomorrow we will watch the entertaining western that you selected although the weather is rainy."
+    },
+    "2fe294438192eca21b3bb52d29c6a28d4891131bc19211d9c033156298ffb8cf": {
+      "bytes": 56049,
+      "path": "/content/de-en/v2/audio-en/221597f6751660f87218dc82f0504bfdc9f869af00c4fce43a4dc9862c673b51.mp3",
+      "sha256": "221597f6751660f87218dc82f0504bfdc9f869af00c4fce43a4dc9862c673b51",
+      "text": "I know that yesterday we did not stay in the conservatory with them."
+    },
+    "316983c488e19b81e0076ebe20fc5dbac7eac450ab46380499ac7b6c7e22da69": {
+      "bytes": 41003,
+      "path": "/content/de-en/v2/audio-en/f723450aeee3eae96c5534f74c29106a90a33e30cc6a342021c7b008f1f76b01.mp3",
+      "sha256": "f723450aeee3eae96c5534f74c29106a90a33e30cc6a342021c7b008f1f76b01",
+      "text": "Do I pack the suitcase slowly in the bedroom?"
+    },
+    "336eb44819bd4511d9b71a2029d683a7c68301487569b0b6f74bbe8eb836643d": {
+      "bytes": 56049,
+      "path": "/content/de-en/v2/audio-en/f06f5533f6489f16bc303e7acd3cda67c0ff8f400298fd805ce5e6ccb16053d0.mp3",
+      "sha256": "f06f5533f6489f16bc303e7acd3cda67c0ff8f400298fd805ce5e6ccb16053d0",
+      "text": "The younger pupils do not wait with my teacher in front of a school."
+    },
+    "343a1c5396264fb60ca0a9916ecb967a329d95f465866b1921ce77cc7bdc272f": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/da2ad4bfb2b885ca5b6628690dd0874292aae32f9f1a2fa13395077cffa8086b.mp3",
+      "sha256": "da2ad4bfb2b885ca5b6628690dd0874292aae32f9f1a2fa13395077cffa8086b",
+      "text": "Yesterday we drank a fruity smoothie with my acquaintance because we were thirsty."
+    },
+    "34d9e56d3417cc0dc150fe5d5c7fc649faeefd25b92ddb0da49e38dd023a684d": {
+      "bytes": 66498,
+      "path": "/content/de-en/v2/audio-en/6d691f419f7cb4c3bfdd51247d9ea400ffe9b573eeb044f249e1d960bf76a26f.mp3",
+      "sha256": "6d691f419f7cb4c3bfdd51247d9ea400ffe9b573eeb044f249e1d960bf76a26f",
+      "text": "After the arrival we had to hurry with the registration with my dance partner."
+    },
+    "3548be5048aad0211b402def045239912f7db47dd64ac4ad436adde932db4344": {
+      "bytes": 64826,
+      "path": "/content/de-en/v2/audio-en/bd84e7168c472126efc88284f16db963b62ca2997978d413312f902f5d5b12d7.mp3",
+      "sha256": "bd84e7168c472126efc88284f16db963b62ca2997978d413312f902f5d5b12d7",
+      "text": "Tomorrow I will buy organic grain for my baker at the weekly market."
+    },
+    "362f6057abd6f0ea5e38e7105cd3c0f01bf82e71b6e2419c358b397ab3a4cb9d": {
+      "bytes": 97009,
+      "path": "/content/de-en/v2/audio-en/050ca3e643f0d6f62f64153a8bcc5b48619125b46c0bae07c080e3193c6108fa.mp3",
+      "sha256": "050ca3e643f0d6f62f64153a8bcc5b48619125b46c0bae07c080e3193c6108fa",
+      "text": "Tomorrow I will directly inform the client with my managing director although the distance is considerable."
+    },
+    "36ecf7ed8e32563d44706815844ba58595d6fbd0bd211fd6bb3addb2c84b756c": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/c2f78b1517e8a6fe5ca3e9e2dec06ba44750cc54ade07a25106c28eaa0d0c068.mp3",
+      "sha256": "c2f78b1517e8a6fe5ca3e9e2dec06ba44750cc54ade07a25106c28eaa0d0c068",
+      "text": "Yesterday we tried a local syrup with my colleague because we were curious."
+    },
+    "37dd987b7852bd603b1e5b5ad8a69a588f291e6fc63130e3bb0871ffd011c57e": {
+      "bytes": 96173,
+      "path": "/content/de-en/v2/audio-en/919ec057a83b41fb9e6543eb818170431f225e88e9299ec5e02e221ff07f8a1c.mp3",
+      "sha256": "919ec057a83b41fb9e6543eb818170431f225e88e9299ec5e02e221ff07f8a1c",
+      "text": "Tomorrow I will photograph the popular lecturer who teaches in the education center with ripe fruit."
+    },
+    "37de8ea19729d50e0f6cc16df42cb25d0002785986d4889cdee44555d7facb57": {
+      "bytes": 64826,
+      "path": "/content/de-en/v2/audio-en/80499b713ac4cb5516267365bd2c890f74a820b704eb7ee664a8450b7a008f72.mp3",
+      "sha256": "80499b713ac4cb5516267365bd2c890f74a820b704eb7ee664a8450b7a008f72",
+      "text": "The more creative artists do not work with my designer in front of a studio."
+    },
+    "37ee8354e8376abf3fdaaa8db0dd75b640a880ee80bee3fe733dcf397dda9a90": {
+      "bytes": 63572,
+      "path": "/content/de-en/v2/audio-en/78ad0a543b0c17deda410f629531895ed718b812a98e4ccd49e8bdbb8f6abbf0.mp3",
+      "sha256": "78ad0a543b0c17deda410f629531895ed718b812a98e4ccd49e8bdbb8f6abbf0",
+      "text": "I know that yesterday we did not stay in the outdoor swimming pool with them."
+    },
+    "39811dcc97e4f567ccb32e81fb75813a59b8a7dce20fb63187739a01504e9b4f": {
+      "bytes": 108712,
+      "path": "/content/de-en/v2/audio-en/d85f97e46800eb87d29176f83bd9f706672a69703f534fd093961526852ce52f.mp3",
+      "sha256": "d85f97e46800eb87d29176f83bd9f706672a69703f534fd093961526852ce52f",
+      "text": "Tomorrow I would intently work on the assignment and discuss with my business partner although the connection is weak."
+    },
+    "3a9b069fd36cea34c55f77d7cbe106f404bab98860f0d82d9c649728ceb7cd48": {
+      "bytes": 57721,
+      "path": "/content/de-en/v2/audio-en/af4c1d42d37b9a104eef74748f1532d9f5db05b5d4abc7c1274f969b6b6255b3.mp3",
+      "sha256": "af4c1d42d37b9a104eef74748f1532d9f5db05b5d4abc7c1274f969b6b6255b3",
+      "text": "I know that yesterday we did not stay in the community center with them."
+    },
+    "3b475ddec7829b7db434addbd943855beba6e98637dc9112cceeaafec204f2c7": {
+      "bytes": 61901,
+      "path": "/content/de-en/v2/audio-en/62b0ce823f6485e3d99be447c0ea0aa8749eef94c20db34d218efe08fb0aa485.mp3",
+      "sha256": "62b0ce823f6485e3d99be447c0ea0aa8749eef94c20db34d218efe08fb0aa485",
+      "text": "After the visit we had to talk about the exhibition with my sister-in-law."
+    },
+    "3b9c6526c1fa8aa991f3c2e78534f091b93a5ae92f8673762d6666e8dee467cc": {
+      "bytes": 141313,
+      "path": "/content/de-en/v2/audio-en/9b1682035f70f036dacb2c67c7729a85b7d7c56597a67f8485b7bfdef9464039.mp3",
+      "sha256": "9b1682035f70f036dacb2c67c7729a85b7d7c56597a67f8485b7bfdef9464039",
+      "text": "Tomorrow I would occasionally visit my male teacher and my female teacher, who teaches in the music society, with dark and bitter chocolate."
+    },
+    "3dbb628d66f4ceb01fe6565422e13fd593b9ed6a4373d047129835954b945c38": {
+      "bytes": 56049,
+      "path": "/content/de-en/v2/audio-en/9d6cd3e8f49d215247009273e2c232f8b60f2c43a043718f4ebb6b5b6c215a20.mp3",
+      "sha256": "9d6cd3e8f49d215247009273e2c232f8b60f2c43a043718f4ebb6b5b6c215a20",
+      "text": "After the treatment we had to recover from the flu with my cousin."
+    },
+    "3e0382e2ed51b298dcb81cb294e14d74efcaea4e2daf06e5b840012f085f0e50": {
+      "bytes": 71514,
+      "path": "/content/de-en/v2/audio-en/4f90b50c4088f4ea820ab6467f058b63e249678722d60b0d9e45d9e95c2e0dc9.mp3",
+      "sha256": "4f90b50c4088f4ea820ab6467f058b63e249678722d60b0d9e45d9e95c2e0dc9",
+      "text": "After the working day we had to relax after the training session with my school friend."
+    },
+    "419a24c842f8589e50915b41473e6605390df1aa32571b9c410d17194f09c4c3": {
+      "bytes": 94501,
+      "path": "/content/de-en/v2/audio-en/6751d7efe3c8d44437df8b2d24e6aa1cf02f85033aacc4b72777eb8606d10467.mp3",
+      "sha256": "6751d7efe3c8d44437df8b2d24e6aa1cf02f85033aacc4b72777eb8606d10467",
+      "text": "Tomorrow, at the wholesale market, I would buy aromatic balsamic vinegar that you discovered."
+    },
+    "41ab32a8008e91fe5eca928af8fb1f959e26aff85cfb0b47e0bf37d10fd19e06": {
+      "bytes": 54377,
+      "path": "/content/de-en/v2/audio-en/5c1fbe036cefa17c3932e24cc52eab0dc2460a4614004e1af065ce0fb4336546.mp3",
+      "sha256": "5c1fbe036cefa17c3932e24cc52eab0dc2460a4614004e1af065ce0fb4336546",
+      "text": "I know that yesterday we did not stay in the guesthouse with them."
+    },
+    "42275b46b0f8cb157cd466361f40186cfb17fb256c1238bec8d23b317773a2bb": {
+      "bytes": 55213,
+      "path": "/content/de-en/v2/audio-en/7adeba1726f3a500c9e0cae9af81885eb2c47feb51a904569ba4a3ef4251a571.mp3",
+      "sha256": "7adeba1726f3a500c9e0cae9af81885eb2c47feb51a904569ba4a3ef4251a571",
+      "text": "Everyone, please throw away the packaging in the workshop tomorrow!"
+    },
+    "43cdada0536df45488d3fd0562ea2e9bbd49f0ad759ad9d3adc5d6851724a032": {
+      "bytes": 61901,
+      "path": "/content/de-en/v2/audio-en/153a3a8e660c8b49b5b4bcf8371da8e38b918a5acb2e596ddb2b467cf6557885.mp3",
+      "sha256": "153a3a8e660c8b49b5b4bcf8371da8e38b918a5acb2e596ddb2b467cf6557885",
+      "text": "We do not buy a fluffy slipper for my designer if I have enough money."
+    },
+    "44e786baf4f75edbe07004e7ebc069a47331b4c7ad6203abe67b12e3986c5d23": {
+      "bytes": 48526,
+      "path": "/content/de-en/v2/audio-en/db016a8c782df1b25e059fed9d371aa0e90f3d083cd870a934f4d5b68372972e.mp3",
+      "sha256": "db016a8c782df1b25e059fed9d371aa0e90f3d083cd870a934f4d5b68372972e",
+      "text": "Everyone, please call the mother in the office tomorrow!"
+    },
+    "45e599933ffbdf6e30ca0312b39c8fbf04fa9f1132360d9c7ad6763413f3c2a5": {
+      "bytes": 47272,
+      "path": "/content/de-en/v2/audio-en/303200a09640ed5b1deea0b82a23d26412583492c377ab074a05e1d423c9c681.mp3",
+      "sha256": "303200a09640ed5b1deea0b82a23d26412583492c377ab074a05e1d423c9c681",
+      "text": "Do I pack the gift spontaneously in the dining room?"
+    },
+    "46b0e3ed704382e3f12047b13754d4271717e073de4cbd373ccd8a1261b0af53": {
+      "bytes": 54377,
+      "path": "/content/de-en/v2/audio-en/4c7c441919d44869e3efde4928eb29671fd5722762a8f2d6d8e53405ac818faf.mp3",
+      "sha256": "4c7c441919d44869e3efde4928eb29671fd5722762a8f2d6d8e53405ac818faf",
+      "text": "I know that yesterday we did not stay in the seminar room with them."
+    },
+    "4a19a38e757409ab543c4a674cceeb8ddd2a04026fea8c24ef004d228eb0fa0f": {
+      "bytes": 79873,
+      "path": "/content/de-en/v2/audio-en/4d672e425f94cd059f4ef6f6e31401c150cbe9111c40f7108090128894c62dd6.mp3",
+      "sha256": "4d672e425f94cd059f4ef6f6e31401c150cbe9111c40f7108090128894c62dd6",
+      "text": "Tomorrow I will gladly visit the brother with my sister although the weather is bad."
+    },
+    "4a2691ae215e563beb1b67dfa9fde25fd4b543ef3f07516c4a19c5f46330383d": {
+      "bytes": 68588,
+      "path": "/content/de-en/v2/audio-en/6261fc0f4f7f51906e3770339ff272b88543d26d7d62d9bd43e83b033c4e3845.mp3",
+      "sha256": "6261fc0f4f7f51906e3770339ff272b88543d26d7d62d9bd43e83b033c4e3845",
+      "text": "We do not buy a sturdy sketchpad for my gardener if I have enough space."
+    },
+    "4ac222b023587e7e660f4090fbf9cdff5e3a4095603d5cd783dea4aff891c288": {
+      "bytes": 76947,
+      "path": "/content/de-en/v2/audio-en/523a17aff20957a50235b1071fc19472330562eeabf6f95d9d92b699a9164674.mp3",
+      "sha256": "523a17aff20957a50235b1071fc19472330562eeabf6f95d9d92b699a9164674",
+      "text": "After the registration we had to arrange to meet for the departure with my dance partner."
+    },
+    "4befa081c8963702176d1a435770f464fc3dd7659c32833dd680ba606a2a1a9d": {
+      "bytes": 99099,
+      "path": "/content/de-en/v2/audio-en/79b463143833bacf13b79dd50af1cee6044a0dbe5f84419b62330c5327ee69c2.mp3",
+      "sha256": "79b463143833bacf13b79dd50af1cee6044a0dbe5f84419b62330c5327ee69c2",
+      "text": "Tomorrow I would objectively publish the contribution and report with my editor although the time is short."
+    },
+    "4c9163d8f40e7740febf381af716b4595938854a84b2ec43058bc9b571183e79": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/a4fabc5ab320b217adc27dc9655e12154e171b03c8a90d5c476e38fad0de42ee.mp3",
+      "sha256": "a4fabc5ab320b217adc27dc9655e12154e171b03c8a90d5c476e38fad0de42ee",
+      "text": "We do not buy an angular candleholder for my landlord if I have enough money."
+    },
+    "4ebac806bc82773c72aed84eff33d173766c76049aea37b7d4f92e447d3c0b6b": {
+      "bytes": 64826,
+      "path": "/content/de-en/v2/audio-en/1d9a753bd1561f9079e7231ade56f52ed4be5cdcbc6b8ba7c144f6c76af9934b.mp3",
+      "sha256": "1d9a753bd1561f9079e7231ade56f52ed4be5cdcbc6b8ba7c144f6c76af9934b",
+      "text": "Yesterday we ate a crisp rusk with my landlord because we were relieved."
+    },
+    "501f8c6925f7f45543136997ea2b1a6193dd789db6cc868ac6cc2907b1a0731f": {
+      "bytes": 41838,
+      "path": "/content/de-en/v2/audio-en/93fb79f8a446c2861dece5f439e39f2d577eb5c962f7620bf59dd6da79bd3351.mp3",
+      "sha256": "93fb79f8a446c2861dece5f439e39f2d577eb5c962f7620bf59dd6da79bd3351",
+      "text": "Today you do not read a timetable at school."
+    },
+    "51c0cd85301fe0d3c046dbbea495a6c33d8ac301036b960bd89767e58223b0ce": {
+      "bytes": 68588,
+      "path": "/content/de-en/v2/audio-en/9a9277167c2511acd13a38b51f67c2063afbd4a9530581385caf1c43236b1448.mp3",
+      "sha256": "9a9277167c2511acd13a38b51f67c2063afbd4a9530581385caf1c43236b1448",
+      "text": "We do not buy a high-quality binder for my hairdresser if I have enough money."
+    },
+    "52360fca4d86e6821045019fb2b09e226f5c8e94758d72163de6b9e223dc2e69": {
+      "bytes": 90322,
+      "path": "/content/de-en/v2/audio-en/a4f43952589cbf58074e6d92cc448caf876f57bbacbb233dc7aa0d4bf5d66dbd.mp3",
+      "sha256": "a4f43952589cbf58074e6d92cc448caf876f57bbacbb233dc7aa0d4bf5d66dbd",
+      "text": "Tomorrow we will listen to the vivid travel report that you described although the battery is empty."
+    },
+    "548635a0dbdb45a9558f375438bcf8f18028be8227125e49ae5109f2d2a3596f": {
+      "bytes": 53123,
+      "path": "/content/de-en/v2/audio-en/22fd757e3a2ce1fe60a22f33413710106640c07f986402829b39d984a601386c.mp3",
+      "sha256": "22fd757e3a2ce1fe60a22f33413710106640c07f986402829b39d984a601386c",
+      "text": "Today you do not read an identity card at the hotel."
+    },
+    "569adad64ddd71f8f40dca3cab301d8f10f23b8d025d393d85b76b5103797cda": {
+      "bytes": 44346,
+      "path": "/content/de-en/v2/audio-en/37bca3625ca58c42406ab3ba61c088b90bac1bcab69795e773210fba2c491392.mp3",
+      "sha256": "37bca3625ca58c42406ab3ba61c088b90bac1bcab69795e773210fba2c491392",
+      "text": "Today you do not read a receipt in the kitchen."
+    },
+    "5803a934862d14df44f7ae3f3121b9f6d7fe7fbf04350a7f78970d4f6fccc6dd": {
+      "bytes": 88650,
+      "path": "/content/de-en/v2/audio-en/6859d73f223a214c7fd78a9bc7e2ab40ad7e9c6110f6ecc1e268e12f97005340.mp3",
+      "sha256": "6859d73f223a214c7fd78a9bc7e2ab40ad7e9c6110f6ecc1e268e12f97005340",
+      "text": "Tomorrow I would gladly learn German and read with my sister although the weather is bad."
+    },
+    "5804d9063e619190799ce28aa42e59145e8b166bce362054dce98216bce53c9e": {
+      "bytes": 69424,
+      "path": "/content/de-en/v2/audio-en/71d1c5255162846dba5f6510edb0a5e0243269868e64f2f640be5f8839db3179.mp3",
+      "sha256": "71d1c5255162846dba5f6510edb0a5e0243269868e64f2f640be5f8839db3179",
+      "text": "We do not buy an efficient juicer for my receptionist if I have enough energy."
+    },
+    "59adef094413a1f0205481e68a3e76e9901abd441fe7db29ff6bd843d2b72389": {
+      "bytes": 37659,
+      "path": "/content/de-en/v2/audio-en/5b021fe403f228a236cdb217e6f875a7bf038b198ce3fdd43edd0eb478800368.mp3",
+      "sha256": "5b021fe403f228a236cdb217e6f875a7bf038b198ce3fdd43edd0eb478800368",
+      "text": "Can you accompany him in the park tomorrow?"
+    },
+    "5a068df6101a1a7c63376e10f73f986aad7ec532187eadc31982f8a6c2bf2820": {
+      "bytes": 33897,
+      "path": "/content/de-en/v2/audio-en/514d26e21071b50b9420dbd5c0547a0cc27364fb99353e242bb6ebad8e3b6515.mp3",
+      "sha256": "514d26e21071b50b9420dbd5c0547a0cc27364fb99353e242bb6ebad8e3b6515",
+      "text": "Can you greet him in the garden tomorrow?"
+    },
+    "5cd00266755b11c90385474bf78255956906bf30e54dce8ab7c8641bdca9f9a0": {
+      "bytes": 115399,
+      "path": "/content/de-en/v2/audio-en/e8b65c3205c3409e909df06d302ed33b9f507dead327a21ae560835354689fec.mp3",
+      "sha256": "e8b65c3205c3409e909df06d302ed33b9f507dead327a21ae560835354689fec",
+      "text": "Tomorrow I would as an exception explain the decision and discuss with my department head although the weather is stormy."
+    },
+    "5d2366961f1a1f2b56c80bc188c89276adb44e3fc8058fdabd3638c43d2b285a": {
+      "bytes": 73185,
+      "path": "/content/de-en/v2/audio-en/6418456367d217f23b412aabfb32ea54fd041095137684a53104c2b0648daaad.mp3",
+      "sha256": "6418456367d217f23b412aabfb32ea54fd041095137684a53104c2b0648daaad",
+      "text": "Tomorrow I will buy iodized spice for my brother at the natural food shop."
+    },
+    "5ec798fda25f01cc9f51a54b11e6586273dd520a1befe9b8f474c41d0b10cd6a": {
+      "bytes": 25538,
+      "path": "/content/de-en/v2/audio-en/f46464c627e855fa0e757b7820d0e3f23551c78e57ad6170ad8a408374554399.mp3",
+      "sha256": "f46464c627e855fa0e757b7820d0e3f23551c78e57ad6170ad8a408374554399",
+      "text": "Can you visit him tomorrow?"
+    },
+    "5ed39d8e5dea74fe6f33686f0781562baaf38ef1aff9939618d01d4fb70646ba": {
+      "bytes": 84470,
+      "path": "/content/de-en/v2/audio-en/fbdd0ace1977c8a5c27632ed2f7753008e7f44bf56c7b1624276d30da7c086c8.mp3",
+      "sha256": "fbdd0ace1977c8a5c27632ed2f7753008e7f44bf56c7b1624276d30da7c086c8",
+      "text": "Tomorrow I will personally greet the professor with my lecturer although the road is closed."
+    },
+    "61aae14d76f0972ce77a62f01093fcbf1e672a9fea880e44c1dec9bf93bd655a": {
+      "bytes": 87814,
+      "path": "/content/de-en/v2/audio-en/0d006bad8d358fd0847085c857f17d92e014450c04852f8fb985933cabc407f7.mp3",
+      "sha256": "0d006bad8d358fd0847085c857f17d92e014450c04852f8fb985933cabc407f7",
+      "text": "Tomorrow I will greet the gifted singer who rehearses in the recording studio with chilled water."
+    },
+    "6301ac38d1e3d1b07d4fd40633acb7448ec34236199cbe4857f8d5343a43ff21": {
+      "bytes": 44346,
+      "path": "/content/de-en/v2/audio-en/ea10cdfa9f49756000085a6c5898fdc7f0691f0f5807e707fcb5a9380a9accbb.mp3",
+      "sha256": "ea10cdfa9f49756000085a6c5898fdc7f0691f0f5807e707fcb5a9380a9accbb",
+      "text": "Do I copy the photograph carefully in the living room?"
+    },
+    "63d65bdd44209e19ff09a19175257305e91dbdecef21a738c6fd4f440872aff7": {
+      "bytes": 54377,
+      "path": "/content/de-en/v2/audio-en/a6ac46486f397eea2b01043d79afe3b75a8f2a5d408fdfa04d795ce1acf7521f.mp3",
+      "sha256": "a6ac46486f397eea2b01043d79afe3b75a8f2a5d408fdfa04d795ce1acf7521f",
+      "text": "I know that yesterday we did not stay in the community hall with them."
+    },
+    "64c7d78e63e993d798be59bdbd5723a0845d33f4155ba73f0eb57075ef82e3aa": {
+      "bytes": 94501,
+      "path": "/content/de-en/v2/audio-en/2271e9592166072e30eb2a091b7299846df9551e7cda3af80857056cfcecc7c3.mp3",
+      "sha256": "2271e9592166072e30eb2a091b7299846df9551e7cda3af80857056cfcecc7c3",
+      "text": "Tomorrow we will watch the award-winning feature film that you discovered although the admission is expensive."
+    },
+    "65745294d4de8ca682986e8365b924fb97c2760394ba3116428606d9205d2f80": {
+      "bytes": 68588,
+      "path": "/content/de-en/v2/audio-en/36296ae9ac67ab31666110a25d2873b32dd34dda87969e1f8409a14d8c186ef1.mp3",
+      "sha256": "36296ae9ac67ab31666110a25d2873b32dd34dda87969e1f8409a14d8c186ef1",
+      "text": "We do not buy a suitable adapter for my bus driver if I have enough money."
+    },
+    "65f173e543d7e0b921d77369ac6e36142ea75c0f740a7b69b9696f877ebb002d": {
+      "bytes": 106622,
+      "path": "/content/de-en/v2/audio-en/c9c8f9d9e15f13e28351218f112fefa0d7ec3423f078826b536edaaa5b61b109.mp3",
+      "sha256": "c9c8f9d9e15f13e28351218f112fefa0d7ec3423f078826b536edaaa5b61b109",
+      "text": "Tomorrow I will visit the helpful city guide who works in the visitor center with cloudy and unfiltered juice."
+    },
+    "68c4b99fd949a0b0b423da8d77bfcec90f8f531e40342ab42025eeaf43cad7d4": {
+      "bytes": 73185,
+      "path": "/content/de-en/v2/audio-en/5e3c357fb7528abe306d8ae140de39064e703e2d54a4662acf43a68fe8c56fe8.mp3",
+      "sha256": "5e3c357fb7528abe306d8ae140de39064e703e2d54a4662acf43a68fe8c56fe8",
+      "text": "We do not buy an adjustable stool for my warehouse worker if I have enough space."
+    },
+    "6a4358172fbd4fccc38e733c3bdb990075189434e01fa3645001b4f1d8ac02e9": {
+      "bytes": 54377,
+      "path": "/content/de-en/v2/audio-en/2e85e85d75586a56292b40d7b4a79aff2c23116d5cc00a3699e7fe2f52ad149c.mp3",
+      "sha256": "2e85e85d75586a56292b40d7b4a79aff2c23116d5cc00a3699e7fe2f52ad149c",
+      "text": "The smaller children do not play with my brother in front of a park."
+    },
+    "6ae61ae3b1d89f23c62f97e312c2c9296b158a87d3bb0367b754184bd283f5a1": {
+      "bytes": 58139,
+      "path": "/content/de-en/v2/audio-en/c14dd7cf436a09e376483c82e8cb95664324df6bb827bc73c9f81918bc89786f.mp3",
+      "sha256": "c14dd7cf436a09e376483c82e8cb95664324df6bb827bc73c9f81918bc89786f",
+      "text": "Yesterday we ate a rich sausage with my mother because we were ill."
+    },
+    "6b115b675b345f1416f9178b41458aac408b8c4c33eb84710c65ca0d556f60f8": {
+      "bytes": 71096,
+      "path": "/content/de-en/v2/audio-en/d368f66e1feffb12c6fc61198a7496e1007a1a405292cd6254dbd4eb4920783f.mp3",
+      "sha256": "d368f66e1feffb12c6fc61198a7496e1007a1a405292cd6254dbd4eb4920783f",
+      "text": "We do not buy a safe toaster for my care worker if I have enough patience."
+    },
+    "6c71b5160295376d39537acbfbd798af7cf20a93620ba770c68c42538ba4664e": {
+      "bytes": 49362,
+      "path": "/content/de-en/v2/audio-en/7573b71c0427f471c8cce973cf55d473a193e2e909f9639f576066d7f5d7a44e.mp3",
+      "sha256": "7573b71c0427f471c8cce973cf55d473a193e2e909f9639f576066d7f5d7a44e",
+      "text": "Everyone, please tidy the kitchen in the apartment tomorrow!"
+    },
+    "6d42da490e3648baf4c88a9809e8d01b4bd333e76aa5a959e77f59d33f298019": {
+      "bytes": 77783,
+      "path": "/content/de-en/v2/audio-en/577dd5cf2cdb5489472d47ee0b891f02ff31cbb2f78f21785a545b4b8403992f.mp3",
+      "sha256": "577dd5cf2cdb5489472d47ee0b891f02ff31cbb2f78f21785a545b4b8403992f",
+      "text": "Tomorrow, at the delicatessen, I would order dark baking chocolate that you compared."
+    },
+    "6e929457b295accf33872b20f4ccc7d7cc1d4d2e68d23f0a3445190e41e54ba6": {
+      "bytes": 32225,
+      "path": "/content/de-en/v2/audio-en/f8415202177edc703f3ec03bd2088c028b7bf405a5b988eb1b3ac3993a1059e4.mp3",
+      "sha256": "f8415202177edc703f3ec03bd2088c028b7bf405a5b988eb1b3ac3993a1059e4",
+      "text": "Today you do not read a report."
+    },
+    "6ef35acb198569ac6c41a0e390c77869ef45c4dbb0234d75fec8bd9f1312059b": {
+      "bytes": 75275,
+      "path": "/content/de-en/v2/audio-en/d0b4b0d6faca4276d1b4b5318299a3db5c0fad0092f36f8540eaa2df89db2cd3.mp3",
+      "sha256": "d0b4b0d6faca4276d1b4b5318299a3db5c0fad0092f36f8540eaa2df89db2cd3",
+      "text": "Yesterday we drank a hot cappuccino with my grandfather because we were chilled through."
+    },
+    "6efa96673117daf783d110357d6232280cebcaa171268f63292004d192f56433": {
+      "bytes": 43510,
+      "path": "/content/de-en/v2/audio-en/1d2cc93edb649b139ad02f160c2e0f81d6f510bd554b07d4943c55e591a1e0ad.mp3",
+      "sha256": "1d2cc93edb649b139ad02f160c2e0f81d6f510bd554b07d4943c55e591a1e0ad",
+      "text": "Today you do not read a comment at the café."
+    },
+    "6f37d003cdde5ea03e2d52e2a23e1a3aaf187bb097e1b92377907cbb44893164": {
+      "bytes": 56049,
+      "path": "/content/de-en/v2/audio-en/c014ff9c7aa5dcfaf9f68b673cd9bac228255d3abded1fa2b9624a5f3ea469af.mp3",
+      "sha256": "c014ff9c7aa5dcfaf9f68b673cd9bac228255d3abded1fa2b9624a5f3ea469af",
+      "text": "After the interview I was surprised by the answer with my doctor."
+    },
+    "6fd1835ac2782feafc181241f9b61c6ba668059379031cd94b5dfa34099b416b": {
+      "bytes": 84888,
+      "path": "/content/de-en/v2/audio-en/ed4a6336d6149a6552606351af54f86327ff1a0106eeef3581fc60e7c35be07a.mp3",
+      "sha256": "ed4a6336d6149a6552606351af54f86327ff1a0106eeef3581fc60e7c35be07a",
+      "text": "The more cheerful mountain guides do not laugh with my travel companion in front of a mountain cabin."
+    },
+    "74075da8dbeec66e0e3aaa2cf9f0ff883e3c9ffbd666bab42e3d265fc30eb179": {
+      "bytes": 86560,
+      "path": "/content/de-en/v2/audio-en/0c6bb801e7a86bee207ef70c8e2cdade9c751bac86f123e9f7b005c38bb5950d.mp3",
+      "sha256": "0c6bb801e7a86bee207ef70c8e2cdade9c751bac86f123e9f7b005c38bb5950d",
+      "text": "Tomorrow, at the natural food shop, I would order cold-pressed olive oil that you described."
+    },
+    "7751e0c24388de173036f4052e7b298c07c055e064213274776cc37cb298c720": {
+      "bytes": 122087,
+      "path": "/content/de-en/v2/audio-en/3793237813c4a3ab9b37b2b08aeeeabd24c6102804728c8b5b9e8b48861b714c.mp3",
+      "sha256": "3793237813c4a3ab9b37b2b08aeeeabd24c6102804728c8b5b9e8b48861b714c",
+      "text": "Tomorrow I would presumably visit my male adviser and my female adviser, who works in the neighborhood center, with crisp bread."
+    },
+    "77e3449a12dd43d9000a5b493984c163ea7ada37a6db078b176796a6fd7ef1e6": {
+      "bytes": 67334,
+      "path": "/content/de-en/v2/audio-en/927f157fb1389e1960ea0297efe28568bf19d3ebbb2acac4394ace0a9be91a2a.mp3",
+      "sha256": "927f157fb1389e1960ea0297efe28568bf19d3ebbb2acac4394ace0a9be91a2a",
+      "text": "After the breakfast we had to shave before the appointment with my brother-in-law."
+    },
+    "78c7179bab9f45bf9089362be0845c96e30bb9049a48a8404fff107e905a9f4d": {
+      "bytes": 94501,
+      "path": "/content/de-en/v2/audio-en/57369670749d9c64919481684a0c0ce3667f5a45b83f8aa1d04d0108ed7b8ed4.mp3",
+      "sha256": "57369670749d9c64919481684a0c0ce3667f5a45b83f8aa1d04d0108ed7b8ed4",
+      "text": "Tomorrow we will listen to the informative audio segment that you published although the reception is poor."
+    },
+    "79ebb671c891b9bb62162f49b1d0c8e1008d36b422d11ac5c73ecf8e355a8cb0": {
+      "bytes": 73185,
+      "path": "/content/de-en/v2/audio-en/7cbc2d0c8e343d6c74ba3642acd83689640de62ef87ef4e903d7ce5196d2b49e.mp3",
+      "sha256": "7cbc2d0c8e343d6c74ba3642acd83689640de62ef87ef4e903d7ce5196d2b49e",
+      "text": "After the break we had to concentrate on the task with my fellow university student."
+    },
+    "7bdad5100e7a46bfce2e36b05ef5397cfefe4b242be25d8ee242fce338b5be3d": {
+      "bytes": 74439,
+      "path": "/content/de-en/v2/audio-en/e4b777e830b2aa0fd6d4d7801949d23a44568d6c544b765ec5e87b65c84931ce.mp3",
+      "sha256": "e4b777e830b2aa0fd6d4d7801949d23a44568d6c544b765ec5e87b65c84931ce",
+      "text": "Tomorrow, at the farm shop, I would try low-sugar preserve that you discovered."
+    },
+    "7d5195d294d1391602b27b28841d8eafc956592ad2a9df48c0809fbcab1f317f": {
+      "bytes": 38077,
+      "path": "/content/de-en/v2/audio-en/1b4f4f1e62fdf302f1d74b2ef10f4b3b226a611ee30b41191fb957831e173ddb.mp3",
+      "sha256": "1b4f4f1e62fdf302f1d74b2ef10f4b3b226a611ee30b41191fb957831e173ddb",
+      "text": "Why are the bottles and the cans not small?"
+    },
+    "7e4470c5c2eb4e19548ca80c904312da2386c4e3197363a0265f094ab0a2fd5b": {
+      "bytes": 51452,
+      "path": "/content/de-en/v2/audio-en/615b917f0052e3084429bab0e87d586881033a461c6e32e28efaf7ccc9dd0ee7.mp3",
+      "sha256": "615b917f0052e3084429bab0e87d586881033a461c6e32e28efaf7ccc9dd0ee7",
+      "text": "Today you do not read an instruction at the music school."
+    },
+    "7eee302ceeb917b4e7c2bca555413f63e350f8fba069242c60c357bb6a5154a6": {
+      "bytes": 39749,
+      "path": "/content/de-en/v2/audio-en/2a2474ab55a8dd23d9eb220805f654bcc3296117d06ff72c0756f78c1b5cb29b.mp3",
+      "sha256": "2a2474ab55a8dd23d9eb220805f654bcc3296117d06ff72c0756f78c1b5cb29b",
+      "text": "Why are the jackets and the shirts not dry?"
+    },
+    "8031e478fa419e26f8c3c9d7800b6cdfe98b82a9b99122cf77751eb03d40c10e": {
+      "bytes": 52287,
+      "path": "/content/de-en/v2/audio-en/0ac6303f19f2c7f971b570b88b9b803cdfaff61b261a81b8c5ffa6e3c61f4280.mp3",
+      "sha256": "0ac6303f19f2c7f971b570b88b9b803cdfaff61b261a81b8c5ffa6e3c61f4280",
+      "text": "I know that yesterday we did not stay in the playground with them."
+    },
+    "815718d1c5d0c02b7a498d997119f034d24584bd3557ccb95f286f03a7c6ec2c": {
+      "bytes": 107458,
+      "path": "/content/de-en/v2/audio-en/e9c15538c722d8b9b20947b4d977097a4a09c509fb28c87c7df977640b3ac01c.mp3",
+      "sha256": "e9c15538c722d8b9b20947b4d977097a4a09c509fb28c87c7df977640b3ac01c",
+      "text": "Tomorrow I would independently revise the draft and draw with my architect although the space in a room is cramped."
+    },
+    "8164949fca62526e92051b138d0310dc68af7be46c60e10f6752c43209b9efcb": {
+      "bytes": 73185,
+      "path": "/content/de-en/v2/audio-en/1ea00f85ab7840020cf5a2fd6863cfca64fee068692b23aeb698cda07f9aeb19.mp3",
+      "sha256": "1ea00f85ab7840020cf5a2fd6863cfca64fee068692b23aeb698cda07f9aeb19",
+      "text": "Yesterday we ate a spicy roast with my father-in-law because we were exhausted."
+    },
+    "81bedc6cfb349cccc4edd0281435a6b90308b2af54609acc508201097e764ce6": {
+      "bytes": 51452,
+      "path": "/content/de-en/v2/audio-en/2fcd264e91c1071ce7dabbf9e012e8e53cd5cee6083954e0c619c2edb9400571.mp3",
+      "sha256": "2fcd264e91c1071ce7dabbf9e012e8e53cd5cee6083954e0c619c2edb9400571",
+      "text": "I know that yesterday we did not stay in the palace with them."
+    },
+    "83b78dbda8a857a303d52963645bb87a78e6678b3b5037b3b7b327ceab0ec41f": {
+      "bytes": 41003,
+      "path": "/content/de-en/v2/audio-en/6aaaac39db4b75c2405edeb810ddd8bc828617c9cb5f4286c09a2e3d875ff530.mp3",
+      "sha256": "6aaaac39db4b75c2405edeb810ddd8bc828617c9cb5f4286c09a2e3d875ff530",
+      "text": "Why are the frying pans and the bowls not full?"
+    },
+    "8660f6631606f54618101dbb6d8891edddd089bdad83b5c67454fd627a4a519c": {
+      "bytes": 58139,
+      "path": "/content/de-en/v2/audio-en/888c1901687f385f24770bd685e28721547e94784f916e2103d932a38492104f.mp3",
+      "sha256": "888c1901687f385f24770bd685e28721547e94784f916e2103d932a38492104f",
+      "text": "After the examination I was happy about the result with my mother."
+    },
+    "86bd543e1172fe33415395881b6b411a879b81f82a850b47c9c57e2f04a5897d": {
+      "bytes": 63572,
+      "path": "/content/de-en/v2/audio-en/100993ca219e6d4580b524e4168296dd11ccd76bacee3ade8fb5459af06d1c06.mp3",
+      "sha256": "100993ca219e6d4580b524e4168296dd11ccd76bacee3ade8fb5459af06d1c06",
+      "text": "After the guided tour I was interested in the story with my classmate."
+    },
+    "86e1a13bf317c9cab20ca028db9413e2158385daf3a14b4608f2e20f2c19f626": {
+      "bytes": 92412,
+      "path": "/content/de-en/v2/audio-en/05fabd397d45f65bd1c813fa2510423159d51f081210386751aab026de2f2083.mp3",
+      "sha256": "05fabd397d45f65bd1c813fa2510423159d51f081210386751aab026de2f2083",
+      "text": "Tomorrow I will visit the bilingual translator who works in the archive with home-baked bread."
+    },
+    "874e66c36f248db440c47220d6cd2f4236b834d98446205c7fe203b36ca65aac": {
+      "bytes": 81963,
+      "path": "/content/de-en/v2/audio-en/2a9ee6f1c35714e75e01e0e60f47e00ceed61522feab6f3c97f97aca9b02ee8e.mp3",
+      "sha256": "2a9ee6f1c35714e75e01e0e60f47e00ceed61522feab6f3c97f97aca9b02ee8e",
+      "text": "Yesterday we ate a lightly steamed cauliflower with my manager because we were surprised."
+    },
+    "87eb398af5078d8bebb6bc61f0c4358cfad94ee4fdc659d7b873cf4443a269ba": {
+      "bytes": 104950,
+      "path": "/content/de-en/v2/audio-en/4a282460ba96d6cf99c3613bee8587e9ddd8fa1c7ac40b2d352b7eac73b26fa8.mp3",
+      "sha256": "4a282460ba96d6cf99c3613bee8587e9ddd8fa1c7ac40b2d352b7eac73b26fa8",
+      "text": "Tomorrow I would regularly visit my grandfather and my grandmother, who lives in the guesthouse, with mild tea."
+    },
+    "8825749b0ae1f21bd302807956cc34b17edb90fba136f8ea3fd2e391fd6a51f1": {
+      "bytes": 99099,
+      "path": "/content/de-en/v2/audio-en/cf9dc7af0ccf24bf26c0d132c638e204a09e8daec9303c6335ff6780cb6a27c4.mp3",
+      "sha256": "cf9dc7af0ccf24bf26c0d132c638e204a09e8daec9303c6335ff6780cb6a27c4",
+      "text": "Tomorrow I will afterward photograph the researcher with my junior researcher although the access is blocked."
+    },
+    "886febf90582fd9f846429d5b2782a357b116c3d29c02ee774909a8943f96424": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/38755d97e9ef63a4fd5de2fe96dfbdd403d7b0c900784a89db8ab474509f93a0.mp3",
+      "sha256": "38755d97e9ef63a4fd5de2fe96dfbdd403d7b0c900784a89db8ab474509f93a0",
+      "text": "The more persistent professionals do not train with my athlete in front of a stadium."
+    },
+    "88a2cb3a09430aa239b9a5dd99bb089eed5066075b60e854334e2980ffd97d26": {
+      "bytes": 82798,
+      "path": "/content/de-en/v2/audio-en/c3cbd4a8a452891c6034dffb0b05c7fc5f40716d03185685dba189b18b74173e.mp3",
+      "sha256": "c3cbd4a8a452891c6034dffb0b05c7fc5f40716d03185685dba189b18b74173e",
+      "text": "The more skillful apprentices do not work with my instructor in front of a vocational school."
+    },
+    "896c754b6a865df3444db4461bbdeb9bde5c17f6125c2a3e45b960aacbdd25f8": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/a9833591181280d759fe12e2001deac55832aff5ea11ec80a4e5cdece661a787.mp3",
+      "sha256": "a9833591181280d759fe12e2001deac55832aff5ea11ec80a4e5cdece661a787",
+      "text": "Tomorrow I will buy frozen lamb for my uncle at the wholesale market."
+    },
+    "898b84ec880229e971be5fefd6307705b9c087197634371463c80c9647580345": {
+      "bytes": 37659,
+      "path": "/content/de-en/v2/audio-en/9977bf5ba29409b4f1d96a1c8168cdd115c2a2bd9b8070f463c63834a857742a.mp3",
+      "sha256": "9977bf5ba29409b4f1d96a1c8168cdd115c2a2bd9b8070f463c63834a857742a",
+      "text": "Why are the socks and the boots not wet?"
+    },
+    "89cf1f7117badd0c78630388deefe7719532132969d5899f0849b6203d5772be": {
+      "bytes": 65662,
+      "path": "/content/de-en/v2/audio-en/866bc36e2ca6592c1e740ea4b09cf36af083f5168cd6659c84d636fe2857699e.mp3",
+      "sha256": "866bc36e2ca6592c1e740ea4b09cf36af083f5168cd6659c84d636fe2857699e",
+      "text": "The braver actors do not rehearse with my director in front of a drama school."
+    },
+    "89da1a0a5ed58d1686396bc48441afd6bb0ae4095b24d796ea7ab27a8bc7830a": {
+      "bytes": 57721,
+      "path": "/content/de-en/v2/audio-en/a3a0710c2cd5b62fb574e9ba5a698002f8b1e8f74c97e11b682724bdfe20cf95.mp3",
+      "sha256": "a3a0710c2cd5b62fb574e9ba5a698002f8b1e8f74c97e11b682724bdfe20cf95",
+      "text": "I know that yesterday we did not stay in the shopping center with them."
+    },
+    "8aa339fdb0d3f7e1dce8ffad2d7dfa92339d1310952fa76b07c600085f8a822a": {
+      "bytes": 43510,
+      "path": "/content/de-en/v2/audio-en/157da6f9debdceb63bc321e5e588fff95eabc6096760eba68f525fc4d7a8bdb9.mp3",
+      "sha256": "157da6f9debdceb63bc321e5e588fff95eabc6096760eba68f525fc4d7a8bdb9",
+      "text": "Today you do not read a wish in the living room."
+    },
+    "8dc82e63e0e16d7e288ab13fd2f9eeeef5cff631d06913a3cca9963b67e22f2c": {
+      "bytes": 69424,
+      "path": "/content/de-en/v2/audio-en/d4204bb853cd1871e981dc43fd4d6f3880e0ae891cfcc22c901d74d2838529c9.mp3",
+      "sha256": "d4204bb853cd1871e981dc43fd4d6f3880e0ae891cfcc22c901d74d2838529c9",
+      "text": "The louder choirs do not sing with my choir director in front of a music venue."
+    },
+    "8fff89c9dc0718521639b42a7d718d5dc7abc822bfce4ea75f4baf86f00d6b9c": {
+      "bytes": 61901,
+      "path": "/content/de-en/v2/audio-en/37947f5e3c5fff64820c0697b5e5ce3337ee72f5ddf9f9f06ce92da9c4533ac4.mp3",
+      "sha256": "37947f5e3c5fff64820c0697b5e5ce3337ee72f5ddf9f9f06ce92da9c4533ac4",
+      "text": "The calmer teams do not wait with my teammate in front of a festival hall."
+    },
+    "933648cebce351a8cb2f1767cdb4910c60b53f4280edde9012dbb130f93d89a1": {
+      "bytes": 81127,
+      "path": "/content/de-en/v2/audio-en/62d581c24d548064785148468ba3ada3a95fa2df1304b9e656314cfcbd4c5a3f.mp3",
+      "sha256": "62d581c24d548064785148468ba3ada3a95fa2df1304b9e656314cfcbd4c5a3f",
+      "text": "The more alert firefighters do not wait with my operations leader in front of a fire station."
+    },
+    "94fca99f16d5df6fde3e9acfd0c95ac0cf003b881efca49b97691313d60d7462": {
+      "bytes": 38913,
+      "path": "/content/de-en/v2/audio-en/c973f28e061fbb4a5a1779ed90e6ed2f3929acf2e0b0d6ac80a9b7f332f3338d.mp3",
+      "sha256": "c973f28e061fbb4a5a1779ed90e6ed2f3929acf2e0b0d6ac80a9b7f332f3338d",
+      "text": "Can you accompany him at the station tomorrow?"
+    },
+    "958d384755b410a9ded73e9dd7a9eb92e1bd307d3b55417b0c5af55e72139189": {
+      "bytes": 96173,
+      "path": "/content/de-en/v2/audio-en/9a1c90006875f35ad0db54840d260aaa60ef39e2af167c54b185fe96a076bec3.mp3",
+      "sha256": "9a1c90006875f35ad0db54840d260aaa60ef39e2af167c54b185fe96a076bec3",
+      "text": "Tomorrow I would gladly bring fresh coffee when visiting my friend and my sister, who lives in Berlin."
+    },
+    "9753915d59adb8b5ddc55d7d77c61f72284ea5b7fbe8e6d5693fa03b240127be": {
+      "bytes": 47272,
+      "path": "/content/de-en/v2/audio-en/5d7d0853f41d0f44252d51d4e08d0ad3fe3fae470e704cad7ab147930fad4411.mp3",
+      "sha256": "5d7d0853f41d0f44252d51d4e08d0ad3fe3fae470e704cad7ab147930fad4411",
+      "text": "Today you do not read an article in the office."
+    },
+    "97750367d392e21f3e6ec4a43668b075c56e72e042433b3c60c6c039ab069406": {
+      "bytes": 104532,
+      "path": "/content/de-en/v2/audio-en/6dcfbf06622a775c86ad1f6a364aec260bf3bf8d29aeaef6fee58ae37abd236f.mp3",
+      "sha256": "6dcfbf06622a775c86ad1f6a364aec260bf3bf8d29aeaef6fee58ae37abd236f",
+      "text": "Tomorrow I would proactively improve the schedule and plan with my project leader although the work shift is long."
+    },
+    "981a9d986cd7e39940b7238c2df014adb57ca2b0dd6bddfbf9e8c2581647589f": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/291a34e23146715d95015671c9c22c996b95e54e870cc992d93f7a268411c2a1.mp3",
+      "sha256": "291a34e23146715d95015671c9c22c996b95e54e870cc992d93f7a268411c2a1",
+      "text": "Yesterday morning we had a large tea with my sister because we were tired."
+    },
+    "98bd316ebac48b5c42479ee5691a4c75e0ab11138ef052b2ebfc06115967e486": {
+      "bytes": 38077,
+      "path": "/content/de-en/v2/audio-en/3eee4f223e2c8d6da38a6e4cb89d621797c820318ea6c0953f99af92448751ba.mp3",
+      "sha256": "3eee4f223e2c8d6da38a6e4cb89d621797c820318ea6c0953f99af92448751ba",
+      "text": "Do I clear the desk quickly in the office?"
+    },
+    "9a23fd271cce9e113764fa397776b30c610f2cb468cfd21a81a71ce13b7322e3": {
+      "bytes": 80709,
+      "path": "/content/de-en/v2/audio-en/d1d48e96ff1959ae049574a90641fc5dfa48f14b46307f52486b0ed39538b966.mp3",
+      "sha256": "d1d48e96ff1959ae049574a90641fc5dfa48f14b46307f52486b0ed39538b966",
+      "text": "Tomorrow I will visit the inventive designer who works in the studio with fine chocolate."
+    },
+    "9abec1eed2701c369e9f78365b195afc56989f8aa5261af71bcd118c2b78567b": {
+      "bytes": 32225,
+      "path": "/content/de-en/v2/audio-en/ee7b08fe5f95e59f8c46146a0b802d97c16040eb218ceddc9f75c04e30fe5aad.mp3",
+      "sha256": "ee7b08fe5f95e59f8c46146a0b802d97c16040eb218ceddc9f75c04e30fe5aad",
+      "text": "Can you ask him at school tomorrow?"
+    },
+    "9b2a3349819356e8789f8a7ac0b0201e9e0b30c8bc4885f6f2d1c452f3a55d09": {
+      "bytes": 67334,
+      "path": "/content/de-en/v2/audio-en/e0efce31491d9cf9d91921ac29f913006e0f9529751af7e6c734082b16f922b4.mp3",
+      "sha256": "e0efce31491d9cf9d91921ac29f913006e0f9529751af7e6c734082b16f922b4",
+      "text": "Tomorrow I will buy local beef for my father-in-law at the farmers' market."
+    },
+    "9b73132fdb2f23c23c8e2b86953d3a87fa57de998adc21e2c1d549b356988bf8": {
+      "bytes": 98263,
+      "path": "/content/de-en/v2/audio-en/84fdd80cb62661b94df421b3bc7286fb6c1625da327ef859f8b1f7ea60b8cceb.mp3",
+      "sha256": "84fdd80cb62661b94df421b3bc7286fb6c1625da327ef859f8b1f7ea60b8cceb",
+      "text": "Tomorrow I will nevertheless accompany the specialist with my engineer although the traffic is heavy."
+    },
+    "9e282c4cea8151480d5ab5bcdaf7cfe6b445133ba9d594514a4a1aa01c466688": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/0b57743d69b53ce53e11ddc28d5f886e5a59a693d53611cdaff70d31ec152f05.mp3",
+      "sha256": "0b57743d69b53ce53e11ddc28d5f886e5a59a693d53611cdaff70d31ec152f05",
+      "text": "We do not buy an easy to maintain broom for my assistant if I have enough money."
+    },
+    "9e8f7bd7ccff1beb3f73007b3f3d766d35cd3e4bb44c4bcefc6e5bdecfe652c2": {
+      "bytes": 37659,
+      "path": "/content/de-en/v2/audio-en/e8810d0d71eb1f8b901401e10864017d4b323896245296bdba4d2865e17fe6e2.mp3",
+      "sha256": "e8810d0d71eb1f8b901401e10864017d4b323896245296bdba4d2865e17fe6e2",
+      "text": "Do I plant the flower gently in the garden?"
+    },
+    "9e979540b0e519a3812a65f89c75e9a7ab685373f7bbaf9a0b19fb92ee831177": {
+      "bytes": 80709,
+      "path": "/content/de-en/v2/audio-en/65027c1c844ae5ccc971f0e1c512fc19b03ec39845477fa81067828f7c0cc877.mp3",
+      "sha256": "65027c1c844ae5ccc971f0e1c512fc19b03ec39845477fa81067828f7c0cc877",
+      "text": "Tomorrow we will read the insightful diary that you assessed although the light is dim."
+    },
+    "9fbb0305b54e3ab9787c0e5a569c62043a9d8c39ddd371d9aafcf2c03b7f8a09": {
+      "bytes": 75275,
+      "path": "/content/de-en/v2/audio-en/f100bf167a51d750887b21a690907218c92e9cd06c5cc296237386378c07dcb0.mp3",
+      "sha256": "f100bf167a51d750887b21a690907218c92e9cd06c5cc296237386378c07dcb0",
+      "text": "Tomorrow, at the organic shop, I would buy plant-based margarine that you described."
+    },
+    "a0bbfdae6453d200737ee905b44ed0a0731d77643277172e35cf744fa27dd00a": {
+      "bytes": 80709,
+      "path": "/content/de-en/v2/audio-en/d121ed3ad4a2b55dfe3073392c1b19ad64a5840bf012b4e84cb6e8484fb36cf5.mp3",
+      "sha256": "d121ed3ad4a2b55dfe3073392c1b19ad64a5840bf012b4e84cb6e8484fb36cf5",
+      "text": "Yesterday we tried a mild tofu with my neighbor because we were full of anticipation."
+    },
+    "a1c140ebdc908662c2ffdc1edf59d51e109fe70c3e77fc688e8172a3236c1355": {
+      "bytes": 155523,
+      "path": "/content/de-en/v2/audio-en/8e03d7d9a999bce0fb99e6b4d9ffa8092a3a71b30e9588eaa8514b8c2ba158fb.mp3",
+      "sha256": "8e03d7d9a999bce0fb99e6b4d9ffa8092a3a71b30e9588eaa8514b8c2ba158fb",
+      "text": "Tomorrow I would hopefully accompany my male travel companion and my female travel companion, who works in the tourist information office, with full-flavored cheese."
+    },
+    "a28c460ffa2cbfba89cbb5a29f267219da9242739e765ff697b42d5246e81d3a": {
+      "bytes": 56885,
+      "path": "/content/de-en/v2/audio-en/814a41e924a13103d57fe94a450d266693c744ac3d2865e8e4c491f5a28adb0b.mp3",
+      "sha256": "814a41e924a13103d57fe94a450d266693c744ac3d2865e8e4c491f5a28adb0b",
+      "text": "I know that yesterday we did not stay in the exhibition room with them."
+    },
+    "a2f4c74aca4ab43e76a6529d24f8bc4440da8e8591a7cb4b2ee5d9b790c23e53": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/8cce588c05b0111cc4e427176917396cf37c431aacf98bf557f644db9d07f81b.mp3",
+      "sha256": "8cce588c05b0111cc4e427176917396cf37c431aacf98bf557f644db9d07f81b",
+      "text": "Tomorrow, at the café, I would drink fresh tea that you recommended."
+    },
+    "a308513c872f470b5775935e0ee2283fa6964fddde6520de6836858efab4fad5": {
+      "bytes": 121251,
+      "path": "/content/de-en/v2/audio-en/23d7344a706fec334242199f04b38437fa969ca44c25a0e89a58228f88709694.mp3",
+      "sha256": "23d7344a706fec334242199f04b38437fa969ca44c25a0e89a58228f88709694",
+      "text": "Tomorrow I would conscientiously examine the experiment and do research with my researcher although the laboratory is overcrowded."
+    },
+    "a3b8d429e5f499f1b5be85b107c89850aaa3716c0d64336a41671f2811c66441": {
+      "bytes": 46436,
+      "path": "/content/de-en/v2/audio-en/abe318654da65fbd4b06dee14e656a8d0c95cc59d46776dc55462d6832a78660.mp3",
+      "sha256": "abe318654da65fbd4b06dee14e656a8d0c95cc59d46776dc55462d6832a78660",
+      "text": "Do I clean the bathroom thoroughly on the ground floor?"
+    },
+    "a5d9deb039bd86e16a778702845389760e787632cece1d0737b81bfe2d385b06": {
+      "bytes": 90322,
+      "path": "/content/de-en/v2/audio-en/c8c36b81bed9286e6ae9cbb059c10859d5a2b0c1cd10498d3a7aff668c0c455f.mp3",
+      "sha256": "c8c36b81bed9286e6ae9cbb059c10859d5a2b0c1cd10498d3a7aff668c0c455f",
+      "text": "Tomorrow we will watch the moving romantic film that you described although the path is long."
+    },
+    "a66d22b2da242aff3cc91808e92668b9378b3f8190a9b6b40e87f618e2c7204d": {
+      "bytes": 36823,
+      "path": "/content/de-en/v2/audio-en/85aaaa2a1dd518893090253eb3bdb1f457d6c183936175e209b68750c4dcce7b.mp3",
+      "sha256": "85aaaa2a1dd518893090253eb3bdb1f457d6c183936175e209b68750c4dcce7b",
+      "text": "Can you notify him in the office tomorrow?"
+    },
+    "a67b964efc7ca6b5ce9b4f68c0f2349e6b73ecf13fda76aed5afb88cae00eb3d": {
+      "bytes": 101189,
+      "path": "/content/de-en/v2/audio-en/3bffc4de3d7091af78e6e6496e1b313e96b30ddeec074ac17bb19a8dc73667bc.mp3",
+      "sha256": "3bffc4de3d7091af78e6e6496e1b313e96b30ddeec074ac17bb19a8dc73667bc",
+      "text": "Tomorrow I will accompany the patient social worker who works in the youth center with seasonal vegetables."
+    },
+    "a723e46b54b4334474dfe47d871593a8e2d0dbb504eebc3eef6a71de09d83a26": {
+      "bytes": 35987,
+      "path": "/content/de-en/v2/audio-en/9bc72849588d98a0d36483d67f77a52bbf068aed55c2a1c46ba859d6699afaba.mp3",
+      "sha256": "9bc72849588d98a0d36483d67f77a52bbf068aed55c2a1c46ba859d6699afaba",
+      "text": "Can you ask him at the airport tomorrow?"
+    },
+    "ac2eebc303279797a9a5b1379d99b6497db4284933b9ac9b4566752e5a74cac2": {
+      "bytes": 79873,
+      "path": "/content/de-en/v2/audio-en/0189ebc9e26d9c389b73958de6e5148f9b47e1c2d93b3fb3ef6d632db72a285a.mp3",
+      "sha256": "0189ebc9e26d9c389b73958de6e5148f9b47e1c2d93b3fb3ef6d632db72a285a",
+      "text": "The more sociable retirees do not talk with my supervisor in front of a community center."
+    },
+    "accaadd418129b3f84e9bd7d61c457d898398855407b8e901c6289317923b586": {
+      "bytes": 54377,
+      "path": "/content/de-en/v2/audio-en/0275484425d50ea73c82e85dba662866543ca4394ccfbf7cac32233faa282a37.mp3",
+      "sha256": "0275484425d50ea73c82e85dba662866543ca4394ccfbf7cac32233faa282a37",
+      "text": "I know that yesterday we did not stay in the conference room with them."
+    },
+    "ae66eca33eb7b2dd1b7ce375ab3b949cbda9ef658ab32ece261b5f36805a3cf0": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/2522229f1d90b89e40e1e2112b66fdd540b230a3bf4e168538941026af614f7b.mp3",
+      "sha256": "2522229f1d90b89e40e1e2112b66fdd540b230a3bf4e168538941026af614f7b",
+      "text": "We do not buy a sturdy umbrella for my electrician if I have enough space."
+    },
+    "ae9b091de3056c1b620cdb69246de2f0e8a996af389c6f6ea6d991087d859055": {
+      "bytes": 41003,
+      "path": "/content/de-en/v2/audio-en/d735a74db133d86315ac1253c8a289ba3b3b2c53ab4f5f4c2a4e945d1a7dc91f.mp3",
+      "sha256": "d735a74db133d86315ac1253c8a289ba3b3b2c53ab4f5f4c2a4e945d1a7dc91f",
+      "text": "Can you say goodbye to him at the cinema tomorrow?"
+    },
+    "b1718aeb66fa8144d32024b8f0103d898e2a38f527f5189f26826808d6e0f620": {
+      "bytes": 50198,
+      "path": "/content/de-en/v2/audio-en/67580e1e4161e26317cb3905e778e3eb84b4ea12eec98b3c63c00a47ab7d1c6b.mp3",
+      "sha256": "67580e1e4161e26317cb3905e778e3eb84b4ea12eec98b3c63c00a47ab7d1c6b",
+      "text": "I know that yesterday we did not stay in the station with them."
+    },
+    "b1fa57166b3bba92bfcca52d2e3e8542b739d64026119f8fc93bcbc3a3c38380": {
+      "bytes": 56049,
+      "path": "/content/de-en/v2/audio-en/29f99e25d0422f6874e68725c70d678adf0faa431cd02f1f8ac514edb99aa939.mp3",
+      "sha256": "29f99e25d0422f6874e68725c70d678adf0faa431cd02f1f8ac514edb99aa939",
+      "text": "I know that yesterday we did not stay in the business park with them."
+    },
+    "b29549a1f054cebedac4d391cf8e29952042b2b37f677b84c672afc41e5010f2": {
+      "bytes": 46436,
+      "path": "/content/de-en/v2/audio-en/93bc45c1df0db048fd305671fb8740d11a3315f5b58ad64e5bde0c95dd38dc33.mp3",
+      "sha256": "93bc45c1df0db048fd305671fb8740d11a3315f5b58ad64e5bde0c95dd38dc33",
+      "text": "Today you do not read a city map at the station."
+    },
+    "b34781f993cd80a26432525bd06267de993004614093e7ed210a751a21e412cf": {
+      "bytes": 31390,
+      "path": "/content/de-en/v2/audio-en/479191a1d5fff6aeeb3911c64cd7a9f6114440bba5e96bb278e2b9f57b749057.mp3",
+      "sha256": "479191a1d5fff6aeeb3911c64cd7a9f6114440bba5e96bb278e2b9f57b749057",
+      "text": "Everyone, please shop tomorrow!"
+    },
+    "b357b84ddedbe182f8c760a9c43aee3966611feeb1b63d86e12ddce60a3381f1": {
+      "bytes": 59811,
+      "path": "/content/de-en/v2/audio-en/a3b34a6e3fc9655f5f24ff7676951b6800431561d993f60cb7fcf1281425fb11.mp3",
+      "sha256": "a3b34a6e3fc9655f5f24ff7676951b6800431561d993f60cb7fcf1281425fb11",
+      "text": "After the departure I was annoyed about the delay with my colleague."
+    },
+    "b3bb975694f4eea68ee63d390431b2b1180b9cc0203f3be25ef677679bb55046": {
+      "bytes": 35987,
+      "path": "/content/de-en/v2/audio-en/ef5c54c23b01e5a48926091393dba8831e58f4f84bcd3cf3082793c1dbe11ea6.mp3",
+      "sha256": "ef5c54c23b01e5a48926091393dba8831e58f4f84bcd3cf3082793c1dbe11ea6",
+      "text": "Why are the lamps and chairs not new?"
+    },
+    "b47249630bc4fcb9bb94595399a15519f0fa96154548c3f0ae07b4554c7c6710": {
+      "bytes": 90322,
+      "path": "/content/de-en/v2/audio-en/df1aab8db0b6e0d520b8a626e02802259572076faf9e86c5c7de90b6de90ea4e.mp3",
+      "sha256": "df1aab8db0b6e0d520b8a626e02802259572076faf9e86c5c7de90b6de90ea4e",
+      "text": "Tomorrow we will listen to the gripping audiobook that you recommended although the sound is quiet."
+    },
+    "b49185516b33f7b8963a1a20e34484ad99d4a6f0ff6eb72d2223eda601bfb979": {
+      "bytes": 49362,
+      "path": "/content/de-en/v2/audio-en/8e7b76d594641ee74095f7741daae4b71bdbb58b8c9a4e5d03ad86dee4b413cd.mp3",
+      "sha256": "8e7b76d594641ee74095f7741daae4b71bdbb58b8c9a4e5d03ad86dee4b413cd",
+      "text": "Today you do not read a dialogue in the library."
+    },
+    "b49c8fcd57dbd8e18dca15d7f2ec8712521e0f1bbe16977edcbb0604727566fe": {
+      "bytes": 36823,
+      "path": "/content/de-en/v2/audio-en/2eeac775b230a76801a8b6089db808eaf1c623676b2390b4ef4001c5c2847af4.mp3",
+      "sha256": "2eeac775b230a76801a8b6089db808eaf1c623676b2390b4ef4001c5c2847af4",
+      "text": "Can you visit him in the apartment tomorrow?"
+    },
+    "b4ab8b2348efeea7bac89c66ca37936c8413997ba6ffd452b27555b0bff484f1": {
+      "bytes": 69424,
+      "path": "/content/de-en/v2/audio-en/29161578db6995855015147d4bd347edfa62259bf145e7a50cbd98fadbca703f.mp3",
+      "sha256": "29161578db6995855015147d4bd347edfa62259bf145e7a50cbd98fadbca703f",
+      "text": "Yesterday we ate a sweet pudding with my grandson because we were enthusiastic."
+    },
+    "b615e5dd362a37ae915eb976015f3a8d4da1f4ce91a6519fbbac3eed3c6b1c00": {
+      "bytes": 68588,
+      "path": "/content/de-en/v2/audio-en/ee31e46b0f7fcaf1461b6fa89770675d7bd739be81fbefd2aafefbcaf4dc0a32.mp3",
+      "sha256": "ee31e46b0f7fcaf1461b6fa89770675d7bd739be81fbefd2aafefbcaf4dc0a32",
+      "text": "We do not buy a wide paintbrush for my secretary if I have enough time."
+    },
+    "b71b58bfc1c89a224b028f51c4fdd995adc37989c7181c61bc9df829b660e089": {
+      "bytes": 65662,
+      "path": "/content/de-en/v2/audio-en/dedaa1993005cd692422bd874daa3660597a70077b9f310fb62c2cdc689d0f40.mp3",
+      "sha256": "dedaa1993005cd692422bd874daa3660597a70077b9f310fb62c2cdc689d0f40",
+      "text": "After the discussion we had to remember the conversation with my adviser."
+    },
+    "b7a2f4e990e1d173524ab5bf8680502ce6f76b0f71c2751abc90664eb206d2d3": {
+      "bytes": 104532,
+      "path": "/content/de-en/v2/audio-en/233b91a89e885867bf88ea5d62fba4419f12fe45297de48de17a1135bdbe1116.mp3",
+      "sha256": "233b91a89e885867bf88ea5d62fba4419f12fe45297de48de17a1135bdbe1116",
+      "text": "Tomorrow I will as a precaution ask the notary with my tax adviser although the connection is interrupted."
+    },
+    "b876bc4d1bab93ac152c758c2967e6c1f2d2a8d08684bcf1b5120fe755b32e83": {
+      "bytes": 68588,
+      "path": "/content/de-en/v2/audio-en/28c0894cce20044080d6fa7623284f9faddb60fa7920b2f0e6f05da74e4f49dd.mp3",
+      "sha256": "28c0894cce20044080d6fa7623284f9faddb60fa7920b2f0e6f05da74e4f49dd",
+      "text": "We do not buy a portable speaker for my taxi driver if I have enough time."
+    },
+    "b8accb94a77f18a035b01112f63128e8ca32b83f5134b35efda069d6a2de3abd": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/23bdea5dc545967b69a2962d9c6898b3fab23c95b3f247e818459c62a28c889e.mp3",
+      "sha256": "23bdea5dc545967b69a2962d9c6898b3fab23c95b3f247e818459c62a28c889e",
+      "text": "Tomorrow I will order high-quality olive oil for my waiter at the delicatessen."
+    },
+    "b8bf20de4c9736687495ac3afb087da70ddecd9cd104944388bcc3486f85b263": {
+      "bytes": 37659,
+      "path": "/content/de-en/v2/audio-en/57c8398c0627aaf0b83445a67b39eddd087f936b982975453ce8b4981aab9f10.mp3",
+      "sha256": "57c8398c0627aaf0b83445a67b39eddd087f936b982975453ce8b4981aab9f10",
+      "text": "Why are the panes and the windows not dirty?"
+    },
+    "b9872e438854c43987c82eba282cf22eb959c03aaee41533cc173c6cff22d755": {
+      "bytes": 77783,
+      "path": "/content/de-en/v2/audio-en/f6581f77f3a76775fb419517ba0e60e93056d57e164b465fcf387612c1e83343.mp3",
+      "sha256": "f6581f77f3a76775fb419517ba0e60e93056d57e164b465fcf387612c1e83343",
+      "text": "Tomorrow, at the café, I would order lactose-free cream that you recommended."
+    },
+    "ba0f946dd78ef53c7c3380cfe5fba809dcee635ca6aed9cf87641880f331065e": {
+      "bytes": 44764,
+      "path": "/content/de-en/v2/audio-en/5b082519843757377aa67d2b1aeda4b13387ce1192ac543a0ee3b3bd52fba6c1.mp3",
+      "sha256": "5b082519843757377aa67d2b1aeda4b13387ce1192ac543a0ee3b3bd52fba6c1",
+      "text": "Do I reserve the room in good time at the hotel?"
+    },
+    "bb1e753ada577aca35b84e1658bb7b041826ea2c4aac4188a2366170c4492375": {
+      "bytes": 38077,
+      "path": "/content/de-en/v2/audio-en/a7c666f08fc0e73d654a35d376fb89a047f13109bc11809fa0e7b6668f0410c7.mp3",
+      "sha256": "a7c666f08fc0e73d654a35d376fb89a047f13109bc11809fa0e7b6668f0410c7",
+      "text": "Why are the forks and the knives not clean?"
+    },
+    "bb567645cacf7db56a146f02093d1d7661ed2d639da34005d1da5ef62ebd3071": {
+      "bytes": 97845,
+      "path": "/content/de-en/v2/audio-en/78be9d3943726c5bc6a4ef1ba9ef71fe51aee86acba7da9cd432cbca7900cee3.mp3",
+      "sha256": "78be9d3943726c5bc6a4ef1ba9ef71fe51aee86acba7da9cd432cbca7900cee3",
+      "text": "Tomorrow I will purposefully visit the architect with my project leader although the route is hard to navigate."
+    },
+    "bdad21e44c8a0c7e0ede876a4df4a225fbe6ca276bbe034114ee1d85001bf12a": {
+      "bytes": 48526,
+      "path": "/content/de-en/v2/audio-en/ad713d86c4a07866491e40a456d7a530e0574273553fc8281d25de7b76632c39.mp3",
+      "sha256": "ad713d86c4a07866491e40a456d7a530e0574273553fc8281d25de7b76632c39",
+      "text": "I know that yesterday we did not stay in the theater with them."
+    },
+    "bdd11be30b05de393176fa6d880d572cab37c0c01dc9d224773b6f44b3852175": {
+      "bytes": 104532,
+      "path": "/content/de-en/v2/audio-en/a62d39a4020f8041f4cba712a2077dbf1abff790139de0ac38f9abae9bbfbc94.mp3",
+      "sha256": "a62d39a4020f8041f4cba712a2077dbf1abff790139de0ac38f9abae9bbfbc94",
+      "text": "Tomorrow I would responsibly organize the household and cook with my roommate although the energy is expensive."
+    },
+    "bea826dcb0ce4de4ad5b4efce07dc67cd6a9a9a4d9117699c3f7494f09777e21": {
+      "bytes": 57721,
+      "path": "/content/de-en/v2/audio-en/8adbae3e40f60ceb694dd6cdd01cb9cbb5a38a3a38d281fc07e38a91152e99d7.mp3",
+      "sha256": "8adbae3e40f60ceb694dd6cdd01cb9cbb5a38a3a38d281fc07e38a91152e99d7",
+      "text": "Tomorrow I will order fruity sorbet for my nephew at the inn."
+    },
+    "c2a44c8810e9d6ec31bc052cf9d62b1e616600084758d9ce8f9147ae0d42572a": {
+      "bytes": 44764,
+      "path": "/content/de-en/v2/audio-en/763f22a10c76277c20dc19a97b8a2522e41e95c86a5a7ca0dd106bf172f55ed3.mp3",
+      "sha256": "763f22a10c76277c20dc19a97b8a2522e41e95c86a5a7ca0dd106bf172f55ed3",
+      "text": "Why are the layer cakes and the cookies not tasty?"
+    },
+    "c3d48cb475f4dcd00cc9fb0d56c6066e615d1842a11236f4ae5d077799a8951e": {
+      "bytes": 82798,
+      "path": "/content/de-en/v2/audio-en/f4a589a9b36c64365e21bfab7d0db05bebacc0addec4cd6bc9189e00ba68c6ab.mp3",
+      "sha256": "f4a589a9b36c64365e21bfab7d0db05bebacc0addec4cd6bc9189e00ba68c6ab",
+      "text": "Tomorrow we will watch the exciting cartoon that you recommended although the hall is full."
+    },
+    "c4a68848fef9e53575332052047e6d8e0ab17d842cb37ddf8964a0975447b98f": {
+      "bytes": 97845,
+      "path": "/content/de-en/v2/audio-en/b863900e28236ecedb5f1bd641eb48692a6948f4997b1b83c26e5053842c9ac4.mp3",
+      "sha256": "b863900e28236ecedb5f1bd641eb48692a6948f4997b1b83c26e5053842c9ac4",
+      "text": "Tomorrow I will discreetly greet the therapist with my social worker although the elevator is out of order."
+    },
+    "c4c1c3d76ede8e7ee03b355a0fa8b9a6608f6ac2f410c85869f1e7b261d9ec21": {
+      "bytes": 39749,
+      "path": "/content/de-en/v2/audio-en/3635f66e429fd7fdab83ccf43958a7ff161b5ede6005acd767f4ee1b96540edb.mp3",
+      "sha256": "3635f66e429fd7fdab83ccf43958a7ff161b5ede6005acd767f4ee1b96540edb",
+      "text": "Do I plan the breakfast together in the kitchen?"
+    },
+    "c5f7d93e5e0e4675848d8cebc13e00062342d0f97cb31c4fbb88cc3f8e24ccd6": {
+      "bytes": 59811,
+      "path": "/content/de-en/v2/audio-en/c2df06ee00a83c461b3878d4bc7e882bb382acf5f287fa753b860d93763332a2.mp3",
+      "sha256": "c2df06ee00a83c461b3878d4bc7e882bb382acf5f287fa753b860d93763332a2",
+      "text": "Everyone, please switch on the television in the living room tomorrow!"
+    },
+    "c6595db08235717db88296bcd4ebdc5fcaf5fafe98e8ec506645d0dfb022fccc": {
+      "bytes": 53123,
+      "path": "/content/de-en/v2/audio-en/0f0e4884cd141044abd81240b010bcf0a782cfd91eb22572877a1012db15b1a2.mp3",
+      "sha256": "0f0e4884cd141044abd81240b010bcf0a782cfd91eb22572877a1012db15b1a2",
+      "text": "Tomorrow we will buy fresh fruit for my mother at the market."
+    },
+    "c9083fd8b6f5508e1f6f30de1a358ec1af54a818c33a54b5854b498ce1f0272d": {
+      "bytes": 123758,
+      "path": "/content/de-en/v2/audio-en/56cd02e5e65a5a1b58a142b33618e0016d968bd7a4c2caf7c68691d718ba0310.mp3",
+      "sha256": "56cd02e5e65a5a1b58a142b33618e0016d968bd7a4c2caf7c68691d718ba0310",
+      "text": "Tomorrow I would perhaps visit my brother-in-law and my sister-in-law, who works in the advice center, with fair-trade coffee."
+    },
+    "c9955023624774430b20b1360227ea503d88a71506be62625c8ca3755b4c6f49": {
+      "bytes": 41838,
+      "path": "/content/de-en/v2/audio-en/bb891daaab6138329e0ea2b160ac40774b69d327146246f12f7bdcec3a524d73.mp3",
+      "sha256": "bb891daaab6138329e0ea2b160ac40774b69d327146246f12f7bdcec3a524d73",
+      "text": "Why are the blankets and the cushions not soft?"
+    },
+    "c99c84e207e5bcee663d37244d82758ffd7a16298c71edd8225f53654cd42c9a": {
+      "bytes": 51034,
+      "path": "/content/de-en/v2/audio-en/d75b525bc024ef28eaf93c6cc8469895bd8f371df135e7905e0223a260d45daf.mp3",
+      "sha256": "d75b525bc024ef28eaf93c6cc8469895bd8f371df135e7905e0223a260d45daf",
+      "text": "Everyone, please fill in the list at the hotel tomorrow!"
+    },
+    "c9fa46988418a4dccfbdeef96b5ca975461d73c358aced64375d96411d2f97d0": {
+      "bytes": 92412,
+      "path": "/content/de-en/v2/audio-en/405366c4918dd6fabd4a9d562c8e816f7ff91db4926fc9ef69a550ceb9e16165.mp3",
+      "sha256": "405366c4918dd6fabd4a9d562c8e816f7ff91db4926fc9ef69a550ceb9e16165",
+      "text": "The more independent tradespeople do not work with my master craftsperson in front of a commercial building."
+    },
+    "ca28b0e360b8d028861ea3ccc053c429a4cf83340e9e775429aa27671a815c8c": {
+      "bytes": 70260,
+      "path": "/content/de-en/v2/audio-en/98746611f668679529f7a4162d9961e03b67a1a7f9d9bda675ba26abab686afe.mp3",
+      "sha256": "98746611f668679529f7a4162d9961e03b67a1a7f9d9bda675ba26abab686afe",
+      "text": "We do not buy a versatile hammer for my caretaker if I have enough energy."
+    },
+    "cbaef78d565bf9057b8386666d8c6b451b73b95fa3cb12ea101adaa547044681": {
+      "bytes": 68588,
+      "path": "/content/de-en/v2/audio-en/7c4eaffcad5fee45af6d9995d47597e2e8696098aaaa49f0091357151f090de4.mp3",
+      "sha256": "7c4eaffcad5fee45af6d9995d47597e2e8696098aaaa49f0091357151f090de4",
+      "text": "Yesterday we ate a filled wrap with my partner because we were impatient."
+    },
+    "cbb2464ab8e86e1eabef3a1330f4e8bcfa5f85a71cfd6d7cd2d5399dc7687fc9": {
+      "bytes": 52287,
+      "path": "/content/de-en/v2/audio-en/77343b1dfb23ade00af6ae38eb09fa6492d7b9fa8502ba09b1f7fcb1305d772d.mp3",
+      "sha256": "77343b1dfb23ade00af6ae38eb09fa6492d7b9fa8502ba09b1f7fcb1305d772d",
+      "text": "Do I complete the homework exercise correctly in the classroom?"
+    },
+    "cc86d5e1db3b0c9ffcaa129fc253902d3c799cb20a682f6559a1dd8cb2b4fc32": {
+      "bytes": 53959,
+      "path": "/content/de-en/v2/audio-en/5f70b44d69d91729ed68264d2ba760cbc86bb915b21aea8cc60826a2480d302a.mp3",
+      "sha256": "5f70b44d69d91729ed68264d2ba760cbc86bb915b21aea8cc60826a2480d302a",
+      "text": "I know that yesterday we did not stay in the fitness room with them."
+    },
+    "ccb8b53bc74f5c0b8786d87a4ca8e0c1cc8941f466578c8bcaf3612ad1ce8e0f": {
+      "bytes": 44764,
+      "path": "/content/de-en/v2/audio-en/72e3d9b9583a3014684ef176e9571f3c80b4f265a813cadbdd57d22548e920ac.mp3",
+      "sha256": "72e3d9b9583a3014684ef176e9571f3c80b4f265a813cadbdd57d22548e920ac",
+      "text": "Why are the keyboards and the telephones not broken?"
+    },
+    "ce2d45ad1ad4f40c722e762c023622e2c302891d8794fbcfdb8962d3dbe0d218": {
+      "bytes": 71096,
+      "path": "/content/de-en/v2/audio-en/8aac028c0b235424521497df806d236f1a96942f788a1c7094da2a5730c0ece8.mp3",
+      "sha256": "8aac028c0b235424521497df806d236f1a96942f788a1c7094da2a5730c0ece8",
+      "text": "After the consultation we had to apply for the job vacancy with my colleague."
+    },
+    "ce929a446ed89b5f130fc5f92a3fac410f30c41d6bedc3df7629f765501d9108": {
+      "bytes": 39749,
+      "path": "/content/de-en/v2/audio-en/0003bc84fcac318593707b98fe3518ad73b8863f6f90abc4991fb1c7c657c18c.mp3",
+      "sha256": "0003bc84fcac318593707b98fe3518ad73b8863f6f90abc4991fb1c7c657c18c",
+      "text": "Can you support him at the sports ground tomorrow?"
+    },
+    "cf286716cc92e9f4efb7d838f90f8c4ce5233b6b405ca52f7216498df9922fa0": {
+      "bytes": 112474,
+      "path": "/content/de-en/v2/audio-en/9cd6c2e340d909ce473e7a493b941edb67748a637066f5cdd0e65956c50e9970.mp3",
+      "sha256": "9cd6c2e340d909ce473e7a493b941edb67748a637066f5cdd0e65956c50e9970",
+      "text": "Tomorrow I would usually visit my male tutor and my female tutor, who teaches in the institute, with juicy fruit."
+    },
+    "d10abdc47cf9a4c91bb3c1eec8b4b07360d0b0fa92341fca401fcda2ea6681ac": {
+      "bytes": 77783,
+      "path": "/content/de-en/v2/audio-en/8d929a6b01aad3905d4a4df887b6845b68d6f2bd3ade66ba178f40985facb6b0.mp3",
+      "sha256": "8d929a6b01aad3905d4a4df887b6845b68d6f2bd3ade66ba178f40985facb6b0",
+      "text": "The more experienced musicians do not rehearse with my conductor in front of a music school."
+    },
+    "d1b11ba7351dc5ef2bd3ea4bb4dc73c7dc74c136ba19adbb86dc9bd69604a0b7": {
+      "bytes": 55213,
+      "path": "/content/de-en/v2/audio-en/29ad1be39a9714f2159603b485523f262c5efe14fbb3c843bab7cc6be59ca09e.mp3",
+      "sha256": "29ad1be39a9714f2159603b485523f262c5efe14fbb3c843bab7cc6be59ca09e",
+      "text": "Today you do not read a transport timetable on the bus."
+    },
+    "d2bbc62dab6aedc17c1dcceff7d1bb2d74f03b7d9b6b567050e5c81d23170f7e": {
+      "bytes": 86560,
+      "path": "/content/de-en/v2/audio-en/e417c5ec6939e101a1f6b80fc938e2ca5d545035846e53ee908d71131b855955.mp3",
+      "sha256": "e417c5ec6939e101a1f6b80fc938e2ca5d545035846e53ee908d71131b855955",
+      "text": "Tomorrow we will read the imaginative fairy tale that you discovered although the wind is strong."
+    },
+    "d5c443d720b3b39e5c99444bec8b0a7f6816ff77c88a60a63937d6b60035eb72": {
+      "bytes": 80709,
+      "path": "/content/de-en/v2/audio-en/6cac8716b485915cd0306f9c79acb948fdeca6e6d268169ca118df71a1d5d10e.mp3",
+      "sha256": "6cac8716b485915cd0306f9c79acb948fdeca6e6d268169ca118df71a1d5d10e",
+      "text": "The more prudent paramedics do not wait with my care worker in front of an ambulance station."
+    },
+    "d70df0f2ad4a100114753be74b8bf8b5e7a6b713215b098f1bba1f7f87427281": {
+      "bytes": 69424,
+      "path": "/content/de-en/v2/audio-en/30fa70bd487130dd6d1f6de25a00de8d1c96e17511f737885ebaae1058edad95.mp3",
+      "sha256": "30fa70bd487130dd6d1f6de25a00de8d1c96e17511f737885ebaae1058edad95",
+      "text": "Tomorrow, at the inn, I would try coarse spice that you recommended."
+    },
+    "d72ebe7d38204c510ba319c79ba314016dc24e210af6c8aa0e95bcda5da19438": {
+      "bytes": 108712,
+      "path": "/content/de-en/v2/audio-en/9a712f60b63bb48b771148b45d3fd7b550fc80aa670a52a23f969baa8ebd01eb.mp3",
+      "sha256": "9a712f60b63bb48b771148b45d3fd7b550fc80aa670a52a23f969baa8ebd01eb",
+      "text": "Tomorrow I would certainly greet my male coach and my female coach, who works in the sports club, with fresh juice."
+    },
+    "d76cfab5311392345b3fa3dc1db331d3eaa6e535b904c84000ec1b3031cc7b7e": {
+      "bytes": 62736,
+      "path": "/content/de-en/v2/audio-en/7d8df20f0e75f764ef9cc81eebb0e34e365e8ba4592d1a1703eb3f0f58401be2.mp3",
+      "sha256": "7d8df20f0e75f764ef9cc81eebb0e34e365e8ba4592d1a1703eb3f0f58401be2",
+      "text": "Yesterday we tried a smoked bacon with my uncle because we were relaxed."
+    },
+    "d7b03a78c2eab8c59cc8be6cd5dae0b3cab01df554b296bdae71165c449c6d58": {
+      "bytes": 50198,
+      "path": "/content/de-en/v2/audio-en/7d011a5b49631056ad7513994e5687f749b29e31d5c39af18626b6ab0e101d73.mp3",
+      "sha256": "7d011a5b49631056ad7513994e5687f749b29e31d5c39af18626b6ab0e101d73",
+      "text": "Everyone, please collect the order in the shop tomorrow!"
+    },
+    "d7f238ba621308c1497fbb76bace699422b93a5f7047f2df93bb762c81fd0b12": {
+      "bytes": 48526,
+      "path": "/content/de-en/v2/audio-en/226d798966708136cc4f8831db846bd3d908dc7378593d00a234988d902a3474.mp3",
+      "sha256": "226d798966708136cc4f8831db846bd3d908dc7378593d00a234988d902a3474",
+      "text": "Everyone, please invite the sister in the garden tomorrow!"
+    },
+    "d943d90d03475e64bceab779bb85934af576201760ef13c5f0db9da5130b2eb0": {
+      "bytes": 72350,
+      "path": "/content/de-en/v2/audio-en/5777c633cc760a038f66307db2f7d3c5eed6529c7328968382c4ed38aca51ccb.mp3",
+      "sha256": "5777c633cc760a038f66307db2f7d3c5eed6529c7328968382c4ed38aca51ccb",
+      "text": "Yesterday we ate a juicy döner kebab with my friend because we were famished."
+    },
+    "d9ae52e7475b365dbdf54a00b684d2722477019557f080fbfae532dc3ee799bb": {
+      "bytes": 35151,
+      "path": "/content/de-en/v2/audio-en/503f851b9b877f62da61de449f537cfa5e077c864d8270305d995bcf540b7c09.mp3",
+      "sha256": "503f851b9b877f62da61de449f537cfa5e077c864d8270305d995bcf540b7c09",
+      "text": "Can you inform him in the shop tomorrow?"
+    },
+    "daedcf3e35a1c591c843d5c0e811243fd36c297553db3905487e67ec5f743601": {
+      "bytes": 85724,
+      "path": "/content/de-en/v2/audio-en/548aa295a56281f3a9e535cb7fb96ae35e818d5092b0351d7154914aee6ced9a.mp3",
+      "sha256": "548aa295a56281f3a9e535cb7fb96ae35e818d5092b0351d7154914aee6ced9a",
+      "text": "Tomorrow, at the health food shop, I would buy unrefined cane sugar that you recommended."
+    },
+    "db3e2624400a38c9b0ba564f0092bc465e2c2abe34fb4dc75a28d0a031264d78": {
+      "bytes": 61065,
+      "path": "/content/de-en/v2/audio-en/5e43032cf930e5de556dcfc1fd0e1c778b2aa42378e64958aeeb0276fe726776.mp3",
+      "sha256": "5e43032cf930e5de556dcfc1fd0e1c778b2aa42378e64958aeeb0276fe726776",
+      "text": "Tomorrow I will order lean poultry for my cook at the farm shop."
+    },
+    "dbd49d5d62a6e8925ba32e0fb3dc691723851d44b7885f4942837de8a055594b": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/d3eaf2c75877a3a80a603c676504d64901628392814a4117e7069ab848391361.mp3",
+      "sha256": "d3eaf2c75877a3a80a603c676504d64901628392814a4117e7069ab848391361",
+      "text": "We do not buy a breathable anorak for my car mechanic if I have enough money."
+    },
+    "ddb935abaa83ea12bd29a877540c1b4cbfaf5c6476f5ce05a05e1671bf8bca4c": {
+      "bytes": 67752,
+      "path": "/content/de-en/v2/audio-en/eae4f7e2e8f40019c4b2aaabcbc8b3b851c49f4c75d511d95d38310cb3a5acd7.mp3",
+      "sha256": "eae4f7e2e8f40019c4b2aaabcbc8b3b851c49f4c75d511d95d38310cb3a5acd7",
+      "text": "Tomorrow, at the restaurant, I would try ground caraway that you ordered."
+    },
+    "e0a1832b3358238a07add11bf81866ff217ae9a1dead726f6e24881319cbf2d9": {
+      "bytes": 78201,
+      "path": "/content/de-en/v2/audio-en/a07dc1e14d5143bfb4e13d0e70dabcda2062fdf3d610f76e6c3e52e62c9b1bde.mp3",
+      "sha256": "a07dc1e14d5143bfb4e13d0e70dabcda2062fdf3d610f76e6c3e52e62c9b1bde",
+      "text": "We do not buy a space-saving drying rack for my preschool teacher if I have enough space."
+    },
+    "e0ae004d3425f820973c9d12292e77c3864e6afdd366b7a7053b013830bb1b0a": {
+      "bytes": 95337,
+      "path": "/content/de-en/v2/audio-en/cbecfc5fd222b4409ace01db5694f33e8d15176a877f3dc4a4ca053c2e8a4482.mp3",
+      "sha256": "cbecfc5fd222b4409ace01db5694f33e8d15176a877f3dc4a4ca053c2e8a4482",
+      "text": "Tomorrow I will visit the knowledgeable technician who works in the laboratory with fragrant coffee."
+    },
+    "e14988184e05a70c83e88ff47cb365a9ff2e8aebd05006c6317f9c894c172550": {
+      "bytes": 66498,
+      "path": "/content/de-en/v2/audio-en/b6a4898f7390bb3a2ad563add058434ac1acc28758f8af6b929025a5f89446a4.mp3",
+      "sha256": "b6a4898f7390bb3a2ad563add058434ac1acc28758f8af6b929025a5f89446a4",
+      "text": "We do not buy a colorful scarf for my programmer if I have enough time."
+    },
+    "e43057a67afbbd44c495828df400782876d8ee61d4ff8ffca09df1dd092d8eb2": {
+      "bytes": 73185,
+      "path": "/content/de-en/v2/audio-en/03fa1614e5eb8d6c82bf10cc58656cb295c2832f42c9bf32b74fae09eee9387f.mp3",
+      "sha256": "03fa1614e5eb8d6c82bf10cc58656cb295c2832f42c9bf32b74fae09eee9387f",
+      "text": "Tomorrow I will order gluten-free oat flour for my grandson at the health food shop."
+    },
+    "e4a40c3239486c9f815e85b25656842b58d9279f98c9310bbb6a5688655a3ef6": {
+      "bytes": 77783,
+      "path": "/content/de-en/v2/audio-en/fb7bc0459634572ec51dd329a1e0910b3096039522062b87451a44181d1b946d.mp3",
+      "sha256": "fb7bc0459634572ec51dd329a1e0910b3096039522062b87451a44181d1b946d",
+      "text": "The more famous orchestras do not rehearse with my music educator in front of a theater."
+    },
+    "e6339b032c3a36e0837c7e8c6784d4ef9fa32f71814af6e53ce842662df942c6": {
+      "bytes": 47272,
+      "path": "/content/de-en/v2/audio-en/bc599d116deb82e6c98c27754406188739c7b899b2d502a6f65a0eba364cf65b.mp3",
+      "sha256": "bc599d116deb82e6c98c27754406188739c7b899b2d502a6f65a0eba364cf65b",
+      "text": "Why are the chests of drawers and the shelves not old?"
+    },
+    "e7d76e631284cfb7b19fc30ea78aa7368827d63f2cad2478ccc6c5a67c2bbb07": {
+      "bytes": 103696,
+      "path": "/content/de-en/v2/audio-en/a0718b8fa8099bcaa8ab888255fffc55e2e1fd0b805c12221a0c110348b6a5a5.mp3",
+      "sha256": "a0718b8fa8099bcaa8ab888255fffc55e2e1fd0b805c12221a0c110348b6a5a5",
+      "text": "Tomorrow I will visit the qualified therapist who practices professionally in the therapy center with soothing tea."
+    },
+    "e846817b3f624f96070fc97e7c58a2348bf109e75648dd2aef5e229b7ded9586": {
+      "bytes": 103696,
+      "path": "/content/de-en/v2/audio-en/d5a61f3585d281df00543cfc07464f5c225732dce1ee4a597d90f513b21d4332.mp3",
+      "sha256": "d5a61f3585d281df00543cfc07464f5c225732dce1ee4a597d90f513b21d4332",
+      "text": "Tomorrow I would probably greet my nephew and my niece, who studies in the youth club, with crisp pastry."
+    },
+    "e8d29a02f84da631bd28003e798c9a478a2c3dc4bda8681dcce7567c673c8a96": {
+      "bytes": 51452,
+      "path": "/content/de-en/v2/audio-en/86bca66742b159001e55c4b6530096b54422d91700ddc0980770cbe6d059ae99.mp3",
+      "sha256": "86bca66742b159001e55c4b6530096b54422d91700ddc0980770cbe6d059ae99",
+      "text": "Everyone, please close the garage in the courtyard tomorrow!"
+    },
+    "ea48b8f9625b1cde7e4480619c3f29a4cbf0de95d3000741913c51947e750057": {
+      "bytes": 49362,
+      "path": "/content/de-en/v2/audio-en/acd7ea1ef4ce70194fe68e90c2c69de6e363a006a8b97f2bcdd0ce310a986325.mp3",
+      "sha256": "acd7ea1ef4ce70194fe68e90c2c69de6e363a006a8b97f2bcdd0ce310a986325",
+      "text": "Everyone, please hang up the jacket in the cellar tomorrow!"
+    },
+    "ebfb8310b11432b663bee5f25a5b84bc28b220d9a2e5c0d61ef26d02f1c859c5": {
+      "bytes": 70260,
+      "path": "/content/de-en/v2/audio-en/cdacfa2708ca921b2f5c2ec4bfb1d304217abeeab7198787fcef9445c5fa0bca.mp3",
+      "sha256": "cdacfa2708ca921b2f5c2ec4bfb1d304217abeeab7198787fcef9445c5fa0bca",
+      "text": "Yesterday we ate a homemade strudel with my brother-in-law because we were satisfied."
+    },
+    "ec661fe457d72b6340f0d1f40e98327affec1e8e27897d6261789ec8863e2972": {
+      "bytes": 56885,
+      "path": "/content/de-en/v2/audio-en/63827e61cb26ac5fbe6d0dd5d7afa8d1f5b8915080b0698e7056a7d04b00c6e1.mp3",
+      "sha256": "63827e61cb26ac5fbe6d0dd5d7afa8d1f5b8915080b0698e7056a7d04b00c6e1",
+      "text": "After the competition we had to wash after sport with my cousin."
+    },
+    "ed8313ca70581eb30af8daab29841bcfa0a62c469284f4fc56861387d74bd7fe": {
+      "bytes": 36823,
+      "path": "/content/de-en/v2/audio-en/f2bc583102d03dd0d29edaa7f58cd795fe0a769ee890e9ec2f5ce75403293e6f.mp3",
+      "sha256": "f2bc583102d03dd0d29edaa7f58cd795fe0a769ee890e9ec2f5ce75403293e6f",
+      "text": "Why are the pears and the peaches not ripe?"
+    },
+    "ef496ba5f994aff6c0a09aadde3b9cfd1352849c64ce362468da00c449400987": {
+      "bytes": 140895,
+      "path": "/content/de-en/v2/audio-en/6f3644fdca96a28c457710f9ce627e32a84e7d2e12a1561648621ac4f2f8bd17.mp3",
+      "sha256": "6f3644fdca96a28c457710f9ce627e32a84e7d2e12a1561648621ac4f2f8bd17",
+      "text": "Tomorrow I would once again visit my male dance partner and my female dance partner, who rehearses in the cultural association, with still water."
+    },
+    "f29cede966b5e91d198c5511fdc42529cbf898f0881bc3b181759dda7f22613d": {
+      "bytes": 65662,
+      "path": "/content/de-en/v2/audio-en/864ee01a05391e32b6d93fde12a0a5e5e35e29d49bde3760dce15611554c8fca.mp3",
+      "sha256": "864ee01a05391e32b6d93fde12a0a5e5e35e29d49bde3760dce15611554c8fca",
+      "text": "After the overnight stay we had to complain about the noise with my neighbor."
+    },
+    "f2bec6739256418066f9fd29984335f2eb3f0abd8575b1eada003ca54bae8860": {
+      "bytes": 61901,
+      "path": "/content/de-en/v2/audio-en/0e00a3fe6cc104a83cf311b6483e2613ef287d4a29757c3604231ce25e757a36.mp3",
+      "sha256": "0e00a3fe6cc104a83cf311b6483e2613ef287d4a29757c3604231ce25e757a36",
+      "text": "Yesterday we ate a fried tuna with my father because we were glad."
+    },
+    "f473683011264a6f9f914fe1189076731a7635d409ddb3f85b9439b802a7a368": {
+      "bytes": 40585,
+      "path": "/content/de-en/v2/audio-en/cc35f08350d02e54fc4ea70986868476ed005314b67d8e7dbff089425164b573.mp3",
+      "sha256": "cc35f08350d02e54fc4ea70986868476ed005314b67d8e7dbff089425164b573",
+      "text": "Do I pay the bill immediately at the restaurant?"
+    },
+    "f47bc121c7959b8a108a6f4b81ef4c7e991cb29b73a5f08d6948df6a0edbca53": {
+      "bytes": 39749,
+      "path": "/content/de-en/v2/audio-en/38f3cec83d65d3b7d56585d9ea08c95918c2a896b4ff53ef55f2734ef5302175.mp3",
+      "sha256": "38f3cec83d65d3b7d56585d9ea08c95918c2a896b4ff53ef55f2734ef5302175",
+      "text": "Can you photograph him in the restaurant tomorrow?"
+    },
+    "f4aabfad40dc43a238c90d99b7a2680326e189a48229851a0497ecbe5e676ddb": {
+      "bytes": 61901,
+      "path": "/content/de-en/v2/audio-en/89df38eb235446cb785c501a43faa5f8448d174213c609a4382e3115f14f2fd7.mp3",
+      "sha256": "89df38eb235446cb785c501a43faa5f8448d174213c609a4382e3115f14f2fd7",
+      "text": "After the move we had to say thank you for the help with my landlady."
+    },
+    "f714a4aa0a63422db1da12342bcbe2e595ffccde7fb4de5a2a813b881670cc42": {
+      "bytes": 53123,
+      "path": "/content/de-en/v2/audio-en/4d51e4249e2f7541254d747e7ff77dca94cc390f8e69b6c3e1652adb67ef47b1.mp3",
+      "sha256": "4d51e4249e2f7541254d747e7ff77dca94cc390f8e69b6c3e1652adb67ef47b1",
+      "text": "Everyone, please bring along the card at school tomorrow!"
+    },
+    "f866226eea3464d40c8835289386cde80ca0a00a8c05dd8a77b8d58c695d0fc6": {
+      "bytes": 44346,
+      "path": "/content/de-en/v2/audio-en/40b6cecb7bd496694c693e9152167e30b270efaf3830d6a921ef3f4e8488ea4b.mp3",
+      "sha256": "40b6cecb7bd496694c693e9152167e30b270efaf3830d6a921ef3f4e8488ea4b",
+      "text": "Do I repair the bicycle carefully in the cellar?"
+    },
+    "fab2f68613d8903729fd01fac79db22aebff011850538c164df1fd990e3f0b3d": {
+      "bytes": 47690,
+      "path": "/content/de-en/v2/audio-en/5db335d935a26df2f339e8af0e0ce90307f4c46795a4a475cfad3d7dc1eccec3.mp3",
+      "sha256": "5db335d935a26df2f339e8af0e0ce90307f4c46795a4a475cfad3d7dc1eccec3",
+      "text": "Today you do not read a dialogue in the classroom."
+    },
+    "fc1c519ba1b1806f95bcadb4de1fb00b4b9ba3ad427eb4ca40993663f86b970e": {
+      "bytes": 58139,
+      "path": "/content/de-en/v2/audio-en/63053a0d88033954b712b4ba6bcc01365590f4a0cb2d4908fd92d587dc818229.mp3",
+      "sha256": "63053a0d88033954b712b4ba6bcc01365590f4a0cb2d4908fd92d587dc818229",
+      "text": "We do not buy a better sweater for my brother if I have enough money."
+    },
+    "fc929e1d36f392136a327f5c96c9e74402f069eec3886f294a612e89c8223866": {
+      "bytes": 95337,
+      "path": "/content/de-en/v2/audio-en/997de43c552b388ef02ce7a1a9557cd0ffcc220d5c443269fc3da438e2bd2955.mp3",
+      "sha256": "997de43c552b388ef02ce7a1a9557cd0ffcc220d5c443269fc3da438e2bd2955",
+      "text": "Tomorrow I will in good time accompany the city guide with my volunteer although the ticket is expensive."
+    },
+    "fda1ecfeb327e5a81a6bd8c6608a95ac70ddd511b0b248fb18d42876ee5f8fb4": {
+      "bytes": 88650,
+      "path": "/content/de-en/v2/audio-en/f4414b3f79afea7b5c47b2b0629ac7125c267e1008476871b7cc53dec6cddb7c.mp3",
+      "sha256": "f4414b3f79afea7b5c47b2b0629ac7125c267e1008476871b7cc53dec6cddb7c",
+      "text": "Tomorrow we will watch the interesting documentary that you recommended although the weather is bad."
+    },
+    "ff0e00d75eb94ee4aaf6dbfd077bc5f66db57cda3be2b64a1168b76d8a5f5ff0": {
+      "bytes": 78201,
+      "path": "/content/de-en/v2/audio-en/7b9b6556fd139c837baf518ef362b739d560f002bd2ddb764929ffbe0a2fcb24.mp3",
+      "sha256": "7b9b6556fd139c837baf518ef362b739d560f002bd2ddb764929ffbe0a2fcb24",
+      "text": "Tomorrow I will bring fresh coffee when I visit the friendly father who lives in Berlin."
+    },
+    "ff803ba2bcfd6315bfb565c1a5a0dfe0f42bed4557f6360c8bc03ebe4bd9fad6": {
+      "bytes": 74021,
+      "path": "/content/de-en/v2/audio-en/06663f8a379bb47bdc879d3bae4f4fd2089a74508d0d26b80449eb8d9d060f35.mp3",
+      "sha256": "06663f8a379bb47bdc879d3bae4f4fd2089a74508d0d26b80449eb8d9d060f35",
+      "text": "We do not buy a translucent roller shutter for my tailor if I have enough patience."
+    }
+  },
+  "language": "en",
+  "packVersion": 2,
+  "schemaVersion": 1
+}

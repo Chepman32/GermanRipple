@@ -1,0 +1,829 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		08345522CF665D2BA5D0D8CF /* RemoteConfigDefaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 375B1C99678655F8288B0402 /* RemoteConfigDefaults.plist */; };
+		125EB6A58673100D81E597F9 /* PurchaseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7445A6E21A417BCB8F9A04 /* PurchaseService.swift */; };
+		1BC06F2CB4510B83952D0CD4 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 9FD5276253C06BCFB1930D86 /* FirebaseCrashlytics */; };
+		1D7B3874260C18EAF50C78AA /* ReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F7FA516BE6239AF95BDB5E /* ReportView.swift */; };
+		1DA84A7F815B8C0A7035388C /* SyncKit in Frameworks */ = {isa = PBXBuildFile; productRef = EEFB2F0DCA6BB2CBA051DEE5 /* SyncKit */; };
+		43403B38E8568386B42F4718 /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC29947E0F5C5E623F737362 /* TodayView.swift */; };
+		466320096A8203B5B0ED18CA /* DesignSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB52F9FFDD4193BB171E93B7 /* DesignSystem.swift */; };
+		48E3D8FAC59E998DE24E5426 /* LearningModel in Frameworks */ = {isa = PBXBuildFile; productRef = B370F138E28C01C4496A387C /* LearningModel */; };
+		4B9B2D4139B83C4DE61308C0 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228A9B35F29DEF2EE944776A /* Settings.swift */; };
+		4D75A64B326F9B8A66ECD789 /* AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4038C1FE0006D1853AA32712 /* AppTests.swift */; };
+		52870A6D12BF09E302ABA8F0 /* RulesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028F341894DDEC71A3D5761F /* RulesView.swift */; };
+		64DFDB6F0553BFAD1CAD724A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499CB21C59E87035BA663B76 /* SettingsView.swift */; };
+		6A220D65727CCDC98E242CBB /* VocabularyExposureRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = A789E8F195FF6052AAE89C87 /* VocabularyExposureRecord.swift */; };
+		7100C380BBA5CAB20AA5D298 /* SummaryViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC26DB392022281852EEABC3 /* SummaryViews.swift */; };
+		79B3A18BBF6771A9DA400AFB /* RippleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D99B3DEFC3BA695017DB7A4 /* RippleUITests.swift */; };
+		87997F728BAFD513CC29CAE1 /* Ripple.storekit in Resources */ = {isa = PBXBuildFile; fileRef = B455683B12CE20B18EDB3EFB /* Ripple.storekit */; };
+		87E21DB1BA076635ED94413F /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1CA4D79C36D371487ED382D /* GalleryView.swift */; };
+		8800052AAF14B6B1ABE3FB74 /* FirebaseServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508C98CA971D8F55734A9EFC /* FirebaseServices.swift */; };
+		920C06343FFB38EB310F7724 /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = 95E14BF3DB4E47F6A3A30297 /* FirebaseRemoteConfig */; };
+		9C7F2277BFF69EFFAA593746 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D9FB77AAA2B5BBC1EC4E90 /* Assets.xcassets */; };
+		9EBB2828BA78B3FCC5E120FD /* audio-catalog.json in Resources */ = {isa = PBXBuildFile; fileRef = 42453EE60FCF88C5E5D1E06C /* audio-catalog.json */; };
+		AAFC0DD1369A4C0F43EB478C /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A096FFE33ABC8CAAEC40BD /* PracticeView.swift */; };
+		B390FE4C0DE414F81388EC8A /* AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC7920A1B0C0F59EB2769CE /* AppStore.swift */; };
+		BD561BB9B532595917A2AE8A /* RippleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B53134C41255C9FECF90A0 /* RippleApp.swift */; };
+		BEA8A7BAA44F063DBD9DB222 /* baseline.json in Resources */ = {isa = PBXBuildFile; fileRef = 7C3D9E796F72839DFF0AF36D /* baseline.json */; };
+		C208455AFB2D72E2F373B22B /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BDB9DC640153B23CE75B195 /* Models.swift */; };
+		C6ED9DFF857E92EEC37B1329 /* Ripple.storekit in Resources */ = {isa = PBXBuildFile; fileRef = B455683B12CE20B18EDB3EFB /* Ripple.storekit */; };
+		C9F2BA707374E1432D41E24A /* FirebaseAnalyticsCore in Frameworks */ = {isa = PBXBuildFile; productRef = 2C87B96842EB09566958A131 /* FirebaseAnalyticsCore */; };
+		D6BFE424B9A34C2303ECAD3D /* ContentKit in Frameworks */ = {isa = PBXBuildFile; productRef = E1AEEDB825B65BC06B0B3F0D /* ContentKit */; };
+		DAECA8EE3C6313DE85EF4FFE /* ReminderService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05123C97AF1A27F3AA6E46D7 /* ReminderService.swift */; };
+		E28BB6BA56FB5422236E4239 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 571365DE4F7CEE2F1F744F70 /* PrivacyInfo.xcprivacy */; };
+		E9E084067D68735097E0C865 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC28B2CCB44229EEEBDEA1B9 /* OnboardingView.swift */; };
+		F050773EC39AEA78E2105F6B /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991BF56408569562428B0B14 /* PaywallView.swift */; };
+		F460108A977095F79FD2A5E0 /* FirebaseAppCheck in Frameworks */ = {isa = PBXBuildFile; productRef = 2319B2C61CA6139D995F8F86 /* FirebaseAppCheck */; };
+		F54942685B1585CFA6E97BBD /* RippleEngine in Frameworks */ = {isa = PBXBuildFile; productRef = ED2EE908276EAC9D52237735 /* RippleEngine */; };
+		F90BD807476F82E96442F236 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = AD9637E64AFDAE9BDB561764 /* FirebaseFirestore */; };
+		FBCA79AA7DE7727DE8476CCF /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = FF3418D4B268B3F0417C6626 /* FirebaseAuth */; };
+		FF58D9D08902D8A88E44016A /* AudioService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF482FB18D53502DAD88E8E /* AudioService.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9DC48214C01CB818CBAC0661 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 13F25AA7DC9417A5FF866EBB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EFDDB322E6AB4CAE2A62415D;
+			remoteInfo = Ripple;
+		};
+		DA91FA51E0085D9ABB3A5CF0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 13F25AA7DC9417A5FF866EBB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EFDDB322E6AB4CAE2A62415D;
+			remoteInfo = Ripple;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		028F341894DDEC71A3D5761F /* RulesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesView.swift; sourceTree = "<group>"; };
+		05123C97AF1A27F3AA6E46D7 /* ReminderService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderService.swift; sourceTree = "<group>"; };
+		0B7445A6E21A417BCB8F9A04 /* PurchaseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseService.swift; sourceTree = "<group>"; };
+		0CFFD69475373A5BF054FAD9 /* RippleCore */ = {isa = PBXFileReference; lastKnownFileType = folder; name = RippleCore; path = Packages/RippleCore; sourceTree = SOURCE_ROOT; };
+		228A9B35F29DEF2EE944776A /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		36A096FFE33ABC8CAAEC40BD /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
+		375B1C99678655F8288B0402 /* RemoteConfigDefaults.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = RemoteConfigDefaults.plist; sourceTree = "<group>"; };
+		39A7B9165411CD0F19CFDE9E /* RippleUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = RippleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D99B3DEFC3BA695017DB7A4 /* RippleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RippleUITests.swift; sourceTree = "<group>"; };
+		4038C1FE0006D1853AA32712 /* AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTests.swift; sourceTree = "<group>"; };
+		42453EE60FCF88C5E5D1E06C /* audio-catalog.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "audio-catalog.json"; sourceTree = "<group>"; };
+		499CB21C59E87035BA663B76 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		4E712CBB849211161FDBF312 /* RippleAppTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = RippleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		508C98CA971D8F55734A9EFC /* FirebaseServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseServices.swift; sourceTree = "<group>"; };
+		571365DE4F7CEE2F1F744F70 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		592C7B4C9A8DFD0BFC569C53 /* Ripple.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Ripple.entitlements; sourceTree = "<group>"; };
+		5BDB9DC640153B23CE75B195 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		7C3D9E796F72839DFF0AF36D /* baseline.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = baseline.json; sourceTree = "<group>"; };
+		892431F4AECA56EF7A21EE1A /* Ripple.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Ripple.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		991BF56408569562428B0B14 /* PaywallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaywallView.swift; sourceTree = "<group>"; };
+		9FF482FB18D53502DAD88E8E /* AudioService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioService.swift; sourceTree = "<group>"; };
+		A789E8F195FF6052AAE89C87 /* VocabularyExposureRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyExposureRecord.swift; sourceTree = "<group>"; };
+		ABC7920A1B0C0F59EB2769CE /* AppStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStore.swift; sourceTree = "<group>"; };
+		B0175DA9A92643BAD36EF7F6 /* Ripple.Release.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Ripple.Release.entitlements; sourceTree = "<group>"; };
+		B1F7FA516BE6239AF95BDB5E /* ReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportView.swift; sourceTree = "<group>"; };
+		B455683B12CE20B18EDB3EFB /* Ripple.storekit */ = {isa = PBXFileReference; path = Ripple.storekit; sourceTree = "<group>"; };
+		C1CA4D79C36D371487ED382D /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		C9D9FB77AAA2B5BBC1EC4E90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CB52F9FFDD4193BB171E93B7 /* DesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem.swift; sourceTree = "<group>"; };
+		CC28B2CCB44229EEEBDEA1B9 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		DC26DB392022281852EEABC3 /* SummaryViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryViews.swift; sourceTree = "<group>"; };
+		E4DB1F794CF0BFF07BD7DCA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E6B53134C41255C9FECF90A0 /* RippleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RippleApp.swift; sourceTree = "<group>"; };
+		FC29947E0F5C5E623F737362 /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D4A5257B38F925D33CBB5C6C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F54942685B1585CFA6E97BBD /* RippleEngine in Frameworks */,
+				48E3D8FAC59E998DE24E5426 /* LearningModel in Frameworks */,
+				D6BFE424B9A34C2303ECAD3D /* ContentKit in Frameworks */,
+				1DA84A7F815B8C0A7035388C /* SyncKit in Frameworks */,
+				FBCA79AA7DE7727DE8476CCF /* FirebaseAuth in Frameworks */,
+				F90BD807476F82E96442F236 /* FirebaseFirestore in Frameworks */,
+				920C06343FFB38EB310F7724 /* FirebaseRemoteConfig in Frameworks */,
+				C9F2BA707374E1432D41E24A /* FirebaseAnalyticsCore in Frameworks */,
+				1BC06F2CB4510B83952D0CD4 /* FirebaseCrashlytics in Frameworks */,
+				F460108A977095F79FD2A5E0 /* FirebaseAppCheck in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		070E07CA6394B7758654F8B4 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				0CFFD69475373A5BF054FAD9 /* RippleCore */,
+			);
+			path = Packages;
+			sourceTree = "<group>";
+		};
+		1DB272BBAB1645541FA4F870 /* Design */ = {
+			isa = PBXGroup;
+			children = (
+				CB52F9FFDD4193BB171E93B7 /* DesignSystem.swift */,
+			);
+			path = Design;
+			sourceTree = "<group>";
+		};
+		2940670DA38449254964EDCB /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				5BDB9DC640153B23CE75B195 /* Models.swift */,
+				A789E8F195FF6052AAE89C87 /* VocabularyExposureRecord.swift */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		600D32A8197127A102E0B28C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C9D9FB77AAA2B5BBC1EC4E90 /* Assets.xcassets */,
+				42453EE60FCF88C5E5D1E06C /* audio-catalog.json */,
+				7C3D9E796F72839DFF0AF36D /* baseline.json */,
+				571365DE4F7CEE2F1F744F70 /* PrivacyInfo.xcprivacy */,
+				375B1C99678655F8288B0402 /* RemoteConfigDefaults.plist */,
+				B455683B12CE20B18EDB3EFB /* Ripple.storekit */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		73001528F3B7C84EA9001DFD /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				9FF482FB18D53502DAD88E8E /* AudioService.swift */,
+				508C98CA971D8F55734A9EFC /* FirebaseServices.swift */,
+				0B7445A6E21A417BCB8F9A04 /* PurchaseService.swift */,
+				05123C97AF1A27F3AA6E46D7 /* ReminderService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		8714CBB7AE0BFB72DF0B04D0 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				F084BB2C314C0D4D70AF17BD /* AppTests */,
+				DB58C665276535A95A3D0842 /* UITests */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		959C40C1087C5123CB20C80C /* App */ = {
+			isa = PBXGroup;
+			children = (
+				E4DB1F794CF0BFF07BD7DCA0 /* Info.plist */,
+				592C7B4C9A8DFD0BFC569C53 /* Ripple.entitlements */,
+				B0175DA9A92643BAD36EF7F6 /* Ripple.Release.entitlements */,
+				C20E15B6581762AB58FAC048 /* Application */,
+				1DB272BBAB1645541FA4F870 /* Design */,
+				B671C830877E7A94909C3207 /* Features */,
+				2940670DA38449254964EDCB /* Persistence */,
+				600D32A8197127A102E0B28C /* Resources */,
+				73001528F3B7C84EA9001DFD /* Services */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		A5A0A57FF6E0194FD4126779 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				892431F4AECA56EF7A21EE1A /* Ripple.app */,
+				4E712CBB849211161FDBF312 /* RippleAppTests.xctest */,
+				39A7B9165411CD0F19CFDE9E /* RippleUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B671C830877E7A94909C3207 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				C1CA4D79C36D371487ED382D /* GalleryView.swift */,
+				CC28B2CCB44229EEEBDEA1B9 /* OnboardingView.swift */,
+				991BF56408569562428B0B14 /* PaywallView.swift */,
+				36A096FFE33ABC8CAAEC40BD /* PracticeView.swift */,
+				B1F7FA516BE6239AF95BDB5E /* ReportView.swift */,
+				028F341894DDEC71A3D5761F /* RulesView.swift */,
+				499CB21C59E87035BA663B76 /* SettingsView.swift */,
+				DC26DB392022281852EEABC3 /* SummaryViews.swift */,
+				FC29947E0F5C5E623F737362 /* TodayView.swift */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		C20E15B6581762AB58FAC048 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				ABC7920A1B0C0F59EB2769CE /* AppStore.swift */,
+				E6B53134C41255C9FECF90A0 /* RippleApp.swift */,
+				228A9B35F29DEF2EE944776A /* Settings.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		D53DC2F020E82C8F1F917A36 = {
+			isa = PBXGroup;
+			children = (
+				959C40C1087C5123CB20C80C /* App */,
+				070E07CA6394B7758654F8B4 /* Packages */,
+				8714CBB7AE0BFB72DF0B04D0 /* Tests */,
+				A5A0A57FF6E0194FD4126779 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DB58C665276535A95A3D0842 /* UITests */ = {
+			isa = PBXGroup;
+			children = (
+				3D99B3DEFC3BA695017DB7A4 /* RippleUITests.swift */,
+			);
+			path = UITests;
+			sourceTree = "<group>";
+		};
+		F084BB2C314C0D4D70AF17BD /* AppTests */ = {
+			isa = PBXGroup;
+			children = (
+				4038C1FE0006D1853AA32712 /* AppTests.swift */,
+			);
+			path = AppTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		85174AE07B109696ABCEAA79 /* RippleUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9C66773F4888386C30977A62 /* Build configuration list for PBXNativeTarget "RippleUITests" */;
+			buildPhases = (
+				0CBFF05E2D6C991468C617F6 /* Sources */,
+				BD74360894E6D2F221491911 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4746D366BB647D626172297B /* PBXTargetDependency */,
+			);
+			name = RippleUITests;
+			packageProductDependencies = (
+			);
+			productName = RippleUITests;
+			productReference = 39A7B9165411CD0F19CFDE9E /* RippleUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		EF2A74875C46727FE25EBDCA /* RippleAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88B62ABA2CF09F7E29AA9CAA /* Build configuration list for PBXNativeTarget "RippleAppTests" */;
+			buildPhases = (
+				2C59BDB5E60079CBA6F37D76 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D715CFE9A510C1C4FDC748BF /* PBXTargetDependency */,
+			);
+			name = RippleAppTests;
+			packageProductDependencies = (
+			);
+			productName = RippleAppTests;
+			productReference = 4E712CBB849211161FDBF312 /* RippleAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EFDDB322E6AB4CAE2A62415D /* Ripple */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4705259BF900F65228E731CB /* Build configuration list for PBXNativeTarget "Ripple" */;
+			buildPhases = (
+				08B7619B098038D746082C9D /* Bundle optional Firebase configuration */,
+				2BC339E5778F2F5FC6B2B635 /* Sources */,
+				E3AD186D213C1A357F7D97F4 /* Resources */,
+				D4A5257B38F925D33CBB5C6C /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Ripple;
+			packageProductDependencies = (
+				ED2EE908276EAC9D52237735 /* RippleEngine */,
+				B370F138E28C01C4496A387C /* LearningModel */,
+				E1AEEDB825B65BC06B0B3F0D /* ContentKit */,
+				EEFB2F0DCA6BB2CBA051DEE5 /* SyncKit */,
+				FF3418D4B268B3F0417C6626 /* FirebaseAuth */,
+				AD9637E64AFDAE9BDB561764 /* FirebaseFirestore */,
+				95E14BF3DB4E47F6A3A30297 /* FirebaseRemoteConfig */,
+				2C87B96842EB09566958A131 /* FirebaseAnalyticsCore */,
+				9FD5276253C06BCFB1930D86 /* FirebaseCrashlytics */,
+				2319B2C61CA6139D995F8F86 /* FirebaseAppCheck */,
+			);
+			productName = Ripple;
+			productReference = 892431F4AECA56EF7A21EE1A /* Ripple.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		13F25AA7DC9417A5FF866EBB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					85174AE07B109696ABCEAA79 = {
+						DevelopmentTeam = WH9D3XTKPT;
+						TestTargetID = EFDDB322E6AB4CAE2A62415D;
+					};
+					EF2A74875C46727FE25EBDCA = {
+						DevelopmentTeam = WH9D3XTKPT;
+					};
+					EFDDB322E6AB4CAE2A62415D = {
+						DevelopmentTeam = WH9D3XTKPT;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 06C6E962152115A914E56BFE /* Build configuration list for PBXProject "Ripple" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = D53DC2F020E82C8F1F917A36;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				DB4E5E218CEE3CCEAF442344 /* XCLocalSwiftPackageReference "Packages/RippleCore" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A5A0A57FF6E0194FD4126779 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EFDDB322E6AB4CAE2A62415D /* Ripple */,
+				EF2A74875C46727FE25EBDCA /* RippleAppTests */,
+				85174AE07B109696ABCEAA79 /* RippleUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BD74360894E6D2F221491911 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87997F728BAFD513CC29CAE1 /* Ripple.storekit in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E3AD186D213C1A357F7D97F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C7F2277BFF69EFFAA593746 /* Assets.xcassets in Resources */,
+				E28BB6BA56FB5422236E4239 /* PrivacyInfo.xcprivacy in Resources */,
+				08345522CF665D2BA5D0D8CF /* RemoteConfigDefaults.plist in Resources */,
+				C6ED9DFF857E92EEC37B1329 /* Ripple.storekit in Resources */,
+				9EBB2828BA78B3FCC5E120FD /* audio-catalog.json in Resources */,
+				BEA8A7BAA44F063DBD9DB222 /* baseline.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		08B7619B098038D746082C9D /* Bundle optional Firebase configuration */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/App/Resources/GoogleService-Info.plist",
+			);
+			name = "Bundle optional Firebase configuration";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(TARGET_BUILD_DIR)/$(UNLOCALIZED_RESOURCES_FOLDER_PATH)/GoogleService-Info.plist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#!/bin/sh\nset -eu\n\n# A clone without the ignored environment file must remain a working offline app.\n# Never leave a previous build's Firebase configuration inside a reused bundle.\nconfig=\"${SRCROOT}/App/Resources/GoogleService-Info.plist\"\ndestination=\"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleService-Info.plist\"\nif [ \"${RIPPLE_BUNDLE_FIREBASE_CONFIGURATION:-YES}\" != \"NO\" ] && [ -f \"${config}\" ]; then\n  mkdir -p \"$(dirname \"${destination}\")\"\n  /bin/cat \"${config}\" > \"${destination}\"\nelse\n  /bin/rm -f \"${destination}\"\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0CBFF05E2D6C991468C617F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79B3A18BBF6771A9DA400AFB /* RippleUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2BC339E5778F2F5FC6B2B635 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B390FE4C0DE414F81388EC8A /* AppStore.swift in Sources */,
+				FF58D9D08902D8A88E44016A /* AudioService.swift in Sources */,
+				466320096A8203B5B0ED18CA /* DesignSystem.swift in Sources */,
+				8800052AAF14B6B1ABE3FB74 /* FirebaseServices.swift in Sources */,
+				87E21DB1BA076635ED94413F /* GalleryView.swift in Sources */,
+				C208455AFB2D72E2F373B22B /* Models.swift in Sources */,
+				E9E084067D68735097E0C865 /* OnboardingView.swift in Sources */,
+				F050773EC39AEA78E2105F6B /* PaywallView.swift in Sources */,
+				AAFC0DD1369A4C0F43EB478C /* PracticeView.swift in Sources */,
+				125EB6A58673100D81E597F9 /* PurchaseService.swift in Sources */,
+				DAECA8EE3C6313DE85EF4FFE /* ReminderService.swift in Sources */,
+				1D7B3874260C18EAF50C78AA /* ReportView.swift in Sources */,
+				BD561BB9B532595917A2AE8A /* RippleApp.swift in Sources */,
+				52870A6D12BF09E302ABA8F0 /* RulesView.swift in Sources */,
+				4B9B2D4139B83C4DE61308C0 /* Settings.swift in Sources */,
+				64DFDB6F0553BFAD1CAD724A /* SettingsView.swift in Sources */,
+				7100C380BBA5CAB20AA5D298 /* SummaryViews.swift in Sources */,
+				43403B38E8568386B42F4718 /* TodayView.swift in Sources */,
+				6A220D65727CCDC98E242CBB /* VocabularyExposureRecord.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C59BDB5E60079CBA6F37D76 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D75A64B326F9B8A66ECD789 /* AppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4746D366BB647D626172297B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EFDDB322E6AB4CAE2A62415D /* Ripple */;
+			targetProxy = 9DC48214C01CB818CBAC0661 /* PBXContainerItemProxy */;
+		};
+		D715CFE9A510C1C4FDC748BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EFDDB322E6AB4CAE2A62415D /* Ripple */;
+			targetProxy = DA91FA51E0085D9ABB3A5CF0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		048D813948D607A295AF4260 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = WH9D3XTKPT;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		1D48F77EEE8310E9C5ADE692 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = app.ripple.RippleUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Ripple;
+			};
+			name = Debug;
+		};
+		33E94C64425B2B30E05643FF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = app.ripple.RippleAppTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ripple.app/Ripple";
+			};
+			name = Release;
+		};
+		39F64BC52981A96043E0CA81 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = WH9D3XTKPT;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE844313D8FB792CAD4C43DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = App/Ripple.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = App/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = app.ripple.grammar;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D0EB632659092AC55FFEF902 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = app.ripple.RippleAppTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ripple.app/Ripple";
+			};
+			name = Debug;
+		};
+		D745876A1E694974AE51B067 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = app.ripple.RippleUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Ripple;
+			};
+			name = Release;
+		};
+		E3107CDA41AF4263ECFA1988 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = App/Ripple.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = App/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = app.ripple.grammar;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		06C6E962152115A914E56BFE /* Build configuration list for PBXProject "Ripple" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39F64BC52981A96043E0CA81 /* Debug */,
+				048D813948D607A295AF4260 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		4705259BF900F65228E731CB /* Build configuration list for PBXNativeTarget "Ripple" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E3107CDA41AF4263ECFA1988 /* Debug */,
+				CE844313D8FB792CAD4C43DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		88B62ABA2CF09F7E29AA9CAA /* Build configuration list for PBXNativeTarget "RippleAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0EB632659092AC55FFEF902 /* Debug */,
+				33E94C64425B2B30E05643FF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9C66773F4888386C30977A62 /* Build configuration list for PBXNativeTarget "RippleUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D48F77EEE8310E9C5ADE692 /* Debug */,
+				D745876A1E694974AE51B067 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		DB4E5E218CEE3CCEAF442344 /* XCLocalSwiftPackageReference "Packages/RippleCore" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/RippleCore;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = exactVersion;
+				version = 13.1.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		2319B2C61CA6139D995F8F86 /* FirebaseAppCheck */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAppCheck;
+		};
+		2C87B96842EB09566958A131 /* FirebaseAnalyticsCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalyticsCore;
+		};
+		95E14BF3DB4E47F6A3A30297 /* FirebaseRemoteConfig */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseRemoteConfig;
+		};
+		9FD5276253C06BCFB1930D86 /* FirebaseCrashlytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCrashlytics;
+		};
+		AD9637E64AFDAE9BDB561764 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		B370F138E28C01C4496A387C /* LearningModel */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = LearningModel;
+		};
+		E1AEEDB825B65BC06B0B3F0D /* ContentKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ContentKit;
+		};
+		ED2EE908276EAC9D52237735 /* RippleEngine */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = RippleEngine;
+		};
+		EEFB2F0DCA6BB2CBA051DEE5 /* SyncKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = SyncKit;
+		};
+		FF3418D4B268B3F0417C6626 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0EA6DB136BDC49FF7DAF239F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 13F25AA7DC9417A5FF866EBB /* Project object */;
+}

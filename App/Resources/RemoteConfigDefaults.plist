@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict><key>content_version_de_en</key><integer>1</integer><key>min_supported_app_version</key><string>1.0.0</string><key>free_daily_chains</key><integer>3</integer><key>paywall_enabled</key><true/><key>peel_free</key><false/><key>maintenance_message</key><string></string><key>sync_enabled</key><true/><key>scheduler_weights</key><string>{"overdue": 3, "weakness": 2, "introduction": 1.5, "overlap": 2, "themeVariety": 0.5}</string></dict></plist>

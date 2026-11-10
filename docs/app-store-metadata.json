@@ -1,0 +1,57 @@
+{
+  "locale": "en-US",
+  "name": "Ripple: German Grammar",
+  "subtitle": "German, one change at a time",
+  "promotionalText": "Build German sentences one small change at a time. Practice A1–B1 grammar offline, see why words change, and hear the result.",
+  "description": "Build German sentences one small change at a time.\n\nStart with a simple sentence. Change its subject, tense or meaning, then fix the words that change with it. Each short chain helps you see how German grammar works together.\n\nPRACTICE GRAMMAR IN CONTEXT\nExplore 240 chains covering 51 A1–B1 rules: verb endings, articles, cases, adjective endings, word order and subordinate clauses. English translations keep the meaning clear.\n\nUNDERSTAND WHAT CHANGED\nChoose forms, arrange words and check your sentence. Specific explanations show why an answer works. Guided help adapts as you gain confidence, and a reveal option keeps you moving. Every action has a tap-based path.\n\nSEE YOUR PROGRESS\nBuild a sentence gallery, revisit a chain’s changes and track your rule strengths. A short daily set brings earlier rules back into practice. Listen to German sentences with on-device speech.\n\nLEARN OFFLINE\nLessons and learning progress work on your device. No account is required. Sign in with Apple only if you want optional progress sync. Analytics and crash reporting are optional and off by default. Export or reset your local progress in Settings.\n\nRIPPLE PRO\nPractice three chains a day for free. Pro adds unlimited chains, focused rule practice and Peel mode, which takes sentences apart in reverse. Choose a monthly or yearly subscription, or a one-time lifetime purchase. Localized prices and any eligible introductory offer are shown before purchase. Subscriptions renew automatically unless canceled in your Apple account settings. Restore Purchases is available in the app.\n\nPrivacy: https://app-support.anton-chepur.chatgpt.site/ripple/privacy/\nSupport: https://app-support.anton-chepur.chatgpt.site/ripple/support/\nTerms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+  "keywords": "german,grammar,learn,sentences,articles,cases,verbs,language,a1,a2,b1,offline,practice",
+  "supportUrl": "https://app-support.anton-chepur.chatgpt.site/ripple/support/",
+  "privacyPolicyUrl": "https://app-support.anton-chepur.chatgpt.site/ripple/privacy/",
+  "copyright": "2026 Aset Gabdullov",
+  "reviewNotes": "Core learning works offline and requires no account. Optional Sign in with Apple is available in Settings for progress sync. To review purchases, open Settings, then Ripple Pro. Monthly and yearly are equivalent Pro subscriptions; only the yearly plan has a seven-day introductory free trial for eligible subscribers. Lifetime is a non-consumable. Restore Purchases is on the paywall and in Settings. The app uses authored deterministic content and on-device speech; there is no runtime AI or user-to-user messaging.",
+  "release": "MANUAL",
+  "products": [
+    {
+      "id": "app.ripple.pro.monthly",
+      "appleId": "6831987981",
+      "type": "monthly",
+      "usd": "5.99",
+      "serviceLevel": 1
+    },
+    {
+      "id": "app.ripple.pro.yearly",
+      "appleId": "6831991511",
+      "type": "yearly",
+      "usd": "39.99",
+      "serviceLevel": 1,
+      "freeTrialDays": 7
+    },
+    {
+      "id": "app.ripple.pro.lifetime",
+      "appleId": "6832005185",
+      "type": "non-consumable",
+      "usd": "79.99"
+    }
+  ],
+  "storefronts": 175,
+  "automaticNewStorefrontAvailability": false,
+  "submissionStatus": "draft; not submitted or released",
+  "remainingOwnerInputs": [
+    "Final privacy disclosures and legal review",
+    "Signed distribution build",
+    "Age rating and content-rights/export declarations",
+    "Editorial and TTS sign-off"
+  ],
+  "reviewContactStatus": "Saved in App Store Connect using the user-approved existing account contact; private details omitted here",
+  "screenshots": {
+    "iphone6_3": 5,
+    "iphone6_9": 5,
+    "ipad13": 5,
+    "source": "docs/app-store-screenshots/",
+    "savedToDraft": true
+  },
+  "baseAppPriceUSD": "0.00",
+  "baseAppStorefronts": 175,
+  "macAvailability": false,
+  "visionProAvailability": false
+}

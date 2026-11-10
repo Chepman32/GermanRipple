@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "content_version_de_en":{"defaultValue":{"value":"1"},"valueType":"NUMBER"},
+    "min_supported_app_version":{"defaultValue":{"value":"1.0.0"},"valueType":"STRING"},
+    "free_daily_chains":{"defaultValue":{"value":"3"},"valueType":"NUMBER"},
+    "paywall_enabled":{"defaultValue":{"value":"true"},"valueType":"BOOLEAN"},
+    "peel_free":{"defaultValue":{"value":"false"},"valueType":"BOOLEAN"},
+    "sync_enabled":{"defaultValue":{"value":"true"},"valueType":"BOOLEAN"},
+    "maintenance_message":{"defaultValue":{"value":""},"valueType":"STRING"},
+    "scheduler_weights":{"defaultValue":{"value":"{\"overdue\":3,\"weakness\":2,\"introduction\":1.5,\"overlap\":2,\"themeVariety\":0.5}"},"valueType":"JSON"}
+  }
+}

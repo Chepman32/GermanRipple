@@ -1,0 +1,197 @@
+{
+  "recordedAt": "2026-11-10",
+  "realAppleSignInAndDeletion": false,
+  "firestoreAppCheckEnforced": true,
+  "sandboxPurchases": false,
+  "privacyPolicyPublished": true,
+  "privacyLegalReviewed": false,
+  "physicalDeviceVoiceOver": false,
+  "physicalDevicePerformance": false,
+  "nativeContentReviewed": false,
+  "betaCrashFreeTarget": false,
+  "signedDistributionArchive": false,
+  "diagnosticsDeliveryVerified": false,
+  "evidence": {
+    "core": {
+      "testsPassed": 33,
+      "lineCoveragePercent": 87.82760629004076,
+      "sourceLinesCovered": 1508,
+      "sourceLinesTotal": 1717,
+      "log": ".build/content-v2-final-core-tests.log",
+      "coverage": ".build/content-v2-coverage.json"
+    },
+    "native": {
+      "appTestsPassed": 8,
+      "uiTestsPassed": 7,
+      "runtime": "iOS 26.1",
+      "result": ".build/ContentV2FinalRegression.xcresult",
+      "log": ".build/content-v2-final-regression.log",
+      "device": "iPhone 16e",
+      "expandedScenarioRegression": {
+        "phoneResult": ".build/ContentV2ScrollPhone.xcresult",
+        "ipadResult": ".build/ContentV2ScrollPad.xcresult",
+        "testCasesPerDevice": 1,
+        "scenariosPerCase": 2,
+        "headingAndExitChecked": true
+      },
+      "priorFullIPadAcceptance": {
+        "uiTestsPassed": 6,
+        "device": "iPad Pro 13-inch (M4)",
+        "result": ".build/StorePadFinal.xcresult"
+      }
+    },
+    "firestoreRules": {
+      "testsPassed": 7,
+      "log": ".build/final-firestore-tests.log",
+      "schemaVersion": 2,
+      "deploymentLog": ".build/firestore-v2-deploy.log"
+    },
+    "liveBackend": {
+      "project": "ripple-grammar-2026",
+      "log": ".build/live-services.json",
+      "temporaryDataCleaned": true
+    },
+    "appCheck": {
+      "service": "firestore.googleapis.com",
+      "enforcementMode": "ENFORCED",
+      "physicalAttestationTested": false
+    },
+    "privacy": {
+      "url": "https://app-support.anton-chepur.chatgpt.site/ripple/privacy/",
+      "siteVersion": 10,
+      "retentionAndExportTestsPassed": true
+    },
+    "releaseBuild": {
+      "unsigned": true,
+      "sizeKiB": 37776,
+      "allocatedBytes": 38682624,
+      "logicalFileBytes": 38398617,
+      "sizeMiB": 36.890625,
+      "log": ".build/audio-release-build-2026-11-10.log",
+      "providerKeyAbsent": true,
+      "audioCatalogVerified": true
+    },
+    "appleProvider": {
+      "configured": true,
+      "serviceId": "app.ripple.grammar.auth",
+      "keyId": "8VMPSRRB8H",
+      "realNativeFlowTested": false
+    },
+    "catalog": {
+      "appId": "6831985594",
+      "products": [
+        "app.ripple.pro.monthly",
+        "app.ripple.pro.yearly",
+        "app.ripple.pro.lifetime"
+      ],
+      "draftOnly": true,
+      "storefronts": 175,
+      "yearlyTrialDays": 7,
+      "reviewContactSaved": true,
+      "englishListingSaved": true,
+      "screenshots": {
+        "iphone6_3": 5,
+        "iphone6_9": 5,
+        "ipad13": 5
+      },
+      "baseAppFree": true,
+      "baseAppStorefronts": 175,
+      "automaticNewStorefrontAvailability": false,
+      "macAvailability": false,
+      "visionProAvailability": false
+    },
+    "compactSync": {
+      "newCompletionFixture": 20000,
+      "legacyCompletionFixture": 20000,
+      "streakYears": 30,
+      "persistedMigrationTested": true,
+      "replayTested": true
+    },
+    "contentV2": {
+      "version": 2,
+      "chains": 240,
+      "steps": 1690,
+      "rules": 51,
+      "usedCanonicalLemmas": 927,
+      "distinctBaseSentences": 238,
+      "distinctFinalSentences": 240,
+      "distinctSentences": 1926,
+      "themes": 12,
+      "minimumChainsPerRule": 14,
+      "noChangeSteps": 240,
+      "gzipBytes": 111750,
+      "automatedEditorialWarnings": 0,
+      "nativeSignoffs": 0,
+      "vocabularyBandReview": "provisional author assignment; native CEFR review required",
+      "qualityReport": "content/quality-report.json",
+      "reproducibilityLog": ".build/content-v2-reproducibility.log",
+      "remoteDeployed": false,
+      "remoteConfigVersionChanged": false,
+      "publishedVersion1UnitHashesVerified": 12
+    },
+    "recordedSpeech": {
+      "provider": "ElevenLabs",
+      "verifiedAt": "2026-11-10",
+      "voiceName": "Andy Uliczka",
+      "modelId": "eleven_multilingual_v2",
+      "authoringTestsPassed": 10,
+      "testLog": ".build/audio-authoring-2026-11-10-tests.log",
+      "preflightLog": ".build/elevenlabs-inspect-2026-11-10.log",
+      "preflightOutcome": "Live account, voice, and speech model metadata verified",
+      "paidGenerationRequests": 240,
+      "generatedClips": 240,
+      "bundledCatalogClips": 240,
+      "finalPlan": {
+        "uniqueSentences": 240,
+        "textCharacters": 18801
+      },
+      "allPlan": {
+        "uniqueSentences": 1926,
+        "textCharacters": 98149
+      },
+      "availableCreditsBefore": 35672,
+      "creditsUsed": 7523,
+      "availableCreditsAfter": 28149,
+      "accountBalanceLog": ".build/elevenlabs-balance-2026-11-10.json",
+      "catalogSHA256": "ae3492b6d04206d5085c16353e25e763cb606485e5650e657aee9e4f8543f7e6",
+      "stagedAssetBytes": 15402398,
+      "fullDecodeVerifiedClips": 240,
+      "appRenderedTextMatchedClips": 240,
+      "avAudioPlayerOpenedClips": 240,
+      "fileValidationLog": ".build/elevenlabs-finals-validation-2026-11-10.json",
+      "cacheValidationLog": ".build/ripple-audio-validation-2026-11-10.log",
+      "nativeListeningReviewed": false,
+      "realProviderGenerationVerified": true,
+      "generatedPlaybackVerified": false,
+      "remoteDeployed": false,
+      "fallback": "on-device German speech"
+    },
+    "releaseGateLog": ".build/content-v2-release-gates.log",
+    "englishRecordedSpeech": {
+      "language": "en",
+      "provider": "ElevenLabs",
+      "verifiedAt": "2026-11-10",
+      "voiceName": "Matilda",
+      "accent": "American English",
+      "modelId": "eleven_multilingual_v2",
+      "generatedClips": 240,
+      "germanCounterpartMatches": 240,
+      "textCharacters": 17825,
+      "fullDecodeVerifiedClips": 240,
+      "authoringTestsPassed": 12,
+      "authoringTestsLog": ".build/english-audio-authoring-2026-11-10-tests.log",
+      "availableCreditsBefore": 28149,
+      "creditsUsed": 7134,
+      "availableCreditsAfter": 21015,
+      "providerHistoryMatchedRequests": 240,
+      "accountReconciliationLog": ".build/elevenlabs-english-reconciliation-2026-11-10.json",
+      "stagedAssetBytes": 16068628,
+      "catalogSHA256": "af7f0edd6fcc78f880dfd57054484ac4aa2057eff94115bfb8483468280c57f4",
+      "catalogPath": "firebase/public/content/de-en/v2/audio-catalog-en.json",
+      "recordingManifest": "content/audio/en/recordings.json",
+      "fileValidationLog": ".build/english-recordings-validation-2026-11-10.json",
+      "nativeListeningReviewed": false,
+      "remoteDeployed": false
+    }
+  }
+}

@@ -1,0 +1,635 @@
+lemma	gender	plural	en	plural_en	oblique
+Brief	m	Briefe	letter	letters	
+Zettel	m	Zettel	note	notes	
+Text	m	Texte	text	texts	
+Plan	m	Pläne	plan	plans	
+Satz	m	Sätze	sentence	sentences	
+Name	m	Namen	name	names	Namen
+Preis	m	Preise	price	prices	
+Stadtplan	m	Stadtpläne	city map	city maps	
+Pass	m	Pässe	passport	passports	
+Ausweis	m	Ausweise	identity card	identity cards	
+Kalender	m	Kalender	calendar	calendars	
+Stundenplan	m	Stundenpläne	timetable	timetables	
+Bericht	m	Berichte	report	reports	
+Artikel	m	Artikel	article	articles	
+Roman	m	Romane	novel	novels	
+Dialog	m	Dialoge	dialogue	dialogues	
+Prospekt	m	Prospekte	brochure	brochures	
+Fahrplan	m	Fahrpläne	transport timetable	transport timetables	
+Einkaufszettel	m	Einkaufszettel	shopping list	shopping lists	
+Kassenbon	m	Kassenbons	receipt	receipts	
+Gruß	m	Grüße	greeting	greetings	
+Wunsch	m	Wünsche	wish	wishes	
+Liedtext	m	Liedtexte	song lyric	song lyrics	
+Hinweis	m	Hinweise	instruction	instructions	
+Kurs	m	Kurse	course	courses	
+Kommentar	m	Kommentare	comment	comments	
+Schule	f	Schulen	school	schools	
+Bibliothek	f	Bibliotheken	library	libraries	
+Klassenzimmer	n	Klassenzimmer	classroom	classrooms	
+Hotel	n	Hotels	hotel	hotels	
+Büro	n	Büros	office	offices	
+Bus	m	Busse	bus	buses	
+Zug	m	Züge	train	trains	
+Küche	f	Küchen	kitchen	kitchens	
+Wohnzimmer	n	Wohnzimmer	living room	living rooms	
+Garten	m	Gärten	garden	gardens	
+Café	n	Cafés	café	cafés	
+Geschäft	n	Geschäfte	shop	shops	
+Bahnhof	m	Bahnhöfe	station	stations	
+Wohnung	f	Wohnungen	apartment	apartments	
+Lehrer	m	Lehrer	teacher	teachers	
+Trainer	m	Trainer	coach	coaches	
+Nachbar	m	Nachbarn	neighbor	neighbors	Nachbarn
+Freund	m	Freunde	friend	friends	
+Arzt	m	Ärzte	doctor	doctors	
+Zahnarzt	m	Zahnärzte	dentist	dentists	
+Verkäufer	m	Verkäufer	salesperson	salespeople	
+Kunde	m	Kunden	customer	customers	Kunden
+Fahrer	m	Fahrer	driver	drivers	
+Gast	m	Gäste	guest	guests	
+Koch	m	Köche	cook	cooks	
+Kellner	m	Kellner	waiter	waiters	
+Chef	m	Chefs	manager	managers	
+Kollege	m	Kollegen	colleague	colleagues	Kollegen
+Onkel	m	Onkel	uncle	uncles	
+Vater	m	Väter	father	fathers	
+Bruder	m	Brüder	brother	brothers	
+Sohn	m	Söhne	son	sons	
+Opa	m	Opas	grandfather	grandfathers	
+Partner	m	Partner	partner	partners	
+Polizist	m	Polizisten	police officer	police officers	Polizisten
+Tourist	m	Touristen	tourist	tourists	Touristen
+Musiker	m	Musiker	musician	musicians	
+Sänger	m	Sänger	singer	singers	
+Schüler	m	Schüler	pupil	pupils	
+Student	m	Studenten	student	students	Studenten
+Schwester	f	Schwestern	sister	sisters	
+Mutter	f	Mütter	mother	mothers	
+Tante	f	Tanten	aunt	aunts	
+Tochter	f	Töchter	daughter	daughters	
+Praxis	f	Praxen	medical practice	medical practices	
+Restaurant	n	Restaurants	restaurant	restaurants	
+Schwimmbad	n	Schwimmbäder	swimming pool	swimming pools	
+Flughafen	m	Flughäfen	airport	airports	
+Supermarkt	m	Supermärkte	supermarket	supermarkets	
+Park	m	Parks	park	parks	
+Markt	m	Märkte	market	markets	
+Kino	n	Kinos	cinema	cinemas	
+Krankenhaus	n	Krankenhäuser	hospital	hospitals	
+Sportplatz	m	Sportplätze	sports ground	sports grounds	
+Tisch	m	Tische	table	tables	
+Lampe	f	Lampen	lamp	lamps	
+Stuhl	m	Stühle	chair	chairs	
+Löffel	m	Löffel	spoon	spoons	
+Gabel	f	Gabeln	fork	forks	
+Messer	n	Messer	knife	knives	
+Teller	m	Teller	plate	plates	
+Tasse	f	Tassen	cup	cups	
+Glas	n	Gläser	glass	glasses	
+Schlüssel	m	Schlüssel	key	keys	
+Flasche	f	Flaschen	bottle	bottles	
+Dose	f	Dosen	can	cans	
+Schrank	m	Schränke	wardrobe	wardrobes	
+Kommode	f	Kommoden	chest of drawers	chests of drawers	
+Regal	n	Regale	shelf	shelves	
+Spiegel	m	Spiegel	mirror	mirrors	
+Scheibe	f	Scheiben	pane	panes	
+Fenster	n	Fenster	window	windows	
+Schuh	m	Schuhe	shoe	shoes	
+Socke	f	Socken	sock	socks	
+Stiefel	m	Stiefel	boot	boots	
+Mantel	m	Mäntel	coat	coats	
+Jacke	f	Jacken	jacket	jackets	
+Hemd	n	Hemden	shirt	shirts	
+Teppich	m	Teppiche	rug	rugs	
+Decke	f	Decken	blanket	blankets	
+Kissen	n	Kissen	cushion	cushions	
+Apfel	m	Äpfel	apple	apples	
+Birne	f	Birnen	pear	pears	
+Pfirsich	m	Pfirsiche	peach	peaches	
+Kuchen	m	Kuchen	cake	cakes	
+Torte	f	Torten	layer cake	layer cakes	
+Keks	m	Kekse	cookie	cookies	
+Koffer	m	Koffer	suitcase	suitcases	
+Tasche	f	Taschen	bag	bags	
+Rucksack	m	Rucksäcke	backpack	backpacks	
+Bildschirm	m	Bildschirme	monitor	monitors	
+Tastatur	f	Tastaturen	keyboard	keyboards	
+Telefon	n	Telefone	telephone	telephones	
+Topf	m	Töpfe	pot	pots	
+Pfanne	f	Pfannen	frying pan	frying pans	
+Schüssel	f	Schüsseln	bowl	bowls	
+Stift	m	Stifte	pen	pens	
+Karte	f	Karten	card	cards	
+Heft	n	Hefte	notebook	notebooks	
+Radio	n	Radios	radio	radios	
+Fernseher	m	Fernseher	television	televisions	
+Licht	n	Lichter	light	lights	
+Tür	f	Türen	door	doors	
+Tor	n	Tore	gate	gates	
+Garage	f	Garagen	garage	garages	
+Buch	n	Bücher	book	books	
+Geschenk	n	Geschenke	gift	gifts	
+Paket	n	Pakete	parcel	parcels	
+Bestellung	f	Bestellungen	order	orders	
+Zimmer	n	Zimmer	room	rooms	
+Formular	n	Formulare	form	forms	
+Liste	f	Listen	list	lists	
+Verpackung	f	Verpackungen	packaging	packages	
+Schlafzimmer	n	Schlafzimmer	bedroom	bedrooms	
+Bad	n	Bäder	bathroom	bathrooms	
+Flur	m	Flure	hallway	hallways	
+Keller	m	Keller	cellar	cellars	
+Balkon	m	Balkone	balcony	balconies	
+Hof	m	Höfe	courtyard	courtyards	
+Eingang	m	Eingänge	entrance	entrances	
+Werkstatt	f	Werkstätten	workshop	workshops	
+Briefkasten	m	Briefkästen	mailbox	mailboxes	
+Adresse	f	Adressen	address	addresses	
+Hausaufgabe	f	Hausaufgaben	homework exercise	homework exercises	
+Rechnung	f	Rechnungen	bill	bills	
+Fahrrad	n	Fahrräder	bicycle	bicycles	
+Spielzeug	n	Spielzeuge	toy	toys	
+Pflanze	f	Pflanzen	plant	plants	
+Aufgabe	f	Aufgaben	task	tasks	
+Frühstück	n	Frühstücke	breakfast	breakfasts	
+Abendessen	n	Abendessen	dinner	dinners	
+Foto	n	Fotos	photograph	photographs	
+Blume	f	Blumen	flower	flowers	
+Geburtstag	m	Geburtstage	birthday	birthdays	
+Unterricht	m	-	class	classes	
+Schreibtisch	m	Schreibtische	desk	desks	
+Erdgeschoss	n	Erdgeschosse	ground floor	ground floors	
+Terrasse	f	Terrassen	terrace	terraces	
+Esszimmer	n	Esszimmer	dining room	dining rooms	
+Kaffee	m	Kaffees	coffee	coffees	
+Tee	m	Tees	tea	teas	
+Salat	m	Salate	salad	salads	
+Auflauf	m	Aufläufe	casserole	casseroles	
+Strudel	m	Strudel	strudel	strudels	
+Eintopf	m	Eintöpfe	stew	stews	
+Braten	m	Braten	roast	roasts	
+Fisch	m	Fische	fish	fish	
+Reis	m	-	rice	types of rice	
+Pfannkuchen	m	Pfannkuchen	pancake	pancakes	
+Pudding	m	Puddings	pudding	puddings	
+Zwieback	m	Zwiebacke	rusk	rusks	
+Joghurt	m	Joghurts	yogurt	yogurts	
+Quark	m	-	quark	types of quark	
+Saft	m	Säfte	juice	juices	
+Smoothie	m	Smoothies	smoothie	smoothies	
+Kakao	m	Kakaos	cocoa	cocoas	
+Cappuccino	m	Cappuccinos	cappuccino	cappuccinos	
+Toast	m	Toasts	toast	toasts	
+Wrap	m	Wraps	wrap	wraps	
+Burger	m	Burger	burger	burgers	
+Döner	m	Döner	döner kebab	döner kebabs	
+Honig	m	Honige	honey	types of honey	
+Sirup	m	Sirupe	syrup	syrups	
+Schinken	m	Schinken	ham	hams	
+Speck	m	-	bacon	types of bacon	
+Lachs	m	Lachse	salmon	salmon	
+Thunfisch	m	Thunfische	tuna	tuna	
+Mais	m	-	corn	types of corn	
+Spinat	m	-	spinach	types of spinach	
+Brokkoli	m	Brokkolis	broccoli	broccolis	
+Blumenkohl	m	Blumenkohle	cauliflower	cauliflowers	
+Käse	m	Käse	cheese	cheeses	
+Tofu	m	Tofus	tofu	tofus	
+Suppe	f	Suppen	soup	soups	
+Wurst	f	Würste	sausage	sausages	
+Brot	n	Brote	bread	breads	
+Gebäck	n	Gebäcke	pastry	pastries	
+Treffen	n	Treffen	meeting	meetings	
+Probe	f	Proben	rehearsal	rehearsals	
+Vorlesung	f	Vorlesungen	lecture	lectures	
+Wanderung	f	Wanderungen	hike	hikes	
+Training	n	Trainings	training session	training sessions	
+Besprechung	f	Besprechungen	discussion	discussions	
+Prüfung	f	Prüfungen	examination	examinations	
+Führung	f	Führungen	guided tour	guided tours	
+Schicht	f	Schichten	work shift	work shifts	
+Reise	f	Reisen	journey	journeys	
+Radtour	f	Radtouren	bicycle tour	bicycle tours	
+Konzert	n	Konzerte	concert	concerts	
+Ausflug	m	Ausflüge	excursion	excursions	
+Spaziergang	m	Spaziergänge	walk	walks	
+Wettbewerb	m	Wettbewerbe	competition	competitions	
+Vorstellung	f	Vorstellungen	performance	performances	
+Feier	f	Feiern	celebration	celebrations	
+Einkauf	m	Einkäufe	shopping trip	shopping trips	
+Fahrt	f	Fahrten	ride	rides	
+Umzug	m	Umzüge	move	moves	
+Mitbewohner	m	Mitbewohner	roommate	roommates	
+Mitbewohnerin	f	Mitbewohnerinnen	roommate	roommates	
+Bekannter	m	Bekannte	acquaintance	acquaintances	Bekannten
+Bekannte	f	Bekannte	acquaintance	acquaintances	Bekannten
+Schwiegervater	m	Schwiegerväter	father-in-law	fathers-in-law	
+Schwiegermutter	f	Schwiegermütter	mother-in-law	mothers-in-law	
+Schwager	m	Schwäger	brother-in-law	brothers-in-law	
+Schwägerin	f	Schwägerinnen	sister-in-law	sisters-in-law	
+Enkel	m	Enkel	grandson	grandsons	
+Enkelin	f	Enkelinnen	granddaughter	granddaughters	
+Cousin	m	Cousins	cousin	cousins	
+Cousine	f	Cousinen	cousin	cousins	
+Freundin	f	Freundinnen	friend	friends	
+Kollegin	f	Kolleginnen	colleague	colleagues	
+Nachbarin	f	Nachbarinnen	neighbor	neighbors	
+Oma	f	Omas	grandmother	grandmothers	
+Nichte	f	Nichten	niece	nieces	
+Neffe	m	Neffen	nephew	nephews	Neffen
+Vermieter	m	Vermieter	landlord	landlords	
+Vermieterin	f	Vermieterinnen	landlady	landladies	
+Hafen	m	Häfen	harbor	harbors	
+Wald	m	Wälder	forest	forests	
+Innenhof	m	Innenhöfe	inner courtyard	inner courtyards	
+Wartesaal	m	Wartesäle	waiting hall	waiting halls	
+Aufenthaltsraum	m	Aufenthaltsräume	common room	common rooms	
+Speisesaal	m	Speisesäle	dining hall	dining halls	
+Konferenzraum	m	Konferenzräume	conference room	conference rooms	
+Lesesaal	m	Lesesäle	reading room	reading rooms	
+Seminarraum	m	Seminarräume	seminar room	seminar rooms	
+Empfangsbereich	m	Empfangsbereiche	reception area	reception areas	
+Ausstellungsraum	m	Ausstellungsräume	exhibition room	exhibition rooms	
+Proberaum	m	Proberäume	rehearsal room	rehearsal rooms	
+Fitnessraum	m	Fitnessräume	fitness room	fitness rooms	
+Gartenpavillon	m	Gartenpavillons	garden pavilion	garden pavilions	
+Gemeindesaal	m	Gemeindesäle	community hall	community halls	
+Stadtgarten	m	Stadtgärten	municipal garden	municipal gardens	
+Wintergarten	m	Wintergärten	conservatory	conservatories	
+Campingplatz	m	Campingplätze	campsite	campsites	
+Spielplatz	m	Spielplätze	playground	playgrounds	
+Innenraum	m	Innenräume	interior	interiors	
+Museum	n	Museen	museum	museums	
+Theater	n	Theater	theater	theaters	
+Postamt	n	Postämter	post office	post offices	
+Rathaus	n	Rathäuser	town hall	town halls	
+Kulturzentrum	n	Kulturzentren	cultural center	cultural centers	
+Jugendzentrum	n	Jugendzentren	youth center	youth centers	
+Besucherzentrum	n	Besucherzentren	visitor center	visitor centers	
+Gästehaus	n	Gästehäuser	guesthouse	guesthouses	
+Ferienhaus	n	Ferienhäuser	holiday house	holiday houses	
+Hostel	n	Hostels	hostel	hostels	
+Sportzentrum	n	Sportzentren	sports center	sports centers	
+Einkaufszentrum	n	Einkaufszentren	shopping center	shopping centers	
+Verkehrsmuseum	n	Verkehrsmuseen	transport museum	transport museums	
+Schloss	n	Schlösser	palace	palaces	
+Gasthaus	n	Gasthäuser	inn	inns	
+Gemeindehaus	n	Gemeindehäuser	community center	community centers	
+Stadion	n	Stadien	stadium	stadiums	
+Freibad	n	Freibäder	outdoor swimming pool	outdoor swimming pools	
+Hallenbad	n	Hallenbäder	indoor swimming pool	indoor swimming pools	
+Gewerbegebiet	n	Gewerbegebiete	business park	business parks	
+Besucher	m	Besucher	visitor	visitors	
+Mitarbeiter	m	Mitarbeiter	employee	employees	
+Teilnehmer	m	Teilnehmer	participant	participants	
+Passagier	m	Passagiere	passenger	passengers	
+Sportler	m	Sportler	athlete	athletes	
+Wanderer	m	Wanderer	hiker	hikers	
+Radfahrer	m	Radfahrer	cyclist	cyclists	
+Mitspieler	m	Mitspieler	fellow player	fellow players	
+Tänzer	m	Tänzer	dancer	dancers	
+Helfer	m	Helfer	helper	helpers	
+Begleiter	m	Begleiter	companion	companions	
+Betreuer	m	Betreuer	supervisor	supervisors	
+Zuschauer	m	Zuschauer	spectator	spectators	
+Fotograf	m	Fotografen	photographer	photographers	Fotografen
+Dolmetscher	m	Dolmetscher	interpreter	interpreters	
+Forscher	m	Forscher	researcher	researchers	
+Reisender	m	Reisende	traveler	travelers	Reisenden
+Techniker	m	Techniker	technician	technicians	
+Ingenieur	m	Ingenieure	engineer	engineers	
+Regenmantel	m	Regenmäntel	raincoat	raincoats	
+Anorak	m	Anoraks	anorak	anoraks	
+Schlafsack	m	Schlafsäcke	sleeping bag	sleeping bags	
+Schirm	m	Schirme	umbrella	umbrellas	
+Kugelschreiber	m	Kugelschreiber	ballpoint pen	ballpoint pens	
+Bleistift	m	Bleistifte	pencil	pencils	
+Füller	m	Füller	fountain pen	fountain pens	
+Ordner	m	Ordner	binder	binders	
+Notizblock	m	Notizblöcke	notepad	notepads	
+Zeichenblock	m	Zeichenblöcke	sketchpad	sketchpads	
+Bohrer	m	Bohrer	drill	drills	
+Hammer	m	Hämmer	hammer	hammers	
+Schraubenzieher	m	Schraubenzieher	screwdriver	screwdrivers	
+Pinsel	m	Pinsel	paintbrush	paintbrushes	
+Staubsauger	m	Staubsauger	vacuum cleaner	vacuum cleaners	
+Besen	m	Besen	broom	brooms	
+Eimer	m	Eimer	bucket	buckets	
+Wäscheständer	m	Wäscheständer	drying rack	drying racks	
+Wasserkocher	m	Wasserkocher	kettle	kettles	
+Toaster	m	Toaster	toaster	toasters	
+Mixer	m	Mixer	blender	blenders	
+Entsafter	m	Entsafter	juicer	juicers	
+Drucker	m	Drucker	printer	printers	
+Scanner	m	Scanner	scanner	scanners	
+Router	m	Router	router	routers	
+Lautsprecher	m	Lautsprecher	speaker	speakers	
+Kopfhörer	m	Kopfhörer	headphone	headphones	
+Adapter	m	Adapter	adapter	adapters	
+Gürtel	m	Gürtel	belt	belts	
+Schal	m	Schals	scarf	scarves	
+Handschuh	m	Handschuhe	glove	gloves	
+Hausschuh	m	Hausschuhe	slipper	slippers	
+Sessel	m	Sessel	armchair	armchairs	
+Hocker	m	Hocker	stool	stools	
+Vorhang	m	Vorhänge	curtain	curtains	
+Rollladen	m	Rollläden	roller shutter	roller shutters	
+Blumentopf	m	Blumentöpfe	flowerpot	flowerpots	
+Kerzenhalter	m	Kerzenhalter	candleholder	candleholders	
+Wecker	m	Wecker	alarm clock	alarm clocks	
+Ventilator	m	Ventilatoren	fan	fans	
+Automechaniker	m	Automechaniker	car mechanic	car mechanics	
+Elektriker	m	Elektriker	electrician	electricians	
+Bäcker	m	Bäcker	baker	bakers	
+Friseur	m	Friseure	hairdresser	hairdressers	
+Gärtner	m	Gärtner	gardener	gardeners	
+Hausmeister	m	Hausmeister	caretaker	caretakers	
+Sekretär	m	Sekretäre	secretary	secretaries	
+Assistent	m	Assistenten	assistant	assistants	Assistenten
+Erzieher	m	Erzieher	preschool teacher	preschool teachers	
+Pfleger	m	Pfleger	care worker	care workers	
+Rezeptionist	m	Rezeptionisten	receptionist	receptionists	Rezeptionisten
+Briefträger	m	Briefträger	mail carrier	mail carriers	
+Taxifahrer	m	Taxifahrer	taxi driver	taxi drivers	
+Busfahrer	m	Busfahrer	bus driver	bus drivers	
+Programmierer	m	Programmierer	programmer	programmers	
+Designer	m	Designer	designer	designers	
+Lagerarbeiter	m	Lagerarbeiter	warehouse worker	warehouse workers	
+Schneider	m	Schneider	tailor	tailors	
+Zeit	f	Zeiten	time	times	
+Geld	n	Gelder	money	funds	
+Platz	m	Plätze	space	spaces	
+Geduld	f	-	patience	tests of patience	
+Energie	f	Energien	energy	energies	
+Ergebnis	n	Ergebnisse	result	results	
+Verspätung	f	Verspätungen	delay	delays	
+Antwort	f	Antworten	answer	answers	
+Sport	m	-	sport	sports	
+Termin	m	Termine	appointment	appointments	
+Grippe	f	-	flu	cases of flu	
+Busverbindung	f	Busverbindungen	bus connection	bus connections	
+Hilfe	f	-	help	forms of help	
+Gespräch	n	Gespräche	conversation	conversations	
+Geschichte	f	Geschichten	story	stories	
+Fehler	m	Fehler	mistake	mistakes	
+Lärm	m	-	noise	noise sources	
+Stelle	f	Stellen	job vacancy	job vacancies	
+Abfahrt	f	Abfahrten	departure	departures	
+Öffnungszeit	f	Öffnungszeiten	opening time	opening times	
+Rhythmus	m	Rhythmen	rhythm	rhythms	
+Ausstellung	f	Ausstellungen	exhibition	exhibitions	
+Sprachkurs	m	Sprachkurse	language course	language courses	
+Reparatur	f	Reparaturen	repair	repairs	
+Abschluss	m	Abschlüsse	completion	completions	
+Rückkehr	f	-	return	returns	
+Ankunft	f	Ankünfte	arrival	arrivals	
+Pause	f	Pausen	break	breaks	
+Arbeitstag	m	Arbeitstage	working day	working days	
+Urlaub	m	Urlaube	vacation	vacations	
+Operation	f	Operationen	operation	operations	
+Behandlung	f	Behandlungen	treatment	treatments	
+Umfrage	f	Umfragen	survey	surveys	
+Interview	n	Interviews	interview	interviews	
+Anmeldung	f	Anmeldungen	registration	registrations	
+Absage	f	Absagen	cancellation	cancellations	
+Zusage	f	Zusagen	acceptance	acceptances	
+Präsentation	f	Präsentationen	presentation	presentations	
+Beratung	f	Beratungen	consultation	consultations	
+Übernachtung	f	Übernachtungen	overnight stay	overnight stays	
+Besuch	m	Besuche	visit	visits	
+Tanzkurs	m	Tanzkurse	dance course	dance courses	
+Fahrstunde	f	Fahrstunden	driving lesson	driving lessons	
+Lehrerin	f	Lehrerinnen	teacher	teachers	
+Trainerin	f	Trainerinnen	coach	coaches	
+Ärztin	f	Ärztinnen	doctor	doctors	
+Berater	m	Berater	adviser	advisers	
+Beraterin	f	Beraterinnen	adviser	advisers	
+Klassenkamerad	m	Klassenkameraden	classmate	classmates	Klassenkameraden
+Klassenkameradin	f	Klassenkameradinnen	classmate	classmates	
+Arbeitskollege	m	Arbeitskollegen	work colleague	work colleagues	Arbeitskollegen
+Arbeitskollegin	f	Arbeitskolleginnen	work colleague	work colleagues	
+Mitbewohnerpaar	n	Mitbewohnerpaare	roommate pair	roommate pairs	
+Kommilitone	m	Kommilitonen	fellow university student	fellow university students	Kommilitonen
+Kommilitonin	f	Kommilitoninnen	fellow university student	fellow university students	
+Teamkollege	m	Teamkollegen	teammate	teammates	Teamkollegen
+Teamkollegin	f	Teamkolleginnen	teammate	teammates	
+Nachhilfelehrer	m	Nachhilfelehrer	tutor	tutors	
+Nachhilfelehrerin	f	Nachhilfelehrerinnen	tutor	tutors	
+Tanzpartner	m	Tanzpartner	dance partner	dance partners	
+Tanzpartnerin	f	Tanzpartnerinnen	dance partner	dance partners	
+Reisebegleiter	m	Reisebegleiter	travel companion	travel companions	
+Reisebegleiterin	f	Reisebegleiterinnen	travel companion	travel companions	
+Betreuerin	f	Betreuerinnen	supervisor	supervisors	
+Pflegerin	f	Pflegerinnen	care worker	care workers	
+Dolmetscherin	f	Dolmetscherinnen	interpreter	interpreters	
+Schulfreund	m	Schulfreunde	school friend	school friends	
+Schulfreundin	f	Schulfreundinnen	school friend	school friends	
+Kind	n	Kinder	child	children	
+Jugendlicher	m	Jugendliche	teenager	teenagers	Jugendlichen
+Rentner	m	Rentner	retiree	retirees	
+Lehrling	m	Lehrlinge	apprentice	apprentices	
+Anfänger	m	Anfänger	beginner	beginners	
+Profi	m	Profis	professional	professionals	
+Chor	m	Chöre	choir	choirs	
+Mannschaft	f	Mannschaften	team	teams	
+Schulklasse	f	Schulklassen	school class	school classes	
+Orchester	n	Orchester	orchestra	orchestras	
+Schauspieler	m	Schauspieler	actor	actors	
+Künstler	m	Künstler	artist	artists	
+Handwerker	m	Handwerker	tradesperson	tradespeople	
+Feuerwehrmann	m	Feuerwehrmänner	firefighter	firefighters	
+Sanitäter	m	Sanitäter	paramedic	paramedics	
+Bergführer	m	Bergführer	mountain guide	mountain guides	
+Schauspielschule	f	Schauspielschulen	drama school	drama schools	
+Turnhalle	f	Turnhallen	gymnasium	gymnasiums	
+Musikschule	f	Musikschulen	music school	music schools	
+Sporthalle	f	Sporthallen	sports hall	sports halls	
+Festhalle	f	Festhallen	festival hall	festival halls	
+Jugendherberge	f	Jugendherbergen	youth hostel	youth hostels	
+Rettungswache	f	Rettungswachen	ambulance station	ambulance stations	
+Feuerwache	f	Feuerwachen	fire station	fire stations	
+Berufsschule	f	Berufsschulen	vocational school	vocational schools	
+Kunstschule	f	Kunstschulen	art school	art schools	
+Musikhalle	f	Musikhallen	music venue	music venues	
+Schulhof	m	Schulhöfe	schoolyard	schoolyards	
+Lager	n	Lager	warehouse	warehouses	
+Atelier	n	Ateliers	studio	studios	
+Geschäftshaus	n	Geschäftshäuser	commercial building	commercial buildings	
+Polizeiwache	f	Polizeiwachen	police station	police stations	
+Bootshaus	n	Bootshäuser	boathouse	boathouses	
+Zelt	n	Zelte	tent	tents	
+Berghütte	f	Berghütten	mountain cabin	mountain cabins	
+Dirigent	m	Dirigenten	conductor	conductors	Dirigenten
+Regisseur	m	Regisseure	director	directors	
+Ausbilder	m	Ausbilder	instructor	instructors	
+Meister	m	Meister	master craftsperson	master craftspeople	
+Einsatzleiter	m	Einsatzleiter	operations leader	operations leaders	
+Chorleiter	m	Chorleiter	choir director	choir directors	
+Schulleiter	m	Schulleiter	school principal	school principals	
+Projektleiter	m	Projektleiter	project leader	project leaders	
+Vereinsvorsitzender	m	Vereinsvorsitzende	club chairperson	club chairpeople	Vereinsvorsitzenden
+Wetter	n	-	weather	weather conditions	
+Weg	m	Wege	path	paths	
+Straße	f	Straßen	road	roads	
+Verkehr	m	Verkehrslagen	traffic	traffic conditions	
+Entfernung	f	Entfernungen	distance	distances	
+Strecke	f	Strecken	route	routes	
+Fahrkarte	f	Fahrkarten	ticket	tickets	
+Verbindung	f	Verbindungen	connection	connections	
+Zugang	m	Zugänge	access	access points	
+Aufzug	m	Aufzüge	elevator	elevators	
+Auftrag	m	Aufträge	assignment	assignments	
+Vorschlag	m	Vorschläge	proposal	proposals	
+Entwurf	m	Entwürfe	draft	drafts	
+Abschnitt	m	Abschnitte	section	sections	
+Beitrag	m	Beiträge	contribution	contributions	
+Aufsatz	m	Aufsätze	essay	essays	
+Versuch	m	Versuche	experiment	experiments	
+Beweis	m	Beweise	proof	proofs	
+Fall	m	Fälle	case	cases	
+Vortrag	m	Vorträge	talk	talks	
+Workshop	m	Workshops	workshop session	workshop sessions	
+Antrag	m	Anträge	application	applications	
+Vertrag	m	Verträge	contract	contracts	
+Entschluss	m	Entschlüsse	decision	decisions	
+Beschluss	m	Beschlüsse	resolution	resolutions	
+Terminplan	m	Terminpläne	schedule	schedules	
+Arbeitsplan	m	Arbeitspläne	work plan	work plans	
+Haushalt	m	Haushalte	household	households	
+Gartenplan	m	Gartenpläne	garden plan	garden plans	
+Verlauf	m	Verläufe	sequence	sequences	
+Vorgang	m	Vorgänge	process	processes	
+Ingenieurin	f	Ingenieurinnen	engineer	engineers	
+Journalist	m	Journalisten	journalist	journalists	Journalisten
+Redakteur	m	Redakteure	editor	editors	
+Autor	m	Autoren	author	authors	
+Übersetzer	m	Übersetzer	translator	translators	
+Professor	m	Professoren	professor	professors	
+Dozent	m	Dozenten	lecturer	lecturers	Dozenten
+Experte	m	Experten	expert	experts	Experten
+Spezialist	m	Spezialisten	specialist	specialists	Spezialisten
+Geschäftspartner	m	Geschäftspartner	business partner	business partners	
+Auftraggeber	m	Auftraggeber	client	clients	
+Geschäftsführer	m	Geschäftsführer	managing director	managing directors	
+Abteilungsleiter	m	Abteilungsleiter	department head	department heads	
+Architekt	m	Architekten	architect	architects	Architekten
+Anwalt	m	Anwälte	lawyer	lawyers	
+Notar	m	Notare	notary	notaries	
+Steuerberater	m	Steuerberater	tax adviser	tax advisers	
+Wissenschaftler	m	Wissenschaftler	scientist	scientists	
+Psychologe	m	Psychologen	psychologist	psychologists	Psychologen
+Therapeut	m	Therapeuten	therapist	therapists	Therapeuten
+Pädagoge	m	Pädagogen	educator	educators	Pädagogen
+Musikpädagoge	m	Musikpädagogen	music educator	music educators	Musikpädagogen
+Sozialarbeiter	m	Sozialarbeiter	social worker	social workers	
+Nachwuchsforscher	m	Nachwuchsforscher	junior researcher	junior researchers	
+Künstlerkollege	m	Künstlerkollegen	fellow artist	fellow artists	Künstlerkollegen
+Ausstellungsmacher	m	Ausstellungsmacher	exhibition organizer	exhibition organizers	
+Reiseleiter	m	Reiseleiter	tour guide	tour guides	
+Stadtführer	m	Stadtführer	city guide	city guides	
+Ehrenamtlicher	m	Ehrenamtliche	volunteer	volunteers	Ehrenamtlichen
+Helferin	f	Helferinnen	helper	helpers	
+Nachwuchsmusiker	m	Nachwuchsmusiker	young musician	young musicians	
+Solist	m	Solisten	soloist	soloists	Solisten
+Mehl	n	Mehlsorten	flour	types of flour	
+Getreide	n	Getreidearten	grain	grains	
+Obst	n	Obstsorten	fruit	types of fruit	
+Gemüse	n	Gemüsesorten	vegetables	types of vegetables	
+Fleisch	n	Fleischsorten	meat	types of meat	
+Geflügel	n	-	poultry	types of poultry	
+Wasser	n	Wässer	water	waters	
+Mineralwasser	n	Mineralwässer	mineral water	mineral waters	
+Öl	n	Öle	oil	oils	
+Olivenöl	n	Olivenöle	olive oil	olive oils	
+Salz	n	Salze	salt	salts	
+Gewürz	n	Gewürze	spice	spices	
+Müsli	n	Müslis	muesli	mueslis	
+Hafermehl	n	-	oat flour	oat flours	
+Hackfleisch	n	-	minced meat	types of minced meat	
+Rindfleisch	n	-	beef	types of beef	
+Eis	n	Eissorten	ice cream	ice creams	
+Sorbet	n	Sorbets	sorbet	sorbets	
+Hähnchen	n	Hähnchen	chicken	chickens	
+Lammfleisch	n	-	lamb	types of lamb	
+Milch	f	-	milk	types of milk	
+Sahne	f	-	cream	types of cream	
+Butter	f	-	butter	types of butter	
+Margarine	f	Margarinen	margarine	margarines	
+Marmelade	f	Marmeladen	jam	jams	
+Konfitüre	f	Konfitüren	preserve	preserves	
+Schokolade	f	Schokoladen	chocolate	chocolates	
+Kuvertüre	f	Kuvertüren	baking chocolate	baking chocolates	
+Zucker	m	-	sugar	types of sugar	
+Rohrzucker	m	-	cane sugar	types of cane sugar	
+Pfeffer	m	-	pepper	types of pepper	
+Kümmel	m	-	caraway	types of caraway	
+Essig	m	Essige	vinegar	vinegars	
+Balsamico	m	Balsamicos	balsamic vinegar	balsamic vinegars	
+Reformhaus	n	Reformhäuser	health food shop	health food shops	
+Hofladen	m	Hofläden	farm shop	farm shops	
+Wochenmarkt	m	Wochenmärkte	weekly market	weekly markets	
+Bioladen	m	Bioläden	organic shop	organic shops	
+Feinkostladen	m	Feinkostläden	delicatessen	delicatessens	
+Naturkostladen	m	Naturkostläden	natural food shop	natural food shops	
+Molkereiladen	m	Molkereiläden	dairy shop	dairy shops	
+Fischladen	m	Fischläden	fish shop	fish shops	
+Bauernmarkt	m	Bauernmärkte	farmers' market	farmers' markets	
+Großmarkt	m	Großmärkte	wholesale market	wholesale markets	
+Institut	n	Institute	institute	institutes	
+Labor	n	Labore	laboratory	laboratories	
+Verlag	m	Verlage	publishing house	publishing houses	
+Sender	m	Sender	broadcasting station	broadcasting stations	
+Studio	n	Studios	recording studio	recording studios	
+Archiv	n	Archive	archive	archives	
+Forschungszentrum	n	Forschungszentren	research center	research centers	
+Bildungszentrum	n	Bildungszentren	education center	education centers	
+Beratungszentrum	n	Beratungszentren	advice center	advice centers	
+Therapiezentrum	n	Therapiezentren	therapy center	therapy centers	
+Jugendclub	m	Jugendclubs	youth club	youth clubs	
+Nachbarschaftshaus	n	Nachbarschaftshäuser	neighborhood center	neighborhood centers	
+Verein	m	Vereine	club	clubs	
+Kulturverein	m	Kulturvereine	cultural association	cultural associations	
+Musikverein	m	Musikvereine	music society	music societies	
+Sportverein	m	Sportvereine	sports club	sports clubs	
+Film	m	Filme	film	films	
+Dokumentarfilm	m	Dokumentarfilme	documentary	documentaries	
+Krimi	m	Krimis	crime drama	crime dramas	
+Zeichentrickfilm	m	Zeichentrickfilme	cartoon	cartoons	
+Kurzfilm	m	Kurzfilme	short film	short films	
+Spielfilm	m	Spielfilme	feature film	feature films	
+Thriller	m	Thriller	thriller	thrillers	
+Liebesfilm	m	Liebesfilme	romantic film	romantic films	
+Abenteuerfilm	m	Abenteuerfilme	adventure film	adventure films	
+Western	m	Western	western	westerns	
+Podcast	m	Podcasts	podcast	podcasts	
+Audiobeitrag	m	Audiobeiträge	audio segment	audio segments	
+Radiobericht	m	Radioberichte	radio report	radio reports	
+Reisebericht	m	Reiseberichte	travel report	travel reports	
+Hörspiel	n	Hörspiele	audio drama	audio dramas	
+Hörbuch	n	Hörbücher	audiobook	audiobooks	
+Sachbuch	n	Sachbücher	nonfiction book	nonfiction books	
+Tagebuch	n	Tagebücher	diary	diaries	
+Gedicht	n	Gedichte	poem	poems	
+Märchen	n	Märchen	fairy tale	fairy tales	
+Eintritt	m	Eintritte	admission	admissions	
+Saal	m	Säle	hall	halls	
+Raum	m	Räume	space in a room	spaces in a room	
+Ton	m	Töne	sound	sounds	
+Bild	n	Bilder	picture	pictures	
+Akku	m	Akkus	battery	batteries	
+Empfang	m	Empfänge	reception	receptions	
+Regen	m	Regenfälle	rain	rainfalls	
+Wind	m	Winde	wind	winds	
+Luft	f	Luftmassen	air	air masses	
+Hitze	f	-	heat	heatwaves	
+Kälte	f	-	cold	cold spells	
+Schnee	m	-	snow	snowfalls	
+Boden	m	Böden	ground	grounds	
+Landschaft	f	Landschaften	landscape	landscapes	
+Aussicht	f	Aussichten	view	views	
+Umgebung	f	Umgebungen	surroundings	surrounding areas	
+Großvater	m	Großväter	grandfather	grandfathers	
+Tourismusbüro	n	Tourismusbüros	tourist information office	tourist information offices	

@@ -1,0 +1,241 @@
+chain	band	theme	sentence	translation	native approved	audio checked	review notes
+de.a1.read.000	A1	cafe	Ich kaufe Romane.	I buy novels.			
+de.a1.read.001	A1	work	Ich übe den Text im Klassenzimmer.	I practice the text in the classroom.			
+de.a1.read.002	A1	travel	Ich prüfe den Plan im Bahnhof.	I check the plan at the station.			
+de.a1.read.003	A1	shopping	Ich notiere den Namen im Geschäft.	I note down the name in the shop.			
+de.a1.read.004	A1	travel	Ich brauche den Pass im Hotel.	I need the passport at the hotel.			
+de.a1.read.005	A1	plans	Ich vergleiche den Kalender in der Schule.	I compare the calendar at school.			
+de.a1.read.006	A1	work	Ich erkläre den Bericht im Büro.	I explain the report in the office.			
+de.a1.read.007	A1	free-time	Ich suche den Roman in der Bibliothek.	I look for the novel in the library.			
+de.a1.read.008	A1	city	Ich zeige den Prospekt im Bus.	I show the brochure on the bus.			
+de.a1.read.009	A1	home	Ich sortiere den Einkaufszettel in der Küche.	I sort the shopping list in the kitchen.			
+de.a1.read.010	A1	family	Ich schreibe den Gruß im Wohnzimmer.	I write the greeting in the living room.			
+de.a1.read.011	A1	free-time	Ich lerne den Liedtext in der Musikschule.	I learn the song lyric at the music school.			
+de.a1.read.012	A1	travel	Ich wiederhole den Text im Zug.	I repeat the text on the train.			
+de.a1.read.013	A1	cafe	Ich kopiere den Hinweis im Café.	I copy the instruction at the café.			
+de.a1.visit.000	A1	work	Ich besuche den Freund.	I visit the friend.			
+de.a1.visit.001	A1	work	Ich frage den Lehrer in der Schule.	I ask the teacher at school.			
+de.a1.visit.002	A1	home	Ich begrüße den Nachbarn im Garten.	I greet the neighbor in the garden.			
+de.a1.visit.003	A1	health	Ich besuche den Arzt in der Praxis.	I visit the doctor at the medical practice.			
+de.a1.visit.004	A1	shopping	Ich informiere den Verkäufer im Geschäft.	I inform the salesperson in the shop.			
+de.a1.visit.005	A1	travel	Ich begleite den Fahrer im Bahnhof.	I accompany the driver at the station.			
+de.a1.visit.006	A1	food	Ich fotografiere den Koch im Restaurant.	I photograph the cook in the restaurant.			
+de.a1.visit.007	A1	work	Ich benachrichtige den Chef im Büro.	I notify the manager in the office.			
+de.a1.visit.008	A1	family	Ich besuche den Onkel in der Wohnung.	I visit the uncle in the apartment.			
+de.a1.visit.009	A1	free-time	Ich unterstütze den Bruder im Sportplatz.	I support the brother at the sports ground.			
+de.a1.visit.010	A1	family	Ich begleite den Opa im Park.	I accompany the grandfather in the park.			
+de.a1.visit.011	A1	travel	Ich frage den Polizisten im Flughafen.	I ask the police officer at the airport.			
+de.a1.visit.012	A1	free-time	Ich verabschiede den Musiker im Kino.	I say goodbye to the musician at the cinema.			
+de.a1.visit.013	A1	cafe	Ich erkenne den Schüler im Café.	I recognize the pupil at the café.			
+de.a1.home.000	A1	home	Der Tisch ist neu.	The table is new.			
+de.a1.home.001	A1	home	Der Löffel ist sauber.	The spoon is clean.			
+de.a1.home.002	A1	home	Der Teller ist leer.	The plate is empty.			
+de.a1.home.003	A1	home	Der Schlüssel ist klein.	The key is small.			
+de.a1.home.004	A1	home	Der Schrank ist alt.	The wardrobe is old.			
+de.a1.home.005	A1	home	Der Spiegel ist schmutzig.	The mirror is dirty.			
+de.a1.home.006	A1	home	Der Schuh ist nass.	The shoe is wet.			
+de.a1.home.007	A1	home	Der Mantel ist trocken.	The coat is dry.			
+de.a1.home.008	A1	home	Der Teppich ist weich.	The rug is soft.			
+de.a1.home.009	A1	home	Der Apfel ist reif.	The apple is ripe.			
+de.a1.home.010	A1	home	Der Kuchen ist lecker.	The cake is tasty.			
+de.a1.home.011	A1	home	Der Koffer ist schwer.	The suitcase is heavy.			
+de.a1.home.012	A1	home	Der Bildschirm ist kaputt.	The monitor is broken.			
+de.a1.home.013	A1	home	Der Topf ist voll.	The pot is full.			
+de.a1.routine.000	A1	home	Ich kaufe ein.	I shop.			
+de.a1.routine.001	A1	home	Ich schalte das Radio im Wohnzimmer ein.	I switch on the radio in the living room.			
+de.a1.routine.002	A1	home	Ich mache das Licht im Schlafzimmer aus.	I turn off the light in the bedroom.			
+de.a1.routine.003	A1	home	Ich mache das Fenster im Flur auf.	I open the window in the hallway.			
+de.a1.routine.004	A1	home	Ich mache das Tor im Hof zu.	I close the gate in the courtyard.			
+de.a1.routine.005	A1	work	Ich bringe das Buch in der Schule mit.	I bring along the book at school.			
+de.a1.routine.006	A1	family	Ich packe das Geschenk in der Küche ein.	I wrap the gift in the kitchen.			
+de.a1.routine.007	A1	shopping	Ich hole das Paket im Geschäft ab.	I collect the parcel in the shop.			
+de.a1.routine.008	A1	home	Ich räume das Zimmer in der Wohnung auf.	I tidy the room in the apartment.			
+de.a1.routine.009	A1	family	Ich rufe den Vater im Büro an.	I call the father in the office.			
+de.a1.routine.010	A1	home	Ich hänge das Bild im Keller auf.	I hang up the picture in the cellar.			
+de.a1.routine.011	A1	travel	Ich fülle das Formular im Hotel aus.	I fill in the form at the hotel.			
+de.a1.routine.012	A1	family	Ich lade den Bruder im Garten ein.	I invite the brother in the garden.			
+de.a1.routine.013	A1	work	Ich werfe den Zettel in der Werkstatt weg.	I throw away the note in the workshop.			
+de.a1.past.000	A1	shopping	Ich lerne Deutsch.	I learn German.			
+de.a1.past.001	A1	home	Ich putze das Bad gründlich.	I clean the bathroom thoroughly.			
+de.a1.past.002	A1	food	Ich bezahle die Rechnung sofort.	I pay the bill immediately.			
+de.a1.past.003	A1	travel	Ich repariere das Fahrrad vorsichtig.	I repair the bicycle carefully.			
+de.a1.past.004	A1	travel	Ich packe den Koffer langsam.	I pack the suitcase slowly.			
+de.a1.past.005	A1	work	Ich räume den Schreibtisch schnell.	I clear the desk quickly.			
+de.a1.past.006	A1	work	Ich erledige die Hausaufgabe richtig.	I complete the homework exercise correctly.			
+de.a1.past.007	A1	food	Ich plane das Frühstück gemeinsam.	I plan the breakfast together.			
+de.a1.past.008	A1	free-time	Ich kopiere das Foto sorgfältig.	I copy the photograph carefully.			
+de.a1.past.009	A1	weather	Ich pflanze die Blume behutsam.	I plant the flower gently.			
+de.a1.past.010	A1	plans	Ich reserviere das Zimmer rechtzeitig.	I reserve the room in good time.			
+de.a1.past.011	A1	home	Ich öffne die Tür leise.	I open the door quietly.			
+de.a1.past.012	A1	family	Ich schreibe den Brief ordentlich.	I write the letter neatly.			
+de.a1.past.013	A1	shopping	Ich packe das Geschenk spontan.	I pack the gift spontaneously.			
+de.a2.cafe.000	A2	cafe	Ich trinke Kaffee.	I drink coffee.			
+de.a2.cafe.001	A2	food	Ich esse Salat.	I eat salad.			
+de.a2.cafe.002	A2	cafe	Ich esse Kuchen.	I eat cake.			
+de.a2.cafe.003	A2	food	Ich esse Eintopf.	I eat stew.			
+de.a2.cafe.004	A2	health	Ich esse Fisch.	I eat fish.			
+de.a2.cafe.005	A2	cafe	Ich esse Pfannkuchen.	I eat pancake.			
+de.a2.cafe.006	A2	cafe	Ich esse Keks.	I eat cookie.			
+de.a2.cafe.007	A2	health	Ich esse Joghurt.	I eat yogurt.			
+de.a2.cafe.008	A2	cafe	Ich trinke Saft.	I drink juice.			
+de.a2.cafe.009	A2	weather	Ich trinke Kakao.	I drink cocoa.			
+de.a2.cafe.010	A2	travel	Ich esse Toast.	I eat toast.			
+de.a2.cafe.011	A2	free-time	Ich esse Burger.	I eat burger.			
+de.a2.cafe.012	A2	food	Ich probiere Honig.	I try honey.			
+de.a2.cafe.013	A2	food	Ich probiere Schinken.	I try ham.			
+de.a2.cafe.014	A2	family	Ich esse Lachs.	I eat salmon.			
+de.a2.cafe.015	A2	health	Ich esse Mais.	I eat corn.			
+de.a2.cafe.016	A2	food	Ich esse Brokkoli.	I eat broccoli.			
+de.a2.cafe.017	A2	food	Ich probiere Käse.	I try cheese.			
+de.a2.cafe.018	A2	shopping	Ich esse Suppe.	I eat soup.			
+de.a2.cafe.019	A2	cafe	Ich esse Brot.	I eat bread.			
+de.a2.travel.000	A2	travel	Wir gehen in den Park.	We go into the park.			
+de.a2.travel.001	A2	travel	Wir gehen in den Wartesaal.	We go into the waiting hall.			
+de.a2.travel.002	A2	work	Wir gehen in den Speisesaal.	We go into the dining hall.			
+de.a2.travel.003	A2	work	Wir gehen in den Lesesaal.	We go into the reading room.			
+de.a2.travel.004	A2	city	Wir gehen in den Empfangsbereich.	We go into the reception area.			
+de.a2.travel.005	A2	free-time	Wir gehen in den Proberaum.	We go into the rehearsal room.			
+de.a2.travel.006	A2	family	Wir gehen in den Gartenpavillon.	We go into the garden pavilion.			
+de.a2.travel.007	A2	weather	Wir gehen in den Stadtgarten.	We go into the municipal garden.			
+de.a2.travel.008	A2	travel	Wir gehen in den Campingplatz.	We go into the campsite.			
+de.a2.travel.009	A2	travel	Wir gehen in den Hafen.	We go into the harbor.			
+de.a2.travel.010	A2	city	Wir gehen in das Postamt.	We go into the post office.			
+de.a2.travel.011	A2	free-time	Wir gehen in das Kulturzentrum.	We go into the cultural center.			
+de.a2.travel.012	A2	travel	Wir gehen in das Besucherzentrum.	We go into the visitor center.			
+de.a2.travel.013	A2	travel	Wir gehen in das Ferienhaus.	We go into the holiday house.			
+de.a2.travel.014	A2	shopping	Wir gehen in das Sportzentrum.	We go into the sports center.			
+de.a2.travel.015	A2	city	Wir gehen in das Verkehrsmuseum.	We go into the transport museum.			
+de.a2.travel.016	A2	weather	Wir gehen in das Gasthaus.	We go into the inn.			
+de.a2.travel.017	A2	free-time	Wir gehen in das Stadion.	We go into the stadium.			
+de.a2.travel.018	A2	work	Wir gehen in das Hallenbad.	We go into the indoor swimming pool.			
+de.a2.travel.019	A2	city	Wir gehen in das Museum.	We go into the museum.			
+de.a2.shop.000	A2	shopping	Ich kaufe den Mantel.	I buy the coat.			
+de.a2.shop.001	A2	shopping	Ich kaufe den Regenmantel.	I buy the raincoat.			
+de.a2.shop.002	A2	shopping	Ich kaufe den Schlafsack.	I buy the sleeping bag.			
+de.a2.shop.003	A2	shopping	Ich kaufe den Kugelschreiber.	I buy the ballpoint pen.			
+de.a2.shop.004	A2	shopping	Ich kaufe den Füller.	I buy the fountain pen.			
+de.a2.shop.005	A2	shopping	Ich kaufe den Notizblock.	I buy the notepad.			
+de.a2.shop.006	A2	shopping	Ich kaufe den Bohrer.	I buy the drill.			
+de.a2.shop.007	A2	shopping	Ich kaufe den Schraubenzieher.	I buy the screwdriver.			
+de.a2.shop.008	A2	shopping	Ich kaufe den Staubsauger.	I buy the vacuum cleaner.			
+de.a2.shop.009	A2	shopping	Ich kaufe den Eimer.	I buy the bucket.			
+de.a2.shop.010	A2	shopping	Ich kaufe den Wasserkocher.	I buy the kettle.			
+de.a2.shop.011	A2	shopping	Ich kaufe den Mixer.	I buy the blender.			
+de.a2.shop.012	A2	shopping	Ich kaufe den Drucker.	I buy the printer.			
+de.a2.shop.013	A2	shopping	Ich kaufe den Router.	I buy the router.			
+de.a2.shop.014	A2	shopping	Ich kaufe den Kopfhörer.	I buy the headphone.			
+de.a2.shop.015	A2	shopping	Ich kaufe den Gürtel.	I buy the belt.			
+de.a2.shop.016	A2	shopping	Ich kaufe den Handschuh.	I buy the glove.			
+de.a2.shop.017	A2	shopping	Ich kaufe den Sessel.	I buy the armchair.			
+de.a2.shop.018	A2	shopping	Ich kaufe den Vorhang.	I buy the curtain.			
+de.a2.shop.019	A2	shopping	Ich kaufe den Blumentopf.	I buy the flowerpot.			
+de.a2.feeling.000	A2	work	Ich freue mich über das Ergebnis.	I am happy about the result.			
+de.a2.feeling.001	A2	travel	Ich ärgere mich über die Verspätung.	I am annoyed about the delay.			
+de.a2.feeling.002	A2	work	Ich wundere mich über die Antwort.	I am surprised by the answer.			
+de.a2.feeling.003	A2	health	Ich entspanne mich nach dem Training.	I relax after the training session.			
+de.a2.feeling.004	A2	work	Ich konzentriere mich auf die Aufgabe.	I concentrate on the task.			
+de.a2.feeling.005	A2	health	Ich rasiere mich vor dem Termin.	I shave before the appointment.			
+de.a2.feeling.006	A2	health	Ich wasche mich nach dem Sport.	I wash after sport.			
+de.a2.feeling.007	A2	plans	Ich beeile mich mit der Anmeldung.	I hurry with the registration.			
+de.a2.feeling.008	A2	health	Ich erhole mich von der Grippe.	I recover from the flu.			
+de.a2.feeling.009	A2	home	Ich bedanke mich für die Hilfe.	I say thank you for the help.			
+de.a2.feeling.010	A2	work	Ich erinnere mich an das Gespräch.	I remember the conversation.			
+de.a2.feeling.011	A2	free-time	Ich interessiere mich für die Geschichte.	I am interested in the story.			
+de.a2.feeling.012	A2	work	Ich entschuldige mich für den Fehler.	I apologize for the mistake.			
+de.a2.feeling.013	A2	home	Ich beschwere mich über den Lärm.	I complain about the noise.			
+de.a2.feeling.014	A2	work	Ich bewerbe mich um die Stelle.	I apply for the job vacancy.			
+de.a2.feeling.015	A2	plans	Ich verabrede mich für die Abfahrt.	I arrange to meet for the departure.			
+de.a2.feeling.016	A2	city	Ich erkundige mich nach der Öffnungszeit.	I inquire about the opening time.			
+de.a2.feeling.017	A2	health	Ich gewöhne mich an den Rhythmus.	I get used to the rhythm.			
+de.a2.feeling.018	A2	free-time	Ich unterhalte mich über die Ausstellung.	I talk about the exhibition.			
+de.a2.feeling.019	A2	plans	Ich melde mich für den Sprachkurs an.	I register for the language course.			
+de.a2.outside.000	A2	family	Das Kind spielt in dem Park.	The child plays in the park.			
+de.a2.outside.001	A2	work	Der Schüler wartet in der Schule.	The pupil waits in the school.			
+de.a2.outside.002	A2	work	Der Student lernt in der Bibliothek.	The student studies in the library.			
+de.a2.outside.003	A2	health	Der Sportler trainiert in der Turnhalle.	The athlete trains in the gymnasium.			
+de.a2.outside.004	A2	free-time	Der Musiker probt in der Musikschule.	The musician rehearses in the music school.			
+de.a2.outside.005	A2	free-time	Der Tänzer tanzt in der Sporthalle.	The dancer dances in the sports hall.			
+de.a2.outside.006	A2	family	Der Rentner redet in dem Gemeindehaus.	The retiree talks in the community center.			
+de.a2.outside.007	A2	work	Der Lehrling arbeitet in der Berufsschule.	The apprentice works in the vocational school.			
+de.a2.outside.008	A2	free-time	Der Anfänger zeichnet in der Kunstschule.	The beginner draws in the art school.			
+de.a2.outside.009	A2	health	Der Profi trainiert in dem Stadion.	The professional trains in the stadium.			
+de.a2.outside.010	A2	free-time	Der Chor singt in der Musikhalle.	The choir sings in the music venue.			
+de.a2.outside.011	A2	plans	Die Mannschaft wartet in der Festhalle.	The team waits in the festival hall.			
+de.a2.outside.012	A2	city	Die Schulklasse wartet in dem Museum.	The school class waits in the museum.			
+de.a2.outside.013	A2	free-time	Das Orchester probt in dem Theater.	The orchestra rehearses in the theater.			
+de.a2.outside.014	A2	free-time	Der Schauspieler probt in der Schauspielschule.	The actor rehearses in the drama school.			
+de.a2.outside.015	A2	work	Der Künstler arbeitet in dem Atelier.	The artist works in the studio.			
+de.a2.outside.016	A2	work	Der Handwerker arbeitet in dem Geschäftshaus.	The tradesperson works in the commercial building.			
+de.a2.outside.017	A2	city	Der Feuerwehrmann wartet in der Feuerwache.	The firefighter waits in the fire station.			
+de.a2.outside.018	A2	health	Der Sanitäter wartet in der Rettungswache.	The paramedic waits in the ambulance station.			
+de.a2.outside.019	A2	travel	Der Bergführer lacht in der Berghütte.	The mountain guide laughs in the mountain cabin.			
+de.b1.future.000	B1	plans	Wir besuchen den Freund.	We visit the friend.			
+de.b1.future.001	B1	work	Wir besuchen den Journalisten.	We visit the journalist.			
+de.b1.future.002	B1	work	Wir begrüßen den Autor.	We greet the author.			
+de.b1.future.003	B1	city	Wir begleiten den Experten.	We accompany the expert.			
+de.b1.future.004	B1	work	Wir informieren den Geschäftspartner.	We inform the business partner.			
+de.b1.future.005	B1	plans	Wir besuchen den Abteilungsleiter.	We visit the department head.			
+de.b1.future.006	B1	work	Wir fragen den Anwalt.	We ask the lawyer.			
+de.b1.future.007	B1	work	Wir fotografieren den Wissenschaftler.	We photograph the scientist.			
+de.b1.future.008	B1	health	Wir begrüßen den Psychologen.	We greet the psychologist.			
+de.b1.future.009	B1	travel	Wir begleiten den Reiseleiter.	We accompany the tour guide.			
+de.b1.wish.000	B1	cafe	Wir trinken Kaffee.	We drink coffee.			
+de.b1.wish.001	B1	cafe	Wir bestellen Milch.	We order milk.			
+de.b1.wish.002	B1	food	Wir kaufen Butter.	We buy butter.			
+de.b1.wish.003	B1	food	Wir probieren Marmelade.	We try jam.			
+de.b1.wish.004	B1	food	Wir bestellen Schokolade.	We order chocolate.			
+de.b1.wish.005	B1	shopping	Wir kaufen Zucker.	We buy sugar.			
+de.b1.wish.006	B1	food	Wir probieren Pfeffer.	We try pepper.			
+de.b1.wish.007	B1	shopping	Wir kaufen Essig.	We buy vinegar.			
+de.b1.wish.008	B1	food	Wir bestellen Öl.	We order oil.			
+de.b1.wish.009	B1	food	Wir probieren Salz.	We try salt.			
+de.b1.relative.000	B1	city	Wir besuchen den Freund.	We visit the friend.			
+de.b1.relative.001	B1	work	Wir besuchen den Ingenieur.	We visit the engineer.			
+de.b1.relative.002	B1	work	Wir begrüßen den Journalisten.	We greet the journalist.			
+de.b1.relative.003	B1	work	Wir besuchen den Autor.	We visit the author.			
+de.b1.relative.004	B1	work	Wir fotografieren den Professor.	We photograph the professor.			
+de.b1.relative.005	B1	health	Wir besuchen den Psychologen.	We visit the psychologist.			
+de.b1.relative.006	B1	free-time	Wir begrüßen den Musiker.	We greet the musician.			
+de.b1.relative.007	B1	free-time	Wir besuchen den Künstler.	We visit the artist.			
+de.b1.relative.008	B1	family	Wir begleiten den Pädagogen.	We accompany the educator.			
+de.b1.relative.009	B1	travel	Wir besuchen den Reiseleiter.	We visit the tour guide.			
+de.b1.despite.000	B1	weather	Wir lernen Deutsch.	We learn German.			
+de.b1.despite.001	B1	work	Wir bearbeiten den Auftrag.	We work on the assignment.			
+de.b1.despite.002	B1	work	Wir überarbeiten den Entwurf.	We revise the draft.			
+de.b1.despite.003	B1	work	Wir veröffentlichen den Beitrag.	We publish the contribution.			
+de.b1.despite.004	B1	work	Wir untersuchen den Versuch.	We examine the experiment.			
+de.b1.despite.005	B1	work	Wir besprechen den Fall.	We discuss the case.			
+de.b1.despite.006	B1	work	Wir formulieren den Antrag.	We formulate the application.			
+de.b1.despite.007	B1	plans	Wir erläutern den Entschluss.	We explain the decision.			
+de.b1.despite.008	B1	plans	Wir verbessern den Terminplan.	We improve the schedule.			
+de.b1.despite.009	B1	home	Wir organisieren den Haushalt.	We organize the household.			
+de.b1.market.000	B1	food	Ich kaufe Brot.	I buy bread.			
+de.b1.market.001	B1	food	Wir kaufen Mehl.	We buy flour.			
+de.b1.market.002	B1	food	Wir bestellen Fleisch.	We order meat.			
+de.b1.market.003	B1	health	Wir kaufen Wasser.	We buy water.			
+de.b1.market.004	B1	food	Wir bestellen Öl.	We order oil.			
+de.b1.market.005	B1	shopping	Wir kaufen Salz.	We buy salt.			
+de.b1.market.006	B1	health	Wir bestellen Müsli.	We order muesli.			
+de.b1.market.007	B1	food	Wir kaufen Hackfleisch.	We buy minced meat.			
+de.b1.market.008	B1	cafe	Wir bestellen Eis.	We order ice cream.			
+de.b1.market.009	B1	food	Wir kaufen Hähnchen.	We buy chicken.			
+de.b1.weekend.000	B1	free-time	Wir besuchen meinen Freund.	We visit my friend.			
+de.b1.weekend.001	B1	family	Wir besuchen meinen Schwager.	We visit my brother-in-law.			
+de.b1.weekend.002	B1	family	Wir begrüßen meinen Neffen.	We greet my nephew.			
+de.b1.weekend.003	B1	family	Wir besuchen meinen Großvater.	We visit my grandfather.			
+de.b1.weekend.004	B1	free-time	Wir besuchen meinen Lehrer.	We visit my teacher.			
+de.b1.weekend.005	B1	free-time	Wir begrüßen meinen Trainer.	We greet my coach.			
+de.b1.weekend.006	B1	city	Wir besuchen meinen Berater.	We visit my adviser.			
+de.b1.weekend.007	B1	work	Wir besuchen meinen Nachhilfelehrer.	We visit my tutor.			
+de.b1.weekend.008	B1	free-time	Wir besuchen meinen Tanzpartner.	We visit my dance partner.			
+de.b1.weekend.009	B1	travel	Wir begleiten meinen Reisebegleiter.	We accompany my travel companion.			
+de.b1.film.000	B1	free-time	Wir sehen den Film.	We watch the film.			
+de.b1.film.001	B1	free-time	Wir sehen den Krimi.	We watch the crime drama.			
+de.b1.film.002	B1	free-time	Wir sehen den Kurzfilm.	We watch the short film.			
+de.b1.film.003	B1	free-time	Wir sehen den Thriller.	We watch the thriller.			
+de.b1.film.004	B1	weather	Wir sehen den Abenteuerfilm.	We watch the adventure film.			
+de.b1.film.005	B1	work	Wir hören den Podcast.	We listen to the podcast.			
+de.b1.film.006	B1	travel	Wir hören den Radiobericht.	We listen to the radio report.			
+de.b1.film.007	B1	free-time	Wir hören das Hörspiel.	We listen to the audio drama.			
+de.b1.film.008	B1	free-time	Wir lesen das Sachbuch.	We read the nonfiction book.			
+de.b1.film.009	B1	weather	Wir lesen das Gedicht.	We read the poem.			

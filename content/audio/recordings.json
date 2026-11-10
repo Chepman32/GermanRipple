@@ -1,0 +1,4095 @@
+{
+  "clips": {
+    "03ab0dfd29fc25ad2bf346cfeaca60d963feb2b8001d658412fb4ea1024c39bb": {
+      "bytes": 73185,
+      "characterCost": "38",
+      "durationSeconds": 4.505,
+      "estimatedCredits": 94,
+      "file": "542d5cc495b98b805e74a6588a5b2072e2f5787e05f29cb59a72e243d448ff51.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.012",
+          "step": 6
+        }
+      ],
+      "requestId": "YA6pFaoYSC5tBHoRHkaX",
+      "sha256": "542d5cc495b98b805e74a6588a5b2072e2f5787e05f29cb59a72e243d448ff51",
+      "text": "Nach der Präsentation mussten wir uns mit meiner Arbeitskollegin für den Fehler entschuldigen."
+    },
+    "0671e08401e19397ac8903f56a2d47aca678ff76f875527c2342bea66b6ee59f": {
+      "bytes": 39749,
+      "characterCost": "20",
+      "durationSeconds": 2.415,
+      "estimatedCredits": 51,
+      "file": "fb8e3cb1431af6fcba7a7307e834373bd43653971a8e8926a8470f4fa3ea1c95.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.012",
+          "step": 5
+        }
+      ],
+      "requestId": "Ve01Ujc6qkcmjVPTbJGI",
+      "sha256": "fb8e3cb1431af6fcba7a7307e834373bd43653971a8e8926a8470f4fa3ea1c95",
+      "text": "Schreibe ich den Brief ordentlich auf der Terrasse?"
+    },
+    "06988adac28aba291d815e54f5caf864593cb2282b0c6e0bbe758e7beec9365c": {
+      "bytes": 69424,
+      "characterCost": "36",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 90,
+      "file": "ed2493162dc36d441a022e05b5a8dd8dfa04853013846c3a7c2cc0fd37ecae21.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.000",
+          "step": 6
+        }
+      ],
+      "requestId": "UKfPAyxDnTPVZf3X51cu",
+      "sha256": "ed2493162dc36d441a022e05b5a8dd8dfa04853013846c3a7c2cc0fd37ecae21",
+      "text": "Morgen werde ich mit frischem Kaffee den freundlichen Vater besuchen, der in Berlin wohnt."
+    },
+    "07cf775ab34f3359684e0a5aadac51d1851c38116aa4e2f4f895fe3b1c4a1a86": {
+      "bytes": 67752,
+      "characterCost": "30",
+      "durationSeconds": 4.18,
+      "estimatedCredits": 74,
+      "file": "7a18af0142fde544bedc2d5eead803857cebf30a8ffafb6c535128b55d486c4e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.007",
+          "step": 7
+        }
+      ],
+      "requestId": "xObf4ptabfM7vBkIEdmF",
+      "sha256": "7a18af0142fde544bedc2d5eead803857cebf30a8ffafb6c535128b55d486c4e",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Wintergarten geblieben sind."
+    },
+    "08a2038487703f4bd2ff1e8bb597cf589589ea56a6b7b5143c84baeed04da4b5": {
+      "bytes": 40585,
+      "characterCost": "19",
+      "durationSeconds": 2.461,
+      "estimatedCredits": 47,
+      "file": "f0a3a3b5bc2b95f0d045cd289edbaa0a161f172da2d3c2383cb5b5d6ff453659.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.010",
+          "step": 5
+        }
+      ],
+      "requestId": "fAkMKRaoDXqTIw78fSyQ",
+      "sha256": "f0a3a3b5bc2b95f0d045cd289edbaa0a161f172da2d3c2383cb5b5d6ff453659",
+      "text": "Reserviere ich das Zimmer rechtzeitig im Hotel?"
+    },
+    "0931458ed8c97129135377a3d9b5e82d6c60aedc199b6b4a1bc1e5a045fa4dcf": {
+      "bytes": 35987,
+      "characterCost": "17",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 43,
+      "file": "30fdf03fb642b514c205bb0832edc3c3ce8e571c699654818d86599ac6bb4a9e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.005",
+          "step": 5
+        }
+      ],
+      "requestId": "nl2TJG1YwGnigtiMpDRt",
+      "sha256": "30fdf03fb642b514c205bb0832edc3c3ce8e571c699654818d86599ac6bb4a9e",
+      "text": "Räume ich den Schreibtisch schnell im Büro?"
+    },
+    "0b26707074d47b2a2364cc7d9d79ae1b73f6ecec4e91cbba15aa69995d7f2849": {
+      "bytes": 34315,
+      "characterCost": "16",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 40,
+      "file": "4f70b875d08ba9c1bd100396b6be434826b51c5055fb93d9d1c6902c6a61776e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.009",
+          "step": 6
+        }
+      ],
+      "requestId": "LE0f45BF0ELdP6tx50Mi",
+      "sha256": "4f70b875d08ba9c1bd100396b6be434826b51c5055fb93d9d1c6902c6a61776e",
+      "text": "Ruft morgen die Mutter im Büro bitte an!"
+    },
+    "0bce0257be4d2393de317577e303d5683d0c8632e512596456bc1ebbaaeedc09": {
+      "bytes": 68588,
+      "characterCost": "36",
+      "durationSeconds": 4.226,
+      "estimatedCredits": 90,
+      "file": "6827c1e9b91156e9edb8be4fc3616e9f105463305a912f31c94a133d0b009e4c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.017",
+          "step": 6
+        }
+      ],
+      "requestId": "ezGAxufzdz2g7kkbdhQe",
+      "sha256": "6827c1e9b91156e9edb8be4fc3616e9f105463305a912f31c94a133d0b009e4c",
+      "text": "Gestern haben wir mit meinem Nachbarn einen milden Tofu probiert, weil wir gespannt waren."
+    },
+    "0c19981b0be6da08df4408d473fedb6c9ae24d800ca3d149b8a40d0b8a4a2b48": {
+      "bytes": 58139,
+      "characterCost": "30",
+      "durationSeconds": 3.576,
+      "estimatedCredits": 75,
+      "file": "c91060b85030bce5bf168817aafaddadc9d6467b491d8ba8e9f2f05a171100d3.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.000",
+          "step": 6
+        }
+      ],
+      "requestId": "0qgz0cE9F0nW4SfiOk5U",
+      "sha256": "c91060b85030bce5bf168817aafaddadc9d6467b491d8ba8e9f2f05a171100d3",
+      "text": "Nach der Prüfung habe ich mich mit meiner Mutter über das Ergebnis gefreut."
+    },
+    "0cf54db9e71d5d3ccd4bde3bb84f27a417077633f7085db922237be23b190650": {
+      "bytes": 94501,
+      "characterCost": "44",
+      "durationSeconds": 5.851,
+      "estimatedCredits": 110,
+      "file": "f032d93f629aef52410c3d69e3ebb3ded54cb3b34ac398edd51f31bdd1e62ad9.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.003",
+          "step": 6
+        }
+      ],
+      "requestId": "byFvyclNcFZXeImAIqfm",
+      "sha256": "f032d93f629aef52410c3d69e3ebb3ded54cb3b34ac398edd51f31bdd1e62ad9",
+      "text": "Morgen werde ich mit selbstgebackenem Brot den zweisprachigen Übersetzer besuchen, der in dem Archiv arbeitet."
+    },
+    "0d96de5704acf252377d13317790dba0823669f55cc217f285c4d7573c4e5e3b": {
+      "bytes": 81127,
+      "characterCost": "37",
+      "durationSeconds": 5.016,
+      "estimatedCredits": 92,
+      "file": "4bd483069265d5eaa761fd4bc182e76619ffc30bb223f69a6627345990b6295e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.001",
+          "step": 7
+        }
+      ],
+      "requestId": "x2cseV4Gm0hF5ygmmMAv",
+      "sha256": "4bd483069265d5eaa761fd4bc182e76619ffc30bb223f69a6627345990b6295e",
+      "text": "Wir kaufen keinen atmungsaktiven Anorak für meinen Automechaniker, wenn ich genug Geld habe."
+    },
+    "0f1f3f5acc75820cdc7ab8f257fc1d0deaa3b0cbaa2abdebd965932812d7a9b6": {
+      "bytes": 34315,
+      "characterCost": "17",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 43,
+      "file": "5c64fb46ac676417c19d5ea0819cff15d7e4527a2691495ba76f51256ff69031.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.010",
+          "step": 6
+        }
+      ],
+      "requestId": "h3ochR7czDXhWiR3aBpy",
+      "sha256": "5c64fb46ac676417c19d5ea0819cff15d7e4527a2691495ba76f51256ff69031",
+      "text": "Heute liest du keinen Wunsch im Wohnzimmer."
+    },
+    "11eec25658fe199477ed65faff68c961e81ecaacf110cd2c61288f3186bbe9a1": {
+      "bytes": 63572,
+      "characterCost": "31",
+      "durationSeconds": 3.901,
+      "estimatedCredits": 78,
+      "file": "d3155bba03f7bcd4e35e99dc8a7245473d567461e4d3f0ad9a169eb9289b8da2.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.002",
+          "step": 6
+        }
+      ],
+      "requestId": "yVnQZYe2Df0YyycCoQuK",
+      "sha256": "d3155bba03f7bcd4e35e99dc8a7245473d567461e4d3f0ad9a169eb9289b8da2",
+      "text": "Nach dem Interview habe ich mich mit meiner Ärztin über die Antwort gewundert."
+    },
+    "140c35995f5d81ba58e16f8f27037c26b29885389373c997096aabfaaf1a0d45": {
+      "bytes": 32225,
+      "characterCost": "15",
+      "durationSeconds": 1.95,
+      "estimatedCredits": 38,
+      "file": "ef600ab91b9bededb5bd5008d4d404fab25f373f2f1faf522a0b89ec9dcc6446.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.013",
+          "step": 6
+        }
+      ],
+      "requestId": "ly1cazkQLDhGroSDgBil",
+      "sha256": "ef600ab91b9bededb5bd5008d4d404fab25f373f2f1faf522a0b89ec9dcc6446",
+      "text": "Könnt ihr ihn morgen im Café erkennen?"
+    },
+    "14397d4eae975e9046f157ab436f75d0103459ec519da375c78681cb610fd454": {
+      "bytes": 66498,
+      "characterCost": "34",
+      "durationSeconds": 4.087,
+      "estimatedCredits": 85,
+      "file": "5ec35e30df922c39dcffd76cf3b17005a2447e9453e2ae7e53fb867975a71c5b.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.004",
+          "step": 6
+        }
+      ],
+      "requestId": "Ni0AesHnq7ympMqAyOL0",
+      "sha256": "5ec35e30df922c39dcffd76cf3b17005a2447e9453e2ae7e53fb867975a71c5b",
+      "text": "Nach der Pause mussten wir uns mit meiner Kommilitonin auf die Aufgabe konzentrieren."
+    },
+    "149406569960ac75ac5267c5e4eee01f4d32cea17bad68fad93bb0c766d8edc7": {
+      "bytes": 72350,
+      "characterCost": "38",
+      "durationSeconds": 4.458,
+      "estimatedCredits": 95,
+      "file": "d27bf79aba7d0f66b5cfb9224039c6f8e769a36f47913ece8a18f495db1d125d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.011",
+          "step": 7
+        }
+      ],
+      "requestId": "8ghNrUzAD3BaMeseIsdF",
+      "sha256": "d27bf79aba7d0f66b5cfb9224039c6f8e769a36f47913ece8a18f495db1d125d",
+      "text": "Wir kaufen keinen effizienten Entsafter für meinen Rezeptionisten, wenn ich genug Energie habe."
+    },
+    "14a3562765347abd9b0c16cc5aae4ce26e3e905da31e42cb2c794d9985de45be": {
+      "bytes": 65662,
+      "characterCost": "33",
+      "durationSeconds": 4.04,
+      "estimatedCredits": 83,
+      "file": "6788285eac6b39fd8fa937f1a46a14b8540aeb1d0ed0cfed32d3f48332fd7c7f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.010",
+          "step": 6
+        }
+      ],
+      "requestId": "j37OyPGzzgnHUoJNaxgc",
+      "sha256": "6788285eac6b39fd8fa937f1a46a14b8540aeb1d0ed0cfed32d3f48332fd7c7f",
+      "text": "Nach der Besprechung mussten wir uns mit meiner Beraterin an das Gespräch erinnern."
+    },
+    "1523ae412adc0cfd68cd1acc37a2cfb7b21512b488cf0188f1c794f6e8f81e29": {
+      "bytes": 91576,
+      "characterCost": "41",
+      "durationSeconds": 5.666,
+      "estimatedCredits": 103,
+      "file": "6ff60cbffad19ce78684aa1f2a34e784ea3b9254741d9dbf186a4474f9672dd3.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.002",
+          "step": 6
+        }
+      ],
+      "requestId": "xltEx6gZwZAMy0mfCwIS",
+      "sha256": "6ff60cbffad19ce78684aa1f2a34e784ea3b9254741d9dbf186a4474f9672dd3",
+      "text": "Obwohl die Straße gesperrt ist, werde ich morgen persönlich mit meinem Dozenten den Professor begrüßen."
+    },
+    "1675ce4e47696e21e472fa24cc013846cbce30719071f501bd8e725139afef25": {
+      "bytes": 62736,
+      "characterCost": "32",
+      "durationSeconds": 3.855,
+      "estimatedCredits": 80,
+      "file": "8395eac9a02f2772075c57144f184c708ae1426094025380de3289c0426ad94a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.001",
+          "step": 6
+        }
+      ],
+      "requestId": "CreNCErYCgzNQBySBiOK",
+      "sha256": "8395eac9a02f2772075c57144f184c708ae1426094025380de3289c0426ad94a",
+      "text": "Nach der Abfahrt habe ich mich mit meiner Kollegin über die Verspätung geärgert."
+    },
+    "16f6c872569a6698bb0e0edf6642d3407f57067612ab82a2fbbf36baaa288aff": {
+      "bytes": 91576,
+      "characterCost": "42",
+      "durationSeconds": 5.666,
+      "estimatedCredits": 104,
+      "file": "7b0cdd3b27a2898abbbf84846a1350744590f684dbfb1e0931281355f31a86e4.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.002",
+          "step": 6
+        }
+      ],
+      "requestId": "VAphOEFETPW81tdXLf8d",
+      "sha256": "7b0cdd3b27a2898abbbf84846a1350744590f684dbfb1e0931281355f31a86e4",
+      "text": "Morgen werde ich mit hausgemachtem Gebäck den kritischen Redakteur begrüßen, der in dem Verlag arbeitet."
+    },
+    "17ac6aee79d748abd7bef414971386f58ed5db6b07d0366e61b2d0c17d270826": {
+      "bytes": 39749,
+      "characterCost": "19",
+      "durationSeconds": 2.415,
+      "estimatedCredits": 48,
+      "file": "584eade826683d54dfb692496d0a7a66a8e31ab15f54da12be9a57789014f51f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.005",
+          "step": 6
+        }
+      ],
+      "requestId": "OQYpfgWAZzuHjuhBHrEi",
+      "sha256": "584eade826683d54dfb692496d0a7a66a8e31ab15f54da12be9a57789014f51f",
+      "text": "Heute liest du keinen Stundenplan in der Schule."
+    },
+    "182c0f2359b824c2e425c97c62315fda5aa40a846c0e9c387ec98d7a4c19a7eb": {
+      "bytes": 67752,
+      "characterCost": "34",
+      "durationSeconds": 4.18,
+      "estimatedCredits": 85,
+      "file": "3e8010d5855ba765cc47f05b115971eddddc148c4fd9e72a5a609082201c1e3c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.016",
+          "step": 6
+        }
+      ],
+      "requestId": "hYVrQEYeAZ9k0UAD7rMl",
+      "sha256": "3e8010d5855ba765cc47f05b115971eddddc148c4fd9e72a5a609082201c1e3c",
+      "text": "Nach der Absage mussten wir uns mit meiner Lehrerin nach der Öffnungszeit erkundigen."
+    },
+    "195953fa3135019d3eab2245551cd412153d57f021443017a45bb3fab0161c8d": {
+      "bytes": 69424,
+      "characterCost": "34",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 86,
+      "file": "e0b392ffd51e5fe1e3117cf448e4a45d43de0244ca0d36eb70887d6627ec07ac.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.019",
+          "step": 7
+        }
+      ],
+      "requestId": "87R8860fGji12uiZnp6Y",
+      "sha256": "e0b392ffd51e5fe1e3117cf448e4a45d43de0244ca0d36eb70887d6627ec07ac",
+      "text": "Wir kaufen keinen eckigen Kerzenhalter für meinen Vermieter, wenn ich genug Geld habe."
+    },
+    "1999f1afac17f3ce2f3d85b0f6d2568831dda5234980b8f01cc6f021b7874922": {
+      "bytes": 80709,
+      "characterCost": "38",
+      "durationSeconds": 4.969,
+      "estimatedCredits": 96,
+      "file": "62ae9dd27d60b7cb4d0655c6e3df6e6e9301bb3968b2204b30de461273876aa5.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.012",
+          "step": 6
+        }
+      ],
+      "requestId": "WyBlaoMDOIYR0RmctNUZ",
+      "sha256": "62ae9dd27d60b7cb4d0655c6e3df6e6e9301bb3968b2204b30de461273876aa5",
+      "text": "Gestern haben wir mit meinem Kollegen einen regionalen Sirup probiert, weil wir neugierig waren."
+    },
+    "1a7fbbc13f4542496204ac101e73bb046deedd254ac5be38ae9faa91280575c1": {
+      "bytes": 93247,
+      "characterCost": "43",
+      "durationSeconds": 5.759,
+      "estimatedCredits": 107,
+      "file": "6b1a61905e9a417782833f2761eca3dafcc50c4c9cc7c8ad0690baabb93183e8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.008",
+          "step": 6
+        }
+      ],
+      "requestId": "MU7hpBKZhOQ2Nls6tHAO",
+      "sha256": "6b1a61905e9a417782833f2761eca3dafcc50c4c9cc7c8ad0690baabb93183e8",
+      "text": "Obwohl das Licht schwach ist, werden wir morgen das aufschlussreiche Tagebuch lesen, das du beurteilt hast."
+    },
+    "1b8f473fa7c65a4542df960e12580defadb7d603b14aa08839b7dd08d9f19a47": {
+      "bytes": 67334,
+      "characterCost": "34",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 84,
+      "file": "5fa720ef86804faa57a7f9e233589380093b067b99da74d4334d081a3227bdbd.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.018",
+          "step": 6
+        }
+      ],
+      "requestId": "zWSfy29ASp3QEAzQHnUs",
+      "sha256": "5fa720ef86804faa57a7f9e233589380093b067b99da74d4334d081a3227bdbd",
+      "text": "Die umsichtigeren Sanitäter warten mit meinem Pfleger nicht vor einer Rettungswache."
+    },
+    "1c21be9b20a06a5811f4386c13b71fc2ef71951094fe89c5901565002ba0dbad": {
+      "bytes": 33897,
+      "characterCost": "16",
+      "durationSeconds": 2.043,
+      "estimatedCredits": 41,
+      "file": "df06dfdaafc9cafa30bce83c8160b473c892f6ad118f1a575bfa3f590aa1b907.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.011",
+          "step": 6
+        }
+      ],
+      "requestId": "yQrejz0DYVpd6YpLrUIk",
+      "sha256": "df06dfdaafc9cafa30bce83c8160b473c892f6ad118f1a575bfa3f590aa1b907",
+      "text": "Könnt ihr ihn morgen im Flughafen fragen?"
+    },
+    "1cfec37d5b9d363b508944a09e3365e2b5969e8f950fe06c73c42f9d891e4e47": {
+      "bytes": 113310,
+      "characterCost": "53",
+      "durationSeconds": 7.012,
+      "estimatedCredits": 133,
+      "file": "40416cefc10dd28da83ac1d34d28521ff20d926927a2bd22852787a40ef69f44.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.004",
+          "step": 6
+        }
+      ],
+      "requestId": "4omWAsqEU5m16uclk7Z6",
+      "sha256": "40416cefc10dd28da83ac1d34d28521ff20d926927a2bd22852787a40ef69f44",
+      "text": "Morgen würde ich gelegentlich mit bitterer Schokolade meinen Lehrer und meine Lehrerin besuchen, die in dem Musikverein unterrichtet."
+    },
+    "1dc3601c0f81eb963c911a391c8bb818d0d54f613f6c0e970f98fa8059954ee1": {
+      "bytes": 65662,
+      "characterCost": "33",
+      "durationSeconds": 4.04,
+      "estimatedCredits": 83,
+      "file": "9cf6053391ab04399bbd01cc07109e6d02bad4193c67ab7a5b85bb8d027c675e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.004",
+          "step": 7
+        }
+      ],
+      "requestId": "F0mdAIB0NEg2nx6o33IJ",
+      "sha256": "9cf6053391ab04399bbd01cc07109e6d02bad4193c67ab7a5b85bb8d027c675e",
+      "text": "Wir kaufen keinen hochwertigen Ordner für meinen Friseur, wenn ich genug Geld habe."
+    },
+    "1e1df2a9a1b314121073def73709c8e616f74467c15ef23b7b9a633ef4d32a1b": {
+      "bytes": 59811,
+      "characterCost": "33",
+      "durationSeconds": 3.669,
+      "estimatedCredits": 83,
+      "file": "3016edf2b413a197df4f85e1dad404bc19f5223a1619126126eb3774532f31c0.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.002",
+          "step": 6
+        }
+      ],
+      "requestId": "sGsmiQEgsSbfFuJYIesM",
+      "sha256": "3016edf2b413a197df4f85e1dad404bc19f5223a1619126126eb3774532f31c0",
+      "text": "Morgen würde ich im Bioladen pflanzliche Margarine kaufen, die du beschrieben hast."
+    },
+    "1e62969a7f9406b558dbdadd0b695009047eccc2d17a86cd07bea10488737559": {
+      "bytes": 64826,
+      "characterCost": "31",
+      "durationSeconds": 3.994,
+      "estimatedCredits": 77,
+      "file": "72c270aa964f6ac100238e98ed094aa9c7218eaaf7fee24ec02cef3400f28a24.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.001",
+          "step": 7
+        }
+      ],
+      "requestId": "jYWTYBVCwRiAujP6tpUI",
+      "sha256": "72c270aa964f6ac100238e98ed094aa9c7218eaaf7fee24ec02cef3400f28a24",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Aufenthaltsraum geblieben sind."
+    },
+    "1f256778aa28c6eb1626bee9de1e92f6dede2118fee6550ee9b5548b81a4a22d": {
+      "bytes": 87814,
+      "characterCost": "41",
+      "durationSeconds": 5.433,
+      "estimatedCredits": 102,
+      "file": "f4bbd6b4e3d55ea0d68a7e40ca356d1e0836a8575a9c637cc6086e856b1b646d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.001",
+          "step": 6
+        }
+      ],
+      "requestId": "67pUqDQ2lyx63UnH4D52",
+      "sha256": "f4bbd6b4e3d55ea0d68a7e40ca356d1e0836a8575a9c637cc6086e856b1b646d",
+      "text": "Gestern haben wir mit meinem Mitbewohner einen vegetarischen Auflauf gegessen, weil wir hungrig waren."
+    },
+    "20f9a4c4dc904dbf41bd9e7b8c1a46dd9981564bfc93f5d068ce0e2f8d278a1c": {
+      "bytes": 33061,
+      "characterCost": "17",
+      "durationSeconds": 1.997,
+      "estimatedCredits": 43,
+      "file": "70c760654f36d266664dfa9310f278bd9a2004b6d9af4e330b6c3aea716d76b0.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.010",
+          "step": 6
+        }
+      ],
+      "requestId": "TnjPwYsO8mXnV0iRZ05j",
+      "sha256": "70c760654f36d266664dfa9310f278bd9a2004b6d9af4e330b6c3aea716d76b0",
+      "text": "Hängt morgen die Jacke im Keller bitte auf!"
+    },
+    "210da5f6a843d0c779fcd959a0d8284ceb20feab9af8b9ee4f48e2ab96a2baa9": {
+      "bytes": 115399,
+      "characterCost": "51",
+      "durationSeconds": 7.152,
+      "estimatedCredits": 128,
+      "file": "314fd6e2e73486eba70cd9387590e9d979deaec158b447c4659a92f1c7c438f8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.008",
+          "step": 6
+        }
+      ],
+      "requestId": "Awn6vT3P1qke2VdMwWoH",
+      "sha256": "314fd6e2e73486eba70cd9387590e9d979deaec158b447c4659a92f1c7c438f8",
+      "text": "Morgen würde ich abermals mit stillem Wasser meinen Tanzpartner und meine Tanzpartnerin besuchen, die in dem Kulturverein probt."
+    },
+    "21f5fab1de6f8ead00de1f7d5a5775169bef7c6e7d7aae38929fb552b6805ec1": {
+      "bytes": 31390,
+      "characterCost": "13",
+      "durationSeconds": 1.904,
+      "estimatedCredits": 32,
+      "file": "f6ab953a02dabae13247a2701682923221edbafe2b5ae2c865db36a973baf19b.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.011",
+          "step": 5
+        }
+      ],
+      "requestId": "vsCagRy3HHmDxVf4yV5e",
+      "sha256": "f6ab953a02dabae13247a2701682923221edbafe2b5ae2c865db36a973baf19b",
+      "text": "Öffne ich die Tür leise im Flur?"
+    },
+    "24e44eb45ff554338468199b60d3e98131ac984e89050dd379aae43fec40599b": {
+      "bytes": 71096,
+      "characterCost": "32",
+      "durationSeconds": 4.365,
+      "estimatedCredits": 81,
+      "file": "547d5a002fa2b917c373bfd818e205bd7091ce8f03a0bdb7eded60d85e16ab8f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.005",
+          "step": 6
+        }
+      ],
+      "requestId": "c1BCYlMfX04QFdlrcHw1",
+      "sha256": "547d5a002fa2b917c373bfd818e205bd7091ce8f03a0bdb7eded60d85e16ab8f",
+      "text": "Morgen werde ich für meinen Bruder in dem Naturkostladen jodiertes Gewürz kaufen."
+    },
+    "24eb1abddf1db456cbe50efdfd66bb8483d01491f8853786434804ac5ba39194": {
+      "bytes": 69424,
+      "characterCost": "35",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 87,
+      "file": "6a16a728ed31f9f247fcec0a1b5bf3101629f4a00ac243808da7280a77bb614a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.018",
+          "step": 6
+        }
+      ],
+      "requestId": "AWH1DEab9iJL97Oz5Dyf",
+      "sha256": "6a16a728ed31f9f247fcec0a1b5bf3101629f4a00ac243808da7280a77bb614a",
+      "text": "Nach dem Besuch mussten wir uns mit meiner Schwägerin über die Ausstellung unterhalten."
+    },
+    "257cf6d368001de621d67ef276cace751094a2c28a4e6ce936031e4ffd908dc3": {
+      "bytes": 79037,
+      "characterCost": "37",
+      "durationSeconds": 4.876,
+      "estimatedCredits": 92,
+      "file": "b36258d129ba416a095f642422e3bcae2a94e048cae30a6d8c5b39b8c03dec22.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.006",
+          "step": 6
+        }
+      ],
+      "requestId": "89AfvyKUymOCsl1463ci",
+      "sha256": "b36258d129ba416a095f642422e3bcae2a94e048cae30a6d8c5b39b8c03dec22",
+      "text": "Morgen werde ich mit gekühltem Wasser den begabten Sänger begrüßen, der in dem Studio probt."
+    },
+    "25e23f743450ab03b3bcc3471f97a28376e444b4c4c2aad56c7a7eee49703fa5": {
+      "bytes": 78201,
+      "characterCost": "38",
+      "durationSeconds": 4.83,
+      "estimatedCredits": 94,
+      "file": "622d5885109934b20f7d49c8bea9a0e6c265ed4db03e4b7a407df1d89b74fd5e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.000",
+          "step": 6
+        }
+      ],
+      "requestId": "CuJ68OFcOLvVnHUyfg04",
+      "sha256": "622d5885109934b20f7d49c8bea9a0e6c265ed4db03e4b7a407df1d89b74fd5e",
+      "text": "Gestern Morgen haben wir mit meiner Schwester einen großen Tee getrunken, weil wir müde waren."
+    },
+    "26d84de342852a780cac4407294de777c6772790edda27d824725de9d8327983": {
+      "bytes": 40585,
+      "characterCost": "20",
+      "durationSeconds": 2.461,
+      "estimatedCredits": 49,
+      "file": "971540ddbd84dcd5e999bb8b6a5de536b10bdf133828415fa237fb9437a1a84f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.006",
+          "step": 6
+        }
+      ],
+      "requestId": "mIegyYl3bs9xBL7VCv3G",
+      "sha256": "971540ddbd84dcd5e999bb8b6a5de536b10bdf133828415fa237fb9437a1a84f",
+      "text": "Könnt ihr ihn morgen im Restaurant fotografieren?"
+    },
+    "285df7299e6ded89ca7f8ab2fd081dd30ca30e87a5e24d4b111df7bd9fe9f915": {
+      "bytes": 79037,
+      "characterCost": "40",
+      "durationSeconds": 4.876,
+      "estimatedCredits": 101,
+      "file": "9d13926f9352eb8eee0854af6ccbf0742ccca667b77271e772f913ce0ab604f8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.003",
+          "step": 6
+        }
+      ],
+      "requestId": "kPJAb6huSWuY8ULQyaio",
+      "sha256": "9d13926f9352eb8eee0854af6ccbf0742ccca667b77271e772f913ce0ab604f8",
+      "text": "Gestern haben wir mit meinem Schwiegervater einen würzigen Braten gegessen, weil wir erschöpft waren."
+    },
+    "2a15661618bf35ebd12212715a6f8dc31ebb30ac11bcca02a59a58ca0af1d2f7": {
+      "bytes": 95337,
+      "characterCost": "43",
+      "durationSeconds": 5.898,
+      "estimatedCredits": 107,
+      "file": "1b442e3ef8f8af18e45449a50c2606bf12a68c228e35033db6a7173cce7425b2.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.006",
+          "step": 6
+        }
+      ],
+      "requestId": "qhD25CFxtAOJulXIeuxt",
+      "sha256": "1b442e3ef8f8af18e45449a50c2606bf12a68c228e35033db6a7173cce7425b2",
+      "text": "Obwohl der Ton undeutlich ist, würde ich morgen präzise mit meinem Anwalt den Antrag formulieren und lesen."
+    },
+    "2adc0d0c955cb2eb959088a9cd839feda1fada614af86a5d92e289d263cbe563": {
+      "bytes": 65662,
+      "characterCost": "33",
+      "durationSeconds": 4.04,
+      "estimatedCredits": 82,
+      "file": "5d153180d43317100261012de80bf89c3678a1bce2dc30721d2798f62d04de1b.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.017",
+          "step": 6
+        }
+      ],
+      "requestId": "KTj8kA1a04OPvppHPasQ",
+      "sha256": "5d153180d43317100261012de80bf89c3678a1bce2dc30721d2798f62d04de1b",
+      "text": "Nach der Operation mussten wir uns mit meiner Betreuerin an den Rhythmus gewöhnen."
+    },
+    "2b62cd88634e3396c7c98f30444d3ad444251657c77e2a1e23d34313fb7fac99": {
+      "bytes": 38913,
+      "characterCost": "19",
+      "durationSeconds": 2.368,
+      "estimatedCredits": 47,
+      "file": "ef68e9c5792b05136c869aa017143387c38fa328037f84982d9096763187974c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.007",
+          "step": 6
+        }
+      ],
+      "requestId": "QzMpGjuD3TUPU5uNlGWt",
+      "sha256": "ef68e9c5792b05136c869aa017143387c38fa328037f84982d9096763187974c",
+      "text": "Heute liest du keinen Dialog in der Bibliothek."
+    },
+    "2bae2a6e859b438ae38e21e68b66921659215d4f2e8460ac2c65978a45a4e094": {
+      "bytes": 39749,
+      "characterCost": "20",
+      "durationSeconds": 2.415,
+      "estimatedCredits": 49,
+      "file": "9241f7620d538e5c2a0174560e6b5ae4329ae0b830e32497e09e835c877fdb50.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.006",
+          "step": 5
+        }
+      ],
+      "requestId": "tTuJ06rw150ZV0hbnXpg",
+      "sha256": "9241f7620d538e5c2a0174560e6b5ae4329ae0b830e32497e09e835c877fdb50",
+      "text": "Warum sind die Socken und die Stiefel nicht nass?"
+    },
+    "2bf89959e3e824c9c1ed27deab06c3d7d4fe23d9eff417a63ae552afcd04db5d": {
+      "bytes": 94501,
+      "characterCost": "46",
+      "durationSeconds": 5.851,
+      "estimatedCredits": 114,
+      "file": "9a8e4d51b3faf4283b9a2fc0fc091f01e1ab0155f71fd400f5bda6f4ea20d4bc.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.009",
+          "step": 6
+        }
+      ],
+      "requestId": "AurN82zgSRm6URNXk87W",
+      "sha256": "9a8e4d51b3faf4283b9a2fc0fc091f01e1ab0155f71fd400f5bda6f4ea20d4bc",
+      "text": "Morgen werde ich mit naturtrübem Saft den hilfsbereiten Stadtführer besuchen, der in dem Besucherzentrum arbeitet."
+    },
+    "2c7cbda1cf092e2255871242643b1abd6f5200b01658e5abb7efc6b654ebc0e2": {
+      "bytes": 64408,
+      "characterCost": "30",
+      "durationSeconds": 3.947,
+      "estimatedCredits": 76,
+      "file": "f07bc360fc8cbd555518fe339872cd092ac008a5aa7f642de4317b925da73c3f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.002",
+          "step": 6
+        }
+      ],
+      "requestId": "3TJQxeUPoWhVH2L8V1ya",
+      "sha256": "f07bc360fc8cbd555518fe339872cd092ac008a5aa7f642de4317b925da73c3f",
+      "text": "Morgen werde ich für meinen Koch in dem Hofladen mageres Geflügel bestellen."
+    },
+    "2c9aa6399ac313d6b44c2c063333072b24da47b0bfbe7a607d05a9fcc2ec6f9a": {
+      "bytes": 37659,
+      "characterCost": "19",
+      "durationSeconds": 2.276,
+      "estimatedCredits": 48,
+      "file": "a5e5733a779b238bf83c098c9e0d9f200ec397f855f05a5e4178ab75baac534c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.009",
+          "step": 6
+        }
+      ],
+      "requestId": "J450Nbi0bAkzP71ws023",
+      "sha256": "a5e5733a779b238bf83c098c9e0d9f200ec397f855f05a5e4178ab75baac534c",
+      "text": "Könnt ihr ihn morgen im Sportplatz unterstützen?"
+    },
+    "2dd76ae17d719d2d68905be14affe51c10f67b0a3786b862fc3386d7dbf05512": {
+      "bytes": 90322,
+      "characterCost": "46",
+      "durationSeconds": 5.573,
+      "estimatedCredits": 115,
+      "file": "2b309e088f6c4d83deb1be8a655da6fa2c6ab1af6139b777079aa594ca657f2f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.006",
+          "step": 6
+        }
+      ],
+      "requestId": "JH1hrahlc1uCLK1uZhe7",
+      "sha256": "2b309e088f6c4d83deb1be8a655da6fa2c6ab1af6139b777079aa594ca657f2f",
+      "text": "Obwohl die Verbindung unterbrochen ist, werde ich morgen vorsichtshalber mit meinem Steuerberater den Notar fragen."
+    },
+    "2f352a1f938d681ca2647aeb08a86f05c46dff920f77a618476ebc93618e5851": {
+      "bytes": 44346,
+      "characterCost": "22",
+      "durationSeconds": 2.694,
+      "estimatedCredits": 56,
+      "file": "13174fe754dd83281cb884ddaefafd281fe456413ce6e8bda2d641d6205fb96b.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.005",
+          "step": 5
+        }
+      ],
+      "requestId": "bRPBStj6tsFR000MVAAz",
+      "sha256": "13174fe754dd83281cb884ddaefafd281fe456413ce6e8bda2d641d6205fb96b",
+      "text": "Warum sind die Scheiben und die Fenster nicht schmutzig?"
+    },
+    "30e4ef1b3ee13ce8f805e5c3bbe76dfb4a094383d133e26652c535d99e2bd450": {
+      "bytes": 70260,
+      "characterCost": "35",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 88,
+      "file": "2cd105e0890588ef88ed7f7ce7b60b6906c577cab4693184fe8a14243d68c6fb.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.008",
+          "step": 7
+        }
+      ],
+      "requestId": "3fhVlPAaMCWxIOr1smwY",
+      "sha256": "2cd105e0890588ef88ed7f7ce7b60b6906c577cab4693184fe8a14243d68c6fb",
+      "text": "Wir kaufen keinen pflegeleichten Besen für meinen Assistenten, wenn ich genug Geld habe."
+    },
+    "30e895be1700b829abeae60192fa5b5564a53f6ac6b4716a6b18453e4e263eca": {
+      "bytes": 78201,
+      "characterCost": "36",
+      "durationSeconds": 4.83,
+      "estimatedCredits": 91,
+      "file": "a05855a608e8f6f19171435043a1ffcec69a280ac94463f09dfbdec4cd3aa206.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.017",
+          "step": 6
+        }
+      ],
+      "requestId": "wGwTBQbTadDJ7KbuhotF",
+      "sha256": "a05855a608e8f6f19171435043a1ffcec69a280ac94463f09dfbdec4cd3aa206",
+      "text": "Die wachsameren Feuerwehrmänner warten mit meinem Einsatzleiter nicht vor einer Feuerwache."
+    },
+    "316743c2aa8a2d2d0d90af61eee3fb71052a3cffd84ffb482da5c511d1608e26": {
+      "bytes": 40585,
+      "characterCost": "19",
+      "durationSeconds": 2.461,
+      "estimatedCredits": 47,
+      "file": "789d6568cf753826f82234a461aa1f909d2b4bc90cfa7612e72f269bb377a154.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.003",
+          "step": 5
+        }
+      ],
+      "requestId": "JTJUSIu8UVucBtlmc3uy",
+      "sha256": "789d6568cf753826f82234a461aa1f909d2b4bc90cfa7612e72f269bb377a154",
+      "text": "Repariere ich das Fahrrad vorsichtig im Keller?"
+    },
+    "321231d049d3cb49dd40d4387a181ff73f0b43873c5ef6bc4900565a2e8c4499": {
+      "bytes": 107876,
+      "characterCost": "53",
+      "durationSeconds": 6.687,
+      "estimatedCredits": 133,
+      "file": "43c3707496fa00696662a62027fcabd9a6ff8d15414a3d79ed85c98343392114.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.007",
+          "step": 6
+        }
+      ],
+      "requestId": "qNS8p2low7KHk1gNGzIt",
+      "sha256": "43c3707496fa00696662a62027fcabd9a6ff8d15414a3d79ed85c98343392114",
+      "text": "Morgen würde ich ausnahmsweise mit meinem Abteilungsleiter den Entschluss erläutern und diskutieren, obwohl das Wetter stürmisch ist."
+    },
+    "3443bb164db9d6aa6ba9547767e173f4ac63ba71e477b93f8484e807383e3b49": {
+      "bytes": 77783,
+      "characterCost": "37",
+      "durationSeconds": 4.783,
+      "estimatedCredits": 93,
+      "file": "ca6cec5955423c936e3a1a95b7a37a969bc28cd2810b7995bb198470436137a0.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.007",
+          "step": 6
+        }
+      ],
+      "requestId": "tFuGI5JoElzSSF70NPTR",
+      "sha256": "ca6cec5955423c936e3a1a95b7a37a969bc28cd2810b7995bb198470436137a0",
+      "text": "Morgen werde ich für meinen Schwiegervater auf dem Bauernmarkt regionales Rindfleisch kaufen."
+    },
+    "34482dd2b641add420b89cadfc372271c02c0957d596713a31cd3ae8d2b56e77": {
+      "bytes": 46436,
+      "characterCost": "22",
+      "durationSeconds": 2.833,
+      "estimatedCredits": 54,
+      "file": "8198f7b3e66ae71340b13e4ce53e0dce52f5e826bfa7bb7ef84b99489dbc980f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.011",
+          "step": 5
+        }
+      ],
+      "requestId": "rkFk33H8bi3CKRFFjAGf",
+      "sha256": "8198f7b3e66ae71340b13e4ce53e0dce52f5e826bfa7bb7ef84b99489dbc980f",
+      "text": "Warum sind die Taschen und die Rucksäcke nicht schwer?"
+    },
+    "34d7453f92d08f9a77d869ea3155229b218627de7a9c9278f5d77284b3522843": {
+      "bytes": 33897,
+      "characterCost": "16",
+      "durationSeconds": 2.043,
+      "estimatedCredits": 40,
+      "file": "a0b15b49172ae1e2910bceea8a1790c6a6e6e1339b1d5dc8c32c7f0a8b9ad397.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.013",
+          "step": 6
+        }
+      ],
+      "requestId": "o5DoPhbWEhyxP1xtOfXI",
+      "sha256": "a0b15b49172ae1e2910bceea8a1790c6a6e6e1339b1d5dc8c32c7f0a8b9ad397",
+      "text": "Heute liest du keinen Kommentar im Café."
+    },
+    "34f9c6e1a718d92e3fcb81bb0d704bd4eca80c585f319851b5e2d97f1495b153": {
+      "bytes": 38077,
+      "characterCost": "20",
+      "durationSeconds": 2.322,
+      "estimatedCredits": 49,
+      "file": "29aa68d2fa4315f11cc09c6b2ea4edc1668ef7131e044ad4fba6f6abf7f2ba11.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.008",
+          "step": 5
+        }
+      ],
+      "requestId": "TssIkoBN0YqMMBtsys5J",
+      "sha256": "29aa68d2fa4315f11cc09c6b2ea4edc1668ef7131e044ad4fba6f6abf7f2ba11",
+      "text": "Warum sind die Decken und die Kissen nicht weich?"
+    },
+    "3626a0042fe3ad6ec1103b21e0fbb4027e5f76c96cef3e70d5d1245171b48640": {
+      "bytes": 43510,
+      "characterCost": "22",
+      "durationSeconds": 2.647,
+      "estimatedCredits": 55,
+      "file": "425ae9997b15f32daee438dcb9056a8e15996d2fffba3661145dff638020468f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.013",
+          "step": 6
+        }
+      ],
+      "requestId": "CUvEfefZOkcnZgXImddy",
+      "sha256": "425ae9997b15f32daee438dcb9056a8e15996d2fffba3661145dff638020468f",
+      "text": "Werft morgen die Verpackung in der Werkstatt bitte weg!"
+    },
+    "376453feb56df467e599201d0bbe5f1154ce12a21a89258a8124f2a382b2fd8b": {
+      "bytes": 75275,
+      "characterCost": "36",
+      "durationSeconds": 4.644,
+      "estimatedCredits": 91,
+      "file": "293cbfd46ef569d9097ae30cf76bb06adb5bc35f6df8ea226fa71da6ebf5a4fb.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.016",
+          "step": 6
+        }
+      ],
+      "requestId": "656I0eR1DH2xWD31ydom",
+      "sha256": "293cbfd46ef569d9097ae30cf76bb06adb5bc35f6df8ea226fa71da6ebf5a4fb",
+      "text": "Die selbstständigeren Handwerker arbeiten mit meinem Meister nicht vor einem Geschäftshaus."
+    },
+    "377e80bf23446618db5bb2fd82120cc3604d6f6dd0b001a02aee6db061f4bcd8": {
+      "bytes": 38913,
+      "characterCost": "20",
+      "durationSeconds": 2.368,
+      "estimatedCredits": 49,
+      "file": "ddf33fdbd376380b935750b4c8d5979b81924db737daa81d6d02a344fe441825.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.010",
+          "step": 5
+        }
+      ],
+      "requestId": "MNBBGPzxwtZDcsLX29vw",
+      "sha256": "ddf33fdbd376380b935750b4c8d5979b81924db737daa81d6d02a344fe441825",
+      "text": "Warum sind die Torten und die Kekse nicht lecker?"
+    },
+    "381ffe76fd7c17559053fc6f063cafdf3a620263278da75abdbb22f11ec1fdfd": {
+      "bytes": 34315,
+      "characterCost": "17",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 42,
+      "file": "aa818d4496bc24f1d46b3b86b942bf713456ca0bb4282ca5122b38c0f2c2d1cd.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.011",
+          "step": 6
+        }
+      ],
+      "requestId": "A3XbF5tl0UgSUKlwrESM",
+      "sha256": "aa818d4496bc24f1d46b3b86b942bf713456ca0bb4282ca5122b38c0f2c2d1cd",
+      "text": "Füllt morgen die Liste im Hotel bitte aus!"
+    },
+    "3832b92e4d7adfbe0cf5a9e52ebbdc9d329f680a7b1ef46d3152da95378d71ea": {
+      "bytes": 74021,
+      "characterCost": "34",
+      "durationSeconds": 4.551,
+      "estimatedCredits": 85,
+      "file": "bab112203f8b58f3e93426e1922ee2c9c1abb4c219b368f41199bc7348d42dc8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.006",
+          "step": 6
+        }
+      ],
+      "requestId": "kwpFj6Ir9tiH6iqGwunp",
+      "sha256": "bab112203f8b58f3e93426e1922ee2c9c1abb4c219b368f41199bc7348d42dc8",
+      "text": "Morgen werde ich für meinen Enkel in dem Reformhaus glutenfreies Hafermehl bestellen."
+    },
+    "38ebe39c1a9ddebbf1f433d4c7fad3b04224a0cde433b87903f83212f004ad57": {
+      "bytes": 58975,
+      "characterCost": "31",
+      "durationSeconds": 3.622,
+      "estimatedCredits": 78,
+      "file": "ebfb71c4a7ac50b654a322c96704b55051239957533185f75fef823960c15f63.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.008",
+          "step": 6
+        }
+      ],
+      "requestId": "RT4hGzFRx049MT5Wsosx",
+      "sha256": "ebfb71c4a7ac50b654a322c96704b55051239957533185f75fef823960c15f63",
+      "text": "Nach der Behandlung mussten wir uns mit meiner Cousine von der Grippe erholen."
+    },
+    "3bb8735171112d541fe3778f99ad79775320adb31c79884681cb9d76f7addf66": {
+      "bytes": 33061,
+      "characterCost": "17",
+      "durationSeconds": 1.997,
+      "estimatedCredits": 42,
+      "file": "f731350ca34e674e85748c7bc906adbcb185fd2a8cb325782b5f83644b4e38d8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.005",
+          "step": 6
+        }
+      ],
+      "requestId": "OTjfBqShNX22pipb7IMA",
+      "sha256": "f731350ca34e674e85748c7bc906adbcb185fd2a8cb325782b5f83644b4e38d8",
+      "text": "Könnt ihr ihn morgen im Bahnhof begleiten?"
+    },
+    "3ce6ee8f6b993e9ec29679c42db03dc14b1a1800e9ffa4ebf7a59de955a16756": {
+      "bytes": 63572,
+      "characterCost": "31",
+      "durationSeconds": 3.901,
+      "estimatedCredits": 77,
+      "file": "fe0c3df1c714251f8ccea06d6767fb46b3d128751ed05f5950a868ed64812f84.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.014",
+          "step": 7
+        }
+      ],
+      "requestId": "xEf0daaJmNpwovQeQEI8",
+      "sha256": "fe0c3df1c714251f8ccea06d6767fb46b3d128751ed05f5950a868ed64812f84",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Einkaufszentrum geblieben sind."
+    },
+    "3e18a1d9ad81d39d36280bec0da7ba1194de86c48cb75ea21200c4dc70642bde": {
+      "bytes": 33897,
+      "characterCost": "15",
+      "durationSeconds": 2.043,
+      "estimatedCredits": 38,
+      "file": "db5bc0c7b7c69bca4449375307cfe2eb72e2ac10b4489b8bc25eab0d05ca8d72.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.006",
+          "step": 6
+        }
+      ],
+      "requestId": "asdz776Oey7pgp5h1PmV",
+      "sha256": "db5bc0c7b7c69bca4449375307cfe2eb72e2ac10b4489b8bc25eab0d05ca8d72",
+      "text": "Heute liest du keinen Artikel im Büro."
+    },
+    "3f266088f0c793c8c5a988b0455a61e4c87d90081fdcd6045292857df6906b1b": {
+      "bytes": 84888,
+      "characterCost": "42",
+      "durationSeconds": 5.248,
+      "estimatedCredits": 106,
+      "file": "2843378e47b614ae9265f871d4543dfb6d2d72837ef09e471b8d46c3eaf462b2.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.000",
+          "step": 6
+        }
+      ],
+      "requestId": "JX9XmKmLogPBKUSrFQ5n",
+      "sha256": "2843378e47b614ae9265f871d4543dfb6d2d72837ef09e471b8d46c3eaf462b2",
+      "text": "Morgen würde ich gern mit frischem Kaffee meinen Freund und meine Schwester besuchen, die in Berlin wohnt."
+    },
+    "4140773ca170a8801b538eefd3161d5197326fa3b087957c7a806ff7a8d054e1": {
+      "bytes": 61901,
+      "characterCost": "31",
+      "durationSeconds": 3.808,
+      "estimatedCredits": 77,
+      "file": "540bd3025b0262283dc293274f2cddb82325c9195eb923fb1cd874d22d530b18.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.014",
+          "step": 6
+        }
+      ],
+      "requestId": "fgNnee3NAamt6MJ6Dal3",
+      "sha256": "540bd3025b0262283dc293274f2cddb82325c9195eb923fb1cd874d22d530b18",
+      "text": "Nach der Beratung mussten wir uns mit meiner Kollegin um die Stelle bewerben."
+    },
+    "420daf123af86b0e843bb38f7754a4537e21167d9dd753b61e319822e63bce36": {
+      "bytes": 35987,
+      "characterCost": "19",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 48,
+      "file": "cd7692841c0b7e1302ef4300d3d0b65fb3754aecf24471c1a5869fce134762b2.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.005",
+          "step": 6
+        }
+      ],
+      "requestId": "ZKmh2uD07aKgrwjiB7RG",
+      "sha256": "cd7692841c0b7e1302ef4300d3d0b65fb3754aecf24471c1a5869fce134762b2",
+      "text": "Bringt morgen die Karte in der Schule bitte mit!"
+    },
+    "44615804e7a2fc132ce16362eb50cfd1f323bc9e3d3f213c5dfd28c3b575dfff": {
+      "bytes": 56885,
+      "characterCost": "29",
+      "durationSeconds": 3.483,
+      "estimatedCredits": 72,
+      "file": "bdfa23df83c8ec9cebc45135058a51757613f8b86a08d3ea247262b2d88062d0.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.008",
+          "step": 7
+        }
+      ],
+      "requestId": "VBv9n1gfS2UIwbhcwAx4",
+      "sha256": "bdfa23df83c8ec9cebc45135058a51757613f8b86a08d3ea247262b2d88062d0",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Spielplatz geblieben sind."
+    },
+    "463ada6340ee131d28d1e18ba5e1f52c26ca6a4a2d7f0cd3e3d9a287655c7c40": {
+      "bytes": 30972,
+      "characterCost": "16",
+      "durationSeconds": 1.858,
+      "estimatedCredits": 40,
+      "file": "005ac59b22355fc5580df70308dabfc8edaaa7d7414f89cca2d99e8e886df19d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.003",
+          "step": 6
+        }
+      ],
+      "requestId": "bwpXv9QDRjo71Qo9RIaX",
+      "sha256": "005ac59b22355fc5580df70308dabfc8edaaa7d7414f89cca2d99e8e886df19d",
+      "text": "Heute liest du keinen Preis im Geschäft."
+    },
+    "477b791c6ba3e1447d7eed9e64e1324215d621a27890bf6d711deff7c37fdd65": {
+      "bytes": 43510,
+      "characterCost": "21",
+      "durationSeconds": 2.647,
+      "estimatedCredits": 52,
+      "file": "fa3c2adf96f803a767b4e6e3b76e5267c4b43978b553c732242465bb06a27f4f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.013",
+          "step": 5
+        }
+      ],
+      "requestId": "sMrmu0vgxyncZisVkKhF",
+      "sha256": "fa3c2adf96f803a767b4e6e3b76e5267c4b43978b553c732242465bb06a27f4f",
+      "text": "Warum sind die Pfannen und die Schüsseln nicht voll?"
+    },
+    "494011f76bedb9da66e589878e58783263b5bede7766001f4bfcc9db208aa296": {
+      "bytes": 41838,
+      "characterCost": "20",
+      "durationSeconds": 2.554,
+      "estimatedCredits": 50,
+      "file": "ee24a2b04b0e52f24582c6b971644bb4600e6076d994f35d60294687672170e8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.003",
+          "step": 5
+        }
+      ],
+      "requestId": "DKPFpJCHKZoc7EeRiexm",
+      "sha256": "ee24a2b04b0e52f24582c6b971644bb4600e6076d994f35d60294687672170e8",
+      "text": "Warum sind die Flaschen und die Dosen nicht klein?"
+    },
+    "4a07c5db0255aeb2ece34ffbde205114b31a4ce49539d7267c9b4d235b69b801": {
+      "bytes": 78201,
+      "characterCost": "40",
+      "durationSeconds": 4.83,
+      "estimatedCredits": 101,
+      "file": "54e7a7d5c60661d778269dfb152bc737fbfac8cd40bf2d36e48edcbd51128562.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.003",
+          "step": 6
+        }
+      ],
+      "requestId": "yjQuTcV3pOfMx6LU8ogI",
+      "sha256": "54e7a7d5c60661d778269dfb152bc737fbfac8cd40bf2d36e48edcbd51128562",
+      "text": "Morgen werden wir den berührenden Liebesfilm sehen, den du beschrieben hast, obwohl der Weg weit ist."
+    },
+    "4a3ca3a105fdd74906940242b911ead48d0ea63f3f3f2e3209bd113a232bcbab": {
+      "bytes": 99935,
+      "characterCost": "47",
+      "durationSeconds": 6.177,
+      "estimatedCredits": 117,
+      "file": "579937a5e1d45b71f7a5131106b1f1acea76dc2f344fb5d040f0e6c135c78176.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.005",
+          "step": 6
+        }
+      ],
+      "requestId": "vxrfJWaMCaMigyemFTzx",
+      "sha256": "579937a5e1d45b71f7a5131106b1f1acea76dc2f344fb5d040f0e6c135c78176",
+      "text": "Morgen werde ich mit wohltuendem Tee den qualifizierten Therapeuten besuchen, der in dem Therapiezentrum praktiziert."
+    },
+    "4b0c26be10c2c2552e9ceb98b0adb2766ef6da00e059feb9819f16e1a43d7dde": {
+      "bytes": 97845,
+      "characterCost": "49",
+      "durationSeconds": 6.037,
+      "estimatedCredits": 123,
+      "file": "00d27c9205fa4a07e6a7758d54bc70851037ef00c5e7c6a774bbea163a4eff1f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.002",
+          "step": 6
+        }
+      ],
+      "requestId": "D2XpoPIpilgk14JeBHZo",
+      "sha256": "00d27c9205fa4a07e6a7758d54bc70851037ef00c5e7c6a774bbea163a4eff1f",
+      "text": "Morgen würde ich wahrscheinlich mit knusprigem Gebäck meinen Neffen und meine Nichte begrüßen, die in dem Jugendclub lernt."
+    },
+    "4d22e8b8daa5c379975ac122da980f6f2775a5e35697aa2373974b15c6f813d6": {
+      "bytes": 65662,
+      "characterCost": "35",
+      "durationSeconds": 4.04,
+      "estimatedCredits": 87,
+      "file": "dbf1c9713d5e1eb1229ff81d63c9433ba2dcb5369820eebe559895faf6462258.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.007",
+          "step": 6
+        }
+      ],
+      "requestId": "Cmc6HBaqv08xj5aUHzXl",
+      "sha256": "dbf1c9713d5e1eb1229ff81d63c9433ba2dcb5369820eebe559895faf6462258",
+      "text": "Die geschickteren Lehrlinge arbeiten mit meinem Ausbilder nicht vor einer Berufsschule."
+    },
+    "4e210db3ec5433e8443e2bbfc0c64a822ba4fcc4262e866719b02c30e3e02298": {
+      "bytes": 65662,
+      "characterCost": "27",
+      "durationSeconds": 4.04,
+      "estimatedCredits": 68,
+      "file": "8f9936ea0e17e91253029f83c6e129b9f52a9b8b329873724d4f9775856cf3ca.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.000",
+          "step": 6
+        }
+      ],
+      "requestId": "ITvuGUbnI6S7ygnLimU7",
+      "sha256": "8f9936ea0e17e91253029f83c6e129b9f52a9b8b329873724d4f9775856cf3ca",
+      "text": "Die kleineren Kinder spielen mit meinem Bruder nicht vor einem Park."
+    },
+    "4f49bf32724db9c34613a4add7f1d93154841fd4480f5c239c085bbe44b8da3f": {
+      "bytes": 62736,
+      "characterCost": "32",
+      "durationSeconds": 3.855,
+      "estimatedCredits": 79,
+      "file": "8b0ae9d91b83523ef4626689058b2c6ac5eef3637b261e2011fb22e2819176c1.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.005",
+          "step": 6
+        }
+      ],
+      "requestId": "WMJaI0zaxwdRS8YuIOna",
+      "sha256": "8b0ae9d91b83523ef4626689058b2c6ac5eef3637b261e2011fb22e2819176c1",
+      "text": "Nach dem Frühstück mussten wir uns mit meinem Schwager vor dem Termin rasieren."
+    },
+    "4faa0a5a94dea156b4ccc47cda77e13db4db13ac15b4d258fc8528af5330f677": {
+      "bytes": 70260,
+      "characterCost": "32",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 81,
+      "file": "78304cafdd92a32ef6063ac643bd84b253aa4ec64d238087d6fb81cdd9136c53.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.009",
+          "step": 6
+        }
+      ],
+      "requestId": "UI7DJ7jTAHeBOkzfDgJ4",
+      "sha256": "78304cafdd92a32ef6063ac643bd84b253aa4ec64d238087d6fb81cdd9136c53",
+      "text": "Die ausdauernderen Profis trainieren mit meinem Sportler nicht vor einem Stadion."
+    },
+    "511153f52a7c440a714813eb8aa91546f1d55ea32f49846b62ef6da44d9342fe": {
+      "bytes": 32225,
+      "characterCost": "17",
+      "durationSeconds": 1.95,
+      "estimatedCredits": 43,
+      "file": "1227b17c361f2097d216ba11256983862dd732f8f2c5c90172173a2a51a95d5d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.012",
+          "step": 6
+        }
+      ],
+      "requestId": "2GK0qQGVMJvFOdll8oG9",
+      "sha256": "1227b17c361f2097d216ba11256983862dd732f8f2c5c90172173a2a51a95d5d",
+      "text": "Könnt ihr ihn morgen im Kino verabschieden?"
+    },
+    "52afffa65db29918af116fe276ae3f5a605fc531eb84e31097d5b183fda7ee73": {
+      "bytes": 59811,
+      "characterCost": "29",
+      "durationSeconds": 3.669,
+      "estimatedCredits": 73,
+      "file": "5e0131e012a146e65f966e5fe99267bec856a74371cf190f5e6cb1fcf46c4f45.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.005",
+          "step": 7
+        }
+      ],
+      "requestId": "tc7rttSRDGXfKROojBgK",
+      "sha256": "5e0131e012a146e65f966e5fe99267bec856a74371cf190f5e6cb1fcf46c4f45",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Fitnessraum geblieben sind."
+    },
+    "52d8c14e421bdd815c98b19573af71c5bb750feba91b238651850ebd0011b7be": {
+      "bytes": 68588,
+      "characterCost": "33",
+      "durationSeconds": 4.226,
+      "estimatedCredits": 83,
+      "file": "426d173c46bd34e1da12505b9666838e94f1c2ac55322839a2c4f089303c4453.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.014",
+          "step": 7
+        }
+      ],
+      "requestId": "W6wwT5DeBJnXcYXD4XSL",
+      "sha256": "426d173c46bd34e1da12505b9666838e94f1c2ac55322839a2c4f089303c4453",
+      "text": "Wir kaufen keinen passenden Adapter für meinen Busfahrer, wenn ich genug Geld habe."
+    },
+    "52e4d68dd6959f47310947e9d2c39954bdf4483309bd0e1ecf82a701d5449244": {
+      "bytes": 36823,
+      "characterCost": "19",
+      "durationSeconds": 2.229,
+      "estimatedCredits": 47,
+      "file": "d59d198a34d2c7bc51470f8b3fee517be1c536b314b940ccabaf0ca71a3bf38d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.000",
+          "step": 5
+        }
+      ],
+      "requestId": "PC3lftTxkOQXIFGMtsb0",
+      "sha256": "d59d198a34d2c7bc51470f8b3fee517be1c536b314b940ccabaf0ca71a3bf38d",
+      "text": "Warum sind die Lampen und die Stühle nicht neu?"
+    },
+    "52e515ea5e2dd34d8a59ce6db63759b412625e5aed74ebe1b30d3a019863ba7f": {
+      "bytes": 73185,
+      "characterCost": "38",
+      "durationSeconds": 4.505,
+      "estimatedCredits": 95,
+      "file": "2979c9b2386e31717a00c2719cc58450f10ee69cbf8879cd70831edc83d43deb.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.011",
+          "step": 6
+        }
+      ],
+      "requestId": "tOlZfmuZSiEMWL7EPyTk",
+      "sha256": "2979c9b2386e31717a00c2719cc58450f10ee69cbf8879cd70831edc83d43deb",
+      "text": "Gestern haben wir mit meinem Freund einen saftigen Döner gegessen, weil wir ausgehungert waren."
+    },
+    "536e06a47083ccddf7ab280d7639c32756a4e7ffdd5c11bcbf0b32bde23abbbc": {
+      "bytes": 46436,
+      "characterCost": "22",
+      "durationSeconds": 2.833,
+      "estimatedCredits": 56,
+      "file": "9b8b952365a8b35d06a38c62bd25eb8d0e4da2fa1b17b0f82c78d48f74447b17.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.012",
+          "step": 5
+        }
+      ],
+      "requestId": "lZVjAuFuvul7B1mw7Dfg",
+      "sha256": "9b8b952365a8b35d06a38c62bd25eb8d0e4da2fa1b17b0f82c78d48f74447b17",
+      "text": "Warum sind die Tastaturen und die Telefone nicht kaputt?"
+    },
+    "53bd9909cd670cdf7f84d0574a017f2cd9e458629421f5818dc6d7d71626ccb4": {
+      "bytes": 69424,
+      "characterCost": "36",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 91,
+      "file": "df424ad330ac37eabecbdc689f340895d99eb9e0c8eb1dddeb4f2bd091f18b37.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.005",
+          "step": 6
+        }
+      ],
+      "requestId": "GxlO0eWhxgnaek31OkFf",
+      "sha256": "df424ad330ac37eabecbdc689f340895d99eb9e0c8eb1dddeb4f2bd091f18b37",
+      "text": "Gestern haben wir mit meinem Enkel einen süßen Pudding gegessen, weil wir begeistert waren."
+    },
+    "53db00b044816b199ca120ff741bd57f312759fa1fc4771adcdfd89a8ad3a124": {
+      "bytes": 102025,
+      "characterCost": "50",
+      "durationSeconds": 6.316,
+      "estimatedCredits": 126,
+      "file": "f5f5d6f6d5c0bc9ab949a3b4f24f34da484380bc4bb9a39e65c9c78eca40edc3.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.009",
+          "step": 6
+        }
+      ],
+      "requestId": "vF74gXMYTOW7AQtjFkOc",
+      "sha256": "f5f5d6f6d5c0bc9ab949a3b4f24f34da484380bc4bb9a39e65c9c78eca40edc3",
+      "text": "Morgen würde ich verantwortungsvoll mit meinem Mitbewohner den Haushalt organisieren und kochen, obwohl die Energie teuer ist."
+    },
+    "54e47520f2441b7eaffe8e5d2352bb7ef99fdb1e0a00bbede1b8b843ff301999": {
+      "bytes": 64826,
+      "characterCost": "29",
+      "durationSeconds": 3.994,
+      "estimatedCredits": 73,
+      "file": "12367db4c6411b11d40dcdb8da0a56b8de269de3bbda3e6e4cab5bde8332eff6.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.003",
+          "step": 7
+        }
+      ],
+      "requestId": "OiNzxt5xUpJlsRUU2VSc",
+      "sha256": "12367db4c6411b11d40dcdb8da0a56b8de269de3bbda3e6e4cab5bde8332eff6",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Seminarraum geblieben sind."
+    },
+    "5520b0f72a0a1aeb12c236a358206971e968b9077f7bf964ccb070a2353647ae": {
+      "bytes": 38077,
+      "characterCost": "18",
+      "durationSeconds": 2.322,
+      "estimatedCredits": 46,
+      "file": "6a1b195c80c08f042302bdfd829cd2170ca8980dca8094827583edfbf5c00780.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.002",
+          "step": 5
+        }
+      ],
+      "requestId": "J32FWTUgmDi62tLO5SKp",
+      "sha256": "6a1b195c80c08f042302bdfd829cd2170ca8980dca8094827583edfbf5c00780",
+      "text": "Bezahle ich die Rechnung sofort im Restaurant?"
+    },
+    "5668d7c9d7f579b4043c7453b97273c1397d6034ca16f6b85048b4b3cd5aff03": {
+      "bytes": 80709,
+      "characterCost": "41",
+      "durationSeconds": 4.969,
+      "estimatedCredits": 102,
+      "file": "984ca2c583b603f6edef5aeb51a3f9c2ad7f88adc5123378118d099fe1255b30.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.006",
+          "step": 6
+        }
+      ],
+      "requestId": "S2DvFrFJSrM3mY1x2uPD",
+      "sha256": "984ca2c583b603f6edef5aeb51a3f9c2ad7f88adc5123378118d099fe1255b30",
+      "text": "Gestern haben wir mit meinem Vermieter einen knusprigen Zwieback gegessen, weil wir erleichtert waren."
+    },
+    "5749d8713bb86cc8f2a266d6fcb26207432f7b9526c799c2cb1543b854da05e1": {
+      "bytes": 35987,
+      "characterCost": "17",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 43,
+      "file": "2e035752b863152c575a9c9d2cba177be14515da236cb92ac1b371b91d72ddde.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.001",
+          "step": 5
+        }
+      ],
+      "requestId": "XzpQuOAIm5E5arlF4M59",
+      "sha256": "2e035752b863152c575a9c9d2cba177be14515da236cb92ac1b371b91d72ddde",
+      "text": "Putze ich das Bad gründlich im Erdgeschoss?"
+    },
+    "5978650e6878c46de4f403ce5b6533868690984a68a7e0b972637e9aac71d538": {
+      "bytes": 70260,
+      "characterCost": "34",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 85,
+      "file": "0d1f29ce860f8ba2644da25d65c573016a5de96c34cf7d0c28db89210e13bd08.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.008",
+          "step": 6
+        }
+      ],
+      "requestId": "lfIfvKdVCu40mM74Ru2J",
+      "sha256": "0d1f29ce860f8ba2644da25d65c573016a5de96c34cf7d0c28db89210e13bd08",
+      "text": "Die talentierteren Anfänger zeichnen mit meinem Künstler nicht vor einer Kunstschule."
+    },
+    "5a136714f935523efeef7c7a5757db671baff2916ff2c61884de762ab1d35662": {
+      "bytes": 41838,
+      "characterCost": "20",
+      "durationSeconds": 2.554,
+      "estimatedCredits": 49,
+      "file": "a8fa289c80227322461908610006e3584f6ed74f3b344ac37d84b799979057a8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.004",
+          "step": 5
+        }
+      ],
+      "requestId": "xxB6k6JJpmBTr1sdxvJ1",
+      "sha256": "a8fa289c80227322461908610006e3584f6ed74f3b344ac37d84b799979057a8",
+      "text": "Warum sind die Kommoden und die Regale nicht alt?"
+    },
+    "5ee56873e27b3a509bdf8a4ef267b520c8b8df33522b9e0316169876555f427b": {
+      "bytes": 71096,
+      "characterCost": "34",
+      "durationSeconds": 4.365,
+      "estimatedCredits": 84,
+      "file": "708881b592c48db7a4199c43e2de8d6742a525f65e45293b2bfcb28e659bd2bb.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.011",
+          "step": 6
+        }
+      ],
+      "requestId": "IhIln0X0HGlrPcFm0rWr",
+      "sha256": "708881b592c48db7a4199c43e2de8d6742a525f65e45293b2bfcb28e659bd2bb",
+      "text": "Die ruhigeren Mannschaften warten mit meinem Teamkollegen nicht vor einer Festhalle."
+    },
+    "612e08dc869e00fbcf72665b69dd46fb0425dbf19e05e108be20223db4d1ffff": {
+      "bytes": 53959,
+      "characterCost": "28",
+      "durationSeconds": 3.297,
+      "estimatedCredits": 69,
+      "file": "d3fb2ffa9b384e7c02ee80c7e1f4fe275aa2d5bb6a26fe69f339ac81ee2821aa.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.000",
+          "step": 7
+        }
+      ],
+      "requestId": "MlqZGhlCKBlRd7u3KELu",
+      "sha256": "d3fb2ffa9b384e7c02ee80c7e1f4fe275aa2d5bb6a26fe69f339ac81ee2821aa",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Bahnhof geblieben sind."
+    },
+    "615ec9745cc918a4a6ec20438d2d8fc8212c1e0ad230e13e8832c222babe4212": {
+      "bytes": 35987,
+      "characterCost": "19",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 48,
+      "file": "f51dc795c646b08c08240d952ffa69351cf2e2586c6e67e445ef1a380d87bb1a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.002",
+          "step": 5
+        }
+      ],
+      "requestId": "eozWcRiY8oAqqCr15qiC",
+      "sha256": "f51dc795c646b08c08240d952ffa69351cf2e2586c6e67e445ef1a380d87bb1a",
+      "text": "Warum sind die Tassen und die Gläser nicht leer?"
+    },
+    "6162fb691e4b4b80ec60c85602610f67da203b39518eea7b5e9615abf36b2c03": {
+      "bytes": 97009,
+      "characterCost": "46",
+      "durationSeconds": 5.991,
+      "estimatedCredits": 114,
+      "file": "770dbda09d94eb250aa9aec544a8e1633ec6750623f02e12cf4368429cddbec3.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.008",
+          "step": 6
+        }
+      ],
+      "requestId": "1TqNkcHUOrWqAvM5qvcb",
+      "sha256": "770dbda09d94eb250aa9aec544a8e1633ec6750623f02e12cf4368429cddbec3",
+      "text": "Morgen werde ich mit saisonalem Gemüse den geduldigen Sozialarbeiter begleiten, der in dem Jugendzentrum arbeitet."
+    },
+    "6406df353e8e743ce8b38b186c899b82b3700a368fecbb33409616c40cd2b9a4": {
+      "bytes": 71096,
+      "characterCost": "35",
+      "durationSeconds": 4.365,
+      "estimatedCredits": 88,
+      "file": "a5124ca845af1b92d66a5e09915ba330eddef60092efd35850fdcb17707a2a8a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.004",
+          "step": 6
+        }
+      ],
+      "requestId": "FxW732fE5VwiEwUolaYl",
+      "sha256": "a5124ca845af1b92d66a5e09915ba330eddef60092efd35850fdcb17707a2a8a",
+      "text": "Gestern haben wir mit meinem Cousin einen gedämpften Reis gegessen, weil wir müde waren."
+    },
+    "660ef1b2ed4c3a999b01032e993576643adfc826bb6d4593aa96178d960d1c7d": {
+      "bytes": 64408,
+      "characterCost": "34",
+      "durationSeconds": 3.947,
+      "estimatedCredits": 84,
+      "file": "af36f758206dc00ffd5ce234a714eee1bf1360d64ceec57496b5d1d562b00fac.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.012",
+          "step": 7
+        }
+      ],
+      "requestId": "W6lrNUlPoyKNm8b2nWSO",
+      "sha256": "af36f758206dc00ffd5ce234a714eee1bf1360d64ceec57496b5d1d562b00fac",
+      "text": "Wir kaufen keinen modernen Scanner für meinen Briefträger, wenn ich genug Geld habe."
+    },
+    "66ee1765d395e7f3994457ed75c4ad368bf5de3701e03b1c1804ebe26c85f8f2": {
+      "bytes": 75275,
+      "characterCost": "38",
+      "durationSeconds": 4.644,
+      "estimatedCredits": 94,
+      "file": "bf2c68f557068319b3c6fb7eeef58f8bd362c18ec4dbb2c175fa899719e0e01e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.008",
+          "step": 6
+        }
+      ],
+      "requestId": "vR3jGVYUG7VQjeyYkBMe",
+      "sha256": "bf2c68f557068319b3c6fb7eeef58f8bd362c18ec4dbb2c175fa899719e0e01e",
+      "text": "Morgen würde ich im Naturkostladen kaltgepresstes Olivenöl bestellen, das du beschrieben hast."
+    },
+    "67e68a8fa99e92cdf07dbbd55a1520e8ebd2189b09fca691362af13cabac25b5": {
+      "bytes": 60647,
+      "characterCost": "30",
+      "durationSeconds": 3.715,
+      "estimatedCredits": 74,
+      "file": "ca84f0fb3bc559eeadad86e797b47ecd5ffc2822430f9e0da59fccacc81eed69.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.016",
+          "step": 7
+        }
+      ],
+      "requestId": "JmR2DEkGRTHLyCZxeiDM",
+      "sha256": "ca84f0fb3bc559eeadad86e797b47ecd5ffc2822430f9e0da59fccacc81eed69",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Gemeindehaus geblieben sind."
+    },
+    "69ea5e86bcd0b564d25c76b3eb2bc9c5930bce8054c2e60c6bfef297b4708714": {
+      "bytes": 33061,
+      "characterCost": "16",
+      "durationSeconds": 1.997,
+      "estimatedCredits": 39,
+      "file": "0ca67d555fdaaa24c9c5be4ec6da26dfbd39d3fd862d7c4d6debb962f60daf01.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.004",
+          "step": 6
+        }
+      ],
+      "requestId": "EHn2MfSWphWEcpbYOrow",
+      "sha256": "0ca67d555fdaaa24c9c5be4ec6da26dfbd39d3fd862d7c4d6debb962f60daf01",
+      "text": "Heute liest du keinen Ausweis im Hotel."
+    },
+    "6aeb2c85212071067b498ccb5ddc6cc73810b177676d999fa0b0db8a41ff12dd": {
+      "bytes": 35987,
+      "characterCost": "18",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 45,
+      "file": "016e81a424f32dff162006374136f603cd098ceb3a78ff8b020f5861202f2c56.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.007",
+          "step": 6
+        }
+      ],
+      "requestId": "YgNSbj5KOcx3U5QD2AkO",
+      "sha256": "016e81a424f32dff162006374136f603cd098ceb3a78ff8b020f5861202f2c56",
+      "text": "Könnt ihr ihn morgen im Büro benachrichtigen?"
+    },
+    "6b89f173f07b8c0d195b5434cfad6c5c8bb988bcc22d67282d1a3e6c33dfcd70": {
+      "bytes": 23448,
+      "characterCost": "11",
+      "durationSeconds": 1.393,
+      "estimatedCredits": 27,
+      "file": "fbb60bed625f18f706e6a78187446e1f377061f65922be292e5e1e7d9c63b85f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.000",
+          "step": 5
+        }
+      ],
+      "requestId": "6hOWpNytl2fzUk28Q5hS",
+      "sha256": "fbb60bed625f18f706e6a78187446e1f377061f65922be292e5e1e7d9c63b85f",
+      "text": "Lerne ich zu Hause Deutsch?"
+    },
+    "6c9ba7b39825ffe277fea2b728f1db4809012dcaa9e64ff211b17878e03b1c15": {
+      "bytes": 78201,
+      "characterCost": "39",
+      "durationSeconds": 4.83,
+      "estimatedCredits": 98,
+      "file": "2c6a7b7dc365cb824418404863c981d529a1be870a26e1177f0b4f8224c994d0.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.019",
+          "step": 6
+        }
+      ],
+      "requestId": "2fyixG3SawLTc6mtnETD",
+      "sha256": "2c6a7b7dc365cb824418404863c981d529a1be870a26e1177f0b4f8224c994d0",
+      "text": "Gestern haben wir mit meiner Schwester ein ofenwarmes Gebäck gegessen, weil wir unglücklich waren."
+    },
+    "6ce07cc41ccb1224c12a2c1cd93edde0b4cc28b614e61cb9694d27d61bf04727": {
+      "bytes": 63572,
+      "characterCost": "31",
+      "durationSeconds": 3.901,
+      "estimatedCredits": 77,
+      "file": "ec9736b9a045450edefa370a3dae84e6db38fd3b07d7e3fef31b3f84ff8eb93c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.006",
+          "step": 6
+        }
+      ],
+      "requestId": "WaEu41MNotJbEIlEmNbX",
+      "sha256": "ec9736b9a045450edefa370a3dae84e6db38fd3b07d7e3fef31b3f84ff8eb93c",
+      "text": "Nach dem Wettbewerb mussten wir uns mit meinem Cousin nach dem Sport waschen."
+    },
+    "6d3f01dcf7f31c8d9326692f69bb536198757ec5bab7c926e367eca075dc4ce2": {
+      "bytes": 97009,
+      "characterCost": "42",
+      "durationSeconds": 5.991,
+      "estimatedCredits": 106,
+      "file": "ede27c3d2e3a969fbfb242e5dd3b3c3a081c72f63597fe7c9bdc9dd8018184c6.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.005",
+          "step": 6
+        }
+      ],
+      "requestId": "SJDqzz0mRPu4VeL7EXJ6",
+      "sha256": "ede27c3d2e3a969fbfb242e5dd3b3c3a081c72f63597fe7c9bdc9dd8018184c6",
+      "text": "Morgen würde ich offen mit meinem Experten den Fall besprechen und reden, obwohl der Termin ungünstig ist."
+    },
+    "6d873bc8f0b0c2f945cd1163fba758dadbdcfb21bad94b5b3571810128e8029f": {
+      "bytes": 94501,
+      "characterCost": "42",
+      "durationSeconds": 5.851,
+      "estimatedCredits": 106,
+      "file": "10fe10e919c520c19799b36dcd3d8243abd447d4d853e38d74695d8937c835d3.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.002",
+          "step": 6
+        }
+      ],
+      "requestId": "v4hNWKp1cFmNaTomNPKh",
+      "sha256": "10fe10e919c520c19799b36dcd3d8243abd447d4d853e38d74695d8937c835d3",
+      "text": "Obwohl der Eintritt teuer ist, werden wir morgen den preisgekrönten Spielfilm sehen, den du entdeckt hast."
+    },
+    "6e15c270c8bb48c1054f896f20e5b5869dca970e679d370d09035bc4f78070ae": {
+      "bytes": 64826,
+      "characterCost": "30",
+      "durationSeconds": 3.994,
+      "estimatedCredits": 76,
+      "file": "d56342d0dbaa602fcdcd0676fbce26422194f6c8b995bc0ce619c312c7242939.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.009",
+          "step": 6
+        }
+      ],
+      "requestId": "lEk7zVL9bGOUwVNgbM6f",
+      "sha256": "d56342d0dbaa602fcdcd0676fbce26422194f6c8b995bc0ce619c312c7242939",
+      "text": "Morgen würde ich im Gasthaus grobes Gewürz probieren, das du empfohlen hast."
+    },
+    "6e2c5b65c99ffde2c205c7c714b0c6a403e0ede4bcb00070e1595191da70551c": {
+      "bytes": 68588,
+      "characterCost": "32",
+      "durationSeconds": 4.226,
+      "estimatedCredits": 80,
+      "file": "c6f449385590a4bfa937977a3fccbf3b21e8aacb5c52d5469617257d50171911.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.006",
+          "step": 6
+        }
+      ],
+      "requestId": "T0tjqDMzncTC9J0A1shJ",
+      "sha256": "c6f449385590a4bfa937977a3fccbf3b21e8aacb5c52d5469617257d50171911",
+      "text": "Die geselligeren Rentner reden mit meinem Betreuer nicht vor einem Gemeindehaus."
+    },
+    "6e3f658b8aec3c1db026c1be402092bb4f35f157f055596b504cdfa31f9855db": {
+      "bytes": 75275,
+      "characterCost": "40",
+      "durationSeconds": 4.644,
+      "estimatedCredits": 100,
+      "file": "b3144807e567999cb5728456a16bd48efe5301811ec369a508ca5291c5315dda.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.000",
+          "step": 6
+        }
+      ],
+      "requestId": "rpDkIoYJbjtch7iEfO91",
+      "sha256": "b3144807e567999cb5728456a16bd48efe5301811ec369a508ca5291c5315dda",
+      "text": "Morgen würde ich gern mit meiner Schwester Deutsch lernen und lesen, obwohl das Wetter schlecht ist."
+    },
+    "6f02268ef66ecdbea8b6adf3d915816f09aad9394ee44721d08439558a3dfd34": {
+      "bytes": 38077,
+      "characterCost": "20",
+      "durationSeconds": 2.322,
+      "estimatedCredits": 49,
+      "file": "7c1e3c757f402a7fc4c4f6691397bc21ff7878bc102269ec29ffbb566d641473.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.011",
+          "step": 6
+        }
+      ],
+      "requestId": "RFjLzDOmq0rzxJbluc0H",
+      "sha256": "7c1e3c757f402a7fc4c4f6691397bc21ff7878bc102269ec29ffbb566d641473",
+      "text": "Heute liest du keinen Hinweis in der Musikschule."
+    },
+    "6f1736fd06958d3c3f879039db82a46844431f7530179ba973780363d818077e": {
+      "bytes": 76947,
+      "characterCost": "36",
+      "durationSeconds": 4.737,
+      "estimatedCredits": 89,
+      "file": "00a89519c1c4fff1941713591ced301145f32e51ae214d2e5f2f35da92e9a678.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.004",
+          "step": 6
+        }
+      ],
+      "requestId": "LVkwsrTvagz8EOSpW2I5",
+      "sha256": "00a89519c1c4fff1941713591ced301145f32e51ae214d2e5f2f35da92e9a678",
+      "text": "Morgen werde ich für meinen Kellner in dem Feinkostladen hochwertiges Olivenöl bestellen."
+    },
+    "6ff2757580b418c8b8977476dbb7f4043f843d1d31fa9d8a394b34e083ce0978": {
+      "bytes": 67334,
+      "characterCost": "34",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 84,
+      "file": "7ea339939ec17beca6185fe8f054544c6368dc7b25ec8d66ce497bc25213d456.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.001",
+          "step": 6
+        }
+      ],
+      "requestId": "Mp1A3HbqudyhfMNenHqz",
+      "sha256": "7ea339939ec17beca6185fe8f054544c6368dc7b25ec8d66ce497bc25213d456",
+      "text": "Morgen werde ich für meinen Bäcker auf dem Wochenmarkt biologisches Getreide kaufen."
+    },
+    "70b144f331961c6159e804bd49f342afcb5dc495395b00fa9acde3b9168aecb6": {
+      "bytes": 74439,
+      "characterCost": "40",
+      "durationSeconds": 4.598,
+      "estimatedCredits": 99,
+      "file": "916033d5535b76dbc80195845aab20f478907204ee4fdfc7d676c94e806c8218.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.016",
+          "step": 6
+        }
+      ],
+      "requestId": "anOiN6Lyrnk8vyFm0rVV",
+      "sha256": "916033d5535b76dbc80195845aab20f478907204ee4fdfc7d676c94e806c8218",
+      "text": "Gestern haben wir mit meinem Chef einen gedünsteten Blumenkohl gegessen, weil wir überrascht waren."
+    },
+    "712ac04e7bc89811ead27021c8bd5994825847f8c8eab02d6be3f54617a84ddc": {
+      "bytes": 84888,
+      "characterCost": "40",
+      "durationSeconds": 5.248,
+      "estimatedCredits": 101,
+      "file": "286df3afc0087a22b44c765a81c05612e29d6e9bee503dceebfbd4cf66489ece.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.001",
+          "step": 6
+        }
+      ],
+      "requestId": "xqGq4P197Fe21UAUDmi4",
+      "sha256": "286df3afc0087a22b44c765a81c05612e29d6e9bee503dceebfbd4cf66489ece",
+      "text": "Morgen werde ich mit duftendem Kaffee den sachkundigen Techniker besuchen, der in dem Labor arbeitet."
+    },
+    "718fe3815fcafa203d1188ec7c89672a68e2742d08376441b0938c0e5c36fa2f": {
+      "bytes": 35151,
+      "characterCost": "18",
+      "durationSeconds": 2.136,
+      "estimatedCredits": 45,
+      "file": "84b9cb8bbebb3bef48cb2cb0c17c7d7f044f30702e393d43846b49113edf4257.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.009",
+          "step": 6
+        }
+      ],
+      "requestId": "g25wZIQoWxpFf2GAs60C",
+      "sha256": "84b9cb8bbebb3bef48cb2cb0c17c7d7f044f30702e393d43846b49113edf4257",
+      "text": "Heute liest du keinen Kassenbon in der Küche."
+    },
+    "735543af698b2be6f88d0097fdb00a568250dfea758b63c484e59fbafd11b822": {
+      "bytes": 69424,
+      "characterCost": "35",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 88,
+      "file": "daf148b3f1ee97ac35593235cef5e90d8208fd3344515df501f90ae513f15534.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.015",
+          "step": 7
+        }
+      ],
+      "requestId": "He5FbgpOGzsWUChdRs9F",
+      "sha256": "daf148b3f1ee97ac35593235cef5e90d8208fd3344515df501f90ae513f15534",
+      "text": "Wir kaufen keinen farbenfrohen Schal für meinen Programmierer, wenn ich genug Zeit habe."
+    },
+    "73cc0cb26fd2534e6da73b5f2fd5327c90d13a07cb052671d21171119dc4830b": {
+      "bytes": 90322,
+      "characterCost": "44",
+      "durationSeconds": 5.573,
+      "estimatedCredits": 111,
+      "file": "9cf7ebd431f56b7c6b27e24aef5177e49f8462fd24cb21b6c1ec4bb03f8f0839.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.004",
+          "step": 6
+        }
+      ],
+      "requestId": "z9Gnotl803cV8cdC3w0A",
+      "sha256": "9cf7ebd431f56b7c6b27e24aef5177e49f8462fd24cb21b6c1ec4bb03f8f0839",
+      "text": "Morgen werde ich mit reifem Obst den beliebten Dozenten fotografieren, der in dem Bildungszentrum unterrichtet."
+    },
+    "781d884808d3fbcbba8bee4199fb453b50a6700d8bd2752c0c48b66db56be472": {
+      "bytes": 33897,
+      "characterCost": "16",
+      "durationSeconds": 2.043,
+      "estimatedCredits": 39,
+      "file": "c5d6061f4f154e0f4a344cc0aa847d7875e3986098a40d4adc1cf91e4f704302.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.010",
+          "step": 6
+        }
+      ],
+      "requestId": "KgsKkdKBVwHJ1YJ4iK7P",
+      "sha256": "c5d6061f4f154e0f4a344cc0aa847d7875e3986098a40d4adc1cf91e4f704302",
+      "text": "Könnt ihr ihn morgen im Park begleiten?"
+    },
+    "7a706983569b586d4f98d6d449186bc203ccc930fa1bb8c7c56816dc7191b8ac": {
+      "bytes": 24284,
+      "characterCost": "12",
+      "durationSeconds": 1.44,
+      "estimatedCredits": 30,
+      "file": "529cd2d3554c461bcbbf1dffebdbcd1d8152ac5f3347f16919756b468205b141.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.000",
+          "step": 6
+        }
+      ],
+      "requestId": "OXcoSA3CVkVVbbIhOyed",
+      "sha256": "529cd2d3554c461bcbbf1dffebdbcd1d8152ac5f3347f16919756b468205b141",
+      "text": "Heute liest du keinen Bericht."
+    },
+    "7c470b9f65faa6c13533dec21a004c5e9a52bdce07e0a68dce486be329ef65ea": {
+      "bytes": 61065,
+      "characterCost": "32",
+      "durationSeconds": 3.762,
+      "estimatedCredits": 80,
+      "file": "2b8b415b5760b1b402cbb43eccaaed896f5f188ba0972c2bd5c3b915e3adaf33.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.000",
+          "step": 7
+        }
+      ],
+      "requestId": "sHMpGtUSRqZJkd8HTAnD",
+      "sha256": "2b8b415b5760b1b402cbb43eccaaed896f5f188ba0972c2bd5c3b915e3adaf33",
+      "text": "Wir kaufen keinen besseren Pullover für meinen Bruder, wenn ich genug Geld habe."
+    },
+    "7ced6491cae0e7b2b3aa087b765dd935a208a545ecc663cd87cb34c863d96d65": {
+      "bytes": 94083,
+      "characterCost": "46",
+      "durationSeconds": 5.805,
+      "estimatedCredits": 114,
+      "file": "a7beedc8528eddb5e12adb685f9a027b7b16ff293e42d53ef24c45817778b134.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.002",
+          "step": 6
+        }
+      ],
+      "requestId": "JGMrhvwieXVhFWXCLMOo",
+      "sha256": "a7beedc8528eddb5e12adb685f9a027b7b16ff293e42d53ef24c45817778b134",
+      "text": "Obwohl der Raum eng ist, würde ich morgen unabhängig mit meinem Architekten den Entwurf überarbeiten und zeichnen."
+    },
+    "7d1d662f82c1f8833b9cbe8b5d15828a3e033d3b2df739ab14aac207a5017688": {
+      "bytes": 43510,
+      "characterCost": "22",
+      "durationSeconds": 2.647,
+      "estimatedCredits": 54,
+      "file": "1b6a4dbcc3548efa8a0bd2458c0cc776b9aaa83d31f7dee512584e92cd7f0105.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.001",
+          "step": 6
+        }
+      ],
+      "requestId": "K4eAkKTpUzYgtYgiA52a",
+      "sha256": "1b6a4dbcc3548efa8a0bd2458c0cc776b9aaa83d31f7dee512584e92cd7f0105",
+      "text": "Schaltet morgen den Fernseher im Wohnzimmer bitte ein!"
+    },
+    "7d9b50cc8f72334bce64ab65ec64e4bd0970aa0be1a1eb7a793a47d31ba9759f": {
+      "bytes": 120833,
+      "characterCost": "49",
+      "durationSeconds": 7.477,
+      "estimatedCredits": 123,
+      "file": "087a145c7d0b566f3e732fe4f26e433b5c0e5ab01859b6daa93b7428e78d8cdc.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.008",
+          "step": 6
+        }
+      ],
+      "requestId": "HabzKLJLanyOlNiBHIFZ",
+      "sha256": "087a145c7d0b566f3e732fe4f26e433b5c0e5ab01859b6daa93b7428e78d8cdc",
+      "text": "Obwohl die Schicht lang ist, würde ich morgen vorausschauend mit meinem Projektleiter den Terminplan verbessern und planen."
+    },
+    "7dc5457f4fe11774f1c173ebf9c17c89ff327cc76543aff2ee823802d7f4bea8": {
+      "bytes": 68588,
+      "characterCost": "34",
+      "durationSeconds": 4.226,
+      "estimatedCredits": 85,
+      "file": "67725dad6fc8df65785dd31665b5aa748ff281eea6ec10183630a15f3fa4a40e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.015",
+          "step": 6
+        }
+      ],
+      "requestId": "XLb09in4gTbK7qyNxjOt",
+      "sha256": "67725dad6fc8df65785dd31665b5aa748ff281eea6ec10183630a15f3fa4a40e",
+      "text": "Nach der Anmeldung mussten wir uns mit meinem Tanzpartner für die Abfahrt verabreden."
+    },
+    "7dc7fb41914aa7f826b5a37484ae73b9832089c121227b72c5237fc323364619": {
+      "bytes": 73185,
+      "characterCost": "36",
+      "durationSeconds": 4.505,
+      "estimatedCredits": 89,
+      "file": "7b2c4deeee3a9eccd933dedc695ea47dde94dc623c2ed21b87be844c2046c344.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.013",
+          "step": 7
+        }
+      ],
+      "requestId": "BWYMggkt9hqGjbREb0Fz",
+      "sha256": "7b2c4deeee3a9eccd933dedc695ea47dde94dc623c2ed21b87be844c2046c344",
+      "text": "Wir kaufen keinen tragbaren Lautsprecher für meinen Taxifahrer, wenn ich genug Zeit habe."
+    },
+    "7eb447e349bbbc25d8940d6b77285bcec460bf911c0b5021b34892a8892d6d27": {
+      "bytes": 25538,
+      "characterCost": "12",
+      "durationSeconds": 1.533,
+      "estimatedCredits": 30,
+      "file": "cd035f6a6098218f03a81e9a3490cbee79307b77d9510c5d3429243d2501ca56.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.000",
+          "step": 5
+        }
+      ],
+      "requestId": "QoWenSgKDWmxpdjAibTI",
+      "sha256": "cd035f6a6098218f03a81e9a3490cbee79307b77d9510c5d3429243d2501ca56",
+      "text": "Kannst du morgen ihn besuchen?"
+    },
+    "7ed45405204938ea3fd957d69016a557c757c53133ffb1290af2c0bad2bbfb03": {
+      "bytes": 86560,
+      "characterCost": "42",
+      "durationSeconds": 5.341,
+      "estimatedCredits": 104,
+      "file": "9532cd02a81043ad7e113f7c20230b6e487aebe03426dcafe808cb6cf6333595.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.001",
+          "step": 6
+        }
+      ],
+      "requestId": "ZBOKxJvY6FMugR98eOzG",
+      "sha256": "9532cd02a81043ad7e113f7c20230b6e487aebe03426dcafe808cb6cf6333595",
+      "text": "Morgen werde ich ausdrücklich mit meinem Übersetzer den Redakteur besuchen, obwohl der Weg rutschig ist."
+    },
+    "7f241463f04c5ae87cab3e8664c29213276ccbd40afa57eb162019e871e8bace": {
+      "bytes": 132536,
+      "characterCost": "57",
+      "durationSeconds": 8.22,
+      "estimatedCredits": 143,
+      "file": "d9beb13f6708ab085401ef440c2277cd387ed0db663e7e40c5c799e390982e0b.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.007",
+          "step": 6
+        }
+      ],
+      "requestId": "LUpTOMgfWj44fmziOvoN",
+      "sha256": "d9beb13f6708ab085401ef440c2277cd387ed0db663e7e40c5c799e390982e0b",
+      "text": "Morgen würde ich üblicherweise mit saftigem Obst meinen Nachhilfelehrer und meine Nachhilfelehrerin besuchen, die in dem Institut unterrichtet."
+    },
+    "7f582d1ac1736401f3595c7dc507f117d8761cae871ee3fbc15215da05ef5164": {
+      "bytes": 60647,
+      "characterCost": "34",
+      "durationSeconds": 3.715,
+      "estimatedCredits": 84,
+      "file": "a19f077e6cc92eb9d5897ccf8eed0b5bb251ed00af933c8fc9784d6ca577b40d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.013",
+          "step": 6
+        }
+      ],
+      "requestId": "Ti87Tphmo7i0fVHDsOcu",
+      "sha256": "a19f077e6cc92eb9d5897ccf8eed0b5bb251ed00af933c8fc9784d6ca577b40d",
+      "text": "Nach der Übernachtung mussten wir uns mit meiner Nachbarin über den Lärm beschweren."
+    },
+    "81e40712e6c6a27cb9b1efd3095fe5bd8fb56c78178b550dcbd850828bd62bfd": {
+      "bytes": 91576,
+      "characterCost": "42",
+      "durationSeconds": 5.666,
+      "estimatedCredits": 106,
+      "file": "c8e9aadb92a217a211b2430f0d6f03fd33d301f91b4352ccdee320fc8453dd09.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.008",
+          "step": 6
+        }
+      ],
+      "requestId": "lkcI7zRLTzANuattSiKE",
+      "sha256": "c8e9aadb92a217a211b2430f0d6f03fd33d301f91b4352ccdee320fc8453dd09",
+      "text": "Obwohl der Aufzug defekt ist, werde ich morgen diskret mit meinem Sozialarbeiter den Therapeuten begrüßen."
+    },
+    "8580b18084732e6ea5e4f3ca272fde8f18e19a1a567a094e8f744973988155e9": {
+      "bytes": 64826,
+      "characterCost": "32",
+      "durationSeconds": 3.994,
+      "estimatedCredits": 81,
+      "file": "8f0d7a5b52efb14ee0be742c702a905f4b14a188b82a22d6e84d55125783c158.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.006",
+          "step": 6
+        }
+      ],
+      "requestId": "wGL4e0fxXYsersRcB74x",
+      "sha256": "8f0d7a5b52efb14ee0be742c702a905f4b14a188b82a22d6e84d55125783c158",
+      "text": "Morgen würde ich im Restaurant gemahlenen Kümmel probieren, den du bestellt hast."
+    },
+    "881e0e38a8819c6ba8f58bbaacb9fc2351a4c76a25a7eae06819c66935ad54b2": {
+      "bytes": 91576,
+      "characterCost": "44",
+      "durationSeconds": 5.666,
+      "estimatedCredits": 109,
+      "file": "6e7802e87a5f73acd554f17338dc07c4e4236f4cbf154eb162d7e638e21349b2.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.004",
+          "step": 6
+        }
+      ],
+      "requestId": "8DxJaBvD3HqTW8XFZbd2",
+      "sha256": "6e7802e87a5f73acd554f17338dc07c4e4236f4cbf154eb162d7e638e21349b2",
+      "text": "Obwohl das Wetter regnerisch ist, werden wir morgen den unterhaltsamen Western sehen, den du ausgewählt hast."
+    },
+    "8a8e101f217c0bbf08986c2f98b9379c8ffbe31cf42bb645d6be184996a55a9b": {
+      "bytes": 60647,
+      "characterCost": "30",
+      "durationSeconds": 3.715,
+      "estimatedCredits": 75,
+      "file": "7a7305a72b7b7d0ff5882730193859ac81be7592efddbd83e46f758a5f92ca73.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.018",
+          "step": 7
+        }
+      ],
+      "requestId": "HIVLJLd6W7jEmMTRYVvN",
+      "sha256": "7a7305a72b7b7d0ff5882730193859ac81be7592efddbd83e46f758a5f92ca73",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Gewerbegebiet geblieben sind."
+    },
+    "8b40a417b0b3e3baeae2a45c8e3619f48efac3fe4dfaa4a4b738d4909ccd541b": {
+      "bytes": 51034,
+      "characterCost": "26",
+      "durationSeconds": 3.111,
+      "estimatedCredits": 66,
+      "file": "32930d4f3af57a830653b48bc9be7025d46fe5f01059ec8e52259a3dcbdc6b7e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.009",
+          "step": 7
+        }
+      ],
+      "requestId": "EK8IAzUY5RMIahI1SGiP",
+      "sha256": "32930d4f3af57a830653b48bc9be7025d46fe5f01059ec8e52259a3dcbdc6b7e",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Wald geblieben sind."
+    },
+    "8b615108a2ca1d2c099d35b535f9ab7d01ecc8cfbc034fa93b559dcce81f59fd": {
+      "bytes": 92412,
+      "characterCost": "48",
+      "durationSeconds": 5.712,
+      "estimatedCredits": 120,
+      "file": "653ed0dd7931723ecda7edc0d9138516d734f6a750a90332c0a185eed34f3b4a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.004",
+          "step": 6
+        }
+      ],
+      "requestId": "rPIW55nIk4W5BrLjYgAO",
+      "sha256": "653ed0dd7931723ecda7edc0d9138516d734f6a750a90332c0a185eed34f3b4a",
+      "text": "Obwohl die Entfernung beträchtlich ist, werde ich morgen direkt mit meinem Geschäftsführer den Auftraggeber informieren."
+    },
+    "8e60b79c909e72c04d6d12f3f780bfcafdd2cdc43a6590bc1d97d1e7129bf0c5": {
+      "bytes": 33897,
+      "characterCost": "16",
+      "durationSeconds": 2.043,
+      "estimatedCredits": 40,
+      "file": "686fa68498cd3123e8962da86f5f85f838b69f46a2d0982f786216c588e95b5f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.002",
+          "step": 6
+        }
+      ],
+      "requestId": "7XbAxLcp0CTM3pdEFXmy",
+      "sha256": "686fa68498cd3123e8962da86f5f85f838b69f46a2d0982f786216c588e95b5f",
+      "text": "Könnt ihr ihn morgen im Garten begrüßen?"
+    },
+    "8f8d44a5b2f9ce3258eb3b536a255f2da3cd8732c4662f9298b2f1e2e3cd7af2": {
+      "bytes": 87396,
+      "characterCost": "45",
+      "durationSeconds": 5.387,
+      "estimatedCredits": 112,
+      "file": "e921e890d8dd6dda527ec00f91118106be3b9ebab5e99c54be8c315e8263d7f5.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.000",
+          "step": 6
+        }
+      ],
+      "requestId": "2FE8WDbOmiwDltkPnEmd",
+      "sha256": "e921e890d8dd6dda527ec00f91118106be3b9ebab5e99c54be8c315e8263d7f5",
+      "text": "Morgen werden wir den interessanten Dokumentarfilm sehen, den du empfohlen hast, obwohl das Wetter schlecht ist."
+    },
+    "906019a5eff2022dd121673d7102e4c141c61cffca4e1965e594c55457a1a5ae": {
+      "bytes": 34315,
+      "characterCost": "18",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 45,
+      "file": "19f6a0bc31be85d2a5e9dd3adde29ad31caa5db9a2a064c0e8a8a7d3e7b10daf.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.008",
+          "step": 6
+        }
+      ],
+      "requestId": "8vWqmDi9cPWz8jokDHOb",
+      "sha256": "19f6a0bc31be85d2a5e9dd3adde29ad31caa5db9a2a064c0e8a8a7d3e7b10daf",
+      "text": "Könnt ihr ihn morgen in der Wohnung besuchen?"
+    },
+    "93ecc46647cc51457569f5126309074d69971972024b255cbcf627b272fd58ea": {
+      "bytes": 72350,
+      "characterCost": "38",
+      "durationSeconds": 4.458,
+      "estimatedCredits": 96,
+      "file": "1ff9ce7ad2658e639a8a21e28aae3e942b0d6a99fb383c5aed5254efa268b8f8.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.015",
+          "step": 6
+        }
+      ],
+      "requestId": "eRDGCnp4ZN6z9sN0raQ6",
+      "sha256": "1ff9ce7ad2658e639a8a21e28aae3e942b0d6a99fb383c5aed5254efa268b8f8",
+      "text": "Gestern haben wir mit meinem Bruder einen frischen Spinat gegessen, weil wir optimistisch waren."
+    },
+    "95951d626ad54c37b25211baf55e47627660d5ff0b40cd5a198b3a0c64addbbb": {
+      "bytes": 71514,
+      "characterCost": "36",
+      "durationSeconds": 4.412,
+      "estimatedCredits": 89,
+      "file": "f461dbb5dd02c670ed5c8a6e4220f32d923347a3db9eebdd218beb081fc7d392.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.007",
+          "step": 6
+        }
+      ],
+      "requestId": "1XO5hNaFvacXCeu9UdHT",
+      "sha256": "f461dbb5dd02c670ed5c8a6e4220f32d923347a3db9eebdd218beb081fc7d392",
+      "text": "Gestern haben wir mit meinem Neffen einen cremigen Quark gegessen, weil wir nervös waren."
+    },
+    "9710762865d3a80d253ca037d19a77a5ed6313ba7b5b375b741d87a73fe54795": {
+      "bytes": 95337,
+      "characterCost": "46",
+      "durationSeconds": 5.898,
+      "estimatedCredits": 116,
+      "file": "5bffd86949d4bf84a532da4ed2579579756b32d0322df53833c3a4bfccafc551.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.003",
+          "step": 6
+        }
+      ],
+      "requestId": "ckdpP6SRREzlUv5mAXQ4",
+      "sha256": "5bffd86949d4bf84a532da4ed2579579756b32d0322df53833c3a4bfccafc551",
+      "text": "Morgen würde ich sachlich mit meinem Redakteur den Beitrag veröffentlichen und berichten, obwohl die Zeit knapp ist."
+    },
+    "99f00cda6f85a07db278a4d3b8a7bab86e8d8907d6d8dd956caa434f9e98683e": {
+      "bytes": 32225,
+      "characterCost": "16",
+      "durationSeconds": 1.95,
+      "estimatedCredits": 39,
+      "file": "0b9519b092752051457bcbc96e3f54ce753e8e2349f0f7164177fb69e7c16d1c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.003",
+          "step": 6
+        }
+      ],
+      "requestId": "R2QWihIthmr6qoYlrqNu",
+      "sha256": "0b9519b092752051457bcbc96e3f54ce753e8e2349f0f7164177fb69e7c16d1c",
+      "text": "Macht morgen die Tür im Flur bitte auf!"
+    },
+    "9b25fcba3bfeac441c0767f790758f84e7a9a04cb60f9596fde7d97a7de7ff5e": {
+      "bytes": 69424,
+      "characterCost": "34",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 86,
+      "file": "773af5b233a37b8ebc0ace2b3576cf1f35870e02a55218fc2746b2e38e0a9d22.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.003",
+          "step": 7
+        }
+      ],
+      "requestId": "7kSAferfFYs39qSIBm7a",
+      "sha256": "773af5b233a37b8ebc0ace2b3576cf1f35870e02a55218fc2746b2e38e0a9d22",
+      "text": "Wir kaufen keinen ergonomischen Bleistift für meinen Bäcker, wenn ich genug Zeit habe."
+    },
+    "9e36ec125a9fc0177cd1dba621ef13dc548de87a6a9afd3bec89659662cb1d8b": {
+      "bytes": 74021,
+      "characterCost": "38",
+      "durationSeconds": 4.551,
+      "estimatedCredits": 94,
+      "file": "eee19d28883ab8580a2f3219f76da10e5265dd937c6d40ce606e38c5cec7995c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.010",
+          "step": 6
+        }
+      ],
+      "requestId": "OrfwHiMu6rMQpLnpldiv",
+      "sha256": "eee19d28883ab8580a2f3219f76da10e5265dd937c6d40ce606e38c5cec7995c",
+      "text": "Gestern haben wir mit meinem Partner einen gefüllten Wrap gegessen, weil wir ungeduldig waren."
+    },
+    "9f0fffaa9029533a300a2333b2f398577d8a17848232d3c8a288d511e45e2d87": {
+      "bytes": 61901,
+      "characterCost": "28",
+      "durationSeconds": 3.808,
+      "estimatedCredits": 70,
+      "file": "7d6159ca2434f17617e6b0d4fceac9ca8e37c77bcfb03ba92e6a75d2098ccae9.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.000",
+          "step": 6
+        }
+      ],
+      "requestId": "sh5xrLITsPALYgwZIXVk",
+      "sha256": "7d6159ca2434f17617e6b0d4fceac9ca8e37c77bcfb03ba92e6a75d2098ccae9",
+      "text": "Morgen werden wir für meine Mutter auf dem Markt frisches Obst kaufen."
+    },
+    "9f1cef6290cd0d98ba1b7714676e8d6f1f60a1844eca579a81986bea53d8ec7d": {
+      "bytes": 99099,
+      "characterCost": "52",
+      "durationSeconds": 6.13,
+      "estimatedCredits": 130,
+      "file": "2f617443b488aa1fa2a6c8406ff8181482c6576d9d39b9ad4baad699b16dba0e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.001",
+          "step": 6
+        }
+      ],
+      "requestId": "9EUQXoU4qEIUhXtGmTVR",
+      "sha256": "2f617443b488aa1fa2a6c8406ff8181482c6576d9d39b9ad4baad699b16dba0e",
+      "text": "Morgen würde ich vielleicht mit fairem Kaffee meinen Schwager und meine Schwägerin besuchen, die in dem Beratungszentrum arbeitet."
+    },
+    "a06f462b3cb54082f49982e124ac5982ee0f50fe3e97d29ff9bed4f4badc391a": {
+      "bytes": 35151,
+      "characterCost": "19",
+      "durationSeconds": 2.136,
+      "estimatedCredits": 48,
+      "file": "f6818e89e55e86113e1fb9b40a5f3d3278cdf4876668d84a1bdffb38b1a59557.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.006",
+          "step": 6
+        }
+      ],
+      "requestId": "ADwkkLQ4GcRKteV4ckR6",
+      "sha256": "f6818e89e55e86113e1fb9b40a5f3d3278cdf4876668d84a1bdffb38b1a59557",
+      "text": "Packt morgen die Flasche in der Küche bitte ein!"
+    },
+    "a26effb68729b940cad45965a86c97b279e24050273010b9a3817ed5bab68843": {
+      "bytes": 76947,
+      "characterCost": "38",
+      "durationSeconds": 4.737,
+      "estimatedCredits": 95,
+      "file": "74ca910c6ac927fcf7406b4357fe9c7f5422333fa02d0b3f80bbe46a496567d1.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.007",
+          "step": 6
+        }
+      ],
+      "requestId": "QbvAcFFOUlEAoabh2kql",
+      "sha256": "74ca910c6ac927fcf7406b4357fe9c7f5422333fa02d0b3f80bbe46a496567d1",
+      "text": "Morgen werden wir das fesselnde Hörbuch hören, das du empfohlen hast, obwohl der Ton leise ist."
+    },
+    "a290bdaa28ad9ba92efc7857a27f0eb9f97b23e9d168d92d136b2b5db526216c": {
+      "bytes": 74021,
+      "characterCost": "34",
+      "durationSeconds": 4.551,
+      "estimatedCredits": 86,
+      "file": "831bfe17679ffee18b9bcc2b8f0aadaba1e38773412980f0df4ccb6e9f2d5731.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.005",
+          "step": 7
+        }
+      ],
+      "requestId": "Jy7SHwBuJdjq03yHc8hq",
+      "sha256": "831bfe17679ffee18b9bcc2b8f0aadaba1e38773412980f0df4ccb6e9f2d5731",
+      "text": "Wir kaufen keinen stabilen Zeichenblock für meinen Gärtner, wenn ich genug Platz habe."
+    },
+    "a494bd670b157ce86c1d2bceed3ad641759eb18defa99d1e72078292c94009e3": {
+      "bytes": 76947,
+      "characterCost": "38",
+      "durationSeconds": 4.737,
+      "estimatedCredits": 94,
+      "file": "e06fd0aab785dae525210a16ffbb93156762172f356a6b270d7c005d257b00de.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.009",
+          "step": 7
+        }
+      ],
+      "requestId": "FTQ1I0EOjNRipDet0ha4",
+      "sha256": "e06fd0aab785dae525210a16ffbb93156762172f356a6b270d7c005d257b00de",
+      "text": "Wir kaufen keinen platzsparenden Wäscheständer für meinen Erzieher, wenn ich genug Platz habe."
+    },
+    "a4bb06e89b08d82410cf36d8fa309a6eeb768054fb9f8214f266d85017717ba8": {
+      "bytes": 41003,
+      "characterCost": "18",
+      "durationSeconds": 2.508,
+      "estimatedCredits": 46,
+      "file": "ce178c3a6f1086069e7edb15cd094fd5fb11c968185318b161bb883f19768c35.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.008",
+          "step": 5
+        }
+      ],
+      "requestId": "Oqt56I2t89Bu6gDcV4wq",
+      "sha256": "ce178c3a6f1086069e7edb15cd094fd5fb11c968185318b161bb883f19768c35",
+      "text": "Kopiere ich das Foto sorgfältig im Wohnzimmer?"
+    },
+    "a551f993a6de3aa138d044d330676c01797dc476cd9833e2b59b52f3dd6ec617": {
+      "bytes": 71096,
+      "characterCost": "34",
+      "durationSeconds": 4.365,
+      "estimatedCredits": 85,
+      "file": "16278d9051d21eafa140967aac2c4b7a3655ae084b5024a01350903e96d7a396.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.009",
+          "step": 6
+        }
+      ],
+      "requestId": "hajBRvcSDffxcr3BuIJf",
+      "sha256": "16278d9051d21eafa140967aac2c4b7a3655ae084b5024a01350903e96d7a396",
+      "text": "Morgen werde ich für meinen Onkel auf dem Großmarkt tiefgekühltes Lammfleisch kaufen."
+    },
+    "a74084476726c24668a211a3638009ca4580e7fac0191b0bdb1b46e7356483fa": {
+      "bytes": 55213,
+      "characterCost": "28",
+      "durationSeconds": 3.39,
+      "estimatedCredits": 69,
+      "file": "d9223334f1d9c5e8792924a9c29af23aba104996c15a96a14eb428bc7f561dae.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.000",
+          "step": 6
+        }
+      ],
+      "requestId": "Jc9WpgZb7bkHMfET8pMQ",
+      "sha256": "d9223334f1d9c5e8792924a9c29af23aba104996c15a96a14eb428bc7f561dae",
+      "text": "Morgen würde ich im Café frischen Tee trinken, den du empfohlen hast."
+    },
+    "abd36b4ed07e01ff6801f6be5213f1de5246bcb45512a2313c7e185ccd6502b1": {
+      "bytes": 95337,
+      "characterCost": "44",
+      "durationSeconds": 5.898,
+      "estimatedCredits": 111,
+      "file": "240ec65b101a56c294479aae983d11cb38fc39e0a684f3cebf0ff55dd8c61d5c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.003",
+          "step": 6
+        }
+      ],
+      "requestId": "d8ugln9BhjBjGp2r6ccH",
+      "sha256": "240ec65b101a56c294479aae983d11cb38fc39e0a684f3cebf0ff55dd8c61d5c",
+      "text": "Morgen würde ich regelmäßig mit mildem Tee meinen Großvater und meine Oma besuchen, die in dem Gästehaus wohnt."
+    },
+    "acaefa8522f9d47b0cb091ef76decb30495be12d01af37c40356aa2cc07769c4": {
+      "bytes": 107876,
+      "characterCost": "53",
+      "durationSeconds": 6.687,
+      "estimatedCredits": 132,
+      "file": "e3dd934e760033bfa54643e90ef4a7109abe739f0b6e98ebefca6c539866abde.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.006",
+          "step": 6
+        }
+      ],
+      "requestId": "eQ3sABLP8chYMgx2uXP1",
+      "sha256": "e3dd934e760033bfa54643e90ef4a7109abe739f0b6e98ebefca6c539866abde",
+      "text": "Morgen würde ich vermutlich mit knusprigem Brot meinen Berater und meine Beraterin besuchen, die in dem Nachbarschaftshaus arbeitet."
+    },
+    "adcab491854f9762cebb05302db30f30c9843fbd3de98ba46f381ed77d4fbd3c": {
+      "bytes": 67334,
+      "characterCost": "32",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 79,
+      "file": "4218793c3bf5e01d519f547dae03ed2654aad8a782fbbeb8571bbb06caf98bb7.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.008",
+          "step": 6
+        }
+      ],
+      "requestId": "OBqDd6qY1F2W7tztbHwe",
+      "sha256": "4218793c3bf5e01d519f547dae03ed2654aad8a782fbbeb8571bbb06caf98bb7",
+      "text": "Morgen werde ich für meinen Neffen in dem Gasthaus fruchtiges Sorbet bestellen."
+    },
+    "ae047ff401eb04879407a00fb08f208bbde51b8aee3401c533ba8bc2c66586d5": {
+      "bytes": 84888,
+      "characterCost": "42",
+      "durationSeconds": 5.248,
+      "estimatedCredits": 104,
+      "file": "55b686f250facb0dc08e49bd947a21a8c9ad6fe798e17995d22bd19667a07847.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.003",
+          "step": 6
+        }
+      ],
+      "requestId": "g0h5ZMbWHg1RSWudU5j0",
+      "sha256": "55b686f250facb0dc08e49bd947a21a8c9ad6fe798e17995d22bd19667a07847",
+      "text": "Morgen werde ich trotzdem mit meinem Ingenieur den Spezialisten begleiten, obwohl der Verkehr dicht ist."
+    },
+    "ae4015d4ab7d64ebb4429f39cf82a483d7eca809be29efcd9bd3d284c0e00106": {
+      "bytes": 46436,
+      "characterCost": "22",
+      "durationSeconds": 2.833,
+      "estimatedCredits": 54,
+      "file": "7ef9be3246d80d9c170a027787d3f7b3abe8bcd36897bde97eab7d731440fa72.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.006",
+          "step": 5
+        }
+      ],
+      "requestId": "M8xcNu60wPBQtOYQetcG",
+      "sha256": "7ef9be3246d80d9c170a027787d3f7b3abe8bcd36897bde97eab7d731440fa72",
+      "text": "Erledige ich die Hausaufgabe richtig im Klassenzimmer?"
+    },
+    "aed8b9fad8893993395723aed5437a80cc42823a0c4d8bf8a1a622617a3699e3": {
+      "bytes": 54377,
+      "characterCost": "27",
+      "durationSeconds": 3.344,
+      "estimatedCredits": 68,
+      "file": "66db6278dc6b0a5ed9bb26a7ab768b706e5d7cad24438598eb07cfa5c08df0f0.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.013",
+          "step": 7
+        }
+      ],
+      "requestId": "clo9XlRjA9l7EnBERgEy",
+      "sha256": "66db6278dc6b0a5ed9bb26a7ab768b706e5d7cad24438598eb07cfa5c08df0f0",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Hostel geblieben sind."
+    },
+    "afb6da011da546ad8765829e25ad9966137e9e8f4c3933eec8e2f15b9075f4ea": {
+      "bytes": 67334,
+      "characterCost": "32",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 79,
+      "file": "98d759c922cce5426be9e8f324d61143a3bcbf75183cb1836a2f1853ae630e78.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.007",
+          "step": 7
+        }
+      ],
+      "requestId": "L8bQX1SOw6OUZxnosm7O",
+      "sha256": "98d759c922cce5426be9e8f324d61143a3bcbf75183cb1836a2f1853ae630e78",
+      "text": "Wir kaufen keinen breiten Pinsel für meinen Sekretär, wenn ich genug Zeit habe."
+    },
+    "b11c6c0f12e5b87cc99c7be01c13c765f73e559a3409878dad62de7ee79d5f0b": {
+      "bytes": 35987,
+      "characterCost": "16",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 40,
+      "file": "502ed6370d1127eeba36066dd578895ca48ea07f7f3052e68da3de6a6b40eedd.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.004",
+          "step": 6
+        }
+      ],
+      "requestId": "siQrMiNOU0r0AhXVrjzC",
+      "sha256": "502ed6370d1127eeba36066dd578895ca48ea07f7f3052e68da3de6a6b40eedd",
+      "text": "Macht morgen die Garage im Hof bitte zu!"
+    },
+    "b16ed0c5103e4c4ce1e8a96fea73c13e45df650d0ccfe6c8152909570764f676": {
+      "bytes": 69424,
+      "characterCost": "31",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 78,
+      "file": "a12a692e27642f7132e6d572e72b87206ef1b28511b54720c6af9e5aab4dbcd1.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.015",
+          "step": 6
+        }
+      ],
+      "requestId": "8QLFl77fiMtOK7ndaQZU",
+      "sha256": "a12a692e27642f7132e6d572e72b87206ef1b28511b54720c6af9e5aab4dbcd1",
+      "text": "Die kreativeren Künstler arbeiten mit meinem Designer nicht vor einem Atelier."
+    },
+    "b2404cd5cc158104de890c487a092b9529ed1cd4a8d092eb39649121648f88a2": {
+      "bytes": 74439,
+      "characterCost": "38",
+      "durationSeconds": 4.598,
+      "estimatedCredits": 95,
+      "file": "b4774f2fdfa8629a1494e8ef74547765a9228ba0e2df4ff2dd6c566a2ef2e0ae.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.013",
+          "step": 6
+        }
+      ],
+      "requestId": "R0sY2MbJJSs4rwtu9e6V",
+      "sha256": "b4774f2fdfa8629a1494e8ef74547765a9228ba0e2df4ff2dd6c566a2ef2e0ae",
+      "text": "Gestern haben wir mit meinem Onkel einen geräucherten Speck probiert, weil wir entspannt waren."
+    },
+    "b2c70a95fccbbd521cb315ad075f74daa78267a774f9add825dfee2ee02291ec": {
+      "bytes": 67752,
+      "characterCost": "33",
+      "durationSeconds": 4.18,
+      "estimatedCredits": 82,
+      "file": "5b3b528bfd338987cd6eafec886b45e4187769166507abc293252a0f407675ac.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.007",
+          "step": 6
+        }
+      ],
+      "requestId": "H5MV8IEBJpFRz77TN3lO",
+      "sha256": "5b3b528bfd338987cd6eafec886b45e4187769166507abc293252a0f407675ac",
+      "text": "Morgen würde ich im Großmarkt aromatischen Balsamico kaufen, den du entdeckt hast."
+    },
+    "b45a6d918b1b8cd6342f92f7eaeee3a443001fc8eb4517bc5edb17ba37d3e93a": {
+      "bytes": 67752,
+      "characterCost": "35",
+      "durationSeconds": 4.18,
+      "estimatedCredits": 88,
+      "file": "c5e0d752763ea4baf1e7fb92fa97114410f76109d011eeb980c4c3eb3e754ddf.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.014",
+          "step": 6
+        }
+      ],
+      "requestId": "NFekRQAma48RMLe3zIuh",
+      "sha256": "c5e0d752763ea4baf1e7fb92fa97114410f76109d011eeb980c4c3eb3e754ddf",
+      "text": "Die mutigeren Schauspieler proben mit meinem Regisseur nicht vor einer Schauspielschule."
+    },
+    "b51e7a6f7ab4a95c66b9418eba1abc25ec1fbb3c1ea245add25eb7ef4aaa4e4e": {
+      "bytes": 53959,
+      "characterCost": "28",
+      "durationSeconds": 3.297,
+      "estimatedCredits": 69,
+      "file": "05f5c37a6a9eec9354afba612384939cb6f3438a286ad80e0d57e53dbd6985c6.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.019",
+          "step": 7
+        }
+      ],
+      "requestId": "xyNwHokjGawUieec1fCO",
+      "sha256": "05f5c37a6a9eec9354afba612384939cb6f3438a286ad80e0d57e53dbd6985c6",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Theater geblieben sind."
+    },
+    "b59820e996d80ddc3fc8ed1a094ce2a2a58b8c00be9f8093060aa6990cb53af4": {
+      "bytes": 60647,
+      "characterCost": "35",
+      "durationSeconds": 3.715,
+      "estimatedCredits": 87,
+      "file": "bee7b741d0fed3a35319a40276e77aa01b4909a86ba60122615d4b301629d681.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.018",
+          "step": 6
+        }
+      ],
+      "requestId": "r2b7IqL48VPtm4zNCH8h",
+      "sha256": "bee7b741d0fed3a35319a40276e77aa01b4909a86ba60122615d4b301629d681",
+      "text": "Gestern haben wir mit meiner Mutter eine kräftige Wurst gegessen, weil wir krank waren."
+    },
+    "b63a79350fb12af6d81ff002fca0e4f643e9f9794f5a88bd4871ef8db4eb8d77": {
+      "bytes": 70260,
+      "characterCost": "33",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 82,
+      "file": "a90238fe6bd80b9546af9c0bd22a5f335b3b5dbdb508467a2dab0f5a6fc1afa3.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.004",
+          "step": 6
+        }
+      ],
+      "requestId": "ubgczV8Jbpvs3ALbk3Si",
+      "sha256": "a90238fe6bd80b9546af9c0bd22a5f335b3b5dbdb508467a2dab0f5a6fc1afa3",
+      "text": "Die erfahreneren Musiker proben mit meinem Dirigenten nicht vor einer Musikschule."
+    },
+    "b66e7270ea60dcab18a5bf16ffa089e77b529d55e449c844f68c41568c755529": {
+      "bytes": 53123,
+      "characterCost": "28",
+      "durationSeconds": 3.251,
+      "estimatedCredits": 69,
+      "file": "f51d21e9c70fa28c6a70864f904cfa5e1f342c6af8df9ef3d4798c22009988ba.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.001",
+          "step": 6
+        }
+      ],
+      "requestId": "mJUPbQRE5kXFL8A6cEic",
+      "sha256": "f51d21e9c70fa28c6a70864f904cfa5e1f342c6af8df9ef3d4798c22009988ba",
+      "text": "Die jüngeren Schüler warten mit meinem Lehrer nicht vor einer Schule."
+    },
+    "b88f9265ebc0779bc7ffa4bf13c1db5166256654d6925bf78d216150d088e967": {
+      "bytes": 36823,
+      "characterCost": "20",
+      "durationSeconds": 2.229,
+      "estimatedCredits": 51,
+      "file": "f6aa529f24cff4bcdac405f5b1efe3578b22eb2afb5cd1ddc57e1bdd29de36cd.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.007",
+          "step": 5
+        }
+      ],
+      "requestId": "JjzthVjOyDl19J4BZDoT",
+      "sha256": "f6aa529f24cff4bcdac405f5b1efe3578b22eb2afb5cd1ddc57e1bdd29de36cd",
+      "text": "Warum sind die Jacken und die Hemden nicht trocken?"
+    },
+    "b98f615f9340bf9b563979b958956d0628f353fd022882833cd01c0681f6acb8": {
+      "bytes": 67334,
+      "characterCost": "31",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 77,
+      "file": "010c9078fa97136d91d2e3c728e58769907265a9e45873d5330603fb0ed1da05.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.001",
+          "step": 6
+        }
+      ],
+      "requestId": "ZNiNno73uzoxIGOPYTuv",
+      "sha256": "010c9078fa97136d91d2e3c728e58769907265a9e45873d5330603fb0ed1da05",
+      "text": "Morgen würde ich im Café laktosefreie Sahne bestellen, die du empfohlen hast."
+    },
+    "b9e62d1163c550c7f4755167a64a20821889a582fbd466db8849908e25d1a176": {
+      "bytes": 42674,
+      "characterCost": "20",
+      "durationSeconds": 2.601,
+      "estimatedCredits": 50,
+      "file": "fd08c0502f40afe85e81ae1100d34a1949e923b6aa9b8a41b96889c35917dc19.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.001",
+          "step": 5
+        }
+      ],
+      "requestId": "djIhLBs30glNx1ApqYZD",
+      "sha256": "fd08c0502f40afe85e81ae1100d34a1949e923b6aa9b8a41b96889c35917dc19",
+      "text": "Warum sind die Gabeln und die Messer nicht sauber?"
+    },
+    "bae27d579f6f800be1f01fc7b41c784719bc2badf3a0642039778a8b9c42f7c1": {
+      "bytes": 34315,
+      "characterCost": "17",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 43,
+      "file": "5e0442562421cea3945665df1577b908e084c7382041acf5112ae644b23ab195.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.002",
+          "step": 6
+        }
+      ],
+      "requestId": "FxzBT5rdkYvMFSwT8IXS",
+      "sha256": "5e0442562421cea3945665df1577b908e084c7382041acf5112ae644b23ab195",
+      "text": "Heute liest du keinen Stadtplan im Bahnhof."
+    },
+    "bce7731f8d87d09fcf5f95f41d9fdf6f359a97ba07b156a38e5eb752f551c711": {
+      "bytes": 119161,
+      "characterCost": "56",
+      "durationSeconds": 7.384,
+      "estimatedCredits": 141,
+      "file": "cdbb2ecb014c8702af9e1a5330f96d9a7a4842b87b7678c20ee0c0d4b3d24d5e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.009",
+          "step": 6
+        }
+      ],
+      "requestId": "QWzJnJ8JBRInYvB9fQ11",
+      "sha256": "cdbb2ecb014c8702af9e1a5330f96d9a7a4842b87b7678c20ee0c0d4b3d24d5e",
+      "text": "Morgen würde ich hoffentlich mit würzigem Käse meinen Reisebegleiter und meine Reisebegleiterin begleiten, die in dem Tourismusbüro arbeitet."
+    },
+    "bd3a1c5918f6ead53a1b74ca5d7a4bc4c6e89cb7bfd0b1882e7bf9620b25092b": {
+      "bytes": 71514,
+      "characterCost": "36",
+      "durationSeconds": 4.412,
+      "estimatedCredits": 90,
+      "file": "eaee7a34f5449ed2c1fc0a4676404abbee2843eddd1ccb9f7e10aa65c638ec9d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.003",
+          "step": 6
+        }
+      ],
+      "requestId": "XhR73bsbXag2dOIh7zS8",
+      "sha256": "eaee7a34f5449ed2c1fc0a4676404abbee2843eddd1ccb9f7e10aa65c638ec9d",
+      "text": "Nach dem Arbeitstag mussten wir uns mit meiner Schulfreundin nach dem Training entspannen."
+    },
+    "bf6236f15eb273d3f71abc15c1551a09300ae2c37c1bcd3f4ded77767f3745bf": {
+      "bytes": 41003,
+      "characterCost": "20",
+      "durationSeconds": 2.508,
+      "estimatedCredits": 49,
+      "file": "d0d4f88ca85537bf28ffe07cf549ef3ae67767b210c3b512859b9da665bd6394.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.002",
+          "step": 6
+        }
+      ],
+      "requestId": "xKuf9PPqmpnoP8l4YZwr",
+      "sha256": "d0d4f88ca85537bf28ffe07cf549ef3ae67767b210c3b512859b9da665bd6394",
+      "text": "Macht morgen die Lampe im Schlafzimmer bitte aus!"
+    },
+    "bf709afa858d648e4b001a360453fa2f91b970d8f0c034f4b4bec7052832331d": {
+      "bytes": 105786,
+      "characterCost": "53",
+      "durationSeconds": 6.548,
+      "estimatedCredits": 132,
+      "file": "3e5030b491561857a7512228564b9c646d3f8c6054c4eb6392df62dbb79ca4a9.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.001",
+          "step": 6
+        }
+      ],
+      "requestId": "9XLS1arhXOeYMWn8SWv2",
+      "sha256": "3e5030b491561857a7512228564b9c646d3f8c6054c4eb6392df62dbb79ca4a9",
+      "text": "Morgen würde ich konzentriert mit meinem Geschäftspartner den Auftrag bearbeiten und diskutieren, obwohl die Verbindung schwach ist."
+    },
+    "c17a3ead5e71f68598df34917eca541d37f48eedb57c07e34d189d4598170a8b": {
+      "bytes": 35987,
+      "characterCost": "19",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 47,
+      "file": "d9309eda191bdea0da05094604190448b0d1649bdb6b712cae4c8d2dd249c3b2.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.007",
+          "step": 5
+        }
+      ],
+      "requestId": "Cr4dplPllfeVF9ORH7Vn",
+      "sha256": "d9309eda191bdea0da05094604190448b0d1649bdb6b712cae4c8d2dd249c3b2",
+      "text": "Plane ich das Frühstück gemeinsam in der Küche?"
+    },
+    "c3544d992bb7ea397ac195921047f0d2f63af6d0212df02a7d5a9a7306bfc342": {
+      "bytes": 64826,
+      "characterCost": "33",
+      "durationSeconds": 3.994,
+      "estimatedCredits": 82,
+      "file": "b8c8772e6727933e21a22ae871322e42ec2e5e940a649a938d5457bc47666087.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.010",
+          "step": 7
+        }
+      ],
+      "requestId": "o08q0GWwgX6lMWB1f6mj",
+      "sha256": "b8c8772e6727933e21a22ae871322e42ec2e5e940a649a938d5457bc47666087",
+      "text": "Wir kaufen keinen sicheren Toaster für meinen Pfleger, wenn ich genug Geduld habe."
+    },
+    "c43657866ee3b0fff52ccf6b0573cb79f474dc6925a84fa2454c71e3de6bb0d6": {
+      "bytes": 71096,
+      "characterCost": "34",
+      "durationSeconds": 4.365,
+      "estimatedCredits": 84,
+      "file": "e76c173c37b1bfbb600a3253aacc700da4e13cc2cab91851968d6465639edb8b.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.012",
+          "step": 6
+        }
+      ],
+      "requestId": "8lcRbqv10zjkkosUO5nI",
+      "sha256": "e76c173c37b1bfbb600a3253aacc700da4e13cc2cab91851968d6465639edb8b",
+      "text": "Die neugierigeren Schulklassen warten mit meinem Schulleiter nicht vor einem Museum."
+    },
+    "c46d35ddc3c43e0fa5ab3146f1d474004314eba34f2da869048f4a78ca44f5c7": {
+      "bytes": 95337,
+      "characterCost": "42",
+      "durationSeconds": 5.898,
+      "estimatedCredits": 106,
+      "file": "b4943dd12b6abf0571f811bf85c95b929c862f1e5c7df9e5fd43c8829beb1910.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.relative.007",
+          "step": 6
+        }
+      ],
+      "requestId": "Gwesynb481AUbiKNrZBI",
+      "sha256": "b4943dd12b6abf0571f811bf85c95b929c862f1e5c7df9e5fd43c8829beb1910",
+      "text": "Morgen werde ich mit feiner Schokolade den einfallsreichen Designer besuchen, der in dem Atelier arbeitet."
+    },
+    "c6ad766d400dfad9cd02f2e3bf5f08d903d65783752efb62b34883911b9d6747": {
+      "bytes": 36823,
+      "characterCost": "18",
+      "durationSeconds": 2.229,
+      "estimatedCredits": 45,
+      "file": "812b5c08951be7a95d103a371ecc6714ec713810cba788f3023abe5845c765a7.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.004",
+          "step": 5
+        }
+      ],
+      "requestId": "s5BcGw2nye0qp3OvL1xC",
+      "sha256": "812b5c08951be7a95d103a371ecc6714ec713810cba788f3023abe5845c765a7",
+      "text": "Packe ich den Koffer langsam im Schlafzimmer?"
+    },
+    "c742b8d1bd116bcaed33979eaca45d2b50b36b7152a9ed12946360c4a68acbfa": {
+      "bytes": 32225,
+      "characterCost": "17",
+      "durationSeconds": 1.95,
+      "estimatedCredits": 42,
+      "file": "1b791b17ce95cdc286a1d06b45a30e563b517980431aa29cc362857cd50d8123.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.001",
+          "step": 6
+        }
+      ],
+      "requestId": "STwHFULcDxZtLuKJZMbx",
+      "sha256": "1b791b17ce95cdc286a1d06b45a30e563b517980431aa29cc362857cd50d8123",
+      "text": "Könnt ihr ihn morgen in der Schule fragen?"
+    },
+    "c75de4b7f9899d6dbfb91434f923f99bea1d6460277a81b5704527923bb24b80": {
+      "bytes": 55213,
+      "characterCost": "28",
+      "durationSeconds": 3.39,
+      "estimatedCredits": 71,
+      "file": "7ac71f72f3c947a1ec8cff3d3c4b217f96553c6b90d5e092b05ef717c132afbf.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.012",
+          "step": 7
+        }
+      ],
+      "requestId": "JIegghmdl5qWt9XX005t",
+      "sha256": "7ac71f72f3c947a1ec8cff3d3c4b217f96553c6b90d5e092b05ef717c132afbf",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Gästehaus geblieben sind."
+    },
+    "c8420885e4bb512f3ae3d2ac72f6b431d52eb05c9abe9ac587bbc0ae204c9b64": {
+      "bytes": 70260,
+      "characterCost": "38",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 96,
+      "file": "e7f5a0f41728dc1b8000179bc9ef734fead27f35e4cab9f55240fda0ec5b82ba.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.018",
+          "step": 7
+        }
+      ],
+      "requestId": "b5uW8SUZhde8Xj2UD8dR",
+      "sha256": "e7f5a0f41728dc1b8000179bc9ef734fead27f35e4cab9f55240fda0ec5b82ba",
+      "text": "Wir kaufen keinen lichtdurchlässigen Rollladen für meinen Schneider, wenn ich genug Geduld habe."
+    },
+    "c84cb169d9ddc36386f55aa6a722300967f8a610438daab4e26a3fb3d22599e5": {
+      "bytes": 35987,
+      "characterCost": "16",
+      "durationSeconds": 2.183,
+      "estimatedCredits": 41,
+      "file": "43a780b007edc4409b9de29d1cfe30052f66e81b574517dd086efff5059eed34.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.009",
+          "step": 5
+        }
+      ],
+      "requestId": "eoTYAnTtopUyshRGQfnS",
+      "sha256": "43a780b007edc4409b9de29d1cfe30052f66e81b574517dd086efff5059eed34",
+      "text": "Pflanze ich die Blume behutsam im Garten?"
+    },
+    "c8d717504a94aa243d30f90be27d8a8e23ea094ca8d619c1bfc1ee6a5d1072ab": {
+      "bytes": 67752,
+      "characterCost": "34",
+      "durationSeconds": 4.18,
+      "estimatedCredits": 85,
+      "file": "1f0b3488a0f643e1e86e773a661ef30f7bf1452538bfe9d34afe273e00677ce1.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.004",
+          "step": 6
+        }
+      ],
+      "requestId": "iG6pBnvnLi1yeVXtn55m",
+      "sha256": "1f0b3488a0f643e1e86e773a661ef30f7bf1452538bfe9d34afe273e00677ce1",
+      "text": "Morgen würde ich im Feinkostladen dunkle Kuvertüre bestellen, die du verglichen hast."
+    },
+    "c8eb949157b92a1c81cb5ead04d79e52ea76abcd0df7b0571b3226198b06fd11": {
+      "bytes": 71096,
+      "characterCost": "32",
+      "durationSeconds": 4.365,
+      "estimatedCredits": 80,
+      "file": "9e8aaec84160249e5bd1320ed7afe71ba6968a1e21c2c6ae38c6706e2c67dc76.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.002",
+          "step": 6
+        }
+      ],
+      "requestId": "YoUi647owOQyKOR04vPb",
+      "sha256": "9e8aaec84160249e5bd1320ed7afe71ba6968a1e21c2c6ae38c6706e2c67dc76",
+      "text": "Die fleißigeren Studenten lernen mit meinem Dozenten nicht vor einer Bibliothek."
+    },
+    "c93e2d7205094982e386c4c4cee9993b20ebe706e4204d4c6ef15bbcb9841aed": {
+      "bytes": 104950,
+      "characterCost": "48",
+      "durationSeconds": 6.502,
+      "estimatedCredits": 119,
+      "file": "dd4773a1dd35408a4339288d62567e0f0fd9affb99f568478e5d8eb6b3a61c06.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.despite.004",
+          "step": 6
+        }
+      ],
+      "requestId": "eHijmmCu0GKnbto9Qlfw",
+      "sha256": "dd4773a1dd35408a4339288d62567e0f0fd9affb99f568478e5d8eb6b3a61c06",
+      "text": "Obwohl das Labor überfüllt ist, würde ich morgen gewissenhaft mit meinem Forscher den Versuch untersuchen und forschen."
+    },
+    "cacba3d63c1b2aa2345d3d5fe3e4dc4cf7f02e9c3138c5a29a7e4355667f8a0c": {
+      "bytes": 97845,
+      "characterCost": "48",
+      "durationSeconds": 6.037,
+      "estimatedCredits": 121,
+      "file": "e614648fe8cf9ab9604c7745f465c8f37349dbcb8ad8161fb41a04d2817aad1f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.weekend.005",
+          "step": 6
+        }
+      ],
+      "requestId": "OyT7d8xTQ78W1CgOOzXC",
+      "sha256": "e614648fe8cf9ab9604c7745f465c8f37349dbcb8ad8161fb41a04d2817aad1f",
+      "text": "Morgen würde ich bestimmt mit frischem Saft meinen Trainer und meine Trainerin begrüßen, die in dem Sportverein arbeitet."
+    },
+    "ccdd04cbf1c915c9843b4f3b7005d4437e9d3c84b3b96ad6873e65c968b34632": {
+      "bytes": 69424,
+      "characterCost": "33",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 82,
+      "file": "13ac9b8d2f54bbbc6804c2d559826718dcfe9ca7b0a3da09cc0b6a9fae46b6c2.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.005",
+          "step": 6
+        }
+      ],
+      "requestId": "r8jsr6qjexNCeOEfBQ1n",
+      "sha256": "13ac9b8d2f54bbbc6804c2d559826718dcfe9ca7b0a3da09cc0b6a9fae46b6c2",
+      "text": "Die beweglicheren Tänzer tanzen mit meinem Tanzpartner nicht vor einer Sporthalle."
+    },
+    "cda0232bbf77e187ad82bd0cb5f61e69666124aadac3094bee2ee95d1f1465cc": {
+      "bytes": 65662,
+      "characterCost": "33",
+      "durationSeconds": 4.04,
+      "estimatedCredits": 83,
+      "file": "4680939f768b0d97640215a62c1c903fca41535b1cf945f682b2dfd8d62cfbdd.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.002",
+          "step": 7
+        }
+      ],
+      "requestId": "cZrEpWXVnuB5ciglnNDd",
+      "sha256": "4680939f768b0d97640215a62c1c903fca41535b1cf945f682b2dfd8d62cfbdd",
+      "text": "Wir kaufen keinen robusten Schirm für meinen Elektriker, wenn ich genug Platz habe."
+    },
+    "cdbcdeb04c63e110af21d388da2074e9f1297c6268ddbbfc56277186f727096d": {
+      "bytes": 38077,
+      "characterCost": "18",
+      "durationSeconds": 2.322,
+      "estimatedCredits": 44,
+      "file": "ef02f486465b1a62045dccdc34ca68b277bbd22fefddf033baee19a297e111bb.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.past.013",
+          "step": 5
+        }
+      ],
+      "requestId": "LMP2fv1JPmlq5BQ4mVUO",
+      "sha256": "ef02f486465b1a62045dccdc34ca68b277bbd22fefddf033baee19a297e111bb",
+      "text": "Packe ich das Geschenk spontan im Esszimmer?"
+    },
+    "cfaf2e1732557db16b89732a16d8a43bf42c7cc5c024b269a1bc92c4b3a840fb": {
+      "bytes": 21776,
+      "characterCost": "9",
+      "durationSeconds": 1.3,
+      "estimatedCredits": 23,
+      "file": "466bfc820bb56b62b1353082a913631fc3daa970424ffc09ae186d13c7598699.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.000",
+          "step": 5
+        }
+      ],
+      "requestId": "nAox7QttvKn7FvLH9lzJ",
+      "sha256": "466bfc820bb56b62b1353082a913631fc3daa970424ffc09ae186d13c7598699",
+      "text": "Kauft morgen bitte ein!"
+    },
+    "d008dfe6d296210181f96cf33f56707a34b8e28bea82e691c21f178ad2f0a8f3": {
+      "bytes": 38913,
+      "characterCost": "19",
+      "durationSeconds": 2.368,
+      "estimatedCredits": 47,
+      "file": "30cc0f5b0e03342813042123694d9e8764a4fa81187d8589b33b71ed86683fde.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.012",
+          "step": 6
+        }
+      ],
+      "requestId": "VQpu3qLeG4f0yVJyk08V",
+      "sha256": "30cc0f5b0e03342813042123694d9e8764a4fa81187d8589b33b71ed86683fde",
+      "text": "Ladet morgen die Schwester im Garten bitte ein!"
+    },
+    "d2403e088028e1b0fd886468f92f4b811bb8205c9ebc17cdb3dde8dbc985a9ac": {
+      "bytes": 67334,
+      "characterCost": "32",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 81,
+      "file": "750d743b4d94f17de8bd0e91e87b8453cdced702ea05657850653ae59606b80c.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.003",
+          "step": 6
+        }
+      ],
+      "requestId": "4pqhSIgZQIxQkcHwJnGe",
+      "sha256": "750d743b4d94f17de8bd0e91e87b8453cdced702ea05657850653ae59606b80c",
+      "text": "Die kräftigeren Sportler trainieren mit meinem Trainer nicht vor einer Turnhalle."
+    },
+    "d3a10bb4bbde20d1ba8dd804f42e161b3ac3c41e842292fb8d0f7f4e5df44333": {
+      "bytes": 73185,
+      "characterCost": "34",
+      "durationSeconds": 4.505,
+      "estimatedCredits": 86,
+      "file": "0726412a8956ef1f812f06a04f131bb53f8a49a906ff3557fb7e0c3447d26144.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.market.003",
+          "step": 6
+        }
+      ],
+      "requestId": "QuYxJmfWNPzllCqqnKcG",
+      "sha256": "0726412a8956ef1f812f06a04f131bb53f8a49a906ff3557fb7e0c3447d26144",
+      "text": "Morgen werde ich für meinen Sportler in dem Bioladen sprudelndes Mineralwasser kaufen."
+    },
+    "d5124a6c36f52ac03cad76c31bb4892cae89d3333f65a8437854bd62c37134e2": {
+      "bytes": 39749,
+      "characterCost": "19",
+      "durationSeconds": 2.415,
+      "estimatedCredits": 48,
+      "file": "8934e5402109d5bd032f29109857e96740d35ecd43a8294b22c18ad76217a852.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.008",
+          "step": 6
+        }
+      ],
+      "requestId": "a4l5f3wTPdNqaoMZFFAV",
+      "sha256": "8934e5402109d5bd032f29109857e96740d35ecd43a8294b22c18ad76217a852",
+      "text": "Räumt morgen die Küche in der Wohnung bitte auf!"
+    },
+    "d5422e1079a190944f8528310cf656438fe47ca8b820a3d85598b1c474be85e7": {
+      "bytes": 34315,
+      "characterCost": "18",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 45,
+      "file": "f6c94fffc8760ed87427ce8d3c4abc638b7965d88b401656f15809c3909cb429.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.004",
+          "step": 6
+        }
+      ],
+      "requestId": "NTGYA2dATfdILsjpHH3L",
+      "sha256": "f6c94fffc8760ed87427ce8d3c4abc638b7965d88b401656f15809c3909cb429",
+      "text": "Könnt ihr ihn morgen im Geschäft informieren?"
+    },
+    "d59c462723da1f41c64b5f04a992ad571ab8c10f753de5ce87cba6cc7ca7aedf": {
+      "bytes": 76111,
+      "characterCost": "40",
+      "durationSeconds": 4.69,
+      "estimatedCredits": 99,
+      "file": "a6f794d4f65e3ec3cde6b77e7fca9bdd26e3ff8e9d15a9ce0d14bc6bd7c41dcd.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.009",
+          "step": 6
+        }
+      ],
+      "requestId": "jiRNurnKYY7Pw3uizB0b",
+      "sha256": "a6f794d4f65e3ec3cde6b77e7fca9bdd26e3ff8e9d15a9ce0d14bc6bd7c41dcd",
+      "text": "Morgen werden wir das fantasievolle Märchen lesen, das du entdeckt hast, obwohl der Wind stark ist."
+    },
+    "d5cebdd9c2cbd0ecf8812f1b8350a47352636d7c0a4c317eb5176d1b32f48f8d": {
+      "bytes": 83634,
+      "characterCost": "39",
+      "durationSeconds": 5.155,
+      "estimatedCredits": 97,
+      "file": "b8127e5494b2e7f674b62d49c7770d34c483e5b07673132d4d1cfb642c8d1fb1.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.009",
+          "step": 6
+        }
+      ],
+      "requestId": "i1IroeMj12ICe9ZXqcoX",
+      "sha256": "b8127e5494b2e7f674b62d49c7770d34c483e5b07673132d4d1cfb642c8d1fb1",
+      "text": "Gestern haben wir mit meinem Opa einen heißen Cappuccino getrunken, weil wir durchgefroren waren."
+    },
+    "d735e902162deac472a8cc0860f4f893d2f8b48390216b03704f2f59a49a4178": {
+      "bytes": 82798,
+      "characterCost": "46",
+      "durationSeconds": 5.108,
+      "estimatedCredits": 115,
+      "file": "a3f8b70fe33bcbff1c84a70034560464298494833d38eeda4e14a8d4a885ed8e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.005",
+          "step": 6
+        }
+      ],
+      "requestId": "gJtnXqK2hkmuYXhmWawW",
+      "sha256": "a3f8b70fe33bcbff1c84a70034560464298494833d38eeda4e14a8d4a885ed8e",
+      "text": "Morgen werden wir den informativen Audiobeitrag hören, den du veröffentlicht hast, obwohl der Empfang schlecht ist."
+    },
+    "d8c28d9004d8f8477dc830a030756e6b4e8ad0fb2da97ba1f2fadcd36001669d": {
+      "bytes": 56049,
+      "characterCost": "28",
+      "durationSeconds": 3.437,
+      "estimatedCredits": 69,
+      "file": "6bbcf5d44bb248f44c96f303a1c4043f2c8abd22c5b1e4f5e9e921d174a50c32.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.017",
+          "step": 7
+        }
+      ],
+      "requestId": "FsrlDahpczxUY8gD9x9w",
+      "sha256": "6bbcf5d44bb248f44c96f303a1c4043f2c8abd22c5b1e4f5e9e921d174a50c32",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Freibad geblieben sind."
+    },
+    "d91b0be3977b7ac0ceff1975f7ef9fa1fdecfb90449403016ed4f7662ab0a1c8": {
+      "bytes": 77783,
+      "characterCost": "40",
+      "durationSeconds": 4.783,
+      "estimatedCredits": 101,
+      "file": "73ce38a5b8d6c8dd3f4b3f95e58d52f438b05badf6e0dc6c1c39ca20b7e316f9.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.002",
+          "step": 6
+        }
+      ],
+      "requestId": "Y1zuZOcARxbUU2mEeLkQ",
+      "sha256": "73ce38a5b8d6c8dd3f4b3f95e58d52f438b05badf6e0dc6c1c39ca20b7e316f9",
+      "text": "Gestern haben wir mit meinem Schwager einen hausgemachten Strudel gegessen, weil wir zufrieden waren."
+    },
+    "da5be81c59e5b946ee6ca6bab681a18a7467bb52c01a2b5414d6a7b7211ee049": {
+      "bytes": 67334,
+      "characterCost": "36",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 91,
+      "file": "61cf034985b61661f21f19e12109f0a03839624bafeb7e314a1f8fccd5b741d1.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.011",
+          "step": 6
+        }
+      ],
+      "requestId": "IoH15HrTN4rwVSUggTQb",
+      "sha256": "61cf034985b61661f21f19e12109f0a03839624bafeb7e314a1f8fccd5b741d1",
+      "text": "Nach der Führung habe ich mich mit meiner Klassenkameradin für die Geschichte interessiert."
+    },
+    "db9f36178a87d493d3feb44dd956b1d5cd24294ecd0b9253b8a34fda3b2d1d9d": {
+      "bytes": 34315,
+      "characterCost": "15",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 38,
+      "file": "8855cb02996ba23c6c2af84c8897f855fd5e67bd0a3bad362572feeb7a33f009.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.008",
+          "step": 6
+        }
+      ],
+      "requestId": "0MrFU36Vto7ipwrpDyS6",
+      "sha256": "8855cb02996ba23c6c2af84c8897f855fd5e67bd0a3bad362572feeb7a33f009",
+      "text": "Heute liest du keinen Fahrplan im Bus."
+    },
+    "dd372495828a1f1ea0126dba49697272fb47666fc43943e7c5980f5cd5f79b9d": {
+      "bytes": 74439,
+      "characterCost": "33",
+      "durationSeconds": 4.598,
+      "estimatedCredits": 83,
+      "file": "8c5070b1df9645160ad6014f9065099e1d7e5a4828d7c55898ac562b84826597.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.013",
+          "step": 6
+        }
+      ],
+      "requestId": "Es3iXFYcxvwqg5K1bhVp",
+      "sha256": "8c5070b1df9645160ad6014f9065099e1d7e5a4828d7c55898ac562b84826597",
+      "text": "Die berühmteren Orchester proben mit meinem Musikpädagogen nicht vor einem Theater."
+    },
+    "de26bc86993da81c6fcc3db4e2f87d8143d44e35cc7b0eeb71a89b50da76bb46": {
+      "bytes": 97009,
+      "characterCost": "46",
+      "durationSeconds": 5.991,
+      "estimatedCredits": 115,
+      "file": "6e6468e06dd63af00c2872fe0ad4e757fa30a4921b3362d86de5e5899ce70a06.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.005",
+          "step": 6
+        }
+      ],
+      "requestId": "pfmvs0GfRGNr9t7d4TqM",
+      "sha256": "6e6468e06dd63af00c2872fe0ad4e757fa30a4921b3362d86de5e5899ce70a06",
+      "text": "Morgen werde ich gezielt mit meinem Projektleiter den Architekten besuchen, obwohl die Strecke unübersichtlich ist."
+    },
+    "e05701ed726ec042612d5e8c5e7eaf0848c0f595abdf93a89e9ed45b5bf279bc": {
+      "bytes": 100771,
+      "characterCost": "45",
+      "durationSeconds": 6.223,
+      "estimatedCredits": 113,
+      "file": "17fe31bbda5f06956e38b71aaad063a201a0425db2b7d5c72bd96d705a366604.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.009",
+          "step": 6
+        }
+      ],
+      "requestId": "PrxVVzUtpLbNsH1qeg3e",
+      "sha256": "17fe31bbda5f06956e38b71aaad063a201a0425db2b7d5c72bd96d705a366604",
+      "text": "Morgen werde ich rechtzeitig mit meinem Ehrenamtlichen den Stadtführer begleiten, obwohl die Fahrkarte teuer ist."
+    },
+    "e08d0a79339b680f8da8d8c4be22a6825e34d63054fb5dbec8b0b902b9bbf98f": {
+      "bytes": 75275,
+      "characterCost": "42",
+      "durationSeconds": 4.644,
+      "estimatedCredits": 105,
+      "file": "edf2c08baaca73ad98c0eed46fe01fc834280d45b794eacde142759ed784edc9.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.001",
+          "step": 6
+        }
+      ],
+      "requestId": "pQSitJWQewtUnhJmj4bZ",
+      "sha256": "edf2c08baaca73ad98c0eed46fe01fc834280d45b794eacde142759ed784edc9",
+      "text": "Morgen werden wir den spannenden Zeichentrickfilm sehen, den du empfohlen hast, obwohl der Saal voll ist."
+    },
+    "e13802fc1dc18d5b1e4f5f1e7ef621fd92ad48554979d15740695d897b1d7b3d": {
+      "bytes": 67334,
+      "characterCost": "30",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 75,
+      "file": "436271719d09680dcaf6f656ccc2977b18ba8798330027010a5c2ffbd9f34361.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.002",
+          "step": 7
+        }
+      ],
+      "requestId": "V4aXBjJFcLOhp7J8DlZW",
+      "sha256": "436271719d09680dcaf6f656ccc2977b18ba8798330027010a5c2ffbd9f34361",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Konferenzraum geblieben sind."
+    },
+    "e17a1fea81217b36bc2874fc6e862b6d435e3d2ed02da38feb16505145d5a690": {
+      "bytes": 66498,
+      "characterCost": "34",
+      "durationSeconds": 4.087,
+      "estimatedCredits": 86,
+      "file": "10db93962dccd583085e3aa395bf81e185bea7687e23cb731998cbff5f4c0919.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.016",
+          "step": 7
+        }
+      ],
+      "requestId": "m2jxU8XSmvT67JK0nOcP",
+      "sha256": "10db93962dccd583085e3aa395bf81e185bea7687e23cb731998cbff5f4c0919",
+      "text": "Wir kaufen keinen flauschigen Hausschuh für meinen Designer, wenn ich genug Geld habe."
+    },
+    "e221f20706348d9c4038123c8db6e252842b212d01739a91f513fc18cb3d2d6c": {
+      "bytes": 53123,
+      "characterCost": "28",
+      "durationSeconds": 3.251,
+      "estimatedCredits": 69,
+      "file": "692b4cadb463853c6df3187193a8b053fd0efc598bca01ac844b8edfb803381a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.015",
+          "step": 7
+        }
+      ],
+      "requestId": "gdqgARoxxs0OyVLvZVaX",
+      "sha256": "692b4cadb463853c6df3187193a8b053fd0efc598bca01ac844b8edfb803381a",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Schloss geblieben sind."
+    },
+    "e4129885a9245149550d801a932946afd29a043783d2763cd2cdef3f0334b886": {
+      "bytes": 34315,
+      "characterCost": "18",
+      "durationSeconds": 2.09,
+      "estimatedCredits": 44,
+      "file": "5449125f63aed95e68d6c14fa13cc153bbf7d88934e7f1134f3e7fb00a4ef67d.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.visit.003",
+          "step": 6
+        }
+      ],
+      "requestId": "Itep8ueAYI5ONKs68rW0",
+      "sha256": "5449125f63aed95e68d6c14fa13cc153bbf7d88934e7f1134f3e7fb00a4ef67d",
+      "text": "Könnt ihr ihn morgen in der Praxis besuchen?"
+    },
+    "e47ac3cadcba65283e9a13f814f33ac591c056266d990b7ee7f3d6f7d2d68cec": {
+      "bytes": 83634,
+      "characterCost": "42",
+      "durationSeconds": 5.155,
+      "estimatedCredits": 106,
+      "file": "c182bb4bcef446d8be7789fb65f24525664b8c09c3fc45b9b81daf63188e80fa.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.film.006",
+          "step": 6
+        }
+      ],
+      "requestId": "75e5d86GHTVpv6O9B1lt",
+      "sha256": "c182bb4bcef446d8be7789fb65f24525664b8c09c3fc45b9b81daf63188e80fa",
+      "text": "Obwohl der Akku leer ist, werden wir morgen den anschaulichen Reisebericht hören, den du geschildert hast."
+    },
+    "e796d83c69e1d21398645b2e55f167ec3c826cec979e5ce9176566b215139399": {
+      "bytes": 71514,
+      "characterCost": "36",
+      "durationSeconds": 4.412,
+      "estimatedCredits": 91,
+      "file": "67c76181096322eb9c469e1ba7ebd02db8c56e731ff0904ab96914629d0c5815.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.017",
+          "step": 7
+        }
+      ],
+      "requestId": "nGtS6AW6F6AM8udDjY4h",
+      "sha256": "67c76181096322eb9c469e1ba7ebd02db8c56e731ff0904ab96914629d0c5815",
+      "text": "Wir kaufen keinen verstellbaren Hocker für meinen Lagerarbeiter, wenn ich genug Platz habe."
+    },
+    "e876a043d343aa3d71c262b9b4d41903440e507feb7d8f9ae798c67ae843d715": {
+      "bytes": 43510,
+      "characterCost": "20",
+      "durationSeconds": 2.647,
+      "estimatedCredits": 51,
+      "file": "04b504ce8a0d20ed02b58e7837cd02696b422dc63283aeaf08009220e0d08c4e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.home.009",
+          "step": 5
+        }
+      ],
+      "requestId": "exnmFgCm4ZIWi8vYUEjF",
+      "sha256": "04b504ce8a0d20ed02b58e7837cd02696b422dc63283aeaf08009220e0d08c4e",
+      "text": "Warum sind die Birnen und die Pfirsiche nicht reif?"
+    },
+    "e8d01bf8787411bec0d5133fc2b99ea6b87c36e2bdfdc3e4bcc1fe648b4f3f69": {
+      "bytes": 72350,
+      "characterCost": "35",
+      "durationSeconds": 4.458,
+      "estimatedCredits": 87,
+      "file": "35dc7bd214c1e14625653fcc4f7cbee68a8d64bed5413402d960811df5ca6408.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.005",
+          "step": 6
+        }
+      ],
+      "requestId": "4szqsYUxPZjc9a8cNDaH",
+      "sha256": "35dc7bd214c1e14625653fcc4f7cbee68a8d64bed5413402d960811df5ca6408",
+      "text": "Morgen würde ich im Reformhaus unraffinierten Rohrzucker kaufen, den du empfohlen hast."
+    },
+    "e9d42a2d6200b0524edc0844d0ce636f1c5b212da75081dc3dcf708923169572": {
+      "bytes": 35151,
+      "characterCost": "19",
+      "durationSeconds": 2.136,
+      "estimatedCredits": 48,
+      "file": "2b26f2bff16b28c5cec059c2128d9d66fc70e94733653631541f4ffc6c83e809.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.routine.007",
+          "step": 6
+        }
+      ],
+      "requestId": "70wbJ0ej7xdfCkHXhDq9",
+      "sha256": "2b26f2bff16b28c5cec059c2128d9d66fc70e94733653631541f4ffc6c83e809",
+      "text": "Holt morgen die Bestellung im Geschäft bitte ab!"
+    },
+    "ea419b8ac0ad71f20a1472f9bc633ae47e86b2967be348237db90c9e1f1b2c5f": {
+      "bytes": 37659,
+      "characterCost": "18",
+      "durationSeconds": 2.276,
+      "estimatedCredits": 46,
+      "file": "8b76e1dad646706fa486b618d36978ba7e5c23bc5429d36eef86abe564f10129.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.001",
+          "step": 6
+        }
+      ],
+      "requestId": "tsTKQMqn2XH01EFe4TmV",
+      "sha256": "8b76e1dad646706fa486b618d36978ba7e5c23bc5429d36eef86abe564f10129",
+      "text": "Heute liest du keinen Dialog im Klassenzimmer."
+    },
+    "eb0bb3baf9b0c2ecbf40a34da9ebda1af390e660d21091ebce64e057ddd331ff": {
+      "bytes": 67334,
+      "characterCost": "32",
+      "durationSeconds": 4.133,
+      "estimatedCredits": 81,
+      "file": "14b326cbb5fcd69877d0f5fe6a282150c37bf19612b09afcb562d288f78ccfbf.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.019",
+          "step": 6
+        }
+      ],
+      "requestId": "CVuJB3wM4oXj4l6oN3bi",
+      "sha256": "14b326cbb5fcd69877d0f5fe6a282150c37bf19612b09afcb562d288f78ccfbf",
+      "text": "Nach der Zusage mussten wir uns mit meiner Trainerin für den Sprachkurs anmelden."
+    },
+    "eb109d443f38d4448ac0c20664dd58464c04a8596918cde0f65b016aad9f0b9c": {
+      "bytes": 70260,
+      "characterCost": "35",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 87,
+      "file": "8904eb7eada4c4bff89e7856c9f538370310fbb25efe586a5419e215f3bee55e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.019",
+          "step": 6
+        }
+      ],
+      "requestId": "n1sUN01pHvWivSqxha9O",
+      "sha256": "8904eb7eada4c4bff89e7856c9f538370310fbb25efe586a5419e215f3bee55e",
+      "text": "Die fröhlicheren Bergführer lachen mit meinem Reisebegleiter nicht vor einer Berghütte."
+    },
+    "ec56cff4dbb0c520ee901c5e8c3ffe1c50731c2f40b0c6d04a3ab7c416dd6017": {
+      "bytes": 59811,
+      "characterCost": "31",
+      "durationSeconds": 3.669,
+      "estimatedCredits": 78,
+      "file": "6875cec1450142ee2e7520add7f056b5139b6ea15d997c77dc0c344a48d7955e.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.004",
+          "step": 7
+        }
+      ],
+      "requestId": "LqvndZTfKYG9NDuxksBs",
+      "sha256": "6875cec1450142ee2e7520add7f056b5139b6ea15d997c77dc0c344a48d7955e",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Ausstellungsraum geblieben sind."
+    },
+    "ec574b2fa2b92e46d472d7a7d121fdb02fa221825629aa92a2e33d7bea29c4fc": {
+      "bytes": 68588,
+      "characterCost": "34",
+      "durationSeconds": 4.226,
+      "estimatedCredits": 84,
+      "file": "0d07f9d6fa697c3733ce1e7234ed29900407e69431b6437adcdd605a3e2b0b87.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.007",
+          "step": 6
+        }
+      ],
+      "requestId": "vaNePlj5lBN4r5lkxBjt",
+      "sha256": "0d07f9d6fa697c3733ce1e7234ed29900407e69431b6437adcdd605a3e2b0b87",
+      "text": "Nach der Ankunft mussten wir uns mit meiner Tanzpartnerin mit der Anmeldung beeilen."
+    },
+    "ec60b63caddd26e70ec9a99cd3f29d25bda045c962627292a328efbcee22e987": {
+      "bytes": 69424,
+      "characterCost": "30",
+      "durationSeconds": 4.272,
+      "estimatedCredits": 74,
+      "file": "dbc17d9bbe8eecba6fcbe9b95a3cc96dd97bb592a5b75df18617baa5ac1f2cf4.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.006",
+          "step": 7
+        }
+      ],
+      "requestId": "1YnZcGVIgaOGoPm6xR1K",
+      "sha256": "dbc17d9bbe8eecba6fcbe9b95a3cc96dd97bb592a5b75df18617baa5ac1f2cf4",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Gemeindesaal geblieben sind."
+    },
+    "edea83658feee779c4ceabdb96606d1c854a26bfdfcc420b7e47eae76554b441": {
+      "bytes": 70260,
+      "characterCost": "33",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 82,
+      "file": "ba632d8d6cb27028b2727f40389ac3d51d0333112ec7547201981db06e29d5bd.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.wish.003",
+          "step": 6
+        }
+      ],
+      "requestId": "O4kpwmrZc6fB9nXvwYmJ",
+      "sha256": "ba632d8d6cb27028b2727f40389ac3d51d0333112ec7547201981db06e29d5bd",
+      "text": "Morgen würde ich im Hofladen zuckerarme Konfitüre probieren, die du entdeckt hast."
+    },
+    "f08185612b7cd5f58cdaa9bd873e469d7a545a57a5b6a3a5446c7f8170ede11a": {
+      "bytes": 72350,
+      "characterCost": "37",
+      "durationSeconds": 4.458,
+      "estimatedCredits": 92,
+      "file": "fc31078f18f29cd83824b186e310009453da8ecf3632ca757920adf6dc6aa643.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.014",
+          "step": 6
+        }
+      ],
+      "requestId": "iM4vVWcLOhsH2tSl5cQ2",
+      "sha256": "fc31078f18f29cd83824b186e310009453da8ecf3632ca757920adf6dc6aa643",
+      "text": "Gestern haben wir mit meinem Vater einen gebratenen Thunfisch gegessen, weil wir froh waren."
+    },
+    "f4f080e96e1a62b22524877ba698bf80afef6758c6309328988576d0523f1079": {
+      "bytes": 64408,
+      "characterCost": "30",
+      "durationSeconds": 3.947,
+      "estimatedCredits": 75,
+      "file": "b6b6c1c0ea313dd8199955b3b31799c1b3cf3f68670ccf950e1a511538e37f91.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.outside.010",
+          "step": 6
+        }
+      ],
+      "requestId": "xTJCeUg7facPDXXj1RVh",
+      "sha256": "b6b6c1c0ea313dd8199955b3b31799c1b3cf3f68670ccf950e1a511538e37f91",
+      "text": "Die lauteren Chöre singen mit meinem Chorleiter nicht vor einer Musikhalle."
+    },
+    "f5a9400d0f0a15ac0817da028c362cf4aa35337c26ecebf1b8be1b4eeed4455b": {
+      "bytes": 68588,
+      "characterCost": "36",
+      "durationSeconds": 4.226,
+      "estimatedCredits": 90,
+      "file": "a946aa4b5ea80f97a07de1ac8177217240ddbef85f9afa0a33feec07d34a2018.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.shop.006",
+          "step": 7
+        }
+      ],
+      "requestId": "NEtEIAnwllNz7GxFsDkB",
+      "sha256": "a946aa4b5ea80f97a07de1ac8177217240ddbef85f9afa0a33feec07d34a2018",
+      "text": "Wir kaufen keinen vielseitigen Hammer für meinen Hausmeister, wenn ich genug Energie habe."
+    },
+    "f66a7bb0ae5fb41eba81c281c704ab738997a6fa8a4eecdc6fae052b2850f0d3": {
+      "bytes": 54377,
+      "characterCost": "28",
+      "durationSeconds": 3.344,
+      "estimatedCredits": 69,
+      "file": "8d808da5811c0999e6c0e229ab6fe7c3cd8dd186923819981f2fec23f26aed9a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.010",
+          "step": 7
+        }
+      ],
+      "requestId": "HM7reEXwFKX1lZR7g1sd",
+      "sha256": "8d808da5811c0999e6c0e229ab6fe7c3cd8dd186923819981f2fec23f26aed9a",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Rathaus geblieben sind."
+    },
+    "f7db9100f7aa83c3bb87c108ec0848a209987e49d91b71e9f577c3d0a64e0fe7": {
+      "bytes": 70260,
+      "characterCost": "38",
+      "durationSeconds": 4.319,
+      "estimatedCredits": 95,
+      "file": "ea2d1215bf4f6e6d1cd5e764f5cd726473f0a3de85bdff80d81a62379fd0458b.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.000",
+          "step": 6
+        }
+      ],
+      "requestId": "ITMSgomQ1W2IzQI5zqlT",
+      "sha256": "ea2d1215bf4f6e6d1cd5e764f5cd726473f0a3de85bdff80d81a62379fd0458b",
+      "text": "Morgen werde ich gern mit meiner Schwester den Bruder besuchen, obwohl das Wetter schlecht ist."
+    },
+    "fa0fe7b1bb2da0763a0c4fedc6f2e3401f86d864dfdfdca91df629711a6f1c57": {
+      "bytes": 60647,
+      "characterCost": "30",
+      "durationSeconds": 3.715,
+      "estimatedCredits": 75,
+      "file": "220320a327284d008b350e8c3061bbfabca8f3f213fc1eeed7b9f1bbbce72dbe.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.travel.011",
+          "step": 7
+        }
+      ],
+      "requestId": "a8qSZOh4365JwCa4aFaL",
+      "sha256": "220320a327284d008b350e8c3061bbfabca8f3f213fc1eeed7b9f1bbbce72dbe",
+      "text": "Ich weiß, dass wir gestern mit ihnen nicht im Jugendzentrum geblieben sind."
+    },
+    "fac42b62170462650dcfd7130445ca7a7bf6513b3f837a7196187aa1115de11f": {
+      "bytes": 61901,
+      "characterCost": "31",
+      "durationSeconds": 3.808,
+      "estimatedCredits": 77,
+      "file": "05985990cb567c64ca790319a3981c6bb8964aaee534233278674f983d18fc7f.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.feeling.009",
+          "step": 6
+        }
+      ],
+      "requestId": "rvWvsHItpbt6T6lDwzXQ",
+      "sha256": "05985990cb567c64ca790319a3981c6bb8964aaee534233278674f983d18fc7f",
+      "text": "Nach dem Umzug mussten wir uns mit meiner Vermieterin für die Hilfe bedanken."
+    },
+    "fe6a4027dfc1be8a0a964523cda96ee3c62f1b4cdebe551d80c5accd5aed8dbb": {
+      "bytes": 101189,
+      "characterCost": "48",
+      "durationSeconds": 6.269,
+      "estimatedCredits": 119,
+      "file": "20b8ff4e6aa7387ad5ae85801f545e5386fcb9c5549935d32ab16f52f2e27690.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.b1.future.007",
+          "step": 6
+        }
+      ],
+      "requestId": "CRV5NJPYBjw9NKYq4bCT",
+      "sha256": "20b8ff4e6aa7387ad5ae85801f545e5386fcb9c5549935d32ab16f52f2e27690",
+      "text": "Morgen werde ich anschließend mit meinem Nachwuchsforscher den Forscher fotografieren, obwohl der Zugang versperrt ist."
+    },
+    "ff90c1c964161bb91f6e2bd94947142c2556ca10e86feddc80ff9a5b226cc39e": {
+      "bytes": 30136,
+      "characterCost": "14",
+      "durationSeconds": 1.811,
+      "estimatedCredits": 34,
+      "file": "56d2cde3779db451f3ad34349e468d7d06afa7f476c93eab237299d6c882341a.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a1.read.012",
+          "step": 6
+        }
+      ],
+      "requestId": "4MWpzC2Ca4TvVpsq34fY",
+      "sha256": "56d2cde3779db451f3ad34349e468d7d06afa7f476c93eab237299d6c882341a",
+      "text": "Heute liest du keinen Satz im Zug."
+    },
+    "ffba22e8bbcd230be1321162eecd07105cca94806adff3c9822f08190c97206f": {
+      "bytes": 79037,
+      "characterCost": "40",
+      "durationSeconds": 4.876,
+      "estimatedCredits": 99,
+      "file": "8f19d72ad43839bbfcafb4f18ab78e90851f14b1b6dfbf63a385ac1d8a85f9e4.mp3",
+      "quotedCreditMultiplier": 1.0,
+      "references": [
+        {
+          "chainId": "de.a2.cafe.008",
+          "step": 6
+        }
+      ],
+      "requestId": "DQ29a72d9BUaZwtyff0A",
+      "sha256": "8f19d72ad43839bbfcafb4f18ab78e90851f14b1b6dfbf63a385ac1d8a85f9e4",
+      "text": "Gestern haben wir mit meinem Bekannten einen fruchtigen Smoothie getrunken, weil wir durstig waren."
+    }
+  },
+  "modelId": "eleven_multilingual_v2",
+  "packVersion": 2,
+  "provider": "ElevenLabs",
+  "schemaVersion": 1,
+  "voiceId": "XyjNrFq01a0IuxXpNXvO",
+  "voiceSettings": {
+    "similarity_boost": 0.75,
+    "stability": 0.65,
+    "style": 0.0,
+    "use_speaker_boost": true
+  }
+}

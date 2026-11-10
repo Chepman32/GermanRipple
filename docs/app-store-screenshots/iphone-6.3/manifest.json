@@ -1,0 +1,57 @@
+{
+  "device": "iPhone 16 Pro, iOS 26.1",
+  "sourceResult": ".build/StorePhoneMedium.xcresult",
+  "unalteredNativeScreenshots": true,
+  "assets": [
+    {
+      "file": "01-today.png",
+      "source": "9669731E-DDC2-49AA-84E2-8F64C95C65B2.png",
+      "test": "RippleUITests/testFullChainCanAlwaysFinishAndAppearsInGallery()",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "sha256": "ce8f651a49824803dbe21b308c3ff9a999bbfd521e478ba36de2f0060395b86d"
+    },
+    {
+      "file": "02-lesson.png",
+      "source": "38F825FD-064A-47B3-94EF-CA35E94ACFEE.png",
+      "test": "RippleUITests/testSpawnedWordHasTapOnlyFormAndPlacement()",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "sha256": "d7082ab7210ac9a8ed23abf0a610ceeb4db10747f57b81317a87cd25d82de9c1"
+    },
+    {
+      "file": "03-rules.png",
+      "source": "AFA35DCC-23EA-440A-AEF2-99313D601571.png",
+      "test": "RippleUITests/testFullChainCanAlwaysFinishAndAppearsInGallery()",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "sha256": "f6ed8c7f1a448b218ae9d56292b1f617bfd9a257aaaa7b0d1d4a774a8600db47"
+    },
+    {
+      "file": "04-gallery.png",
+      "source": "A516573C-A853-47E9-8D7B-E86E872F3A1A.png",
+      "test": "RippleUITests/testFullChainCanAlwaysFinishAndAppearsInGallery()",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "sha256": "f40836d3eb0ff682b67b59e33b0e108463c1d61f67884b10654cfc5012a77bd8"
+    },
+    {
+      "file": "05-summary.png",
+      "source": "0332323B-A98A-4249-9D6C-A5786CD51C2A.png",
+      "test": "RippleUITests/testFullChainCanAlwaysFinishAndAppearsInGallery()",
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "sha256": "6c0cceced040790cb2894453e55790a9cfe94a4823613b367240fceced0894da"
+    }
+  ]
+}

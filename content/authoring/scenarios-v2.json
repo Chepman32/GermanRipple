@@ -1,0 +1,2829 @@
+{
+  "read": [
+    {
+      "retainV1": true
+    },
+    {
+      "contextEn": "in the classroom",
+      "nouns": [
+        "Text;m;Texte;text;texts;",
+        "Dialog;m;Dialoge;dialogue;dialogues;"
+      ],
+      "context": "Klassenzimmer;n;Klassenzimmer;classroom;classrooms;",
+      "verb": "üben;übe;übst;übt;geübt;practice;practiced",
+      "title": "Read together in class",
+      "theme": "work"
+    },
+    {
+      "contextEn": "at the station",
+      "nouns": [
+        "Plan;m;Pläne;plan;plans;",
+        "Stadtplan;m;Stadtpläne;city map;city maps;"
+      ],
+      "context": "Bahnhof;m;Bahnhöfe;station;stations;",
+      "verb": "prüfen;prüfe;prüfst;prüft;geprüft;check;checked",
+      "title": "Find your way around",
+      "theme": "travel"
+    },
+    {
+      "contextEn": "in the shop",
+      "nouns": [
+        "Name;m;Namen;name;names;Namen",
+        "Preis;m;Preise;price;prices;"
+      ],
+      "context": "Geschäft;n;Geschäfte;shop;shops;",
+      "verb": "notieren;notiere;notierst;notiert;notiert;note down;noted down",
+      "title": "Names and prices",
+      "theme": "shopping"
+    },
+    {
+      "contextEn": "at the hotel",
+      "nouns": [
+        "Pass;m;Pässe;passport;passports;",
+        "Ausweis;m;Ausweise;identity card;identity cards;"
+      ],
+      "context": "Hotel;n;Hotels;hotel;hotels;",
+      "verb": "brauchen;brauche;brauchst;braucht;gebraucht;need;needed",
+      "title": "At the hotel desk",
+      "theme": "travel"
+    },
+    {
+      "contextEn": "at school",
+      "nouns": [
+        "Kalender;m;Kalender;calendar;calendars;",
+        "Stundenplan;m;Stundenpläne;timetable;timetables;"
+      ],
+      "context": "Schule;f;Schulen;school;schools;",
+      "verb": "vergleichen;vergleiche;vergleichst;vergleicht;verglichen;compare;compared",
+      "title": "Plan the school week",
+      "theme": "plans"
+    },
+    {
+      "contextEn": "in the office",
+      "nouns": [
+        "Bericht;m;Berichte;report;reports;",
+        "Artikel;m;Artikel;article;articles;"
+      ],
+      "context": "Büro;n;Büros;office;offices;",
+      "verb": "erklären;erkläre;erklärst;erklärt;erklärt;explain;explained",
+      "title": "News at the office",
+      "theme": "work"
+    },
+    {
+      "contextEn": "in the library",
+      "nouns": [
+        "Roman;m;Romane;novel;novels;",
+        "Dialog;m;Dialoge;dialogue;dialogues;"
+      ],
+      "context": "Bibliothek;f;Bibliotheken;library;libraries;",
+      "verb": "suchen;suche;suchst;sucht;gesucht;look for;looked for",
+      "title": "Choose something to read",
+      "theme": "free-time"
+    },
+    {
+      "contextEn": "on the bus",
+      "nouns": [
+        "Prospekt;m;Prospekte;brochure;brochures;",
+        "Fahrplan;m;Fahrpläne;transport timetable;transport timetables;"
+      ],
+      "context": "Bus;m;Busse;bus;buses;",
+      "verb": "zeigen;zeige;zeigst;zeigt;gezeigt;show;showed",
+      "title": "Information on the bus",
+      "theme": "city"
+    },
+    {
+      "contextEn": "in the kitchen",
+      "nouns": [
+        "Einkaufszettel;m;Einkaufszettel;shopping list;shopping lists;",
+        "Kassenbon;m;Kassenbons;receipt;receipts;"
+      ],
+      "context": "Küche;f;Küchen;kitchen;kitchens;",
+      "verb": "sortieren;sortiere;sortierst;sortiert;sortiert;sort;sorted",
+      "title": "After the shopping trip",
+      "theme": "home"
+    },
+    {
+      "contextEn": "in the living room",
+      "nouns": [
+        "Gruß;m;Grüße;greeting;greetings;",
+        "Wunsch;m;Wünsche;wish;wishes;"
+      ],
+      "context": "Wohnzimmer;n;Wohnzimmer;living room;living rooms;",
+      "verb": "schreiben;schreibe;schreibst;schreibt;geschrieben;write;wrote",
+      "title": "Send a kind message",
+      "theme": "family"
+    },
+    {
+      "contextEn": "at the music school",
+      "nouns": [
+        "Liedtext;m;Liedtexte;song lyric;song lyrics;",
+        "Hinweis;m;Hinweise;instruction;instructions;"
+      ],
+      "context": "Musikschule;f;Musikschulen;music school;music schools;",
+      "verb": "lernen;lerne;lernst;lernt;gelernt;learn;learned",
+      "title": "Words in a song",
+      "theme": "free-time"
+    },
+    {
+      "contextEn": "on the train",
+      "nouns": [
+        "Text;m;Texte;text;texts;",
+        "Satz;m;Sätze;sentence;sentences;"
+      ],
+      "context": "Zug;m;Züge;train;trains;",
+      "verb": "wiederholen;wiederhole;wiederholst;wiederholt;wiederholt;repeat;repeated",
+      "title": "Practice on the train",
+      "theme": "travel"
+    },
+    {
+      "contextEn": "at the café",
+      "nouns": [
+        "Hinweis;m;Hinweise;instruction;instructions;",
+        "Kommentar;m;Kommentare;comment;comments;"
+      ],
+      "context": "Café;n;Cafés;café;cafés;",
+      "verb": "kopieren;kopiere;kopierst;kopiert;kopiert;copy;copied",
+      "title": "A note at the café",
+      "theme": "cafe"
+    }
+  ],
+  "visit": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Lehrer;m;Lehrer;teacher;teachers;",
+        "Trainer;m;Trainer;coach;coaches;"
+      ],
+      "context": "Schule;f;Schulen;school;schools;",
+      "verb": "fragen;frage;fragst;fragt;gefragt;ask;asked",
+      "adjective": "geduldig;patient",
+      "title": "Ask someone at school",
+      "theme": "work",
+      "contextEn": "at school"
+    },
+    {
+      "nouns": [
+        "Nachbar;m;Nachbarn;neighbor;neighbors;Nachbarn",
+        "Freund;m;Freunde;friend;friends;"
+      ],
+      "context": "Garten;m;Gärten;garden;gardens;",
+      "verb": "begrüßen;begrüße;begrüßt;begrüßt;begrüßt;greet;greeted",
+      "adjective": "hilfsbereit;helpful",
+      "title": "Meet in the garden",
+      "theme": "home",
+      "contextEn": "in the garden"
+    },
+    {
+      "nouns": [
+        "Arzt;m;Ärzte;doctor;doctors;",
+        "Zahnarzt;m;Zahnärzte;dentist;dentists;"
+      ],
+      "context": "Praxis;f;Praxen;medical practice;medical practices;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "aufmerksam;attentive",
+      "title": "At the medical practice",
+      "theme": "health",
+      "contextEn": "at the medical practice"
+    },
+    {
+      "nouns": [
+        "Verkäufer;m;Verkäufer;salesperson;salespeople;",
+        "Kunde;m;Kunden;customer;customers;Kunden"
+      ],
+      "context": "Geschäft;n;Geschäfte;shop;shops;",
+      "verb": "informieren;informiere;informierst;informiert;informiert;inform;informed",
+      "adjective": "höflich;polite",
+      "title": "Help in the shop",
+      "theme": "shopping",
+      "contextEn": "in the shop"
+    },
+    {
+      "nouns": [
+        "Fahrer;m;Fahrer;driver;drivers;",
+        "Gast;m;Gäste;guest;guests;"
+      ],
+      "context": "Bahnhof;m;Bahnhöfe;station;stations;",
+      "verb": "begleiten;begleite;begleitest;begleitet;begleitet;accompany;accompanied",
+      "adjective": "pünktlich;punctual",
+      "title": "Meet at the station",
+      "theme": "travel",
+      "contextEn": "at the station"
+    },
+    {
+      "nouns": [
+        "Koch;m;Köche;cook;cooks;",
+        "Kellner;m;Kellner;waiter;waiters;"
+      ],
+      "context": "Restaurant;n;Restaurants;restaurant;restaurants;",
+      "verb": "fotografieren;fotografiere;fotografierst;fotografiert;fotografiert;photograph;photographed",
+      "adjective": "fröhlich;cheerful",
+      "title": "A restaurant photograph",
+      "theme": "food",
+      "contextEn": "in the restaurant"
+    },
+    {
+      "nouns": [
+        "Chef;m;Chefs;manager;managers;",
+        "Kollege;m;Kollegen;colleague;colleagues;Kollegen"
+      ],
+      "context": "Büro;n;Büros;office;offices;",
+      "verb": "benachrichtigen;benachrichtige;benachrichtigst;benachrichtigt;benachrichtigt;notify;notified",
+      "adjective": "zuverlässig;reliable",
+      "title": "A message at work",
+      "theme": "work",
+      "contextEn": "in the office"
+    },
+    {
+      "nouns": [
+        "Onkel;m;Onkel;uncle;uncles;",
+        "Vater;m;Väter;father;fathers;"
+      ],
+      "context": "Wohnung;f;Wohnungen;apartment;apartments;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "liebevoll;loving",
+      "title": "Visit the family",
+      "theme": "family",
+      "contextEn": "in the apartment"
+    },
+    {
+      "nouns": [
+        "Bruder;m;Brüder;brother;brothers;",
+        "Sohn;m;Söhne;son;sons;"
+      ],
+      "context": "Sportplatz;m;Sportplätze;sports ground;sports grounds;",
+      "verb": "unterstützen;unterstütze;unterstützt;unterstützt;unterstützt;support;supported",
+      "adjective": "sportlich;athletic",
+      "title": "Support someone at the match",
+      "theme": "free-time",
+      "contextEn": "at the sports ground"
+    },
+    {
+      "nouns": [
+        "Opa;m;Opas;grandfather;grandfathers;",
+        "Partner;m;Partner;partner;partners;"
+      ],
+      "context": "Park;m;Parks;park;parks;",
+      "verb": "begleiten;begleite;begleitest;begleitet;begleitet;accompany;accompanied",
+      "adjective": "ruhig;calm",
+      "title": "A walk in the park",
+      "theme": "family",
+      "contextEn": "in the park"
+    },
+    {
+      "nouns": [
+        "Polizist;m;Polizisten;police officer;police officers;Polizisten",
+        "Tourist;m;Touristen;tourist;tourists;Touristen"
+      ],
+      "context": "Flughafen;m;Flughäfen;airport;airports;",
+      "verb": "fragen;frage;fragst;fragt;gefragt;ask;asked",
+      "adjective": "freundlich;friendly",
+      "title": "Ask at the airport",
+      "theme": "travel",
+      "contextEn": "at the airport"
+    },
+    {
+      "nouns": [
+        "Musiker;m;Musiker;musician;musicians;",
+        "Sänger;m;Sänger;singer;singers;"
+      ],
+      "context": "Kino;n;Kinos;cinema;cinemas;",
+      "verb": "verabschieden;verabschiede;verabschiedest;verabschiedet;verabschiedet;say goodbye to;said goodbye to",
+      "adjective": "bekannt;well-known",
+      "title": "After the performance",
+      "theme": "free-time",
+      "contextEn": "at the cinema"
+    },
+    {
+      "nouns": [
+        "Schüler;m;Schüler;pupil;pupils;",
+        "Student;m;Studenten;student;students;Studenten"
+      ],
+      "context": "Café;n;Cafés;café;cafés;",
+      "verb": "erkennen;erkenne;erkennst;erkennt;erkannt;recognize;recognized",
+      "adjective": "nett;nice",
+      "title": "Recognize someone at the café",
+      "theme": "cafe",
+      "contextEn": "at the café"
+    }
+  ],
+  "home": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Löffel;m;Löffel;spoon;spoons;",
+        "Gabel;f;Gabeln;fork;forks;",
+        "Messer;n;Messer;knife;knives;"
+      ],
+      "adjective": "sauber;clean",
+      "title": "Set the table"
+    },
+    {
+      "nouns": [
+        "Teller;m;Teller;plate;plates;",
+        "Tasse;f;Tassen;cup;cups;",
+        "Glas;n;Gläser;glass;glasses;"
+      ],
+      "adjective": "leer;empty",
+      "title": "Clear the dishes"
+    },
+    {
+      "nouns": [
+        "Schlüssel;m;Schlüssel;key;keys;",
+        "Flasche;f;Flaschen;bottle;bottles;",
+        "Dose;f;Dosen;can;cans;"
+      ],
+      "adjective": "klein;small;kleiner;smaller",
+      "title": "Small things at home"
+    },
+    {
+      "nouns": [
+        "Schrank;m;Schränke;wardrobe;wardrobes;",
+        "Kommode;f;Kommoden;chest of drawers;chests of drawers;",
+        "Regal;n;Regale;shelf;shelves;"
+      ],
+      "adjective": "alt;old;älter;older",
+      "title": "Furniture with a history"
+    },
+    {
+      "nouns": [
+        "Spiegel;m;Spiegel;mirror;mirrors;",
+        "Scheibe;f;Scheiben;pane;panes;",
+        "Fenster;n;Fenster;window;windows;"
+      ],
+      "adjective": "schmutzig;dirty",
+      "title": "Time to clean the glass"
+    },
+    {
+      "nouns": [
+        "Schuh;m;Schuhe;shoe;shoes;",
+        "Socke;f;Socken;sock;socks;",
+        "Stiefel;m;Stiefel;boot;boots;"
+      ],
+      "adjective": "nass;wet",
+      "title": "After the rain"
+    },
+    {
+      "nouns": [
+        "Mantel;m;Mäntel;coat;coats;",
+        "Jacke;f;Jacken;jacket;jackets;",
+        "Hemd;n;Hemden;shirt;shirts;"
+      ],
+      "adjective": "trocken;dry",
+      "title": "Laundry is ready"
+    },
+    {
+      "nouns": [
+        "Teppich;m;Teppiche;rug;rugs;",
+        "Decke;f;Decken;blanket;blankets;",
+        "Kissen;n;Kissen;cushion;cushions;"
+      ],
+      "adjective": "weich;soft",
+      "title": "Make the room comfortable"
+    },
+    {
+      "nouns": [
+        "Apfel;m;Äpfel;apple;apples;",
+        "Birne;f;Birnen;pear;pears;",
+        "Pfirsich;m;Pfirsiche;peach;peaches;"
+      ],
+      "adjective": "reif;ripe",
+      "title": "Fruit in the bowl"
+    },
+    {
+      "nouns": [
+        "Kuchen;m;Kuchen;cake;cakes;",
+        "Torte;f;Torten;layer cake;layer cakes;",
+        "Keks;m;Kekse;cookie;cookies;"
+      ],
+      "adjective": "lecker;tasty",
+      "title": "Something to share"
+    },
+    {
+      "nouns": [
+        "Koffer;m;Koffer;suitcase;suitcases;",
+        "Tasche;f;Taschen;bag;bags;",
+        "Rucksack;m;Rucksäcke;backpack;backpacks;"
+      ],
+      "adjective": "schwer;heavy",
+      "title": "Pack for the journey"
+    },
+    {
+      "nouns": [
+        "Bildschirm;m;Bildschirme;monitor;monitors;",
+        "Tastatur;f;Tastaturen;keyboard;keyboards;",
+        "Telefon;n;Telefone;telephone;telephones;"
+      ],
+      "adjective": "kaputt;broken",
+      "title": "A problem at the desk"
+    },
+    {
+      "nouns": [
+        "Topf;m;Töpfe;pot;pots;",
+        "Pfanne;f;Pfannen;frying pan;frying pans;",
+        "Schüssel;f;Schüsseln;bowl;bowls;"
+      ],
+      "adjective": "voll;full",
+      "title": "In the busy kitchen"
+    }
+  ],
+  "routine": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Radio;n;Radios;radio;radios;",
+        "Fernseher;m;Fernseher;television;televisions;"
+      ],
+      "context": "Wohnzimmer;n;Wohnzimmer;living room;living rooms;",
+      "separable": "einschalten;schalte;schaltest;schalte;schaltet;ein;switch on",
+      "title": "Switch on the news",
+      "theme": "home",
+      "contextEn": "in the living room"
+    },
+    {
+      "nouns": [
+        "Licht;n;Lichter;light;lights;",
+        "Lampe;f;Lampen;lamp;lamps;"
+      ],
+      "context": "Schlafzimmer;n;Schlafzimmer;bedroom;bedrooms;",
+      "separable": "ausmachen;mache;machst;mach;macht;aus;turn off",
+      "title": "Turn off the light",
+      "theme": "home",
+      "contextEn": "in the bedroom"
+    },
+    {
+      "nouns": [
+        "Fenster;n;Fenster;window;windows;",
+        "Tür;f;Türen;door;doors;"
+      ],
+      "context": "Flur;m;Flure;hallway;hallways;",
+      "separable": "aufmachen;mache;machst;mach;macht;auf;open",
+      "title": "Let some fresh air in",
+      "theme": "home",
+      "contextEn": "in the hallway"
+    },
+    {
+      "nouns": [
+        "Tor;n;Tore;gate;gates;",
+        "Garage;f;Garagen;garage;garages;"
+      ],
+      "context": "Hof;m;Höfe;courtyard;courtyards;",
+      "separable": "zumachen;mache;machst;mach;macht;zu;close",
+      "title": "Close up for the night",
+      "theme": "home",
+      "contextEn": "in the courtyard"
+    },
+    {
+      "nouns": [
+        "Buch;n;Bücher;book;books;",
+        "Karte;f;Karten;card;cards;"
+      ],
+      "context": "Schule;f;Schulen;school;schools;",
+      "separable": "mitbringen;bringe;bringst;bring;bringt;mit;bring along",
+      "title": "Bring it to class",
+      "theme": "work",
+      "contextEn": "at school"
+    },
+    {
+      "nouns": [
+        "Geschenk;n;Geschenke;gift;gifts;",
+        "Flasche;f;Flaschen;bottle;bottles;"
+      ],
+      "context": "Küche;f;Küchen;kitchen;kitchens;",
+      "separable": "einpacken;packe;packst;pack;packt;ein;wrap",
+      "title": "Wrap a present",
+      "theme": "family",
+      "contextEn": "in the kitchen"
+    },
+    {
+      "nouns": [
+        "Paket;n;Pakete;parcel;parcels;",
+        "Bestellung;f;Bestellungen;order;orders;"
+      ],
+      "context": "Geschäft;n;Geschäfte;shop;shops;",
+      "separable": "abholen;hole;holst;hol;holt;ab;collect",
+      "title": "Collect an order",
+      "theme": "shopping",
+      "contextEn": "in the shop"
+    },
+    {
+      "nouns": [
+        "Zimmer;n;Zimmer;room;rooms;",
+        "Küche;f;Küchen;kitchen;kitchens;"
+      ],
+      "context": "Wohnung;f;Wohnungen;apartment;apartments;",
+      "separable": "aufräumen;räume;räumst;räum;räumt;auf;tidy",
+      "title": "Tidy the apartment",
+      "theme": "home",
+      "contextEn": "in the apartment"
+    },
+    {
+      "nouns": [
+        "Vater;m;Väter;father;fathers;",
+        "Mutter;f;Mütter;mother;mothers;"
+      ],
+      "context": "Büro;n;Büros;office;offices;",
+      "separable": "anrufen;rufe;rufst;ruf;ruft;an;call",
+      "title": "Call home",
+      "theme": "family",
+      "contextEn": "in the office"
+    },
+    {
+      "nouns": [
+        "Bild;n;Bilder;picture;pictures;",
+        "Jacke;f;Jacken;jacket;jackets;"
+      ],
+      "context": "Keller;m;Keller;cellar;cellars;",
+      "separable": "aufhängen;hänge;hängst;häng;hängt;auf;hang up",
+      "title": "Find a place for it",
+      "theme": "home",
+      "contextEn": "in the cellar"
+    },
+    {
+      "nouns": [
+        "Formular;n;Formulare;form;forms;",
+        "Liste;f;Listen;list;lists;"
+      ],
+      "context": "Hotel;n;Hotels;hotel;hotels;",
+      "separable": "ausfüllen;fülle;füllst;füll;füllt;aus;fill in",
+      "title": "Fill in the details",
+      "theme": "travel",
+      "contextEn": "at the hotel"
+    },
+    {
+      "nouns": [
+        "Bruder;m;Brüder;brother;brothers;",
+        "Schwester;f;Schwestern;sister;sisters;"
+      ],
+      "context": "Garten;m;Gärten;garden;gardens;",
+      "separable": "einladen;lade;lädst;lade;ladet;ein;invite",
+      "title": "Invite someone over",
+      "theme": "family",
+      "contextEn": "in the garden"
+    },
+    {
+      "nouns": [
+        "Zettel;m;Zettel;note;notes;",
+        "Verpackung;f;Verpackungen;packaging;packages;"
+      ],
+      "context": "Werkstatt;f;Werkstätten;workshop;workshops;",
+      "separable": "wegwerfen;werfe;wirfst;wirf;werft;weg;throw away",
+      "title": "Clear the workbench",
+      "theme": "work",
+      "contextEn": "in the workshop"
+    }
+  ],
+  "past": [
+    {
+      "retainV1": true
+    },
+    {
+      "noun": "Bad;n;Bäder;bathroom;bathrooms;",
+      "context": "Erdgeschoss;n;Erdgeschosse;ground floor;ground floors;",
+      "verb": "putzen;putze;putzt;putzt;geputzt;clean;cleaned",
+      "manner": "gründlich;thoroughly",
+      "title": "A clean bathroom",
+      "theme": "home",
+      "contextEn": "on the ground floor"
+    },
+    {
+      "noun": "Rechnung;f;Rechnungen;bill;bills;",
+      "context": "Restaurant;n;Restaurants;restaurant;restaurants;",
+      "verb": "bezahlen;bezahle;bezahlst;bezahlt;bezahlt;pay;paid",
+      "manner": "sofort;immediately",
+      "title": "Pay after the meal",
+      "theme": "food",
+      "contextEn": "at the restaurant"
+    },
+    {
+      "noun": "Fahrrad;n;Fahrräder;bicycle;bicycles;",
+      "context": "Keller;m;Keller;cellar;cellars;",
+      "verb": "reparieren;repariere;reparierst;repariert;repariert;repair;repaired",
+      "manner": "vorsichtig;carefully",
+      "title": "Repair the bicycle",
+      "theme": "travel",
+      "contextEn": "in the cellar"
+    },
+    {
+      "noun": "Koffer;m;Koffer;suitcase;suitcases;",
+      "context": "Schlafzimmer;n;Schlafzimmer;bedroom;bedrooms;",
+      "verb": "packen;packe;packst;packt;gepackt;pack;packed",
+      "manner": "langsam;slowly",
+      "title": "Pack without a rush",
+      "theme": "travel",
+      "contextEn": "in the bedroom"
+    },
+    {
+      "noun": "Schreibtisch;m;Schreibtische;desk;desks;",
+      "context": "Büro;n;Büros;office;offices;",
+      "verb": "räumen;räume;räumst;räumt;geräumt;clear;cleared",
+      "manner": "schnell;quickly",
+      "title": "A clear desk",
+      "theme": "work",
+      "contextEn": "in the office"
+    },
+    {
+      "noun": "Hausaufgabe;f;Hausaufgaben;homework exercise;homework exercises;",
+      "context": "Klassenzimmer;n;Klassenzimmer;classroom;classrooms;",
+      "verb": "erledigen;erledige;erledigst;erledigt;erledigt;complete;completed",
+      "manner": "richtig;correctly",
+      "title": "Finish the homework",
+      "theme": "work",
+      "contextEn": "in the classroom"
+    },
+    {
+      "noun": "Frühstück;n;Frühstücke;breakfast;breakfasts;",
+      "context": "Küche;f;Küchen;kitchen;kitchens;",
+      "verb": "planen;plane;planst;plant;geplant;plan;planned",
+      "manner": "gemeinsam;together",
+      "title": "Plan breakfast together",
+      "theme": "food",
+      "contextEn": "in the kitchen"
+    },
+    {
+      "noun": "Foto;n;Fotos;photograph;photographs;",
+      "context": "Wohnzimmer;n;Wohnzimmer;living room;living rooms;",
+      "verb": "kopieren;kopiere;kopierst;kopiert;kopiert;copy;copied",
+      "manner": "sorgfältig;carefully",
+      "title": "Copy a photograph",
+      "theme": "free-time",
+      "contextEn": "in the living room"
+    },
+    {
+      "noun": "Blume;f;Blumen;flower;flowers;",
+      "context": "Garten;m;Gärten;garden;gardens;",
+      "verb": "pflanzen;pflanze;pflanzt;pflanzt;gepflanzt;plant;planted",
+      "manner": "behutsam;gently",
+      "title": "Plant a flower",
+      "theme": "weather",
+      "contextEn": "in the garden"
+    },
+    {
+      "noun": "Zimmer;n;Zimmer;room;rooms;",
+      "context": "Hotel;n;Hotels;hotel;hotels;",
+      "verb": "reservieren;reserviere;reservierst;reserviert;reserviert;reserve;reserved",
+      "manner": "rechtzeitig;in good time",
+      "title": "Reserve before the trip",
+      "theme": "plans",
+      "contextEn": "at the hotel"
+    },
+    {
+      "noun": "Tür;f;Türen;door;doors;",
+      "context": "Flur;m;Flure;hallway;hallways;",
+      "verb": "öffnen;öffne;öffnest;öffnet;geöffnet;open;opened",
+      "manner": "leise;quietly",
+      "title": "A quiet arrival",
+      "theme": "home",
+      "contextEn": "in the hallway"
+    },
+    {
+      "noun": "Brief;m;Briefe;letter;letters;",
+      "context": "Terrasse;f;Terrassen;terrace;terraces;",
+      "verb": "schreiben;schreibe;schreibst;schreibt;geschrieben;write;wrote",
+      "manner": "ordentlich;neatly",
+      "title": "A letter on the terrace",
+      "theme": "family",
+      "contextEn": "on the terrace",
+      "contextPrep": "auf"
+    },
+    {
+      "noun": "Geschenk;n;Geschenke;gift;gifts;",
+      "context": "Esszimmer;n;Esszimmer;dining room;dining rooms;",
+      "verb": "packen;packe;packst;packt;gepackt;pack;packed",
+      "manner": "spontan;spontaneously",
+      "title": "A little surprise",
+      "theme": "shopping",
+      "contextEn": "in the dining room"
+    }
+  ],
+  "cafe": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Salat;m;Salate;salad;salads;",
+        "Auflauf;m;Aufläufe;casserole;casseroles;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "vegetarisch;vegetarian",
+      "person": "Mitbewohner;m;Mitbewohner;roommate;roommates;",
+      "event": "Treffen;n;Treffen;meeting;meetings;",
+      "reason": "hungrig;hungry",
+      "title": "Lunch after a meeting",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Kuchen;m;Kuchen;cake;cakes;",
+        "Strudel;m;Strudel;strudel;strudels;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "hausgemacht;homemade",
+      "person": "Schwager;m;Schwäger;brother-in-law;brothers-in-law;",
+      "event": "Probe;f;Proben;rehearsal;rehearsals;",
+      "reason": "zufrieden;satisfied",
+      "title": "A homemade treat",
+      "theme": "cafe"
+    },
+    {
+      "nouns": [
+        "Eintopf;m;Eintöpfe;stew;stews;",
+        "Braten;m;Braten;roast;roasts;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "würzig;spicy",
+      "person": "Schwiegervater;m;Schwiegerväter;father-in-law;fathers-in-law;",
+      "event": "Vorlesung;f;Vorlesungen;lecture;lectures;",
+      "reason": "erschöpft;exhausted",
+      "title": "A warm meal after class",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Fisch;m;Fische;fish;fish;",
+        "Reis;m;-;rice;types of rice;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "gedämpft;steamed",
+      "person": "Cousin;m;Cousins;cousin;cousins;",
+      "event": "Wanderung;f;Wanderungen;hike;hikes;",
+      "reason": "müde;tired",
+      "title": "Dinner after a hike",
+      "theme": "health"
+    },
+    {
+      "nouns": [
+        "Pfannkuchen;m;Pfannkuchen;pancake;pancakes;",
+        "Pudding;m;Puddings;pudding;puddings;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "süß;sweet",
+      "person": "Enkel;m;Enkel;grandson;grandsons;",
+      "event": "Training;n;Trainings;training session;training sessions;",
+      "reason": "begeistert;enthusiastic",
+      "title": "Something sweet after training",
+      "theme": "cafe"
+    },
+    {
+      "nouns": [
+        "Keks;m;Kekse;cookie;cookies;",
+        "Zwieback;m;Zwiebacke;rusk;rusks;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "knusprig;crisp",
+      "person": "Vermieter;m;Vermieter;landlord;landlords;",
+      "event": "Besprechung;f;Besprechungen;discussion;discussions;",
+      "reason": "erleichtert;relieved",
+      "title": "A small snack",
+      "theme": "cafe"
+    },
+    {
+      "nouns": [
+        "Joghurt;m;Joghurts;yogurt;yogurts;",
+        "Quark;m;-;quark;types of quark;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "cremig;creamy",
+      "person": "Neffe;m;Neffen;nephew;nephews;Neffen",
+      "event": "Prüfung;f;Prüfungen;examination;examinations;",
+      "reason": "nervös;nervous",
+      "title": "A break after the exam",
+      "theme": "health"
+    },
+    {
+      "nouns": [
+        "Saft;m;Säfte;juice;juices;",
+        "Smoothie;m;Smoothies;smoothie;smoothies;"
+      ],
+      "verb": "trinken;trinke;trinkst;trinkt;getrunken;drink;drank",
+      "adjective": "fruchtig;fruity",
+      "person": "Bekannter;m;Bekannte;acquaintance;acquaintances;Bekannten",
+      "event": "Führung;f;Führungen;guided tour;guided tours;",
+      "reason": "durstig;thirsty",
+      "title": "A drink after the tour",
+      "theme": "cafe"
+    },
+    {
+      "nouns": [
+        "Kakao;m;Kakaos;cocoa;cocoas;",
+        "Cappuccino;m;Cappuccinos;cappuccino;cappuccinos;"
+      ],
+      "verb": "trinken;trinke;trinkst;trinkt;getrunken;drink;drank",
+      "adjective": "heiß;hot",
+      "person": "Opa;m;Opas;grandfather;grandfathers;",
+      "event": "Schicht;f;Schichten;work shift;work shifts;",
+      "reason": "durchgefroren;chilled through",
+      "title": "Warm up after work",
+      "theme": "weather"
+    },
+    {
+      "nouns": [
+        "Toast;m;Toasts;toast;toasts;",
+        "Wrap;m;Wraps;wrap;wraps;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "gefüllt;filled",
+      "person": "Partner;m;Partner;partner;partners;",
+      "event": "Reise;f;Reisen;journey;journeys;",
+      "reason": "ungeduldig;impatient",
+      "title": "A quick meal after traveling",
+      "theme": "travel"
+    },
+    {
+      "nouns": [
+        "Burger;m;Burger;burger;burgers;",
+        "Döner;m;Döner;döner kebab;döner kebabs;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "saftig;juicy",
+      "person": "Freund;m;Freunde;friend;friends;",
+      "event": "Radtour;f;Radtouren;bicycle tour;bicycle tours;",
+      "reason": "ausgehungert;famished",
+      "title": "Lunch after cycling",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Honig;m;Honige;honey;types of honey;",
+        "Sirup;m;Sirupe;syrup;syrups;"
+      ],
+      "verb": "probieren;probiere;probierst;probiert;probiert;try;tried",
+      "adjective": "regional;local",
+      "person": "Kollege;m;Kollegen;colleague;colleagues;Kollegen",
+      "event": "Konzert;n;Konzerte;concert;concerts;",
+      "reason": "neugierig;curious",
+      "title": "Taste something local",
+      "theme": "food",
+      "participleRule": "verb.participle.regular"
+    },
+    {
+      "nouns": [
+        "Schinken;m;Schinken;ham;hams;",
+        "Speck;m;-;bacon;types of bacon;"
+      ],
+      "verb": "probieren;probiere;probierst;probiert;probiert;try;tried",
+      "adjective": "geräuchert;smoked",
+      "person": "Onkel;m;Onkel;uncle;uncles;",
+      "event": "Ausflug;m;Ausflüge;excursion;excursions;",
+      "reason": "entspannt;relaxed",
+      "title": "Food on an excursion",
+      "theme": "food",
+      "participleRule": "verb.participle.regular"
+    },
+    {
+      "nouns": [
+        "Lachs;m;Lachse;salmon;salmon;",
+        "Thunfisch;m;Thunfische;tuna;tuna;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "gebraten;fried",
+      "person": "Vater;m;Väter;father;fathers;",
+      "event": "Spaziergang;m;Spaziergänge;walk;walks;",
+      "reason": "froh;glad",
+      "title": "A meal after a walk",
+      "theme": "family"
+    },
+    {
+      "nouns": [
+        "Mais;m;-;corn;types of corn;",
+        "Spinat;m;-;spinach;types of spinach;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "frisch;fresh",
+      "person": "Bruder;m;Brüder;brother;brothers;",
+      "event": "Wettbewerb;m;Wettbewerbe;competition;competitions;",
+      "reason": "optimistisch;optimistic",
+      "title": "Eat well after the competition",
+      "theme": "health"
+    },
+    {
+      "nouns": [
+        "Brokkoli;m;Brokkolis;broccoli;broccolis;",
+        "Blumenkohl;m;Blumenkohle;cauliflower;cauliflowers;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "gedünstet;lightly steamed",
+      "person": "Chef;m;Chefs;manager;managers;",
+      "event": "Vorstellung;f;Vorstellungen;performance;performances;",
+      "reason": "überrascht;surprised",
+      "title": "A late supper",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Käse;m;Käse;cheese;cheeses;",
+        "Tofu;m;Tofus;tofu;tofus;"
+      ],
+      "verb": "probieren;probiere;probierst;probiert;probiert;try;tried",
+      "adjective": "mild;mild",
+      "person": "Nachbar;m;Nachbarn;neighbor;neighbors;Nachbarn",
+      "event": "Feier;f;Feiern;celebration;celebrations;",
+      "reason": "gespannt;full of anticipation",
+      "title": "Try a new flavor",
+      "theme": "food",
+      "participleRule": "verb.participle.regular"
+    },
+    {
+      "nouns": [
+        "Suppe;f;Suppen;soup;soups;",
+        "Wurst;f;Würste;sausage;sausages;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "kräftig;rich",
+      "person": "Mutter;f;Mütter;mother;mothers;",
+      "event": "Einkauf;m;Einkäufe;shopping trip;shopping trips;",
+      "reason": "krank;ill",
+      "title": "Warm food after shopping",
+      "theme": "shopping"
+    },
+    {
+      "nouns": [
+        "Brot;n;Brote;bread;breads;",
+        "Gebäck;n;Gebäcke;pastry;pastries;"
+      ],
+      "verb": "essen;esse;isst;isst;gegessen;eat;ate",
+      "adjective": "ofenwarm;oven-warm",
+      "person": "Schwester;f;Schwestern;sister;sisters;",
+      "event": "Fahrt;f;Fahrten;ride;rides;",
+      "reason": "unglücklich;unhappy",
+      "title": "A comforting breakfast",
+      "theme": "cafe"
+    }
+  ],
+  "travel": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Wartesaal;m;Wartesäle;waiting hall;waiting halls;",
+        "Aufenthaltsraum;m;Aufenthaltsräume;common room;common rooms;"
+      ],
+      "friends": "Passagier;m;Passagiere;passenger;passengers;",
+      "manner": "geduldig;patiently",
+      "title": "Wait somewhere comfortable",
+      "theme": "travel"
+    },
+    {
+      "nouns": [
+        "Speisesaal;m;Speisesäle;dining hall;dining halls;",
+        "Konferenzraum;m;Konferenzräume;conference room;conference rooms;"
+      ],
+      "friends": "Mitarbeiter;m;Mitarbeiter;employee;employees;",
+      "manner": "gemeinsam;together",
+      "title": "After the work meeting",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Lesesaal;m;Lesesäle;reading room;reading rooms;",
+        "Seminarraum;m;Seminarräume;seminar room;seminar rooms;"
+      ],
+      "friends": "Teilnehmer;m;Teilnehmer;participant;participants;",
+      "manner": "aufmerksam;attentively",
+      "title": "A quiet place to study",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Empfangsbereich;m;Empfangsbereiche;reception area;reception areas;",
+        "Ausstellungsraum;m;Ausstellungsräume;exhibition room;exhibition rooms;"
+      ],
+      "friends": "Besucher;m;Besucher;visitor;visitors;",
+      "manner": "neugierig;curiously",
+      "title": "Explore a new building",
+      "theme": "city"
+    },
+    {
+      "nouns": [
+        "Proberaum;m;Proberäume;rehearsal room;rehearsal rooms;",
+        "Fitnessraum;m;Fitnessräume;fitness room;fitness rooms;"
+      ],
+      "friends": "Musiker;m;Musiker;musician;musicians;",
+      "manner": "regelmäßig;regularly",
+      "title": "Stay with the group",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Gartenpavillon;m;Gartenpavillons;garden pavilion;garden pavilions;",
+        "Gemeindesaal;m;Gemeindesäle;community hall;community halls;"
+      ],
+      "friends": "Helfer;m;Helfer;helper;helpers;",
+      "manner": "freiwillig;voluntarily",
+      "title": "A community afternoon",
+      "theme": "family"
+    },
+    {
+      "nouns": [
+        "Stadtgarten;m;Stadtgärten;municipal garden;municipal gardens;",
+        "Wintergarten;m;Wintergärten;conservatory;conservatories;"
+      ],
+      "friends": "Gärtner;m;Gärtner;gardener;gardeners;",
+      "manner": "ruhig;calmly",
+      "title": "Enjoy a green space",
+      "theme": "weather"
+    },
+    {
+      "nouns": [
+        "Campingplatz;m;Campingplätze;campsite;campsites;",
+        "Spielplatz;m;Spielplätze;playground;playgrounds;"
+      ],
+      "friends": "Wanderer;m;Wanderer;hiker;hikers;",
+      "manner": "draußen;outside",
+      "title": "Spend the afternoon outdoors",
+      "theme": "travel"
+    },
+    {
+      "nouns": [
+        "Hafen;m;Häfen;harbor;harbors;",
+        "Wald;m;Wälder;forest;forests;"
+      ],
+      "friends": "Radfahrer;m;Radfahrer;cyclist;cyclists;",
+      "manner": "länger;longer",
+      "title": "Change the destination",
+      "theme": "travel"
+    },
+    {
+      "nouns": [
+        "Postamt;n;Postämter;post office;post offices;",
+        "Rathaus;n;Rathäuser;town hall;town halls;"
+      ],
+      "friends": "Begleiter;m;Begleiter;companion;companions;",
+      "manner": "kurz;briefly",
+      "title": "An errand in town",
+      "theme": "city"
+    },
+    {
+      "nouns": [
+        "Kulturzentrum;n;Kulturzentren;cultural center;cultural centers;",
+        "Jugendzentrum;n;Jugendzentren;youth center;youth centers;"
+      ],
+      "friends": "Tänzer;m;Tänzer;dancer;dancers;",
+      "manner": "früh;early",
+      "title": "Meet the dance group",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Besucherzentrum;n;Besucherzentren;visitor center;visitor centers;",
+        "Gästehaus;n;Gästehäuser;guesthouse;guesthouses;"
+      ],
+      "friends": "Tourist;m;Touristen;tourist;tourists;Touristen",
+      "manner": "bequem;comfortably",
+      "title": "Arrive with the visitors",
+      "theme": "travel"
+    },
+    {
+      "nouns": [
+        "Ferienhaus;n;Ferienhäuser;holiday house;holiday houses;",
+        "Hostel;n;Hostels;hostel;hostels;"
+      ],
+      "friends": "Freund;m;Freunde;friend;friends;",
+      "manner": "günstig;inexpensively",
+      "title": "Choose accommodation",
+      "theme": "travel"
+    },
+    {
+      "nouns": [
+        "Sportzentrum;n;Sportzentren;sports center;sports centers;",
+        "Einkaufszentrum;n;Einkaufszentren;shopping center;shopping centers;"
+      ],
+      "friends": "Sportler;m;Sportler;athlete;athletes;",
+      "manner": "ausnahmsweise;for a change",
+      "title": "A different meeting place",
+      "theme": "shopping"
+    },
+    {
+      "nouns": [
+        "Verkehrsmuseum;n;Verkehrsmuseen;transport museum;transport museums;",
+        "Schloss;n;Schlösser;palace;palaces;"
+      ],
+      "friends": "Schüler;m;Schüler;pupil;pupils;",
+      "manner": "nebenan;next door",
+      "title": "A school outing",
+      "theme": "city"
+    },
+    {
+      "nouns": [
+        "Gasthaus;n;Gasthäuser;inn;inns;",
+        "Gemeindehaus;n;Gemeindehäuser;community center;community centers;"
+      ],
+      "friends": "Betreuer;m;Betreuer;supervisor;supervisors;",
+      "manner": "drinnen;inside",
+      "title": "Find shelter together",
+      "theme": "weather"
+    },
+    {
+      "nouns": [
+        "Stadion;n;Stadien;stadium;stadiums;",
+        "Freibad;n;Freibäder;outdoor swimming pool;outdoor swimming pools;"
+      ],
+      "friends": "Zuschauer;m;Zuschauer;spectator;spectators;",
+      "manner": "heute;today",
+      "title": "An afternoon with spectators",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Hallenbad;n;Hallenbäder;indoor swimming pool;indoor swimming pools;",
+        "Gewerbegebiet;n;Gewerbegebiete;business park;business parks;"
+      ],
+      "friends": "Ingenieur;m;Ingenieure;engineer;engineers;",
+      "manner": "ausführlich;in detail",
+      "title": "Remember where everyone stayed",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Museum;n;Museen;museum;museums;",
+        "Theater;n;Theater;theater;theaters;"
+      ],
+      "friends": "Dolmetscher;m;Dolmetscher;interpreter;interpreters;",
+      "manner": "abends;in the evenings",
+      "title": "A cultural visit",
+      "theme": "city"
+    }
+  ],
+  "shop": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Regenmantel;m;Regenmäntel;raincoat;raincoats;",
+        "Anorak;m;Anoraks;anorak;anoraks;"
+      ],
+      "adjective": "wasserdicht;waterproof",
+      "replacementAdj": "atmungsaktiv;breathable",
+      "person": "Automechaniker;m;Automechaniker;car mechanic;car mechanics;",
+      "conditionNoun": "Geld;n;Gelder;money;funds;",
+      "title": "Stay dry on the commute"
+    },
+    {
+      "nouns": [
+        "Schlafsack;m;Schlafsäcke;sleeping bag;sleeping bags;",
+        "Schirm;m;Schirme;umbrella;umbrellas;"
+      ],
+      "adjective": "leicht;lightweight",
+      "replacementAdj": "robust;sturdy",
+      "person": "Elektriker;m;Elektriker;electrician;electricians;",
+      "conditionNoun": "Platz;m;Plätze;space;spaces;",
+      "title": "Useful things for a trip"
+    },
+    {
+      "nouns": [
+        "Kugelschreiber;m;Kugelschreiber;ballpoint pen;ballpoint pens;",
+        "Bleistift;m;Bleistifte;pencil;pencils;"
+      ],
+      "adjective": "praktisch;practical",
+      "replacementAdj": "ergonomisch;ergonomic",
+      "person": "Bäcker;m;Bäcker;baker;bakers;",
+      "conditionNoun": "Zeit;f;Zeiten;time;times;",
+      "title": "Write comfortably"
+    },
+    {
+      "nouns": [
+        "Füller;m;Füller;fountain pen;fountain pens;",
+        "Ordner;m;Ordner;binder;binders;"
+      ],
+      "adjective": "preiswert;inexpensive",
+      "replacementAdj": "hochwertig;high-quality",
+      "person": "Friseur;m;Friseure;hairdresser;hairdressers;",
+      "conditionNoun": "Geld;n;Gelder;money;funds;",
+      "title": "Choose office supplies"
+    },
+    {
+      "nouns": [
+        "Notizblock;m;Notizblöcke;notepad;notepads;",
+        "Zeichenblock;m;Zeichenblöcke;sketchpad;sketchpads;"
+      ],
+      "adjective": "handlich;handy",
+      "replacementAdj": "stabil;sturdy",
+      "person": "Gärtner;m;Gärtner;gardener;gardeners;",
+      "conditionNoun": "Platz;m;Plätze;space;spaces;",
+      "title": "Something for sketches"
+    },
+    {
+      "nouns": [
+        "Bohrer;m;Bohrer;drill;drills;",
+        "Hammer;m;Hämmer;hammer;hammers;"
+      ],
+      "adjective": "leistungsfähig;powerful",
+      "replacementAdj": "vielseitig;versatile",
+      "person": "Hausmeister;m;Hausmeister;caretaker;caretakers;",
+      "conditionNoun": "Energie;f;Energien;energy;energies;",
+      "title": "Tools for the job"
+    },
+    {
+      "nouns": [
+        "Schraubenzieher;m;Schraubenzieher;screwdriver;screwdrivers;",
+        "Pinsel;m;Pinsel;paintbrush;paintbrushes;"
+      ],
+      "adjective": "schmal;narrow",
+      "replacementAdj": "breit;wide",
+      "person": "Sekretär;m;Sekretäre;secretary;secretaries;",
+      "conditionNoun": "Zeit;f;Zeiten;time;times;",
+      "title": "Choose the right size"
+    },
+    {
+      "nouns": [
+        "Staubsauger;m;Staubsauger;vacuum cleaner;vacuum cleaners;",
+        "Besen;m;Besen;broom;brooms;"
+      ],
+      "adjective": "langlebig;durable",
+      "replacementAdj": "pflegeleicht;easy to maintain",
+      "person": "Assistent;m;Assistenten;assistant;assistants;Assistenten",
+      "conditionNoun": "Geld;n;Gelder;money;funds;",
+      "title": "Keep the home clean"
+    },
+    {
+      "nouns": [
+        "Eimer;m;Eimer;bucket;buckets;",
+        "Wäscheständer;m;Wäscheständer;drying rack;drying racks;"
+      ],
+      "adjective": "günstig;affordable",
+      "replacementAdj": "platzsparend;space-saving",
+      "person": "Erzieher;m;Erzieher;preschool teacher;preschool teachers;",
+      "conditionNoun": "Platz;m;Plätze;space;spaces;",
+      "title": "Make room at home"
+    },
+    {
+      "nouns": [
+        "Wasserkocher;m;Wasserkocher;kettle;kettles;",
+        "Toaster;m;Toaster;toaster;toasters;"
+      ],
+      "adjective": "sparsam;economical",
+      "replacementAdj": "sicher;safe",
+      "person": "Pfleger;m;Pfleger;care worker;care workers;",
+      "conditionNoun": "Geduld;f;-;patience;tests of patience;",
+      "title": "Everyday kitchen equipment"
+    },
+    {
+      "nouns": [
+        "Mixer;m;Mixer;blender;blenders;",
+        "Entsafter;m;Entsafter;juicer;juicers;"
+      ],
+      "adjective": "leise;quiet",
+      "replacementAdj": "effizient;efficient",
+      "person": "Rezeptionist;m;Rezeptionisten;receptionist;receptionists;Rezeptionisten",
+      "conditionNoun": "Energie;f;Energien;energy;energies;",
+      "title": "A quieter kitchen"
+    },
+    {
+      "nouns": [
+        "Drucker;m;Drucker;printer;printers;",
+        "Scanner;m;Scanner;scanner;scanners;"
+      ],
+      "adjective": "kompakt;compact",
+      "replacementAdj": "modern;modern",
+      "person": "Briefträger;m;Briefträger;mail carrier;mail carriers;",
+      "conditionNoun": "Geld;n;Gelder;money;funds;",
+      "title": "Equipment for a home office"
+    },
+    {
+      "nouns": [
+        "Router;m;Router;router;routers;",
+        "Lautsprecher;m;Lautsprecher;speaker;speakers;"
+      ],
+      "adjective": "kabellos;wireless",
+      "replacementAdj": "tragbar;portable",
+      "person": "Taxifahrer;m;Taxifahrer;taxi driver;taxi drivers;",
+      "conditionNoun": "Zeit;f;Zeiten;time;times;",
+      "title": "Flexible technology"
+    },
+    {
+      "nouns": [
+        "Kopfhörer;m;Kopfhörer;headphone;headphones;",
+        "Adapter;m;Adapter;adapter;adapters;"
+      ],
+      "adjective": "bequem;comfortable",
+      "replacementAdj": "passend;suitable",
+      "person": "Busfahrer;m;Busfahrer;bus driver;bus drivers;",
+      "conditionNoun": "Geld;n;Gelder;money;funds;",
+      "title": "Find a suitable accessory"
+    },
+    {
+      "nouns": [
+        "Gürtel;m;Gürtel;belt;belts;",
+        "Schal;m;Schals;scarf;scarves;"
+      ],
+      "adjective": "elegant;elegant",
+      "replacementAdj": "farbenfroh;colorful",
+      "person": "Programmierer;m;Programmierer;programmer;programmers;",
+      "conditionNoun": "Zeit;f;Zeiten;time;times;",
+      "title": "Choose a personal gift"
+    },
+    {
+      "nouns": [
+        "Handschuh;m;Handschuhe;glove;gloves;",
+        "Hausschuh;m;Hausschuhe;slipper;slippers;"
+      ],
+      "adjective": "warm;warm",
+      "replacementAdj": "flauschig;fluffy",
+      "person": "Designer;m;Designer;designer;designers;",
+      "conditionNoun": "Geld;n;Gelder;money;funds;",
+      "title": "A cozy present"
+    },
+    {
+      "nouns": [
+        "Sessel;m;Sessel;armchair;armchairs;",
+        "Hocker;m;Hocker;stool;stools;"
+      ],
+      "adjective": "gepolstert;padded",
+      "replacementAdj": "verstellbar;adjustable",
+      "person": "Lagerarbeiter;m;Lagerarbeiter;warehouse worker;warehouse workers;",
+      "conditionNoun": "Platz;m;Plätze;space;spaces;",
+      "title": "A comfortable seat"
+    },
+    {
+      "nouns": [
+        "Vorhang;m;Vorhänge;curtain;curtains;",
+        "Rollladen;m;Rollläden;roller shutter;roller shutters;"
+      ],
+      "adjective": "blickdicht;opaque",
+      "replacementAdj": "lichtdurchlässig;translucent",
+      "person": "Schneider;m;Schneider;tailor;tailors;",
+      "conditionNoun": "Geduld;f;-;patience;tests of patience;",
+      "title": "Control the light"
+    },
+    {
+      "nouns": [
+        "Blumentopf;m;Blumentöpfe;flowerpot;flowerpots;",
+        "Kerzenhalter;m;Kerzenhalter;candleholder;candleholders;"
+      ],
+      "adjective": "rund;round",
+      "replacementAdj": "eckig;angular",
+      "person": "Vermieter;m;Vermieter;landlord;landlords;",
+      "conditionNoun": "Geld;n;Gelder;money;funds;",
+      "title": "A detail for the room"
+    }
+  ],
+  "feeling": [
+    {
+      "verb": "freuen;freue;freust;freut;gefreut;be happy;was happy",
+      "complement": "Ergebnis;n;Ergebnisse;result;results;",
+      "preposition": "über",
+      "case": "acc",
+      "people": [
+        "Schwester;f;Schwestern;sister;sisters;",
+        "Mutter;f;Mütter;mother;mothers;"
+      ],
+      "event": "Prüfung;f;Prüfungen;examination;examinations;",
+      "actionEn": "be happy about the result",
+      "title": "A result worth celebrating",
+      "theme": "work"
+    },
+    {
+      "verb": "ärgern;ärgere;ärgerst;ärgert;geärgert;be annoyed;was annoyed",
+      "complement": "Verspätung;f;Verspätungen;delay;delays;",
+      "preposition": "über",
+      "case": "acc",
+      "people": [
+        "Nachbarin;f;Nachbarinnen;neighbor;neighbors;",
+        "Kollegin;f;Kolleginnen;colleague;colleagues;"
+      ],
+      "event": "Abfahrt;f;Abfahrten;departure;departures;",
+      "actionEn": "be annoyed about the delay",
+      "title": "A delay together",
+      "theme": "travel"
+    },
+    {
+      "verb": "wundern;wundere;wunderst;wundert;gewundert;be surprised;was surprised",
+      "complement": "Antwort;f;Antworten;answer;answers;",
+      "preposition": "über",
+      "case": "acc",
+      "people": [
+        "Beraterin;f;Beraterinnen;adviser;advisers;",
+        "Ärztin;f;Ärztinnen;doctor;doctors;"
+      ],
+      "event": "Interview;n;Interviews;interview;interviews;",
+      "actionEn": "be surprised by the answer",
+      "title": "An unexpected answer",
+      "theme": "work"
+    },
+    {
+      "verb": "entspannen;entspanne;entspannst;entspannt;entspannt;relax;relaxed",
+      "complement": "Training;n;Trainings;training session;training sessions;",
+      "preposition": "nach",
+      "case": "dat",
+      "people": [
+        "Freundin;f;Freundinnen;friend;friends;",
+        "Schulfreundin;f;Schulfreundinnen;school friend;school friends;"
+      ],
+      "event": "Arbeitstag;m;Arbeitstage;working day;working days;",
+      "actionEn": "relax after the training session",
+      "title": "Make time to relax",
+      "theme": "health"
+    },
+    {
+      "verb": "konzentrieren;konzentriere;konzentrierst;konzentriert;konzentriert;concentrate;concentrated",
+      "complement": "Aufgabe;f;Aufgaben;task;tasks;",
+      "preposition": "auf",
+      "case": "acc",
+      "people": [
+        "Klassenkameradin;f;Klassenkameradinnen;classmate;classmates;",
+        "Kommilitonin;f;Kommilitoninnen;fellow university student;fellow university students;"
+      ],
+      "event": "Pause;f;Pausen;break;breaks;",
+      "actionEn": "concentrate on the task",
+      "title": "Back to the task",
+      "theme": "work"
+    },
+    {
+      "verb": "rasieren;rasiere;rasierst;rasiert;rasiert;shave;shaved",
+      "complement": "Termin;m;Termine;appointment;appointments;",
+      "preposition": "vor",
+      "case": "dat",
+      "people": [
+        "Mitbewohner;m;Mitbewohner;roommate;roommates;",
+        "Schwager;m;Schwäger;brother-in-law;brothers-in-law;"
+      ],
+      "event": "Frühstück;n;Frühstücke;breakfast;breakfasts;",
+      "actionEn": "shave before the appointment",
+      "title": "Prepare for an appointment",
+      "theme": "health"
+    },
+    {
+      "verb": "waschen;wasche;wäschst;wäscht;gewaschen;wash;washed",
+      "complement": "Sport;m;-;sport;sports;",
+      "preposition": "nach",
+      "case": "dat",
+      "people": [
+        "Bruder;m;Brüder;brother;brothers;",
+        "Cousin;m;Cousins;cousin;cousins;"
+      ],
+      "event": "Wettbewerb;m;Wettbewerbe;competition;competitions;",
+      "actionEn": "wash after sport",
+      "title": "After being active",
+      "theme": "health"
+    },
+    {
+      "verb": "beeilen;beeile;beeilst;beeilt;beeilt;hurry;hurried",
+      "complement": "Anmeldung;f;Anmeldungen;registration;registrations;",
+      "preposition": "mit",
+      "case": "dat",
+      "people": [
+        "Reisebegleiterin;f;Reisebegleiterinnen;travel companion;travel companions;",
+        "Tanzpartnerin;f;Tanzpartnerinnen;dance partner;dance partners;"
+      ],
+      "event": "Ankunft;f;Ankünfte;arrival;arrivals;",
+      "actionEn": "hurry with the registration",
+      "title": "Register in good time",
+      "theme": "plans"
+    },
+    {
+      "verb": "erholen;erhole;erholst;erholt;erholt;recover;recovered",
+      "complement": "Grippe;f;-;flu;cases of flu;",
+      "preposition": "von",
+      "case": "dat",
+      "people": [
+        "Schwester;f;Schwestern;sister;sisters;",
+        "Cousine;f;Cousinen;cousin;cousins;"
+      ],
+      "event": "Behandlung;f;Behandlungen;treatment;treatments;",
+      "actionEn": "recover from the flu",
+      "title": "Recover with support",
+      "theme": "health"
+    },
+    {
+      "verb": "bedanken;bedanke;bedankst;bedankt;bedankt;say thank you;said thank you",
+      "complement": "Hilfe;f;-;help;forms of help;",
+      "preposition": "für",
+      "case": "acc",
+      "people": [
+        "Nachbarin;f;Nachbarinnen;neighbor;neighbors;",
+        "Vermieterin;f;Vermieterinnen;landlady;landladies;"
+      ],
+      "event": "Umzug;m;Umzüge;move;moves;",
+      "actionEn": "say thank you for the help",
+      "title": "Thank someone after moving",
+      "theme": "home"
+    },
+    {
+      "verb": "erinnern;erinnere;erinnerst;erinnert;erinnert;remember;remembered",
+      "complement": "Gespräch;n;Gespräche;conversation;conversations;",
+      "preposition": "an",
+      "case": "acc",
+      "people": [
+        "Arbeitskollegin;f;Arbeitskolleginnen;work colleague;work colleagues;",
+        "Beraterin;f;Beraterinnen;adviser;advisers;"
+      ],
+      "event": "Besprechung;f;Besprechungen;discussion;discussions;",
+      "actionEn": "remember the conversation",
+      "title": "Remember a conversation",
+      "theme": "work"
+    },
+    {
+      "verb": "interessieren;interessiere;interessierst;interessiert;interessiert;be interested;was interested",
+      "complement": "Geschichte;f;Geschichten;story;stories;",
+      "preposition": "für",
+      "case": "acc",
+      "people": [
+        "Schulfreundin;f;Schulfreundinnen;school friend;school friends;",
+        "Klassenkameradin;f;Klassenkameradinnen;classmate;classmates;"
+      ],
+      "event": "Führung;f;Führungen;guided tour;guided tours;",
+      "actionEn": "be interested in the story",
+      "title": "A story worth hearing",
+      "theme": "free-time"
+    },
+    {
+      "verb": "entschuldigen;entschuldige;entschuldigst;entschuldigt;entschuldigt;apologize;apologized",
+      "complement": "Fehler;m;Fehler;mistake;mistakes;",
+      "preposition": "für",
+      "case": "acc",
+      "people": [
+        "Teamkollegin;f;Teamkolleginnen;teammate;teammates;",
+        "Arbeitskollegin;f;Arbeitskolleginnen;work colleague;work colleagues;"
+      ],
+      "event": "Präsentation;f;Präsentationen;presentation;presentations;",
+      "actionEn": "apologize for the mistake",
+      "title": "Put a mistake right",
+      "theme": "work"
+    },
+    {
+      "verb": "beschweren;beschwere;beschwerst;beschwert;beschwert;complain;complained",
+      "complement": "Lärm;m;-;noise;noise sources;",
+      "preposition": "über",
+      "case": "acc",
+      "people": [
+        "Mitbewohnerin;f;Mitbewohnerinnen;roommate;roommates;",
+        "Nachbarin;f;Nachbarinnen;neighbor;neighbors;"
+      ],
+      "event": "Übernachtung;f;Übernachtungen;overnight stay;overnight stays;",
+      "actionEn": "complain about the noise",
+      "title": "A noisy night",
+      "theme": "home"
+    },
+    {
+      "verb": "bewerben;bewerbe;bewirbst;bewirbt;beworben;apply;applied",
+      "complement": "Stelle;f;Stellen;job vacancy;job vacancies;",
+      "preposition": "um",
+      "case": "acc",
+      "people": [
+        "Kommilitonin;f;Kommilitoninnen;fellow university student;fellow university students;",
+        "Kollegin;f;Kolleginnen;colleague;colleagues;"
+      ],
+      "event": "Beratung;f;Beratungen;consultation;consultations;",
+      "actionEn": "apply for the job vacancy",
+      "title": "Apply together",
+      "theme": "work"
+    },
+    {
+      "verb": "verabreden;verabrede;verabredest;verabredet;verabredet;arrange to meet;arranged to meet",
+      "complement": "Abfahrt;f;Abfahrten;departure;departures;",
+      "preposition": "für",
+      "case": "acc",
+      "people": [
+        "Reisebegleiter;m;Reisebegleiter;travel companion;travel companions;",
+        "Tanzpartner;m;Tanzpartner;dance partner;dance partners;"
+      ],
+      "event": "Anmeldung;f;Anmeldungen;registration;registrations;",
+      "actionEn": "arrange to meet for the departure",
+      "title": "Agree when to meet",
+      "theme": "plans"
+    },
+    {
+      "verb": "erkundigen;erkundige;erkundigst;erkundigt;erkundigt;inquire;inquired",
+      "complement": "Öffnungszeit;f;Öffnungszeiten;opening time;opening times;",
+      "preposition": "nach",
+      "case": "dat",
+      "people": [
+        "Nachhilfelehrerin;f;Nachhilfelehrerinnen;tutor;tutors;",
+        "Lehrerin;f;Lehrerinnen;teacher;teachers;"
+      ],
+      "event": "Absage;f;Absagen;cancellation;cancellations;",
+      "actionEn": "inquire about the opening time",
+      "title": "Check before going",
+      "theme": "city"
+    },
+    {
+      "verb": "gewöhnen;gewöhne;gewöhnst;gewöhnt;gewöhnt;get used;got used",
+      "complement": "Rhythmus;m;Rhythmen;rhythm;rhythms;",
+      "preposition": "an",
+      "case": "acc",
+      "people": [
+        "Pflegerin;f;Pflegerinnen;care worker;care workers;",
+        "Betreuerin;f;Betreuerinnen;supervisor;supervisors;"
+      ],
+      "event": "Operation;f;Operationen;operation;operations;",
+      "actionEn": "get used to the rhythm",
+      "title": "A new daily rhythm",
+      "theme": "health"
+    },
+    {
+      "verb": "unterhalten;unterhalte;unterhältst;unterhält;unterhalten;talk;talked",
+      "complement": "Ausstellung;f;Ausstellungen;exhibition;exhibitions;",
+      "preposition": "über",
+      "case": "acc",
+      "people": [
+        "Schwiegermutter;f;Schwiegermütter;mother-in-law;mothers-in-law;",
+        "Schwägerin;f;Schwägerinnen;sister-in-law;sisters-in-law;"
+      ],
+      "event": "Besuch;m;Besuche;visit;visits;",
+      "actionEn": "talk about the exhibition",
+      "title": "Talk after a visit",
+      "theme": "free-time"
+    },
+    {
+      "verb": "anmelden;melde;meldest;meldet;angemeldet;register;registered",
+      "complement": "Sprachkurs;m;Sprachkurse;language course;language courses;",
+      "preposition": "für",
+      "case": "acc",
+      "people": [
+        "Dolmetscherin;f;Dolmetscherinnen;interpreter;interpreters;",
+        "Trainerin;f;Trainerinnen;coach;coaches;"
+      ],
+      "event": "Zusage;f;Zusagen;acceptance;acceptances;",
+      "actionEn": "register for the language course",
+      "title": "Join a course together",
+      "theme": "plans",
+      "prefix": "an"
+    }
+  ],
+  "outside": [
+    {
+      "retainV1": true
+    },
+    {
+      "actor": "Schüler;m;Schüler;pupil;pupils;",
+      "place": "Schule;f;Schulen;school;schools;",
+      "person": "Lehrer;m;Lehrer;teacher;teachers;",
+      "verb": "warten;warte;wartest;wartet;gewartet;wait;waited",
+      "singularActionEn": "waits",
+      "adjective": "jung;young;jünger;younger",
+      "title": "Wait outside school",
+      "theme": "work"
+    },
+    {
+      "actor": "Student;m;Studenten;student;students;Studenten",
+      "place": "Bibliothek;f;Bibliotheken;library;libraries;",
+      "person": "Dozent;m;Dozenten;lecturer;lecturers;Dozenten",
+      "verb": "lernen;lerne;lernst;lernt;gelernt;learn;learned",
+      "singularActionEn": "studies",
+      "adjective": "fleißig;hard-working;fleißiger;more hard-working",
+      "title": "A study group outside",
+      "theme": "work"
+    },
+    {
+      "actor": "Sportler;m;Sportler;athlete;athletes;",
+      "place": "Turnhalle;f;Turnhallen;gymnasium;gymnasiums;",
+      "person": "Trainer;m;Trainer;coach;coaches;",
+      "verb": "trainieren;trainiere;trainierst;trainiert;trainiert;train;trained",
+      "singularActionEn": "trains",
+      "adjective": "kräftig;strong;kräftiger;stronger",
+      "title": "Training with a coach",
+      "theme": "health"
+    },
+    {
+      "actor": "Musiker;m;Musiker;musician;musicians;",
+      "place": "Musikschule;f;Musikschulen;music school;music schools;",
+      "person": "Dirigent;m;Dirigenten;conductor;conductors;Dirigenten",
+      "verb": "proben;probe;probst;probt;geprobt;rehearse;rehearsed",
+      "singularActionEn": "rehearses",
+      "adjective": "erfahren;experienced;erfahrener;more experienced",
+      "title": "Rehearse together",
+      "theme": "free-time"
+    },
+    {
+      "actor": "Tänzer;m;Tänzer;dancer;dancers;",
+      "place": "Sporthalle;f;Sporthallen;sports hall;sports halls;",
+      "person": "Tanzpartner;m;Tanzpartner;dance partner;dance partners;",
+      "verb": "tanzen;tanze;tanzt;tanzt;getanzt;dance;danced",
+      "singularActionEn": "dances",
+      "adjective": "beweglich;flexible;beweglicher;more flexible",
+      "title": "Space to dance",
+      "theme": "free-time"
+    },
+    {
+      "actor": "Rentner;m;Rentner;retiree;retirees;",
+      "place": "Gemeindehaus;n;Gemeindehäuser;community center;community centers;",
+      "person": "Betreuer;m;Betreuer;supervisor;supervisors;",
+      "verb": "reden;rede;redest;redet;geredet;talk;talked",
+      "singularActionEn": "talks",
+      "adjective": "gesellig;sociable;geselliger;more sociable",
+      "title": "A sociable afternoon",
+      "theme": "family"
+    },
+    {
+      "actor": "Lehrling;m;Lehrlinge;apprentice;apprentices;",
+      "place": "Berufsschule;f;Berufsschulen;vocational school;vocational schools;",
+      "person": "Ausbilder;m;Ausbilder;instructor;instructors;",
+      "verb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "singularActionEn": "works",
+      "adjective": "geschickt;skillful;geschickter;more skillful",
+      "title": "Learn from an instructor",
+      "theme": "work"
+    },
+    {
+      "actor": "Anfänger;m;Anfänger;beginner;beginners;",
+      "place": "Kunstschule;f;Kunstschulen;art school;art schools;",
+      "person": "Künstler;m;Künstler;artist;artists;",
+      "verb": "zeichnen;zeichne;zeichnest;zeichnet;gezeichnet;draw;drew",
+      "singularActionEn": "draws",
+      "adjective": "talentiert;talented;talentierter;more talented",
+      "title": "A drawing lesson",
+      "theme": "free-time"
+    },
+    {
+      "actor": "Profi;m;Profis;professional;professionals;",
+      "place": "Stadion;n;Stadien;stadium;stadiums;",
+      "person": "Sportler;m;Sportler;athlete;athletes;",
+      "verb": "trainieren;trainiere;trainierst;trainiert;trainiert;train;trained",
+      "singularActionEn": "trains",
+      "adjective": "ausdauernd;persistent;ausdauernder;more persistent",
+      "title": "Keep training",
+      "theme": "health"
+    },
+    {
+      "actor": "Chor;m;Chöre;choir;choirs;",
+      "place": "Musikhalle;f;Musikhallen;music venue;music venues;",
+      "person": "Chorleiter;m;Chorleiter;choir director;choir directors;",
+      "verb": "singen;singe;singst;singt;gesungen;sing;sang",
+      "singularActionEn": "sings",
+      "adjective": "laut;loud;lauter;louder",
+      "title": "Listen to the choir",
+      "theme": "free-time"
+    },
+    {
+      "actor": "Mannschaft;f;Mannschaften;team;teams;",
+      "place": "Festhalle;f;Festhallen;festival hall;festival halls;",
+      "person": "Teamkollege;m;Teamkollegen;teammate;teammates;Teamkollegen",
+      "verb": "warten;warte;wartest;wartet;gewartet;wait;waited",
+      "singularActionEn": "waits",
+      "adjective": "ruhig;calm;ruhiger;calmer",
+      "title": "A team waiting together",
+      "theme": "plans"
+    },
+    {
+      "actor": "Schulklasse;f;Schulklassen;school class;school classes;",
+      "place": "Museum;n;Museen;museum;museums;",
+      "person": "Schulleiter;m;Schulleiter;school principal;school principals;",
+      "verb": "warten;warte;wartest;wartet;gewartet;wait;waited",
+      "singularActionEn": "waits",
+      "adjective": "neugierig;curious;neugieriger;more curious",
+      "title": "Before the museum visit",
+      "theme": "city"
+    },
+    {
+      "actor": "Orchester;n;Orchester;orchestra;orchestras;",
+      "place": "Theater;n;Theater;theater;theaters;",
+      "person": "Musikpädagoge;m;Musikpädagogen;music educator;music educators;Musikpädagogen",
+      "verb": "proben;probe;probst;probt;geprobt;rehearse;rehearsed",
+      "singularActionEn": "rehearses",
+      "adjective": "berühmt;famous;berühmter;more famous",
+      "title": "Rehearse at the theater",
+      "theme": "free-time"
+    },
+    {
+      "actor": "Schauspieler;m;Schauspieler;actor;actors;",
+      "place": "Schauspielschule;f;Schauspielschulen;drama school;drama schools;",
+      "person": "Regisseur;m;Regisseure;director;directors;",
+      "verb": "proben;probe;probst;probt;geprobt;rehearse;rehearsed",
+      "singularActionEn": "rehearses",
+      "adjective": "mutig;brave;mutiger;braver",
+      "title": "Try a new role",
+      "theme": "free-time"
+    },
+    {
+      "actor": "Künstler;m;Künstler;artist;artists;",
+      "place": "Atelier;n;Ateliers;studio;studios;",
+      "person": "Designer;m;Designer;designer;designers;",
+      "verb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "singularActionEn": "works",
+      "adjective": "kreativ;creative;kreativer;more creative",
+      "title": "Work at the studio",
+      "theme": "work"
+    },
+    {
+      "actor": "Handwerker;m;Handwerker;tradesperson;tradespeople;",
+      "place": "Geschäftshaus;n;Geschäftshäuser;commercial building;commercial buildings;",
+      "person": "Meister;m;Meister;master craftsperson;master craftspeople;",
+      "verb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "singularActionEn": "works",
+      "adjective": "selbstständig;independent;selbstständiger;more independent",
+      "title": "Independent work",
+      "theme": "work"
+    },
+    {
+      "actor": "Feuerwehrmann;m;Feuerwehrmänner;firefighter;firefighters;",
+      "place": "Feuerwache;f;Feuerwachen;fire station;fire stations;",
+      "person": "Einsatzleiter;m;Einsatzleiter;operations leader;operations leaders;",
+      "verb": "warten;warte;wartest;wartet;gewartet;wait;waited",
+      "singularActionEn": "waits",
+      "adjective": "wachsam;alert;wachsamer;more alert",
+      "title": "Ready for a call",
+      "theme": "city"
+    },
+    {
+      "actor": "Sanitäter;m;Sanitäter;paramedic;paramedics;",
+      "place": "Rettungswache;f;Rettungswachen;ambulance station;ambulance stations;",
+      "person": "Pfleger;m;Pfleger;care worker;care workers;",
+      "verb": "warten;warte;wartest;wartet;gewartet;wait;waited",
+      "singularActionEn": "waits",
+      "adjective": "umsichtig;prudent;umsichtiger;more prudent",
+      "title": "A careful team",
+      "theme": "health"
+    },
+    {
+      "actor": "Bergführer;m;Bergführer;mountain guide;mountain guides;",
+      "place": "Berghütte;f;Berghütten;mountain cabin;mountain cabins;",
+      "person": "Reisebegleiter;m;Reisebegleiter;travel companion;travel companions;",
+      "verb": "lachen;lache;lachst;lacht;gelacht;laugh;laughed",
+      "singularActionEn": "laughs",
+      "adjective": "fröhlich;cheerful;fröhlicher;more cheerful",
+      "title": "A cheerful rest in the mountains",
+      "theme": "travel"
+    }
+  ],
+  "future": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Journalist;m;Journalisten;journalist;journalists;Journalisten",
+        "Redakteur;m;Redakteure;editor;editors;"
+      ],
+      "person": "Übersetzer;m;Übersetzer;translator;translators;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "kompetent;competent",
+      "manner": "ausdrücklich;expressly",
+      "reasonNoun": "Weg;m;Wege;path;paths;",
+      "reasonAdj": "rutschig;slippery",
+      "title": "Plans with an editor",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Autor;m;Autoren;author;authors;",
+        "Professor;m;Professoren;professor;professors;"
+      ],
+      "person": "Dozent;m;Dozenten;lecturer;lecturers;Dozenten",
+      "verb": "begrüßen;begrüße;begrüßt;begrüßt;begrüßt;greet;greeted",
+      "adjective": "anerkannt;respected",
+      "manner": "persönlich;personally",
+      "reasonNoun": "Straße;f;Straßen;road;roads;",
+      "reasonAdj": "gesperrt;closed",
+      "title": "Welcome a guest speaker",
+      "theme": "work",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Experte;m;Experten;expert;experts;Experten",
+        "Spezialist;m;Spezialisten;specialist;specialists;Spezialisten"
+      ],
+      "person": "Ingenieur;m;Ingenieure;engineer;engineers;",
+      "verb": "begleiten;begleite;begleitest;begleitet;begleitet;accompany;accompanied",
+      "adjective": "erfolgreich;successful",
+      "manner": "trotzdem;nevertheless",
+      "reasonNoun": "Verkehr;m;Verkehrslagen;traffic;traffic conditions;",
+      "reasonAdj": "dicht;heavy",
+      "title": "Keep an appointment",
+      "theme": "city"
+    },
+    {
+      "nouns": [
+        "Geschäftspartner;m;Geschäftspartner;business partner;business partners;",
+        "Auftraggeber;m;Auftraggeber;client;clients;"
+      ],
+      "person": "Geschäftsführer;m;Geschäftsführer;managing director;managing directors;",
+      "verb": "informieren;informiere;informierst;informiert;informiert;inform;informed",
+      "adjective": "erreichbar;reachable",
+      "manner": "direkt;directly",
+      "reasonNoun": "Entfernung;f;Entfernungen;distance;distances;",
+      "reasonAdj": "beträchtlich;considerable",
+      "title": "A message to a client",
+      "theme": "work",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Abteilungsleiter;m;Abteilungsleiter;department head;department heads;",
+        "Architekt;m;Architekten;architect;architects;Architekten"
+      ],
+      "person": "Projektleiter;m;Projektleiter;project leader;project leaders;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "engagiert;committed",
+      "manner": "gezielt;purposefully",
+      "reasonNoun": "Strecke;f;Strecken;route;routes;",
+      "reasonAdj": "unübersichtlich;hard to navigate",
+      "title": "Visit a project team",
+      "theme": "plans"
+    },
+    {
+      "nouns": [
+        "Anwalt;m;Anwälte;lawyer;lawyers;",
+        "Notar;m;Notare;notary;notaries;"
+      ],
+      "person": "Steuerberater;m;Steuerberater;tax adviser;tax advisers;",
+      "verb": "fragen;frage;fragst;fragt;gefragt;ask;asked",
+      "adjective": "zuständig;responsible",
+      "manner": "vorsichtshalber;as a precaution",
+      "reasonNoun": "Verbindung;f;Verbindungen;connection;connections;",
+      "reasonAdj": "unterbrochen;interrupted",
+      "title": "Ask the responsible person",
+      "theme": "work",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Wissenschaftler;m;Wissenschaftler;scientist;scientists;",
+        "Forscher;m;Forscher;researcher;researchers;"
+      ],
+      "person": "Nachwuchsforscher;m;Nachwuchsforscher;junior researcher;junior researchers;",
+      "verb": "fotografieren;fotografiere;fotografierst;fotografiert;fotografiert;photograph;photographed",
+      "adjective": "international;international",
+      "manner": "anschließend;afterward",
+      "reasonNoun": "Zugang;m;Zugänge;access;access points;",
+      "reasonAdj": "versperrt;blocked",
+      "title": "Meet the researchers",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Psychologe;m;Psychologen;psychologist;psychologists;Psychologen",
+        "Therapeut;m;Therapeuten;therapist;therapists;Therapeuten"
+      ],
+      "person": "Sozialarbeiter;m;Sozialarbeiter;social worker;social workers;",
+      "verb": "begrüßen;begrüße;begrüßt;begrüßt;begrüßt;greet;greeted",
+      "adjective": "einfühlsam;empathetic",
+      "manner": "diskret;discreetly",
+      "reasonNoun": "Aufzug;m;Aufzüge;elevator;elevators;",
+      "reasonAdj": "defekt;out of order",
+      "title": "Arrive at the advice center",
+      "theme": "health",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Reiseleiter;m;Reiseleiter;tour guide;tour guides;",
+        "Stadtführer;m;Stadtführer;city guide;city guides;"
+      ],
+      "person": "Ehrenamtlicher;m;Ehrenamtliche;volunteer;volunteers;Ehrenamtlichen",
+      "verb": "begleiten;begleite;begleitest;begleitet;begleitet;accompany;accompanied",
+      "adjective": "ortskundig;familiar with the area",
+      "manner": "rechtzeitig;in good time",
+      "reasonNoun": "Fahrkarte;f;Fahrkarten;ticket;tickets;",
+      "reasonAdj": "teuer;expensive",
+      "title": "Meet a local guide",
+      "theme": "travel"
+    }
+  ],
+  "wish": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Milch;f;-;milk;types of milk;",
+        "Sahne;f;-;cream;types of cream;"
+      ],
+      "person": "Freund;m;Freunde;friend;friends;",
+      "verb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "adjective": "laktosefrei;lactose-free",
+      "relativeVerb": "empfehlen;empfehle;empfiehlst;empfiehlt;empfohlen;recommend;recommended",
+      "place": "Café;n;Cafés;café;cafés;",
+      "placeEn": "at the café",
+      "title": "A suitable drink",
+      "theme": "cafe"
+    },
+    {
+      "nouns": [
+        "Butter;f;-;butter;types of butter;",
+        "Margarine;f;Margarinen;margarine;margarines;"
+      ],
+      "person": "Partner;m;Partner;partner;partners;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "pflanzlich;plant-based",
+      "relativeVerb": "beschreiben;beschreibe;beschreibst;beschreibt;beschrieben;describe;described",
+      "place": "Bioladen;m;Bioläden;organic shop;organic shops;",
+      "placeEn": "at the organic shop",
+      "title": "A plant-based choice",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Marmelade;f;Marmeladen;jam;jams;",
+        "Konfitüre;f;Konfitüren;preserve;preserves;"
+      ],
+      "person": "Schwester;f;Schwestern;sister;sisters;",
+      "verb": "probieren;probiere;probierst;probiert;probiert;try;tried",
+      "adjective": "zuckerarm;low-sugar",
+      "relativeVerb": "entdecken;entdecke;entdeckst;entdeckt;entdeckt;discover;discovered",
+      "place": "Hofladen;m;Hofläden;farm shop;farm shops;",
+      "placeEn": "at the farm shop",
+      "title": "A preserve to try",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Schokolade;f;Schokoladen;chocolate;chocolates;",
+        "Kuvertüre;f;Kuvertüren;baking chocolate;baking chocolates;"
+      ],
+      "person": "Mutter;f;Mütter;mother;mothers;",
+      "verb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "adjective": "dunkel;dark",
+      "relativeVerb": "vergleichen;vergleiche;vergleichst;vergleicht;verglichen;compare;compared",
+      "place": "Feinkostladen;m;Feinkostläden;delicatessen;delicatessens;",
+      "placeEn": "at the delicatessen",
+      "title": "Choose baking chocolate",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Zucker;m;-;sugar;types of sugar;",
+        "Rohrzucker;m;-;cane sugar;types of cane sugar;"
+      ],
+      "person": "Vater;m;Väter;father;fathers;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "unraffiniert;unrefined",
+      "relativeVerb": "empfehlen;empfehle;empfiehlst;empfiehlt;empfohlen;recommend;recommended",
+      "place": "Reformhaus;n;Reformhäuser;health food shop;health food shops;",
+      "placeEn": "at the health food shop",
+      "title": "Ingredients you recommended",
+      "theme": "shopping"
+    },
+    {
+      "nouns": [
+        "Pfeffer;m;-;pepper;types of pepper;",
+        "Kümmel;m;-;caraway;types of caraway;"
+      ],
+      "person": "Bruder;m;Brüder;brother;brothers;",
+      "verb": "probieren;probiere;probierst;probiert;probiert;try;tried",
+      "adjective": "gemahlen;ground",
+      "relativeVerb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "place": "Restaurant;n;Restaurants;restaurant;restaurants;",
+      "placeEn": "at the restaurant",
+      "title": "Try a seasoning",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Essig;m;Essige;vinegar;vinegars;",
+        "Balsamico;m;Balsamicos;balsamic vinegar;balsamic vinegars;"
+      ],
+      "person": "Onkel;m;Onkel;uncle;uncles;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "aromatisch;aromatic",
+      "relativeVerb": "entdecken;entdecke;entdeckst;entdeckt;entdeckt;discover;discovered",
+      "place": "Großmarkt;m;Großmärkte;wholesale market;wholesale markets;",
+      "placeEn": "at the wholesale market",
+      "title": "A different flavor",
+      "theme": "shopping"
+    },
+    {
+      "nouns": [
+        "Öl;n;Öle;oil;oils;",
+        "Olivenöl;n;Olivenöle;olive oil;olive oils;"
+      ],
+      "person": "Tante;f;Tanten;aunt;aunts;",
+      "verb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "adjective": "kaltgepresst;cold-pressed",
+      "relativeVerb": "beschreiben;beschreibe;beschreibst;beschreibt;beschrieben;describe;described",
+      "place": "Naturkostladen;m;Naturkostläden;natural food shop;natural food shops;",
+      "placeEn": "at the natural food shop",
+      "title": "Choose an oil",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Salz;n;Salze;salt;salts;",
+        "Gewürz;n;Gewürze;spice;spices;"
+      ],
+      "person": "Cousine;f;Cousinen;cousin;cousins;",
+      "verb": "probieren;probiere;probierst;probiert;probiert;try;tried",
+      "adjective": "grob;coarse",
+      "relativeVerb": "empfehlen;empfehle;empfiehlst;empfiehlt;empfohlen;recommend;recommended",
+      "place": "Gasthaus;n;Gasthäuser;inn;inns;",
+      "placeEn": "at the inn",
+      "title": "Season a meal",
+      "theme": "food"
+    }
+  ],
+  "relative": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Ingenieur;m;Ingenieure;engineer;engineers;",
+        "Techniker;m;Techniker;technician;technicians;"
+      ],
+      "person": "Kollege;m;Kollegen;colleague;colleagues;Kollegen",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "sachkundig;knowledgeable",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Labor;n;Labore;laboratory;laboratories;",
+      "gift": "Kaffee;m;Kaffees;coffee;coffees;",
+      "giftAdj": "duftend;fragrant",
+      "title": "Visit someone at the laboratory",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Journalist;m;Journalisten;journalist;journalists;Journalisten",
+        "Redakteur;m;Redakteure;editor;editors;"
+      ],
+      "person": "Freund;m;Freunde;friend;friends;",
+      "verb": "begrüßen;begrüße;begrüßt;begrüßt;begrüßt;greet;greeted",
+      "adjective": "kritisch;critical",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Verlag;m;Verlage;publishing house;publishing houses;",
+      "gift": "Gebäck;n;Gebäcke;pastry;pastries;",
+      "giftAdj": "hausgemacht;homemade",
+      "title": "Meet someone at the publishing house",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Autor;m;Autoren;author;authors;",
+        "Übersetzer;m;Übersetzer;translator;translators;"
+      ],
+      "person": "Partner;m;Partner;partner;partners;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "zweisprachig;bilingual",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Archiv;n;Archive;archive;archives;",
+      "gift": "Brot;n;Brote;bread;breads;",
+      "giftAdj": "selbstgebacken;home-baked",
+      "title": "Visit a bilingual colleague",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Professor;m;Professoren;professor;professors;",
+        "Dozent;m;Dozenten;lecturer;lecturers;Dozenten"
+      ],
+      "person": "Student;m;Studenten;student;students;Studenten",
+      "verb": "fotografieren;fotografiere;fotografierst;fotografiert;fotografiert;photograph;photographed",
+      "adjective": "beliebt;popular",
+      "relativeVerb": "unterrichten;unterrichte;unterrichtest;unterrichtet;unterrichtet;teach;taught",
+      "relativeActionEn": "teaches",
+      "place": "Bildungszentrum;n;Bildungszentren;education center;education centers;",
+      "gift": "Obst;n;Obstsorten;fruit;types of fruit;",
+      "giftAdj": "reif;ripe",
+      "title": "Meet a favorite lecturer",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Psychologe;m;Psychologen;psychologist;psychologists;Psychologen",
+        "Therapeut;m;Therapeuten;therapist;therapists;Therapeuten"
+      ],
+      "person": "Bruder;m;Brüder;brother;brothers;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "qualifiziert;qualified",
+      "relativeVerb": "praktizieren;praktiziere;praktizierst;praktiziert;praktiziert;practice professionally;practiced professionally",
+      "relativeActionEn": "practices professionally",
+      "place": "Therapiezentrum;n;Therapiezentren;therapy center;therapy centers;",
+      "gift": "Tee;m;Tees;tea;teas;",
+      "giftAdj": "wohltuend;soothing",
+      "title": "A visit to the therapy center",
+      "theme": "health"
+    },
+    {
+      "nouns": [
+        "Musiker;m;Musiker;musician;musicians;",
+        "Sänger;m;Sänger;singer;singers;"
+      ],
+      "person": "Cousin;m;Cousins;cousin;cousins;",
+      "verb": "begrüßen;begrüße;begrüßt;begrüßt;begrüßt;greet;greeted",
+      "adjective": "begabt;gifted",
+      "relativeVerb": "proben;probe;probst;probt;geprobt;rehearse;rehearsed",
+      "relativeActionEn": "rehearses",
+      "place": "Studio;n;Studios;recording studio;recording studios;",
+      "gift": "Wasser;n;Wässer;water;waters;",
+      "giftAdj": "gekühlt;chilled",
+      "title": "Meet at the recording studio",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Künstler;m;Künstler;artist;artists;",
+        "Designer;m;Designer;designer;designers;"
+      ],
+      "person": "Nachbar;m;Nachbarn;neighbor;neighbors;Nachbarn",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "einfallsreich;inventive",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Atelier;n;Ateliers;studio;studios;",
+      "gift": "Schokolade;f;Schokoladen;chocolate;chocolates;",
+      "giftAdj": "fein;fine",
+      "title": "Visit a creative studio",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Pädagoge;m;Pädagogen;educator;educators;Pädagogen",
+        "Sozialarbeiter;m;Sozialarbeiter;social worker;social workers;"
+      ],
+      "person": "Vater;m;Väter;father;fathers;",
+      "verb": "begleiten;begleite;begleitest;begleitet;begleitet;accompany;accompanied",
+      "adjective": "geduldig;patient",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Jugendzentrum;n;Jugendzentren;youth center;youth centers;",
+      "gift": "Gemüse;n;Gemüsesorten;vegetables;types of vegetables;",
+      "giftAdj": "saisonal;seasonal",
+      "title": "A colleague at the youth center",
+      "theme": "family"
+    },
+    {
+      "nouns": [
+        "Reiseleiter;m;Reiseleiter;tour guide;tour guides;",
+        "Stadtführer;m;Stadtführer;city guide;city guides;"
+      ],
+      "person": "Onkel;m;Onkel;uncle;uncles;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "hilfsbereit;helpful",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Besucherzentrum;n;Besucherzentren;visitor center;visitor centers;",
+      "gift": "Saft;m;Säfte;juice;juices;",
+      "giftAdj": "naturtrüb;cloudy and unfiltered",
+      "title": "Visit the visitor center",
+      "theme": "travel"
+    }
+  ],
+  "despite": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Auftrag;m;Aufträge;assignment;assignments;",
+        "Vorschlag;m;Vorschläge;proposal;proposals;"
+      ],
+      "person": "Geschäftspartner;m;Geschäftspartner;business partner;business partners;",
+      "verb": "bearbeiten;bearbeite;bearbeitest;bearbeitet;bearbeitet;work on;worked on",
+      "adjective": "dringend;urgent",
+      "extraVerb": "diskutieren;diskutiere;diskutierst;diskutiert;diskutiert;discuss;discussed",
+      "manner": "konzentriert;intently",
+      "reasonNoun": "Verbindung;f;Verbindungen;connection;connections;",
+      "reasonAdj": "schwach;weak",
+      "title": "Work despite a weak connection",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Entwurf;m;Entwürfe;draft;drafts;",
+        "Abschnitt;m;Abschnitte;section;sections;"
+      ],
+      "person": "Architekt;m;Architekten;architect;architects;Architekten",
+      "verb": "überarbeiten;überarbeite;überarbeitest;überarbeitet;überarbeitet;revise;revised",
+      "adjective": "übersichtlich;clearly arranged",
+      "extraVerb": "zeichnen;zeichne;zeichnest;zeichnet;gezeichnet;draw;drew",
+      "manner": "unabhängig;independently",
+      "reasonNoun": "Raum;m;Räume;space in a room;spaces in a room;",
+      "reasonAdj": "eng;cramped",
+      "title": "Revise a draft",
+      "theme": "work",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Beitrag;m;Beiträge;contribution;contributions;",
+        "Aufsatz;m;Aufsätze;essay;essays;"
+      ],
+      "person": "Redakteur;m;Redakteure;editor;editors;",
+      "verb": "veröffentlichen;veröffentliche;veröffentlichst;veröffentlicht;veröffentlicht;publish;published",
+      "adjective": "ausführlich;detailed",
+      "extraVerb": "berichten;berichte;berichtest;berichtet;berichtet;report;reported",
+      "manner": "sachlich;objectively",
+      "reasonNoun": "Zeit;f;Zeiten;time;times;",
+      "reasonAdj": "knapp;short",
+      "title": "Publish under time pressure",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Versuch;m;Versuche;experiment;experiments;",
+        "Beweis;m;Beweise;proof;proofs;"
+      ],
+      "person": "Forscher;m;Forscher;researcher;researchers;",
+      "verb": "untersuchen;untersuche;untersuchst;untersucht;untersucht;examine;examined",
+      "adjective": "sorgfältig;careful",
+      "extraVerb": "forschen;forsche;forschst;forscht;geforscht;do research;did research",
+      "manner": "gewissenhaft;conscientiously",
+      "reasonNoun": "Labor;n;Labore;laboratory;laboratories;",
+      "reasonAdj": "überfüllt;overcrowded",
+      "title": "Continue an experiment",
+      "theme": "work",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Fall;m;Fälle;case;cases;",
+        "Vortrag;m;Vorträge;talk;talks;"
+      ],
+      "person": "Experte;m;Experten;expert;experts;Experten",
+      "verb": "besprechen;bespreche;besprichst;bespricht;besprochen;discuss;discussed",
+      "adjective": "kompliziert;complicated",
+      "extraVerb": "reden;rede;redest;redet;geredet;talk;talked",
+      "manner": "offen;openly",
+      "reasonNoun": "Termin;m;Termine;appointment;appointments;",
+      "reasonAdj": "ungünstig;inconvenient",
+      "title": "Discuss a difficult case",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Antrag;m;Anträge;application;applications;",
+        "Vertrag;m;Verträge;contract;contracts;"
+      ],
+      "person": "Anwalt;m;Anwälte;lawyer;lawyers;",
+      "verb": "formulieren;formuliere;formulierst;formuliert;formuliert;formulate;formulated",
+      "adjective": "verständlich;understandable",
+      "extraVerb": "lesen;lese;liest;liest;gelesen;read;read",
+      "manner": "präzise;precisely",
+      "reasonNoun": "Ton;m;Töne;sound;sounds;",
+      "reasonAdj": "undeutlich;unclear",
+      "title": "Find precise words",
+      "theme": "work",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Entschluss;m;Entschlüsse;decision;decisions;",
+        "Beschluss;m;Beschlüsse;resolution;resolutions;"
+      ],
+      "person": "Abteilungsleiter;m;Abteilungsleiter;department head;department heads;",
+      "verb": "erläutern;erläutere;erläuterst;erläutert;erläutert;explain;explained",
+      "adjective": "eindeutig;unambiguous",
+      "extraVerb": "diskutieren;diskutiere;diskutierst;diskutiert;diskutiert;discuss;discussed",
+      "manner": "ausnahmsweise;as an exception",
+      "reasonNoun": "Wetter;n;-;weather;weather conditions;",
+      "reasonAdj": "stürmisch;stormy",
+      "title": "Explain a decision",
+      "theme": "plans"
+    },
+    {
+      "nouns": [
+        "Terminplan;m;Terminpläne;schedule;schedules;",
+        "Arbeitsplan;m;Arbeitspläne;work plan;work plans;"
+      ],
+      "person": "Projektleiter;m;Projektleiter;project leader;project leaders;",
+      "verb": "verbessern;verbessere;verbesserst;verbessert;verbessert;improve;improved",
+      "adjective": "flexibel;flexible",
+      "extraVerb": "planen;plane;planst;plant;geplant;plan;planned",
+      "manner": "vorausschauend;proactively",
+      "reasonNoun": "Schicht;f;Schichten;work shift;work shifts;",
+      "reasonAdj": "lang;long",
+      "title": "Improve the schedule",
+      "theme": "plans",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Haushalt;m;Haushalte;household;households;",
+        "Gartenplan;m;Gartenpläne;garden plan;garden plans;"
+      ],
+      "person": "Mitbewohner;m;Mitbewohner;roommate;roommates;",
+      "verb": "organisieren;organisiere;organisierst;organisiert;organisiert;organize;organized",
+      "adjective": "nachhaltig;sustainable",
+      "extraVerb": "kochen;koche;kochst;kocht;gekocht;cook;cooked",
+      "manner": "verantwortungsvoll;responsibly",
+      "reasonNoun": "Energie;f;Energien;energy;energies;",
+      "reasonAdj": "teuer;expensive",
+      "title": "Organize everyday life",
+      "theme": "home"
+    }
+  ],
+  "market": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Mehl;n;Mehlsorten;flour;types of flour;",
+        "Getreide;n;Getreidearten;grain;grains;"
+      ],
+      "person": "Bäcker;m;Bäcker;baker;bakers;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "biologisch;organic",
+      "place": "Wochenmarkt;m;Wochenmärkte;weekly market;weekly markets;",
+      "placeEn": "at the weekly market",
+      "placePrep": "auf",
+      "title": "Choose organic ingredients",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Fleisch;n;Fleischsorten;meat;types of meat;",
+        "Geflügel;n;-;poultry;types of poultry;"
+      ],
+      "person": "Koch;m;Köche;cook;cooks;",
+      "verb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "adjective": "mager;lean",
+      "place": "Hofladen;m;Hofläden;farm shop;farm shops;",
+      "placeEn": "at the farm shop",
+      "placePrep": "in",
+      "title": "Order lean ingredients",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Wasser;n;Wässer;water;waters;",
+        "Mineralwasser;n;Mineralwässer;mineral water;mineral waters;"
+      ],
+      "person": "Sportler;m;Sportler;athlete;athletes;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "sprudelnd;sparkling",
+      "place": "Bioladen;m;Bioläden;organic shop;organic shops;",
+      "placeEn": "at the organic shop",
+      "placePrep": "in",
+      "title": "Something refreshing",
+      "theme": "health"
+    },
+    {
+      "nouns": [
+        "Öl;n;Öle;oil;oils;",
+        "Olivenöl;n;Olivenöle;olive oil;olive oils;"
+      ],
+      "person": "Kellner;m;Kellner;waiter;waiters;",
+      "verb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "adjective": "hochwertig;high-quality",
+      "place": "Feinkostladen;m;Feinkostläden;delicatessen;delicatessens;",
+      "placeEn": "at the delicatessen",
+      "placePrep": "in",
+      "title": "Choose good cooking oil",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Salz;n;Salze;salt;salts;",
+        "Gewürz;n;Gewürze;spice;spices;"
+      ],
+      "person": "Bruder;m;Brüder;brother;brothers;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "jodiert;iodized",
+      "place": "Naturkostladen;m;Naturkostläden;natural food shop;natural food shops;",
+      "placeEn": "at the natural food shop",
+      "placePrep": "in",
+      "title": "Read the ingredient label",
+      "theme": "shopping"
+    },
+    {
+      "nouns": [
+        "Müsli;n;Müslis;muesli;mueslis;",
+        "Hafermehl;n;-;oat flour;oat flours;"
+      ],
+      "person": "Enkel;m;Enkel;grandson;grandsons;",
+      "verb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "adjective": "glutenfrei;gluten-free",
+      "place": "Reformhaus;n;Reformhäuser;health food shop;health food shops;",
+      "placeEn": "at the health food shop",
+      "placePrep": "in",
+      "title": "A breakfast that suits you",
+      "theme": "health"
+    },
+    {
+      "nouns": [
+        "Hackfleisch;n;-;minced meat;types of minced meat;",
+        "Rindfleisch;n;-;beef;types of beef;"
+      ],
+      "person": "Schwiegervater;m;Schwiegerväter;father-in-law;fathers-in-law;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "regional;local",
+      "place": "Bauernmarkt;m;Bauernmärkte;farmers' market;farmers' markets;",
+      "placeEn": "at the farmers' market",
+      "placePrep": "auf",
+      "title": "Buy from local producers",
+      "theme": "food"
+    },
+    {
+      "nouns": [
+        "Eis;n;Eissorten;ice cream;ice creams;",
+        "Sorbet;n;Sorbets;sorbet;sorbets;"
+      ],
+      "person": "Neffe;m;Neffen;nephew;nephews;Neffen",
+      "verb": "bestellen;bestelle;bestellst;bestellt;bestellt;order;ordered",
+      "adjective": "fruchtig;fruity",
+      "place": "Gasthaus;n;Gasthäuser;inn;inns;",
+      "placeEn": "at the inn",
+      "placePrep": "in",
+      "title": "Choose a dessert",
+      "theme": "cafe"
+    },
+    {
+      "nouns": [
+        "Hähnchen;n;Hähnchen;chicken;chickens;",
+        "Lammfleisch;n;-;lamb;types of lamb;"
+      ],
+      "person": "Onkel;m;Onkel;uncle;uncles;",
+      "verb": "kaufen;kaufe;kaufst;kauft;gekauft;buy;bought",
+      "adjective": "tiefgekühlt;frozen",
+      "place": "Großmarkt;m;Großmärkte;wholesale market;wholesale markets;",
+      "placeEn": "at the wholesale market",
+      "placePrep": "auf",
+      "title": "Plan the family meal",
+      "theme": "food"
+    }
+  ],
+  "weekend": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Schwager;m;Schwäger;brother-in-law;brothers-in-law;",
+        "Schwägerin;f;Schwägerinnen;sister-in-law;sisters-in-law;"
+      ],
+      "person": "Partner;m;Partner;partner;partners;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "herzlich;warm-hearted",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Beratungszentrum;n;Beratungszentren;advice center;advice centers;",
+      "gift": "Kaffee;m;Kaffees;coffee;coffees;",
+      "giftAdj": "fair;fair-trade",
+      "manner": "vielleicht;perhaps",
+      "title": "Visit the in-laws",
+      "theme": "family"
+    },
+    {
+      "nouns": [
+        "Neffe;m;Neffen;nephew;nephews;Neffen",
+        "Nichte;f;Nichten;niece;nieces;"
+      ],
+      "person": "Mutter;f;Mütter;mother;mothers;",
+      "verb": "begrüßen;begrüße;begrüßt;begrüßt;begrüßt;greet;greeted",
+      "adjective": "aufgeschlossen;open-minded",
+      "relativeVerb": "lernen;lerne;lernst;lernt;gelernt;learn;learned",
+      "relativeActionEn": "studies",
+      "place": "Jugendclub;m;Jugendclubs;youth club;youth clubs;",
+      "gift": "Gebäck;n;Gebäcke;pastry;pastries;",
+      "giftAdj": "knusprig;crisp",
+      "manner": "wahrscheinlich;probably",
+      "title": "See the younger family members",
+      "theme": "family"
+    },
+    {
+      "nouns": [
+        "Großvater;m;Großväter;grandfather;grandfathers;",
+        "Oma;f;Omas;grandmother;grandmothers;"
+      ],
+      "person": "Vater;m;Väter;father;fathers;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "gastfreundlich;hospitable",
+      "relativeVerb": "wohnen;wohne;wohnst;wohnt;gewohnt;live;lived",
+      "relativeActionEn": "lives",
+      "place": "Gästehaus;n;Gästehäuser;guesthouse;guesthouses;",
+      "gift": "Tee;m;Tees;tea;teas;",
+      "giftAdj": "mild;mild",
+      "manner": "regelmäßig;regularly",
+      "title": "A family visit away from home",
+      "theme": "family"
+    },
+    {
+      "nouns": [
+        "Lehrer;m;Lehrer;teacher;teachers;",
+        "Lehrerin;f;Lehrerinnen;teacher;teachers;"
+      ],
+      "person": "Freund;m;Freunde;friend;friends;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "verständnisvoll;understanding",
+      "relativeVerb": "unterrichten;unterrichte;unterrichtest;unterrichtet;unterrichtet;teach;taught",
+      "relativeActionEn": "teaches",
+      "place": "Musikverein;m;Musikvereine;music society;music societies;",
+      "gift": "Schokolade;f;Schokoladen;chocolate;chocolates;",
+      "giftAdj": "bitter;dark and bitter",
+      "manner": "gelegentlich;occasionally",
+      "title": "Visit former teachers",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Trainer;m;Trainer;coach;coaches;",
+        "Trainerin;f;Trainerinnen;coach;coaches;"
+      ],
+      "person": "Bruder;m;Brüder;brother;brothers;",
+      "verb": "begrüßen;begrüße;begrüßt;begrüßt;begrüßt;greet;greeted",
+      "adjective": "motiviert;motivated",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Sportverein;m;Sportvereine;sports club;sports clubs;",
+      "gift": "Saft;m;Säfte;juice;juices;",
+      "giftAdj": "frisch;fresh",
+      "manner": "bestimmt;certainly",
+      "title": "A visit to the sports club",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Berater;m;Berater;adviser;advisers;",
+        "Beraterin;f;Beraterinnen;adviser;advisers;"
+      ],
+      "person": "Kollege;m;Kollegen;colleague;colleagues;Kollegen",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "erfahren;experienced",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Nachbarschaftshaus;n;Nachbarschaftshäuser;neighborhood center;neighborhood centers;",
+      "gift": "Brot;n;Brote;bread;breads;",
+      "giftAdj": "knusprig;crisp",
+      "manner": "vermutlich;presumably",
+      "title": "An appointment in the neighborhood",
+      "theme": "city"
+    },
+    {
+      "nouns": [
+        "Nachhilfelehrer;m;Nachhilfelehrer;tutor;tutors;",
+        "Nachhilfelehrerin;f;Nachhilfelehrerinnen;tutor;tutors;"
+      ],
+      "person": "Schwester;f;Schwestern;sister;sisters;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "zugewandt;attentive and caring",
+      "relativeVerb": "unterrichten;unterrichte;unterrichtest;unterrichtet;unterrichtet;teach;taught",
+      "relativeActionEn": "teaches",
+      "place": "Institut;n;Institute;institute;institutes;",
+      "gift": "Obst;n;Obstsorten;fruit;types of fruit;",
+      "giftAdj": "saftig;juicy",
+      "manner": "üblicherweise;usually",
+      "title": "Meet a former tutor",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Tanzpartner;m;Tanzpartner;dance partner;dance partners;",
+        "Tanzpartnerin;f;Tanzpartnerinnen;dance partner;dance partners;"
+      ],
+      "person": "Cousine;f;Cousinen;cousin;cousins;",
+      "verb": "besuchen;besuche;besuchst;besucht;besucht;visit;visited",
+      "adjective": "lebhaft;lively",
+      "relativeVerb": "proben;probe;probst;probt;geprobt;rehearse;rehearsed",
+      "relativeActionEn": "rehearses",
+      "place": "Kulturverein;m;Kulturvereine;cultural association;cultural associations;",
+      "gift": "Wasser;n;Wässer;water;waters;",
+      "giftAdj": "still;still",
+      "manner": "abermals;once again",
+      "title": "See a dance partner",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Reisebegleiter;m;Reisebegleiter;travel companion;travel companions;",
+        "Reisebegleiterin;f;Reisebegleiterinnen;travel companion;travel companions;"
+      ],
+      "person": "Freund;m;Freunde;friend;friends;",
+      "verb": "begleiten;begleite;begleitest;begleitet;begleitet;accompany;accompanied",
+      "adjective": "unternehmungslustig;adventurous",
+      "relativeVerb": "arbeiten;arbeite;arbeitest;arbeitet;gearbeitet;work;worked",
+      "relativeActionEn": "works",
+      "place": "Tourismusbüro;n;Tourismusbüros;tourist information office;tourist information offices;",
+      "gift": "Käse;m;Käse;cheese;cheeses;",
+      "giftAdj": "würzig;full-flavored",
+      "manner": "hoffentlich;hopefully",
+      "title": "Visit a travel companion",
+      "theme": "travel"
+    }
+  ],
+  "film": [
+    {
+      "retainV1": true
+    },
+    {
+      "nouns": [
+        "Krimi;m;Krimis;crime drama;crime dramas;",
+        "Zeichentrickfilm;m;Zeichentrickfilme;cartoon;cartoons;"
+      ],
+      "person": "Freund;m;Freunde;friend;friends;",
+      "verb": "sehen;sehe;siehst;sieht;gesehen;watch;watched",
+      "adjective": "spannend;exciting",
+      "relativeVerb": "empfehlen;empfehle;empfiehlst;empfiehlt;empfohlen;recommend;recommended",
+      "reasonNoun": "Saal;m;Säle;hall;halls;",
+      "reasonAdj": "voll;full",
+      "title": "Choose an evening film",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Kurzfilm;m;Kurzfilme;short film;short films;",
+        "Spielfilm;m;Spielfilme;feature film;feature films;"
+      ],
+      "person": "Partner;m;Partner;partner;partners;",
+      "verb": "sehen;sehe;siehst;sieht;gesehen;watch;watched",
+      "adjective": "preisgekrönt;award-winning",
+      "relativeVerb": "entdecken;entdecke;entdeckst;entdeckt;entdeckt;discover;discovered",
+      "reasonNoun": "Eintritt;m;Eintritte;admission;admissions;",
+      "reasonAdj": "teuer;expensive",
+      "title": "Watch an award-winning film",
+      "theme": "free-time",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Thriller;m;Thriller;thriller;thrillers;",
+        "Liebesfilm;m;Liebesfilme;romantic film;romantic films;"
+      ],
+      "person": "Cousine;f;Cousinen;cousin;cousins;",
+      "verb": "sehen;sehe;siehst;sieht;gesehen;watch;watched",
+      "adjective": "berührend;moving",
+      "relativeVerb": "beschreiben;beschreibe;beschreibst;beschreibt;beschrieben;describe;described",
+      "reasonNoun": "Weg;m;Wege;path;paths;",
+      "reasonAdj": "weit;long",
+      "title": "Follow a recommendation",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Abenteuerfilm;m;Abenteuerfilme;adventure film;adventure films;",
+        "Western;m;Western;western;westerns;"
+      ],
+      "person": "Bruder;m;Brüder;brother;brothers;",
+      "verb": "sehen;sehe;siehst;sieht;gesehen;watch;watched",
+      "adjective": "unterhaltsam;entertaining",
+      "relativeVerb": "auswählen;wähle;wählst;wählt;ausgewählt;select;selected",
+      "reasonNoun": "Wetter;n;-;weather;weather conditions;",
+      "reasonAdj": "regnerisch;rainy",
+      "title": "An evening at the cinema",
+      "theme": "weather",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Podcast;m;Podcasts;podcast;podcasts;",
+        "Audiobeitrag;m;Audiobeiträge;audio segment;audio segments;"
+      ],
+      "person": "Kollege;m;Kollegen;colleague;colleagues;Kollegen",
+      "verb": "hören;höre;hörst;hört;gehört;listen to;listened to",
+      "adjective": "informativ;informative",
+      "relativeVerb": "veröffentlichen;veröffentliche;veröffentlichst;veröffentlicht;veröffentlicht;publish;published",
+      "reasonNoun": "Empfang;m;Empfänge;reception;receptions;",
+      "reasonAdj": "schlecht;poor",
+      "title": "Listen to an informative piece",
+      "theme": "work"
+    },
+    {
+      "nouns": [
+        "Radiobericht;m;Radioberichte;radio report;radio reports;",
+        "Reisebericht;m;Reiseberichte;travel report;travel reports;"
+      ],
+      "person": "Vater;m;Väter;father;fathers;",
+      "verb": "hören;höre;hörst;hört;gehört;listen to;listened to",
+      "adjective": "anschaulich;vivid",
+      "relativeVerb": "schildern;schildere;schilderst;schildert;geschildert;describe;described",
+      "reasonNoun": "Akku;m;Akkus;battery;batteries;",
+      "reasonAdj": "leer;empty",
+      "title": "Listen to a travel story",
+      "theme": "travel",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Hörspiel;n;Hörspiele;audio drama;audio dramas;",
+        "Hörbuch;n;Hörbücher;audiobook;audiobooks;"
+      ],
+      "person": "Schwester;f;Schwestern;sister;sisters;",
+      "verb": "hören;höre;hörst;hört;gehört;listen to;listened to",
+      "adjective": "fesselnd;gripping",
+      "relativeVerb": "empfehlen;empfehle;empfiehlst;empfiehlt;empfohlen;recommend;recommended",
+      "reasonNoun": "Ton;m;Töne;sound;sounds;",
+      "reasonAdj": "leise;quiet",
+      "title": "An absorbing audio story",
+      "theme": "free-time"
+    },
+    {
+      "nouns": [
+        "Sachbuch;n;Sachbücher;nonfiction book;nonfiction books;",
+        "Tagebuch;n;Tagebücher;diary;diaries;"
+      ],
+      "person": "Freundin;f;Freundinnen;friend;friends;",
+      "verb": "lesen;lese;liest;liest;gelesen;read;read",
+      "adjective": "aufschlussreich;insightful",
+      "relativeVerb": "beurteilen;beurteile;beurteilst;beurteilt;beurteilt;assess;assessed",
+      "reasonNoun": "Licht;n;Lichter;light;lights;",
+      "reasonAdj": "schwach;dim",
+      "title": "Read something insightful",
+      "theme": "free-time",
+      "reasonFirst": true
+    },
+    {
+      "nouns": [
+        "Gedicht;n;Gedichte;poem;poems;",
+        "Märchen;n;Märchen;fairy tale;fairy tales;"
+      ],
+      "person": "Mutter;f;Mütter;mother;mothers;",
+      "verb": "lesen;lese;liest;liest;gelesen;read;read",
+      "adjective": "fantasievoll;imaginative",
+      "relativeVerb": "entdecken;entdecke;entdeckst;entdeckt;entdeckt;discover;discovered",
+      "reasonNoun": "Wind;m;Winde;wind;winds;",
+      "reasonAdj": "stark;strong",
+      "title": "A story for a windy day",
+      "theme": "weather"
+    }
+  ]
+}
